@@ -102,11 +102,11 @@ Il existe des outils comme la [Burnout Checklist](https://governingopen.com/reso
 
 Cela sera différent pour chaque responsable, et changera en fonction de votre phase de vie et d'autres facteurs externes. Mais voici quelques thèmes que nous avons entendus :
 
-* **Appuyez-vous sur la communauté:**  La délégation et la recherche de collaborateurs peuvent alléger la charge de travail. Le fait d'avoir plusieurs points de contact pour un projet peut vous aider à faire une pause sans vous inquiéter. Entrez en contact avec d'autres mainteneurs et la communauté au sens large, dans des groupes tels que la [Communauté des mainteneurs] (http://maintainers.github.com/). Il peut s'agir d'une excellente ressource pour l'entraide et l'apprentissage.
+* **Appuyez-vous sur la communauté:**  La délégation et la recherche de collaborateurs peuvent alléger la charge de travail. Le fait d'avoir plusieurs points de contact pour un projet peut vous aider à faire une pause sans vous inquiéter. Entrez en contact avec d'autres mainteneurs et la communauté au sens large, dans des groupes tels que la [Communauté des mainteneurs](http://maintainers.github.com/). Il peut s'agir d'une excellente ressource pour l'entraide et l'apprentissage.
 
   Vous pouvez également chercher des moyens de vous engager auprès de la communauté des utilisateurs, afin d'obtenir régulièrement des informations en retour et de comprendre l'impact de votre travail sur les logiciels libres.
 
-* **Explorer le financement :** Que vous soyez à la recherche d'un peu d'argent pour une pizza ou que vous essayiez de vous lancer à plein temps dans l'open source, il existe de nombreuses ressources pour vous aider ! Dans un premier temps, pensez à activer [GitHub Sponsors] (https://github.com/sponsors) pour permettre à d'autres de sponsoriser votre travail open source. Si vous envisagez de passer à temps plein, postulez pour le prochain cycle de l'[Accélérateur GitHub] (http://accelerator.github.com/).
+* **Explorer le financement :** Que vous soyez à la recherche d'un peu d'argent pour une pizza ou que vous essayiez de vous lancer à plein temps dans l'open source, il existe de nombreuses ressources pour vous aider ! Dans un premier temps, pensez à activer [GitHub Sponsors](https://github.com/sponsors) pour permettre à d'autres de sponsoriser votre travail open source. Si vous envisagez de passer à temps plein, postulez pour le prochain cycle de l'[Accélérateur GitHub](http://accelerator.github.com/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
@@ -116,7 +116,7 @@ Cela sera différent pour chaque responsable, et changera en fonction de votre p
   </p>
 </aside>
 
-* **Utilisez les outils:** Profitez d'outils tels que [GitHub Copilot] (https://github.com/features/copilot/) et [GitHub Actions] (https://github.com/features/actions) pour automatiser les tâches banales et libérer votre temps pour des contributions plus significatives.
+* **Utilisez les outils:** Profitez d'outils tels que [GitHub Copilot](https://github.com/features/copilot/) et [GitHub Actions](https://github.com/features/actions) pour automatiser les tâches banales et libérer votre temps pour des contributions plus significatives.
 
 <aside markdown="1" class="pquote">
  Utilisez [Copilot](https://github.com/features/copilot/) pour les choses ennuyeuses - faites les choses amusantes.
@@ -126,7 +126,7 @@ Cela sera différent pour chaque responsable, et changera en fonction de votre p
   </p>
 </aside>
 
-* **Se reposer et se ressourcer :** Consacrez du temps à vos loisirs et à vos centres d'intérêt en dehors de l'open source. Prenez vos week-ends pour vous détendre et vous ressourcer, et réglez votre [statut GitHub] (https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) pour qu'il reflète votre disponibilité ! Une bonne nuit de sommeil peut faire une grande différence dans votre capacité à soutenir vos efforts à long terme.
+* **Se reposer et se ressourcer :** Consacrez du temps à vos loisirs et à vos centres d'intérêt en dehors de l'open source. Prenez vos week-ends pour vous détendre et vous ressourcer, et réglez votre [statut GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) pour qu'il reflète votre disponibilité ! Une bonne nuit de sommeil peut faire une grande différence dans votre capacité à soutenir vos efforts à long terme.
 Si certains aspects de votre projet vous plaisent particulièrement, essayez de structurer votre travail de manière à en faire l'expérience tout au long de la journée.
 
 <aside markdown="1" class="pquote">
@@ -145,7 +145,7 @@ Si certains aspects de votre projet vous plaisent particulièrement, essayez de 
 Pour faire confiance aux autres sur ces axes, vous ne pouvez pas être quelqu'un qui dit oui à toutes les demandes. Ce faisant, vous ne respectez aucune limite, ni sur le plan professionnel ni sur le plan personnel, et vous ne serez pas un collègue fiable.
   
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, mainteneur de Homebrew sur [Saying No] (https://mikemcquaid.com/saying-no/)
+— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, mainteneur de Homebrew sur [Saying No](https://mikemcquaid.com/saying-no/)
   </p>
 </aside>
 
