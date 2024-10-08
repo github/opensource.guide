@@ -74,10 +74,10 @@ Il est important de comprendre les causes de l'épuisement professionnel. Voici 
 </aside>
 
 * **Demandes contradictoires :**  L'open source est un ensemble de groupes aux motivations diverses, dans lequel il peut être difficile de s'y retrouver. Si vous êtes payé pour faire de l'open source, les intérêts de votre employeur peuvent parfois être en contradiction avec ceux de la communauté.
-
   
 <aside markdown="1" class="pquote">
    Dans le cas des logiciels libres payants, il existe un conflit entre l'objectif de l'employeur et ce qui est le mieux pour la communauté.
+  
   <p markdown="1" class="pquote-credit">
 — Un Mainteneur Open Source
   </p>
@@ -91,6 +91,7 @@ Il existe des outils comme la [Burnout Checklist](https://governingopen.com/reso
 
 <aside markdown="1" class="pquote">
  Je suis un fervent partisan des outils portables de qualité. Grâce à la science, vous pouvez comprendre comment vous auriez pu faire mieux et comment atteindre un état optimal de ce que vous voulez faire.
+  
   <p markdown="1" class="pquote-credit">
 — Un Mainteneur Open Source
   </p>
@@ -118,19 +119,19 @@ Cela sera différent pour chaque responsable, et changera en fonction de votre p
 
 <aside markdown="1" class="pquote">
  Utilisez [Copilot](https://github.com/features/copilot/) pour les choses ennuyeuses - faites les choses amusantes.
+  
   <p markdown="1" class="pquote-credit">
 — Un Mainteneur Open Source
   </p>
 </aside>
 
 * **Se reposer et se ressourcer :** Consacrez du temps à vos loisirs et à vos centres d'intérêt en dehors de l'open source. Prenez vos week-ends pour vous détendre et vous ressourcer, et réglez votre [statut GitHub] (https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) pour qu'il reflète votre disponibilité ! Une bonne nuit de sommeil peut faire une grande différence dans votre capacité à soutenir vos efforts à long terme.
+Si certains aspects de votre projet vous plaisent particulièrement, essayez de structurer votre travail de manière à en faire l'expérience tout au long de la journée.
 
-  Si certains aspects de votre projet vous plaisent particulièrement, essayez de structurer votre travail de manière à en faire l'expérience tout au long de la journée.
-
-  
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- Je trouve davantage d'occasions de ménager des « moments de créativité » au milieu de la journée plutôt que d'essayer de me déconnecter le soir.
+   Je trouve davantage d'occasions de ménager des « moments de créativité » au milieu de la journée plutôt que d'essayer de me déconnecter le soir.
+  
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, maintaineur de Nuxt
   </p>
@@ -141,6 +142,7 @@ Cela sera différent pour chaque responsable, et changera en fonction de votre p
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
 Pour faire confiance aux autres sur ces axes, vous ne pouvez pas être quelqu'un qui dit oui à toutes les demandes. Ce faisant, vous ne respectez aucune limite, ni sur le plan professionnel ni sur le plan personnel, et vous ne serez pas un collègue fiable.
+  
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, mainteneur de Homebrew sur [Saying No] (https://mikemcquaid.com/saying-no/)
   </p>
@@ -151,6 +153,7 @@ Pour faire confiance aux autres sur ces axes, vous ne pouvez pas être quelqu'un
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
 Mon logiciel est gratuit, mais mon temps et mon attention ne le sont pas.
+  
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintaineur de Leaflet
   </p>
@@ -158,7 +161,8 @@ Mon logiciel est gratuit, mais mon temps et mon attention ne le sont pas.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-Ce n'est un secret pour personne que la maintenance des logiciels libres a ses côtés sombres, et l'un d'entre eux est d'avoir parfois à interagir avec des personnes assez ingrates, qui ont le droit d'agir ou qui sont carrément toxiques. À mesure que la popularité d'un projet augmente, la fréquence de ce type d'interaction s'accroît, ce qui alourdit le fardeau des mainteneurs et peut devenir un facteur de risque important pour l'épuisement des mainteneurs.  
+Ce n'est un secret pour personne que la maintenance des logiciels libres a ses côtés sombres, et l'un d'entre eux est d'avoir parfois à interagir avec des personnes assez ingrates, qui ont le droit d'agir ou qui sont carrément toxiques. À mesure que la popularité d'un projet augmente, la fréquence de ce type d'interaction s'accroît, ce qui alourdit le fardeau des mainteneurs et peut devenir un facteur de risque important pour l'épuisement des mainteneurs.
+  
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel">@foosel</a>, mainteneur de Octoprint sur [Comment gérer les personnes toxiques](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
