@@ -14,7 +14,6 @@ Afin de mieux comprendre les expériences des mainteneurs et leurs stratégies p
 
 Alors, qu'est-ce que l'écologie personnelle ? Comme <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">le décrit le Rockwood Leadership Institute</a>, il s'agit de « maintenir l'équilibre, le rythme et l'efficacité pour soutenir notre énergie tout au long de la vie ». Cela a encadré nos conversations, en aidant les responsables à reconnaître que leurs actions et leurs contributions font partie d'un écosystème plus large qui évolue au fil du temps. L'épuisement professionnel, un syndrome résultant d'un stress chronique sur le lieu de travail [tel que défini par l'OMS](https://icd.who.int/browse/2024-01/mms/fr#129180281), n'est pas rare chez les responsables de la maintenance. Il se traduit souvent par une perte de motivation, une incapacité à se concentrer et un manque d'empathie à l'égard des contributeurs et de la communauté avec laquelle vous travaillez.
 
-
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   J'étais incapable de me concentrer ou de commencer une tâche. Je manquais d'empathie pour les utilisateurs.
@@ -23,10 +22,7 @@ Alors, qu'est-ce que l'écologie personnelle ? Comme <a href="https://rockwoodle
   </p>
 </aside>
 
-
 En adoptant le concept d'écologie personnelle, les responsables de la maintenance peuvent éviter de manière proactive l'épuisement professionnel, donner la priorité aux soins personnels et maintenir un sens de l'équilibre afin de faire leur meilleur travail.
-
-
 
 ## Astuces pour prendre soin de soi et éviter l'épuisement en tant que responsable de maintenance :
 
@@ -78,7 +74,6 @@ Il est important de comprendre les causes de l'épuisement professionnel. Voici 
 </aside>
 
 * **Demandes contradictoires :**  L'open source est un ensemble de groupes aux motivations diverses, dans lequel il peut être difficile de s'y retrouver. Si vous êtes payé pour faire de l'open source, les intérêts de votre employeur peuvent parfois être en contradiction avec ceux de la communauté.
-
   
 <aside markdown="1" class="pquote">
    Dans le cas des logiciels libres payants, il existe un conflit entre l'objectif de l'employeur et ce qui est le mieux pour la communauté.
@@ -92,7 +87,6 @@ Il est important de comprendre les causes de l'épuisement professionnel. Voici 
 Pouvez-vous maintenir votre rythme pendant 10 semaines ? 10 mois ? 10 ans ?
 
 Il existe des outils comme la [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) qui peuvent vous aider à réfléchir à votre rythme actuel et à voir s'il y a des ajustements à faire. Certains mainteneurs utilisent également une technologie portable pour suivre des paramètres tels que la qualité du sommeil et la variabilité du rythme cardiaque (tous deux liés au stress).
-
 
 <aside markdown="1" class="pquote">
  Je suis un fervent partisan des outils portables de qualité. Grâce à la science, vous pouvez comprendre comment vous auriez pu faire mieux et comment atteindre un état optimal de ce que vous voulez faire.
@@ -129,7 +123,6 @@ Cela sera différent pour chaque responsable, et changera en fonction de votre p
 </aside>
 
 * **Se reposer et se ressourcer :** Consacrez du temps à vos loisirs et à vos centres d'intérêt en dehors de l'open source. Prenez vos week-ends pour vous détendre et vous ressourcer, et réglez votre [statut GitHub] (https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) pour qu'il reflète votre disponibilité ! Une bonne nuit de sommeil peut faire une grande différence dans votre capacité à soutenir vos efforts à long terme.
-
 
   Si certains aspects de votre projet vous plaisent particulièrement, essayez de structurer votre travail de manière à en faire l'expérience tout au long de la journée.
   
