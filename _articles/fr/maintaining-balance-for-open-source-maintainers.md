@@ -76,9 +76,7 @@ Il est important de comprendre les causes de l'épuisement professionnel. Voici 
 * **Demandes contradictoires :**  L'open source est un ensemble de groupes aux motivations diverses, dans lequel il peut être difficile de s'y retrouver. Si vous êtes payé pour faire de l'open source, les intérêts de votre employeur peuvent parfois être en contradiction avec ceux de la communauté.
   
 <aside markdown="1" class="pquote">
-  
    Dans le cas des logiciels libres payants, il existe un conflit entre l'objectif de l'employeur et ce qui est le mieux pour la communauté.
-  
   <p markdown="1" class="pquote-credit">
 — Un Mainteneur Open Source
   </p>
