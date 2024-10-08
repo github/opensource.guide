@@ -74,6 +74,7 @@ Il est important de comprendre les causes de l'épuisement professionnel. Voici 
 </aside>
 
 * **Demandes contradictoires :**  L'open source est un ensemble de groupes aux motivations diverses, dans lequel il peut être difficile de s'y retrouver. Si vous êtes payé pour faire de l'open source, les intérêts de votre employeur peuvent parfois être en contradiction avec ceux de la communauté.
+
   
 <aside markdown="1" class="pquote">
    Dans le cas des logiciels libres payants, il existe un conflit entre l'objectif de l'employeur et ce qui est le mieux pour la communauté.
@@ -125,6 +126,7 @@ Cela sera différent pour chaque responsable, et changera en fonction de votre p
 * **Se reposer et se ressourcer :** Consacrez du temps à vos loisirs et à vos centres d'intérêt en dehors de l'open source. Prenez vos week-ends pour vous détendre et vous ressourcer, et réglez votre [statut GitHub] (https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) pour qu'il reflète votre disponibilité ! Une bonne nuit de sommeil peut faire une grande différence dans votre capacité à soutenir vos efforts à long terme.
 
   Si certains aspects de votre projet vous plaisent particulièrement, essayez de structurer votre travail de manière à en faire l'expérience tout au long de la journée.
+
   
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
@@ -134,7 +136,7 @@ Cela sera différent pour chaque responsable, et changera en fonction de votre p
   </p>
 </aside>
 
-* **Definir des limites :** Vous ne pouvez pas dire oui à toutes les demandes. Cela peut être aussi simple que de dire « Je ne peux pas le faire maintenant et je n'ai pas l'intention de le faire à l'avenir », ou d'énumérer ce que vous souhaitez faire et ne pas faire dans le fichier README. Par exemple, vous pourriez dire : « Je ne fusionne que les PR dont les raisons sont clairement listées » ou “Je n'examine les problèmes qu'un jeudi sur deux, de 18 à 19 heures”. Cela définit les attentes des autres et vous donne un point de repère à d'autres moments pour aider à désamorcer les demandes de contributeurs ou d'utilisateurs sur votre temps.
+* **Definir des limites :** Vous ne pouvez pas dire oui à toutes les demandes. Cela peut être aussi simple que de dire « Je ne peux pas le faire maintenant et je n'ai pas l'intention de le faire à l'avenir », ou d'énumérer ce que vous souhaitez faire et ne pas faire dans le fichier README. Par exemple, vous pourriez dire : « Je ne fusionne que les PR dont les raisons sont clairement listées » ou "Je n'examine les problèmes qu'un jeudi sur deux, de 18 à 19 heures". Cela définit les attentes des autres et vous donne un point de repère à d'autres moments pour aider à désamorcer les demandes de contributeurs ou d'utilisateurs sur votre temps.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
