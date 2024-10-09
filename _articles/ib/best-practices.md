@@ -1,6 +1,6 @@
 ---
 lang: ib
-title: Best Practices for Maintainers
+title: Omume kacha mma maka ndị na-elekọta
 description: Ime ndụ gị mfe dị ka onye na-emepe emepe, site na ịdekọ usoro ruo n'ịkwalite obodo gị.
 class: best-practices
 order: 5
