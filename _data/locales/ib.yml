@@ -1,0 +1,31 @@
+ib:
+  locale_name: Asụsụ Bekee
+  nav:
+    about: Banyere
+    contribute: Tinye aka
+  index:
+    lead: Ngwaọrụ sọftụwia mepere emepe bụ nke ndị dị ka gị na-eme. Mụta otu esi ebido ma mụbaa ọrụ gị.
+    opensourcefriday: Ọ bụ Fraịdee! Tinye awa ole na ole na-enye aka na sọftụwia ị na-eji na hụrụ n'anya.
+  article:
+    table_of_contents: Ndepụta ọdịnaya
+    back_to_all_guides: Laghachi na ntuziaka niile
+    related_guides: Ntuziaka ndị metụtara
+  footer:
+    contribute:
+      heading: Tinye aka
+      description: Chọrọ inye ndụmọdụ? Ihe a dị mfe idezi. Nye aka anyị ka mma ya.
+      button: Tinye aka
+    subscribe:
+      heading: Nọgide na nkwukọrịta
+      description: Bụ onye mbụ ga-anụ maka ndụmọdụ na akụrụngwa kachasị ọhụrụ nke GitHub.
+      label: Adreesị Email
+      button: Debanye aha
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] na [love] site na [github] na [friends]"
+      # Label for code octicon
+      code_label: koodu
+      # Label for love octicon
+      love_label: ịhụnanya
+      # Label for the contributors link
+      friends_label: ndị enyi
