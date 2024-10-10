@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Usoro omume gị
-description: Kwalite omume dị mma na nke na-ewuli elu n'ime obodo site n'itibe na ịkwado ụkpụrụ omume.
+lang: en
+title: Your Code of Conduct
+description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
 class: coc
 order: 8
 image: /assets/images/cards/coc.png

@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Nweta ụgwọ maka ọrụ mepere emepe
-description: Kwado ọrụ gị na oghere mepere emepe site na ịnweta nkwado ego maka oge ma ọ bụ ọrụ gị.
+lang: en
+title: Getting Paid for Open Source Work
+description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png

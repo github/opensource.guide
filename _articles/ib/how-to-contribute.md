@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Otu esi enye aka na mepere emepe
-description: Chọrọ inye aka na isi mmalite mepere emepe? Ntuziaka maka inye onyinye mepere emepe, maka ndị oge mbụ na maka ndị agha ochie.
+lang: en
+title: How to Contribute to Open Source
+description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png

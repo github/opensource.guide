@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Omume kacha mma maka ndị na-elekọta
-description: Ime ndụ gị mfe dị ka onye na-emepe emepe, site na ịdekọ usoro ruo n'ịkwalite obodo gị.
+lang: en
+title: Best Practices for Maintainers
+description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -122,7 +122,7 @@ Celery screenshot
 
 Ọ bụrụ na echiche nke ikwu "mba" na-atụ gị egwu, ị bụghị naanị. Dịka @jessfraz si kwuo [n'isiokwu a](https://blog.jessfraz.com/post/the-art-of-closing/):
 
-> Ekwurula m na ndị na-ahụ maka ọtụtụ ọrụ open source dị iche iche, Mesos, Kubernetes, Chromium, na ha niile kwenyere na otu n'ime akụkụ kachasị sie ike nke ịbụ onye na-ahụ maka ya bụ ikwu "mba" na patches ịchọghị.
+> Ekwurula m na ndị na-ahụ maka ọtụtụ ọrụ open source dị iche, Mesos, Kubernetes, Chromium, na ha niile kwenyere na otu n'ime akụkụ kachasị sie ike nke ịbụ onye na-ahụ maka ya bụ ikwu "mba" na patches ịchọghị.
 
 Ekwela ka ị nwee mwute maka ịnweghị mmasị ịnakwere onyinye onye. Iwu mbụ nke open source, [dịka](https://twitter.com/solomonstre/status/715277134978113536) @shykes si kwuo: _"Mba bụ nke oge, ee bụ nke ebighi ebi."_ Ọ bụ ezie na inwe mmetụta banyere mmasị onye ọzọ bụ ihe ọma, ịjụ onyinye abụghị otu ihe ahụ dị ka ịjụ onye nọ n'azụ ya.
 
@@ -153,7 +153,7 @@ Oge ụfọdụ, mgbe ị kwụsịrị, onye nwere ike inye onyinye nwere ike i
 
 ### Nwee obi ụtọ n'ịzụlite
 
-O nwere ike ịbụ na mmadụ nọ n'ógbè gị na-etinyekarị onyinye ndị adịghị erute ụkpụrụ ọrụ gị. Ọ nwere ike ịdị mwute maka ndị abụọ iji gaa site n'inwe nkwụsị ugboro ugboro.
+O nwere ike ịbụ na mmadụ nọ n'ógbè gị na-etinyekarị onyinye ndị adịghị erute ụkpụrụ ọrụ gị. Ọ nwere ike ịdị mwute maka ndị abụọ iji gaa site n'inwe nkwụsị ugboro.
 
 Ọ bụrụ na ị hụrịrị na mmadụ nwere mmasị banyere ọrụ gị, mana chọrọ obere mmezi, nwee ndidi. Kọwaa doro anya n'ọnọdụ ọ bụla ihe kpatara onyinye ha anaghị erute atụmanya nke ọrụ ahụ. Gbalịa igosi ha ọrụ dị mfe ma ọ bụ nke doro anya karịa, dịka nsogbu a kpọrọ _"good first issue,"_ iji mee ka ha banye. Ọ bụrụ na i nwere oge, tụlee ịzụlite ha site n'onyinye mbụ ha, ma ọ bụ chọta onye ọzọ nọ n'ógbè gị nwere ike inye ha ndụmọdụ.
 
@@ -165,9 +165,9 @@ O nwere ike ịbụ na mmadụ nọ n'ógbè gị na-etinyekarị onyinye ndị 
 
 Ọ bụrụ na ịchọrọ ka ndị ọzọ tinye aka, malite site n'ịjụ gburugburu.
 
-Otu ụzọ isi nweta ndị ọhụrụ bụ ikwu kpọmkwem [tọọ nsogbu ndị dị mfe nke beginners nwere ike ijide](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub ga-emepụta nsogbu ndị a n'ọtụtụ ebe dị iche iche n'elu ikpo okwu ahụ, mee ka ọdịdị ha pụta.
+Otu ụzọ isi nweta ndị ọhụrụ bụ ikwu kpọmkwem [tọọ nsogbu ndị dị mfe nke beginners nwere ike ijide](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub ga-emepụta nsogbu ndị a n'ọtụtụ ebe dị iche n'elu ikpo okwu ahụ, mee ka ọdịdị ha pụta.
 
-Mgbe i hụrụ ndị ọhụrụ nọchiri anya inye onyinye ugboro ugboro, kwanyere ọrụ ha ùgwù site n'inye ha ọrụ ọzọ. Kọwaa otú ndị ọzọ ga-esi eto ruo n'ọkwa ndu ma ọ bụrụhaala na ha chọrọ.
+Mgbe i hụrụ ndị ọhụrụ nọchiri anya inye onyinye ugboro, kwanyere ọrụ ha ùgwù site n'inye ha ọrụ ọzọ. Kọwaa otú ndị ọzọ ga-esi eto ruo n'ọkwa ndu ma ọ bụrụhaala na ha chọrọ.
 
 Ikwado ndị ọzọ ka [kekọrịta ownership nke ọrụ](../building-community/#share-ownership-of-your-project) nwere ike belata nnukwu ibu gị nke ukwuu, dịka @lmccart si chọpụta na ọrụ ya [p5.js](https://github.com/processing/p5.js).
 
@@ -213,7 +213,7 @@ Dịka e nwere ọrụ ndị ọzọ nwere ike inyere gị aka, e nwekwara ọr�
 
 Otu n'ime ụzọ kachasị mkpa ị nwere ike iji mepụta usoro gị bụ site n'itinye ule.
 
-Ule na-enyere ndị na-enye onyinye aka inwe ntụkwasị obi na ha agaghị emebi ihe ọ bụla. Ha nwekwara ike ime ka o siere gị ike nyochaa ma nakwere onyinye ngwa ngwa. Oge niile ị kwụsịrị inye nzaghachi, ọ ga-eme ka obodo gị nwee mmasị.
+Ule na-enyere ndị na-enye onyinye aka inwe ntụkwasị obi na ha agaghị emebi ihe ọ bụla. Ha nwekwara ike ime ka o siere gị ike nyochaa ma nakwere onyinye ngwa. Oge niile ị kwụsịrị inye nzaghachi, ọ ga-eme ka obodo gị nwee mmasị.
 
 Setịpụ ule akpaka ga-agba ọsọ na onyinye niile a nabatara, ma hụ na ule gị nwere ike ịdị mfe igwu locally site n'aka ndị na-enye onyinye. Chọọ ka onyinye koodu niile gafere ule gị tupu e tinye ya. Ị ga-enyere setịpụ ụkpụrụ kacha nta nke àgwà maka onyinye niile. [Nyocha ọnọdụ a chọrọ](https://help.github.com/articles/about-required-status-checks/) na GitHub nwere ike inyere hụ na mgbanwe ọbụla anabataghị ma ule gị agaghị agafe.
 
@@ -231,7 +231,7 @@ Setịpụ ule akpaka ga-agba ọsọ na onyinye niile a nabatara, ma hụ na ul
 
 Ozi ọma banyere ijikwa ọrụ a ma ama bụ na ndị ọzọ nọchiri anya nwere ike ịnwe nsogbu yiri nke a ma wuo ngwọta maka ha.
 
-E nwekwara [n'ụzọ dị iche iche ngwaọrụ](https://github.com/showcases/tools-for-open-source) dị maka inyere aka mepụta ụfọdụ akụkụ nke ọrụ mmezi. A few examples:
+E nwekwara [n'ụzọ dị iche ngwaọrụ](https://github.com/showcases/tools-for-open-source) dị maka inyere aka mepụta ụfọdụ akụkụ nke ọrụ mmezi. A few examples:
 
 * [semantic-release](https://github.com/semantic-release/semantic-release) mepụtara releases gị
 * [mention-bot](https://github.com/facebook/mention-bot) kpọrọ ndị nyocha nwere ike ịbụ maka pull requests

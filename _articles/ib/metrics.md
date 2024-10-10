@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Mepee isi mmalite-Metriken
-description: Mee mkpebi ndị ezi uche dị na ya iji nyere ọrụ mepere emepe aka ịga nke ọma site n'ịtụ na nyochaa ọganiihu ya.
+lang: en
+title: Open Source Metrics
+description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
 class: metrics
 order: 9
 image: /assets/images/cards/metrics.png

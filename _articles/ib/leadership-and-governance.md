@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Ọchịchị na ọchịchị
-description: Ọrụ mmepe mepere emepe nwere ike irite uru na iwu iwu maka ịme mkpebi.
+lang: en
+title: Leadership and Governance
+description: Growing open source projects can benefit from formal rules for making decisions.
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png

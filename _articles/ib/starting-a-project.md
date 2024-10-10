@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Malite ọrụ mepere emepe
-description: Mụtakwuo maka ụwa nke mepere emepe wee jikere ịmalite ọrụ nke gị.
+lang: en
+title: Starting an Open Source Project
+description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png

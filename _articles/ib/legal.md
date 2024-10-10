@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Akụkụ Iwu nke Open Source
-description: Ihe niile ị tụtụrụla echiche gbasara akụkụ iwu nke isi mmalite mepere emepe, yana ihe ole na ole ị na-emeghị.
+lang: en
+title: The Legal Side of Open Source
+description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
 class: legal
 order: 10
 image: /assets/images/cards/legal.png

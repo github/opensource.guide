@@ -1,8 +1,8 @@
 ---
-lang: ib
+lang: en
 untranslated: true
-title: Idokwa nguzozi maka ndị na-emepe emepe emepe
-description: Ndụmọdụ maka nlekọta onwe onye na izere ike ọgwụgwụ dị ka onye na-elekọta ya.
+title: Maintaining Balance for Open Source Maintainers
+description: Tips for self-care and avoiding burnout as a maintainer.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png

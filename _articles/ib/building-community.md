@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Ogbe ndị ọbịa na-ewu ụlọ
-description: Ịwulite obodo na-agba ndị mmadụ ume iji, tinye aka na, na izisa ozi ọma ọrụ gị.
+lang: en
+title: Building Welcoming Communities
+description: Building a community that encourages people to use, contribute to, and evangelize your project.
 class: building
 order: 4
 image: /assets/images/cards/building.png

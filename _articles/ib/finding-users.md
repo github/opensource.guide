@@ -1,7 +1,7 @@
 ---
-lang: ib
-title: Chọta ndị ọrụ maka ọrụ gị
-description: Nyere aka ọrụ mepere emepe gị ka ọ tolite site n'itinye ya n'aka ndị ọrụ nwere obi ụtọ.
+lang: en
+title: Finding Users for Your Project
+description: Help your open source project grow by getting it in the hands of happy users.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
