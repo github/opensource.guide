@@ -58,7 +58,6 @@ All of this is perfectly okay! Just make sure other people know about it.
 
 Ọ bụrụ na ijide n'aka na ọrụ gị bụ akụkụ oge ma ọ bụ naanị ịchọghị ego, gwa eziokwu banyere oge ị nwere. Nke a abụghị otu ihe ahụ dị ka oge ị chere ọrụ ahụ chọrọ, ma ọ bụ oge ndị ọzọ chọrọ ka i were.
 
-
 ## Ndị a bụ ụfọdụ iwu ndị bara uru ide
 
 * Olee otú a ga-esi nyochaa na ịnakwere onyinye (_Ha chọrọ ule? Akwụkwọ template?_)
