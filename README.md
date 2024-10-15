@@ -1,29 +1,57 @@
-# Open Source Guides
-[![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
+<h1>🚀 Open Source Guides</h1>
+<p>[![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)</p>
 
-Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.
+<p>🔫 Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.</p>
 
-## Background
-Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is that we felt that there weren't enough resources for people creating open-source projects.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-Our goal was to aggregate community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we used examples and quotations from others to illustrate our points.
 
-## Contributing
+<h2> 🥶 Background</h2>
+ <p> Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is that we felt that there weren't enough resources for people creating open-source projects.</p>
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
+<p>Our goal was to aggregate community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we used examples and quotations from others to illustrate our points.</p>
 
-## Licenses
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## Acknowledgments
+<h2>🥵 Contributing</h2>
 
-The initial release of these guides were authored by **[@nayafia][1], [@bkeepers][2], [@stephbwills][3],** and **[@mlinksva][4]**.
+<img width="950" alt="Screenshot 2024-10-15 at 3 01 22 PM" src="https://github.com/user-attachments/assets/11397e7a-5810-4fcf-9cae-7b3d5b1a2d6a">
 
-Thanks to **[@aitchabee][5], [@benbalter][6], [@brettcannon][7], [@caabernathy][8], [@coralineada][9], [@dmleong][10], [@ericholscher][11], [@gr2m][12], [@janl][13], [@jessfraz][14], [@joshsimmons][15], [@kfogel][16], [@kytrinyx][17], [@lee-dohm][18], [@mikeal][19], [@mikemcquaid][20], [@nathansobo][21], [@nruff][22], [@nsqe][23], [@orta][24], [@parkr][25], [@shazow][26], [@steveklabnik][27],** and **[@wooorm][28]** for lending their valuable input and expertise leading up to the initial release, and to **[@sophshep][29]** and **[@jeejkang][30]** for designing and illustrating the guides.
+<p>This site is powered by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.</p>
 
-## Disclaimer
-While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<h2>⭐️ Licenses</h2>
+
+![guarantee-approved-authorized-certified-concept (1)](https://github.com/user-attachments/assets/ad6b9cea-d094-4e54-8525-eafc6d5bcd74)
+
+
+<p>Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.</p>
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+<h2>🫡 Acknowledgments</h2>
+
+
+
+
+<p>The initial release of these guides were authored by **[@nayafia][1], [@bkeepers][2], [@stephbwills][3],** and **[@mlinksva][4]**.</p>
+
+<p>✨🏁🏁🏁✨</p>
+
+<p>Thanks to **[@aitchabee][5], [@benbalter][6], [@brettcannon][7], [@caabernathy][8], [@coralineada][9], [@dmleong][10], [@ericholscher][11], [@gr2m][12], [@janl][13], [@jessfraz][14], [@joshsimmons][15], [@kfogel][16], [@kytrinyx][17], [@lee-dohm][18], [@mikeal][19], [@mikemcquaid][20], [@nathansobo][21], [@nruff][22], [@nsqe][23], [@orta][24], [@parkr][25], [@shazow][26], [@steveklabnik][27],** and **[@wooorm][28]** for lending their valuable input and expertise leading up to the initial release, and to **[@sophshep][29]** and **[@jeejkang][30]** for designing and illustrating the guides.</p>
+
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<h2>☠️ Disclaimer</h2>
+<p>While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.</p>
 
 [1]:https://github.com/nayafia
 [2]:https://github.com/bkeepers
