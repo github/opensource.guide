@@ -1,4 +1,4 @@
-# Personas
+# Developer Types
 
 ## 1. Individual developer (first-timer)
 
