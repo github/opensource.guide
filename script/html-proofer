@@ -9,6 +9,7 @@ url_ignores = [
   "https://scripts.sil.org/ofl",
   "https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/",
   "https://pages.18f.gov/open-source-guide/making-readmes-readable/",
+  %r{^https?://readwrite\.com/2014/10/10/open-source-diversity-how-to-contribute/},
   %r{^https?://twitter\.com/},
   %r{^https?://(www\.)?kickstarter\.com/},
   %r{^https://guides\.github\.com/},
