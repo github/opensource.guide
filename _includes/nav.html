@@ -34,7 +34,7 @@
         {% endif %}
       </ul>
     </div>
-    {% if page.layout != 'index' %}
+    {% unless page.layout == 'index' %}
     <div class="float-sm-left pl-3 breadcrumb">
       <p class="my-0 py-3 py-sm-4 text-gray">
         {% if page.lang != 'en' %}
