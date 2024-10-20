@@ -116,7 +116,7 @@ Bir katkıyı kabul etmek istemiyorsanız:
 * Varsa, **ilgili belgelere link verin**. Kabul etmek istemediğiniz şeyler için tekrarlanan istekler fark ederseniz, tekrar etmemek için bunları belgelerinize ekleyin.
 * **İsteği kapatın.**
 
-Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [kerevizin](https://github.com/celery/celery/) kullanıcısı Windows ile ilgili bir hata bildirdiğinde, @berkerpeksag [verdiği cevap](https://github.com/celery/celery/issues/3383):
+Cevap vermek için 1-2 cümleden fazlasına ihtiyacınız yoktur. Örneğin, [Celery](https://github.com/celery/celery/) kullanıcısı Windows ile ilgili bir hata bildirdiğinde, @berkerpeksag [verdiği cevap](https://github.com/celery/celery/issues/3383):
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
