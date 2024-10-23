@@ -1,0 +1,28 @@
+#searchBar {
+    width: 300px;
+    padding: 8px;
+}
+
+button {
+    padding: 8px 12px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#results div {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+#results h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+#results p {
+    margin: 5px 0 0 0;
+}

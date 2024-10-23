@@ -1,19 +1,40 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
-{% include head.html %}
+  {% include head.html %}
 
 <body>
   <main>
     <div id="content">
+      <!-- Search Form -->
+      <form id="searchForm">
+        <input type="text" id="searchBar" placeholder="Search guides..." />
+        <button type="submit">Search</button>
+      </form>
+      <div id="results"></div>
+
+      <!-- Main Content -->
       {{ content }}
     </div>
   </main>
 
+  <!-- Scripts -->
   <script src="https://cdn.usefathom.com/script.js" data-site="BFHXUQHJ" defer></script>
   <script src='{{ "/assets/js/index.js" | relative_url }}'></script>
+  <script src="https://unpkg.com/lunr/lunr.js"></script>
+  <script src='{{ "/assets/js/search.js" | relative_url }}'></script>
+  
+  <!-- Mailchimp Validation Script -->
   <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-  <script
-    type="text/javascript">(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+  <script type="text/javascript">
+    (function ($) {
+      window.fnames = new Array(); 
+      window.ftypes = new Array();
+      fnames[0] = 'EMAIL'; ftypes[0] = 'email';
+      fnames[1] = 'FNAME'; ftypes[1] = 'text';
+      fnames[2] = 'LNAME'; ftypes[2] = 'text';
+    }(jQuery)); 
+    var $mcj = jQuery.noConflict(true);
+  </script>
 </body>
 
 </html>
