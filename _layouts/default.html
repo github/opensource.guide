@@ -6,7 +6,7 @@
   <main>
     <div id="content">
       <!-- Search Form -->
-      <form id="searchForm">
+      <form id="searchForm" onsubmit="return searchSite(event)">
         <input type="text" id="searchBar" placeholder="Search guides..." />
         <button type="submit">Search</button>
       </form>
@@ -34,6 +34,45 @@
       fnames[2] = 'LNAME'; ftypes[2] = 'text';
     }(jQuery)); 
     var $mcj = jQuery.noConflict(true);
+  </script>
+
+  <!-- Search Functionality -->
+  <script>
+    function searchSite(event) {
+      event.preventDefault();
+      const query = document.getElementById('searchBar').value.toLowerCase();
+      const resultsContainer = document.getElementById('results');
+      resultsContainer.innerHTML = ''; // Clear previous results
+      
+      if (!query) {
+        return;
+      }
+
+      fetch('/assets/js/search-index.json')
+        .then(response => response.json())
+        .then(data => {
+          const idx = lunr(function () {
+            this.ref('id');
+            this.field('title');
+            this.field('content');
+
+            data.forEach(doc => {
+              this.add(doc);
+            });
+          });
+
+          const results = idx.search(query);
+          if (results.length === 0) {
+            resultsContainer.innerHTML = '<p>No results found.</p>';
+          } else {
+            results.forEach(result => {
+              const item = data.find(d => d.id === result.ref);
+              const resultItem = `<h3>${item.title}</h3><p>${item.content.slice(0, 150)}...</p>`;
+              resultsContainer.innerHTML += resultItem;
+            });
+          }
+        });
+    }
   </script>
 </body>
 

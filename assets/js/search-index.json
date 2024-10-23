@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "title": "Building Community",
+      "content": "A guide for building a healthy and inclusive open-source community. It covers steps like defining community roles, setting clear expectations, and offering mentorship."
+    },
+    {
+      "id": "2",
+      "title": "Best Practices",
+      "content": "This guide discusses open-source best practices, including creating a clear README, using version control, writing contributing guidelines, and managing issues and pull requests effectively."
+    },
+    {
+      "id": "3",
+      "title": "Starting an Open Source Project",
+      "content": "Learn how to start an open-source project. It includes tips on choosing a license, writing documentation, and finding contributors."
+    },
+    {
+      "id": "4",
+      "title": "Leadership and Governance",
+      "content": "This article explains the importance of governance in open-source projects and provides advice on leadership structures and decision-making processes."
+    },
+    {
+      "id": "5",
+      "title": "Metrics and Measuring Success",
+      "content": "Focuses on the importance of tracking metrics in open-source projects. It covers ways to measure success, including community growth, code contributions, and user feedback."
+    }
+  ]  
