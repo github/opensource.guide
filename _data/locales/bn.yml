@@ -1,0 +1,31 @@
+bn:
+  locale_name: বাংলা
+  nav:
+    about: সম্পর্কে
+    contribute: অবদান
+  index:
+    lead: আপনার প্রকল্পটি লঞ্চ করা এবং বৃদ্ধি করার উপায় শিখুন।
+    opensourcefriday: আজ শুক্রবার! আপনি যে সফটওয়্যার ব্যবহার করেন এবং ভালোবাসেন, তাতে অবদান রাখার জন্য কিছু সময় দিন।
+  article:
+    table_of_contents: সামগ্রীর তালিকা
+    back_to_all_guides: সব গাইডে ফিরে যান
+    related_guides: সম্পর্কিত গাইড
+  footer:
+    contribute:
+      heading: অবদান
+      description: পরামর্শ দিতে চান? এই কনটেন্টটি ওপেন সোর্স, আমাদের এটি উন্নত করতে সহায়তা করুন।
+      button: অবদান
+    subscribe:
+      heading: যোগাযোগে থাকুন
+      description: GitHub এর সর্বশেষ ওপেন সোর্স টিপস এবং রিসোর্স সবার আগে জানতে চান?
+      label: ইমেল ঠিকানা
+      button: সাবস্ক্রাইব করুন
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] [love] দ্বারা [github] এবং [friends]"
+      # Label for code octicon
+      code_label: কোড
+      # Label for love octicon
+      love_label: ভালবাসা
+      # Label for the contributors link
+      friends_label: বন্ধুরা
