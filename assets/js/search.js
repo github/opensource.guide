@@ -98,4 +98,49 @@ function maintainHistoryState(event) {
   }
 }
 
+  // Additional code for Lunr.js integration
+  var searchBox = document.getElementById('searchBar');
+  var searchResultsDiv = document.getElementById('results');
+
+  // Initialize Lunr.js
+  const documents = [
+    { "id": 1, "title": "How to Contribute", "content": "Learn how to contribute to open source projects." },
+    { "id": 2, "title": "Building a Community", "content": "Guidelines for creating and nurturing a community." },
+    { "id": 3, "title": "Finding Users for Your Project", "content": "Strategies for getting users for your open source project." },
+    // Add more guide data dynamically or statically
+  ];
+
+  const idx = lunr(function () {
+    this.ref('id');
+    this.field('title');
+    this.field('content');
+
+    documents.forEach(function (doc) {
+      this.add(doc);
+    }, this);
+  });
+
+  // Handle form submission and search
+  document.getElementById('searchForm').addEventListener('submit', function (e) {
+    e.preventDefault();
+    const query = searchBox.value;
+    const results = idx.search(query);
+    displayResults(results);
+  });
+
+  // Function to display search results
+  function displayResults(results) {
+    searchResultsDiv.innerHTML = ''; // Clear previous results
+
+    if (results.length > 0) {
+      results.forEach(result => {
+        const doc = documents.find(d => d.id === parseInt(result.ref));
+        const resultItem = `<div><h3>${doc.title}</h3><p>${doc.content}</p></div>`;
+        searchResultsDiv.innerHTML += resultItem;
+      });
+    } else {
+      searchResultsDiv.innerHTML = '<p>No results found</p>';
+    }
+  }
+
 })();
