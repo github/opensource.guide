@@ -49,3 +49,11 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4
+            - nombre: Ejecutar servidor de pruebas autenticado
+  # Puedes anclar al commit exacto o a la versión.
+  # usos: authzed/action-testserver@f8a5a3c34f6d8ef0e64577c802d39728bdf406eb
+  usos: authzed/action-testserver@v3
+  con:
+    # Versión de `zed testserver` a utilizar
+    versión: # opcional, el valor predeterminado es el más reciente
+          
