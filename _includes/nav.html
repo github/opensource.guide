@@ -2,6 +2,12 @@
 <nav class="main-nav">
   <div class="container-lg mx-auto clearfix">
     <div class="float-sm-right">
+      
+      <form class="form-inline my-2 my-lg-0" action="/search" method="get">
+        <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="query">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+
       <ul
         class="main-links d-flex flex-wrap flex-items-stretch flex-justify-center border-left border-bottom border-sm-0 list-style-none">
         <li class="d-inline-block border-right">
@@ -32,7 +38,7 @@
           </div>
         </li>
         {% endif %}
-      </ul>
+      </ul>      
     </div>
     {% if page.layout != 'index' %}
     <div class="float-sm-left pl-3 breadcrumb">
