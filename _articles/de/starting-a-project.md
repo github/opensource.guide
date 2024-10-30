@@ -225,7 +225,7 @@ Weitere Information finden Sie in unserer [Anleitung für Verhaltenskodizes](../
 
 Neben der Klarstellung, _welches_ Verhalten Sie von den Mitwirkenden erwarten, beschreibt ein Verhaltenskodex auch, auf wen sich diese Erwartungen beziehen, wann sie gelten und was zu tun ist, wenn ein Verstoß vorliegt.
 
-Ähnlich zu Open-Source-Lizenzen, kommen auch Standards für Verhaltenskodizes auf, sodass Sie keinen komplett eigenen schreiben müssen. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein einsatzbereiter Verhaltenskodex, der von [über 40'000 Open-Source-Projekten](http://contributor-covenant.org/adopters/) verwendet wird, einschließlich Kubernetes, Rails und Swift. Egal welchen Text Sie nutzen, Sie sollten vorbereitet sein, ihn wenn nötig auch durchzusetzen.
+Ähnlich zu Open-Source-Lizenzen, kommen auch Standards für Verhaltenskodizes auf, sodass Sie keinen komplett eigenen schreiben müssen. Der [Contributor Covenant](https://www.contributor-covenant.org/) ist ein einsatzbereiter Verhaltenskodex, der von [über 40'000 Open-Source-Projekten](http://www.contributor-covenant.org/adopters/) verwendet wird, einschließlich Kubernetes, Rails und Swift. Egal welchen Text Sie nutzen, Sie sollten vorbereitet sein, ihn wenn nötig auch durchzusetzen.
 
 Fügen Sie den Text direkt in eine CODE_OF_CONDUCT-Datei in Ihrem Repository ein. Halten Sie die Datei im Stammverzeichnis Ihres Projekts, damit sie leicht zu finden ist, und verlinken Sie sie von Ihrer README.
 

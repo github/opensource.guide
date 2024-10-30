@@ -29,7 +29,7 @@ Oprócz przekazywania swoich oczekiwań kodeks postępowania opisuje następują
 * Co się stanie, jeśli ktoś naruszy kodeks postępowania
 * Jak ktoś może zgłaszać naruszenia
 
-Gdziekolwiek możesz, skorzystaj z istniejących szablonów. [Przymierze współautorów](https://contributor-covenant.org/) to rozwijany kodeks postępowania używany przez ponad 40 000 projektów open source, w tym Kubernetes, Rails i Swift.
+Gdziekolwiek możesz, skorzystaj z istniejących szablonów. [Przymierze współautorów](https://www.contributor-covenant.org/) to rozwijany kodeks postępowania używany przez ponad 40 000 projektów open source, w tym Kubernetes, Rails i Swift.
 
 [Kodeks postępowania Django](https://www.djangoproject.com/conduct/) oraz [Kodeks postępowania obywatelskiego](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) to także dwa przykłady dobrych kodeksów postępowania.
 

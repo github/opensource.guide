@@ -201,7 +201,7 @@ Per ulteriori informazioni, consultare la nostra [Guida al Codice di condotta](.
 
 Oltre a comunicare _come_ ci si aspetta che i partecipanti si comportino, un codice di condotta tende anche a descrivere a chi si applicano tali aspettative, quando si applicano e cosa fare se si verifica una violazione.
 
-Come per le licenze open source, esistono standard emergenti per i codici di condotta, quindi non è necessario scriverne uno proprio. Il [Contributor Covenant](https://contributor-covenant.org/) è un codice di condotta utilizzato da [oltre 40.000 progetti open source](https://www.contributor-covenant.org/adopters), incluso Kubernetes, Rails e Swift. Indipendentemente dal testo che utilizzi, devi essere pronto a far rispettare il tuo codice di condotta quando necessario.
+Come per le licenze open source, esistono standard emergenti per i codici di condotta, quindi non è necessario scriverne uno proprio. Il [Contributor Covenant](https://www.contributor-covenant.org/) è un codice di condotta utilizzato da [oltre 40.000 progetti open source](https://www.contributor-covenant.org/adopters), incluso Kubernetes, Rails e Swift. Indipendentemente dal testo che utilizzi, devi essere pronto a far rispettare il tuo codice di condotta quando necessario.
 
 Incolla il testo direttamente in un file CODE_OF_CONDUCT nel tuo repository. Archivia il file nella directory principale del tuo progetto in modo che sia facile da trovare e collegalo dal tuo file README.
 

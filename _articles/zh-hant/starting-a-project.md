@@ -210,7 +210,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 除了傳達你期待參與者**如何**行動，行爲規範也傾向於描述這些期待針對誰，適用於何時，以及對於違規行爲的處理方法。
 
-就像開源許可證一樣，有現成的行爲規範，所以你不必自己編寫。[貢獻者公約](http://contributor-covenant.org/)是一個行之有效的行爲規範，已經被用在[超過4000個開源專案](http://contributor-covenant.org/adopters/)，包括 Kubernetes，Rails，以及 Swift。無論你使用哪一種，你都應該準備好在必要時執行行爲規範。
+就像開源許可證一樣，有現成的行爲規範，所以你不必自己編寫。[貢獻者公約](http://www.contributor-covenant.org/)是一個行之有效的行爲規範，已經被用在[超過4000個開源專案](http://www.contributor-covenant.org/adopters/)，包括 Kubernetes，Rails，以及 Swift。無論你使用哪一種，你都應該準備好在必要時執行行爲規範。
 
 將文本直接粘貼到專案存儲庫中的 CODE_OF_CONDUCT 文件中。將文件保存在專案的根目錄中，以便輕鬆找到，並從 README 中鏈接到它。
 

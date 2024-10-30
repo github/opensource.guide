@@ -209,7 +209,7 @@ Para mais informações, dê uma olhada no nosso [guia do Código de Conduta](..
 
 Além de comunicar _como_ você espera que os participantes se comportem, um código de conduta também tende a descrever a quem essas expectativas se aplicam, quando se aplicam e o que fazer se uma violação ocorrer.
 
-De modo muito parecido com licenças open source, também há padrões emergentes para códigos de conduta, de modo que você não precisa escrever o seu. O [Contributor Covenant](https://contributor-covenant.org/) é um código de conduta "pronto para o uso" que é usado por [mais de 40,000 projetos open source](https://www.contributor-covenant.org/adopters), incluindo Kubernetes, Rails, e Swift. Não importa que texto você utilize, você deve estar sempre preparado para impor o seu código de conduta quando necessário.
+De modo muito parecido com licenças open source, também há padrões emergentes para códigos de conduta, de modo que você não precisa escrever o seu. O [Contributor Covenant](https://www.contributor-covenant.org/) é um código de conduta "pronto para o uso" que é usado por [mais de 40,000 projetos open source](https://www.contributor-covenant.org/adopters), incluindo Kubernetes, Rails, e Swift. Não importa que texto você utilize, você deve estar sempre preparado para impor o seu código de conduta quando necessário.
 
 Cole o texto diretamente em um arquivo CODE_OF_CONDUCT no seu repositório. Mantenha o arquivo no diretório raiz do seu projeto, de modo que ele seja fácil de ser encontrado, e crie um link para ele a partir do seu README.
 

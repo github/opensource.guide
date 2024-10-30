@@ -29,7 +29,7 @@ Oltre a comunicare le vostre aspettative, il codice di condotta descrive quanto 
 * Cosa succede se qualcuno infrange il codice di condotta
 * Come qualcuno può segnalare violazioni
 
-Usa la tecnica precedente dove puoi. [Accordo dei contributori](https://contributor-covenant.org/) è un codice di comportamento utilizzato da oltre 40.000 progetti open source, inclusi Kubernetes, Rails e Swift.
+Usa la tecnica precedente dove puoi. [Accordo dei contributori](https://www.contributor-covenant.org/) è un codice di comportamento utilizzato da oltre 40.000 progetti open source, inclusi Kubernetes, Rails e Swift.
 
 [Il codice di condotta di Django](https://www.djangoproject.com/conduct/) e [Il codice di condotta dei cittadini](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sono due buoni esempi di codice di condotta.
 

@@ -202,7 +202,7 @@ Untuk maklumat lebih lanjut, lihat kami [Code of Conduct guide](../code-of-condu
 
 Selain berkomunikasi _how_ anda mengharapkan peserta berkelakuan, kod tingkah laku juga cenderung menggambarkan kepada siapa harapan ini berlaku, ketika berlaku, dan apa yang harus dilakukan jika pelanggaran berlaku.
 
-Sama seperti lesen sumber terbuka, terdapat juga piawaian kod tingkah laku yang muncul, jadi anda tidak perlu menulis sendiri. The[Contributor Covenant](https://contributor-covenant.org/) adalah tatakelakuan drop-in yang digunakan oleh [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), termasuk Kubernetes, Rails, dan Swift. Tidak kira teks yang anda gunakan, anda harus bersiap sedia untuk menegakkan tatakelakuan anda bila perlu.
+Sama seperti lesen sumber terbuka, terdapat juga piawaian kod tingkah laku yang muncul, jadi anda tidak perlu menulis sendiri. The[Contributor Covenant](https://www.contributor-covenant.org/) adalah tatakelakuan drop-in yang digunakan oleh [over 40,000 open source projects](https://www.contributor-covenant.org/adopters), termasuk Kubernetes, Rails, dan Swift. Tidak kira teks yang anda gunakan, anda harus bersiap sedia untuk menegakkan tatakelakuan anda bila perlu.
 
 Tampal teks terus ke fail CODE_OF_CONDUCT di repositori anda. Simpan fail tersebut di direktori root projek anda sehingga mudah dicari, dan pautkan ke sana dari README anda.
 

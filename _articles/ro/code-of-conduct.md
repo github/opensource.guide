@@ -29,7 +29,7 @@ Pe lângă comunicarea așteptărilor tale, un cod de conduită descrie următoa
 * Ce se întâmplă dacă cineva încalcă codul de conduită
 * Cum poate cineva semnala încălcări
 
-Oricând poți, folosește stadiul cunoscut al tehnicii. [Contributor Covenant](https://contributor-covenant.org/) este un cod de conduită ușor de instalat care este folosit de peste 40.000 de proiecte cu sursă deschisă, inclusiv Kubernetes, Rails, și Swift.
+Oricând poți, folosește stadiul cunoscut al tehnicii. [Contributor Covenant](https://www.contributor-covenant.org/) este un cod de conduită ușor de instalat care este folosit de peste 40.000 de proiecte cu sursă deschisă, inclusiv Kubernetes, Rails, și Swift.
 
 [Codul de conduită Django](https://www.djangoproject.com/conduct/) și [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sunt de asemenea două exemple bune de coduri de conduită.
 

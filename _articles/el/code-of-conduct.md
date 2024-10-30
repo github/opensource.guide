@@ -29,7 +29,7 @@ related:
 * Τι συμβαίνει αν κάποιος παραβιάσει τον κώδικα συμπεριφοράς
 * Πώς μπορεί κάποιος να αναφέρει παραβιάσεις
 
-Όπου μπορείτε, χρησιμοποιήστε την προϋπάρχουσα τέχνη. Το [Contributor Covenant](https://contributor-covenant.org/) είναι ένας drop-in κώδικας συμπεριφοράς που χρησιμοποιείται από πάνω από 40.000 έργα ανοικτού κώδικα, συμπεριλαμβανομένων των Kubernetes, Rails και Swift.
+Όπου μπορείτε, χρησιμοποιήστε την προϋπάρχουσα τέχνη. Το [Contributor Covenant](https://www.contributor-covenant.org/) είναι ένας drop-in κώδικας συμπεριφοράς που χρησιμοποιείται από πάνω από 40.000 έργα ανοικτού κώδικα, συμπεριλαμβανομένων των Kubernetes, Rails και Swift.
 
 Ο [Django Code of Conduct](https://www.djangoproject.com/conduct/) και ο [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) είναι επίσης δύο καλά παραδείγματα κώδικα συμπεριφοράς.
 

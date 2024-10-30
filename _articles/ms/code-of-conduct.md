@@ -29,7 +29,7 @@ Selain menyampaikan harapan anda, kod tingkah laku menerangkan perkara berikut:
 * Apa yang berlaku sekiranya seseorang melanggar tatakelakuan
 * Bagaimana seseorang dapat melaporkan pelanggaran
 
-Di mana sahaja anda boleh, gunakan seni sebelumnya. [Contributor Covenant](https://contributor-covenant.org/) adalah tatakelakuan drop-in yang digunakan oleh lebih dari 40,000 projek sumber terbuka, termasuk Kubernetes, Rails, dan Swift.
+Di mana sahaja anda boleh, gunakan seni sebelumnya. [Contributor Covenant](https://www.contributor-covenant.org/) adalah tatakelakuan drop-in yang digunakan oleh lebih dari 40,000 projek sumber terbuka, termasuk Kubernetes, Rails, dan Swift.
 
 [Django Code of Conduct](https://www.djangoproject.com/conduct/) dan [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) juga merupakan dua contoh tatakelakuan yang baik.
 

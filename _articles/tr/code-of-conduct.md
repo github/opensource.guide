@@ -29,7 +29,7 @@ Beklentilerinizi iletmenin yanı sıra, bir davranış kural listesi aşağıdak
 * Birisi davranış kurallarını ihlal ederse ne olur?
 * İhlaller nasıl rapor edilebilir?
 
-Nerede olursanız olun, geçmiş tecrübelerden faydalanın. [Katkıda Bulunanlar Sözleşmesi (Contributor Covenant)](https://contributor-covenant.org/) Kubernet, Rails ve Swift dahil olmak üzere 40.000'den fazla açık kaynaklı proje tarafından kullanılan ortak bir davranış kural listesidir.
+Nerede olursanız olun, geçmiş tecrübelerden faydalanın. [Katkıda Bulunanlar Sözleşmesi (Contributor Covenant)](https://www.contributor-covenant.org/) Kubernet, Rails ve Swift dahil olmak üzere 40.000'den fazla açık kaynaklı proje tarafından kullanılan ortak bir davranış kural listesidir.
 
 [Django Davranış Kuralları](https://www.djangoproject.com/conduct/) ve [Vatandaş Davranış Kuralları](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) da aynı zamanda iki iyi davranış kural listesi örneğidir.
 

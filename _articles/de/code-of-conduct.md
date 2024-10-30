@@ -29,7 +29,7 @@ Neben der Klarstellung Ihrer Erwartungen beschreibt ein Verhaltenskodex Folgende
 * Was passiert, wenn jemand gegen ihn verstößt
 * Wie jemand Verstöße melden kann
 
-Wo immer Sie können, nutzen Sie Vorhandenes. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein Verhaltenskodex, der von über 40.000 Open-Source-Projekten wie Kubernetes, Rails und Swift verwendet wird.
+Wo immer Sie können, nutzen Sie Vorhandenes. Der [Contributor Covenant](https://www.contributor-covenant.org/) ist ein Verhaltenskodex, der von über 40.000 Open-Source-Projekten wie Kubernetes, Rails und Swift verwendet wird.
 
 Der [Django-Verhaltenskodex](https://www.djangoproject.com/conduct/) und der [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sind ebenfalls zwei gute Beispiele.
 

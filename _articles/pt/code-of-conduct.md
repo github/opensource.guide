@@ -29,7 +29,7 @@ Além de comunicar aquilo que você espera, um código de conduta descreve o seg
 * O que acontece se alguém violar o código de conduta
 * Como alguém pode reportar violações
 
-Sempre que possível, use exemplos passados. O [Contributor Covenant](https://contributor-covenant.org/) é um código de conduta que é usado por mais de 40.000 projetos _open source_, incluindo Kubernetes, Rails, e Swift.
+Sempre que possível, use exemplos passados. O [Contributor Covenant](https://www.contributor-covenant.org/) é um código de conduta que é usado por mais de 40.000 projetos _open source_, incluindo Kubernetes, Rails, e Swift.
 
 O [Django Code of Conduct](https://www.djangoproject.com/conduct/) e o [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) são, tambémm, outros dois bons exemplos de códigos de conduta.
 

@@ -29,7 +29,7 @@ related:
 * 行動規範に違反したら何が起きるのか
 * 違反はどのようにして報告するのか
 
-できる限り、既存の行動規範を使いましょう。 [Contributor Covenant](https://contributor-covenant.org/) は40,000以上のオープンソースプロジェクトで使われている行動規範で、 Kubernetes 、 Rails 、 Swift でも使われています。
+できる限り、既存の行動規範を使いましょう。 [Contributor Covenant](https://www.contributor-covenant.org/) は40,000以上のオープンソースプロジェクトで使われている行動規範で、 Kubernetes 、 Rails 、 Swift でも使われています。
 
 [Django Code of Conduct](https://www.djangoproject.com/conduct/) や [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) の2つもよく使われる行動規範です。
 

@@ -217,7 +217,7 @@ Raadpleeg voor meer informatie onze [Gedragscode-gids](../code-of-conduct/).
 
 Naast het communiceren van _hoe_ je verwacht dat deelnemers zich gedragen, beschrijft een gedragscode ook vaak op wie deze verwachtingen van toepassing zijn, wanneer ze van toepassing zijn en wat te doen bij een overtreding.
 
-Net als bij open source-licenties, zijn er ook nieuwe normen voor gedragscodes, zodat u deze niet zelf hoeft te schrijven. De [Bijdrager Covenant](https://contributor-covenant.org/) is een drop-in gedragscode die wordt gebruikt door [meer dan 40.000 open source-projecten](https://www.contributor-covenant.org/adopters), inclusief Kubernetes, Rails en Swift. Welke tekst u ook gebruikt, u moet bereid zijn om uw gedragscode waar nodig af te dwingen.
+Net als bij open source-licenties, zijn er ook nieuwe normen voor gedragscodes, zodat u deze niet zelf hoeft te schrijven. De [Bijdrager Covenant](https://www.contributor-covenant.org/) is een drop-in gedragscode die wordt gebruikt door [meer dan 40.000 open source-projecten](https://www.contributor-covenant.org/adopters), inclusief Kubernetes, Rails en Swift. Welke tekst u ook gebruikt, u moet bereid zijn om uw gedragscode waar nodig af te dwingen.
 
 Plak de tekst rechtstreeks in een CODE_OF_CONDUCT-bestand in uw repository. Bewaar het bestand in de root-directory van je project zodat het gemakkelijk te vinden is, en link ernaar vanuit je README.
 

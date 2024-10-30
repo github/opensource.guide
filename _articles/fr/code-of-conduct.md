@@ -29,7 +29,7 @@ En plus de communiquer vos attentes, un code de conduite décrit ce qui suit:
 * Que se passe-t-il si quelqu'un enfreint le code de conduite
 * Comment quelqu'un peut-il signaler les violations
 
-Quand vous le pouvez, utilisez l'existant. Le [Contributor Covenant](https://contributor-covenant.org/) est un code de conduite qui est utilisé par plus de 40 000 projets open source, y compris Kubernetes, Rails et Swift.
+Quand vous le pouvez, utilisez l'existant. Le [Contributor Covenant](https://www.contributor-covenant.org/) est un code de conduite qui est utilisé par plus de 40 000 projets open source, y compris Kubernetes, Rails et Swift.
 
 Le [Django Code of Conduct](https://www.djangoproject.com/conduct/) et le [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) sont également deux bons exemples de code de conduite.
 

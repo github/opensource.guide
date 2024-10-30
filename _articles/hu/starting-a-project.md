@@ -203,7 +203,7 @@ További információkért nézd meg: [Magatartási kódex útmutató](../code-o
 
 Amellett, hogy a magatartási kódex leírja, hogy hogyan kell viselkedni, azt is megadja, hogy kikre vonatkozik, mikor vonatkozik rájuk, és mi történik akkor, hogyha azt megsértik.
 
-Mint a nyílt forráskódú licenc esetén, itt is számos standard van a viselkedési szabály kódexre, így nem kell sajátot írnod. A [Résztvevői Megállapodás](https://contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet több mint [40,000 nyílt forráskódú projekt](https://www.contributor-covenant.org/adopters) használ, mint például a Kubernetes, Rails, vagy a Swift. Lényegtelen, hogy mit használsz ezekből, de az fontos, hogy kikényszerítsd ennek betartását.
+Mint a nyílt forráskódú licenc esetén, itt is számos standard van a viselkedési szabály kódexre, így nem kell sajátot írnod. A [Résztvevői Megállapodás](https://www.contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet több mint [40,000 nyílt forráskódú projekt](https://www.contributor-covenant.org/adopters) használ, mint például a Kubernetes, Rails, vagy a Swift. Lényegtelen, hogy mit használsz ezekből, de az fontos, hogy kikényszerítsd ennek betartását.
 
 A kód mellé helyezd el CODE_OF_CONDUCT állományt. A főkönyvtárba tedd a README mellé, és hivatkozd meg a README állományból.
 

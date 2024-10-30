@@ -246,7 +246,7 @@ Pentru mai multe informații, aruncă o privire la [ghidul nostru privind codul 
 
 Pe lângă comunicarea _modului_ în care te aștepți ca participanții să se comporte, un cod de conduită tinde să descrie de asemenea la cine se aplică aceste așteptări, când se aplică, și ce se face dacă o încălcare are loc.
 
-Aproape la fel ca licențele de sursă deschisă, sunt de asemenea și standarde în curs de dezvoltare pentru coduri de conduită, deci nu trebuie să vă scrieți propriul cod de conduită. [Contributor Covenant](https://contributor-covenant.org/) este un cod de conduită care se introduce cu o singură mutare în proiecte și este utilizat de [peste 40.000 de proiecte cu sursă deschisă](https://www.contributor-covenant.org/adopters), incluzând Kubernetes, Rails, și Swift. Indiferent de textul folosit, tu trebuie să fii pregătit să impui codul de conduită când e necesar.
+Aproape la fel ca licențele de sursă deschisă, sunt de asemenea și standarde în curs de dezvoltare pentru coduri de conduită, deci nu trebuie să vă scrieți propriul cod de conduită. [Contributor Covenant](https://www.contributor-covenant.org/) este un cod de conduită care se introduce cu o singură mutare în proiecte și este utilizat de [peste 40.000 de proiecte cu sursă deschisă](https://www.contributor-covenant.org/adopters), incluzând Kubernetes, Rails, și Swift. Indiferent de textul folosit, tu trebuie să fii pregătit să impui codul de conduită când e necesar.
 
 Lipește textul direct într-un fișier CODE_OF_CONDUCT în depozitul tău. Păstrează fișierul în directorul rădăcină al proiectului tău ca să fie ușor de găsit, și leagă înspre el din README-ul tău.
 

@@ -212,7 +212,7 @@ Aby uzyskać więcej informacji, zapoznaj się z naszym [Przewodnikiem Kodeksu P
 
 Oprócz informowania, w jaki sposób oczekuje się, że uczestnicy będą się zachowywać, kodeks postępowania ma również na celu opisanie, do kogo odnoszą się te oczekiwania, kiedy mają zastosowanie, i co zrobić, gdy nastąpi naruszenie.
 
-Podobnie jak licencje typu open source, pojawiają się również nowe standardy kodeksów postępowania, więc nie musisz pisać własnych. [Porozumienie dla współautorów](https://contributor-covenant.org/) to rozwijany kodeks postępowania używany przez [ponad 40 000 projektów open source](https://www.contributor-covenant.org/adopters), w tym Kubernetes, Rails i Swift. Bez względu na to, jakiego tekstu użyjesz, powinieneś być przygotowany do egzekwowania swojego kodeksu postępowania, jeśli to konieczne.
+Podobnie jak licencje typu open source, pojawiają się również nowe standardy kodeksów postępowania, więc nie musisz pisać własnych. [Porozumienie dla współautorów](https://www.contributor-covenant.org/) to rozwijany kodeks postępowania używany przez [ponad 40 000 projektów open source](https://www.contributor-covenant.org/adopters), w tym Kubernetes, Rails i Swift. Bez względu na to, jakiego tekstu użyjesz, powinieneś być przygotowany do egzekwowania swojego kodeksu postępowania, jeśli to konieczne.
 
 Wklej tekst bezpośrednio do pliku CODE_OF_CONDUCT w repozytorium. Zachowaj plik w katalogu głównym projektu, aby łatwo go znaleźć i połączyć go z README.
 

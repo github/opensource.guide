@@ -29,7 +29,7 @@ Apart from just communicating your expectations, code of conduct fit describe th
 * Wetin go happen if person violate the code of conduct
 * How person fit report violations
 
-Anywhere way you fit, try to use previous example. The [Contributor Covenant](https://contributor-covenant.org/) na code of conduct wey many open source projects, including Kubernetes, Rails, and Swift, don use, and e fit serve as example.
+Anywhere way you fit, try to use previous example. The [Contributor Covenant](https://www.contributor-covenant.org/) na code of conduct wey many open source projects, including Kubernetes, Rails, and Swift, don use, and e fit serve as example.
 
 The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) na two good examples of code of conduct.
 

@@ -29,7 +29,7 @@ Az elvárásaid mellett a magatartási kódex az alábbiakat írja még le:
 * Mi történik, ha valaki vét a szabályok ellen?
 * Hogyan kell jelenteni, ha szabálysértést tapasztal valaki?
 
-Lehetőség szerint használj már létező, publikus dokumentumot. A [Contributor Covenant](https://contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet már több mint 40,000 nyílt forráskódú projekt használ, mint például a Kubernetes, Rails, és a Swift.
+Lehetőség szerint használj már létező, publikus dokumentumot. A [Contributor Covenant](https://www.contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet már több mint 40,000 nyílt forráskódú projekt használ, mint például a Kubernetes, Rails, és a Swift.
 
 A [Django Code of Conduct](https://www.djangoproject.com/conduct/) és a [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) szintén nagyon jó minták.
 
