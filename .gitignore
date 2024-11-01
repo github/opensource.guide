@@ -10,4 +10,3 @@ bin
 css/main.scss
 test/node_modules
 test/package-lock.json
-Gemfile.lock
