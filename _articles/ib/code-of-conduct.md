@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: ib
 title: Your Code of Conduct
 description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
 class: coc
@@ -99,7 +99,7 @@ Iji mechie ndị otu kwesịrị ịbụ ihe a naghị arụ ọrụ ngwa ngwa m
 
 ## Ọrụ gị dịka Onye Nchịkwa
 
-Verhaltenskodex abụghị iwu a ga-emegharị emegharị. Ị bụ onye nchịkwa Verhaltenskodex ma nwee ọrụ iji soro iwu ndị Verhaltenskodex kwadoro.
+Mmejọ omume abụghị iwu a ga-emegharị emegharị. Ị bụ onye na-ahụ maka mmejọ omume ma nwee ọrụ ịgbaso iwu ndị e mere maka mmejọ omume.
 
 Dịka onye nchịkwa, ị tụrụ atụmatụ maka obodo gị ma tinye usoro ndị a dabeere na iwu ndị e depụtara na Verhaltenskodex. Nke a pụtara na ị kwesịrị ịtụle akụkọ niile gbasara mmejọ megide Verhaltenskodex nke ọma. Onye erere ozi kwesịrị inwe nyocha zuru ezu ma ziri ezi banyere mkpesa ha. Ọ bụrụ na ịchọpụta na omume e kwuru adịghị abụ mmejọ, kọwaa nke a doro anya nye ha ma kọwaa ihe kpatara i jiri kwụsịrị ime ihe. Ihe ha ga-eme bụ naanị ha: ịnwekwu mmetụta banyere omume ha ma ọ bụ kwụsị isonye na obodo.
 

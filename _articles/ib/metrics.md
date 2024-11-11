@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: ib
 title: Open Source Metrics
 description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
 class: metrics
@@ -88,7 +88,7 @@ Ihe atụ nke metrics obodo ị ga-achọ soro mgbe niile:
 
 ## Mitwirkenden-Diagramm
 
-* **Erstmitwirkende, Gelegenheitsmitwirkende und wiederkehrende Mitwirkende:** Na-enyere gị aka ịmata ma ị na-enweta ndị na-enye onyinye ọhụrụ ma ọ bụ ma ha na-alaghachi. (Gelegenheitsmitwirkende bụ ndị nwere obere nọmba nke commits. Ọ bụrụ na ọ bụ commit, nke dị ala karịa commits ise ma ọ bụ ihe ọzọ, ọ dị na gị.) Na-enweghị ndị na-enye onyinye ọhụrụ, obodo oru ngo gị nwere ike ịkwụsị.
+* **Ndị na-arụ ọrụ mbụ, ndị na-enye aka n’oge ụfọdụ, na ndị na-enye aka ugboro ugboro: Na-enyere gị aka ịchọpụta ma ndị na-enye aka bụ ndị ọhụrụ ka ọ bụ ndị na-alaghachi. (Ndị na-enye aka n’oge ụfọdụ bụ ndị nwere obere ọnụ ọgụgụ nke commits. Ọ bụrụ na ọ bụ commit, nke dị ala karịa commits ise ma ọ bụ ihe ọzọ, ọ dị na gị.) Na-enweghị ndị na-enye aka ọhụrụ, obodo ọrụ ngo gị nwere ike ịkwụsị.
 
 * **Anzahl offener Issues und offener Pull Requests:** Ọ bụrụ na ọnụ ọgụgụ ndị a dị elu, ị nwere ike ịchọ enyemaka na ijikwa nsogbu na nyocha koodu.
 
