@@ -3,11 +3,6 @@ lang: ro
 title: Cum să fii plătit pentru muncă open source
 description: Susține-ți munca în open source obținând sprijin financiar pentru timpul sau proiectul tău.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: "De ce unii oameni caută sprijin financiar"
-  funding-your-own-time: "Finanțarea propriului tău timp"
-  finding-funding-for-your-project: "Găsirea de finanțare pentru proiectul tău"
-  building-a-case-for-financial-support: "Construirea unui caz pentru sprijin financiar"
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -23,7 +18,7 @@ O mare parte din munca open source este voluntară. De exemplu, cineva ar putea 
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Căutam un proiect de programare ca „hobby” care să mă țină ocupat în săptămâna din jurul Crăciunului. (...) Aveam un calculator acasă, și nu mai mult în mâinile mele. Am decis să scriu un interpretor pentru noul limbaj de scripting la care mă gândeam în ultimul timp. (...) Am ales Python ca un titlu de lucru.
-  </p>  
+  </p>
   <p>
     <em>
       I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
@@ -99,21 +94,6 @@ Astăzi, mulți oameni sunt plătiți să lucreze cu normă parțială sau într
 
 Este mai ușor să faci un caz pentru muncă open source dacă angajatorul tău folosește de fapt proiectul, dar devino creativ cu pasul tău. Poate angajatorul tău nu folosește proiectul, dar el folosește Python, și întreținerea unui proiect popular Python ajută la atragerea de noi dezvoltatori Python. Poate îl face pe angajatorul tău să arate mai prietenos cu dezvoltatorii în general.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  <p>
-    La fel ca mulți în open source, mă luptam cu povara de a întreține un proiect. Când am început prima dată să fac open source, obișnuiam doar să stau până târziu la muncă pe asta sau chiar când ajungeam acasă. (...) Puteam să discut cu șeful meu despre problemele cu care mă confruntam și noi am venit cu idei despre cum am putea să încorporăm sarcini open source dată fiind propria noastră utilizare Babel.
-  </p>
-  <p>
-    <em>
-      Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-    </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Dacă nu ai un proiect cu sursă deschisă existent pe care ți-ar plăcea să lucrezi, dar preferi ca să se deschidă sursa rezultatelor muncii tale curente, fă un caz pentru angajatorul tău să deschidă sursa unei părți din software-urile sale interne.
 
 Multe companii dezvoltă programe open source pentru a-și construi marca și a recruta talent de calitate.
@@ -121,7 +101,7 @@ Multe companii dezvoltă programe open source pentru a-și construi marca și a 
 @hueniverse, de exemplu, a constatat că există motive financiare pentru a justifica [investiția Walmart în open source](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). Și @jamesgpearce a constatat că programul open source al Facebook [a făcut o diferență](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) în recrutare:
 
 > Este strâns aliniată cu cultura noastră a hackerilor, și cu felul în care organizația noastră a fost percepută. Ne-am întrebat angajații, „Ai fost conștient de programul software open source la Facebook?”. Două treimi au zis „Da”. O jumătate a zis că programul a contribuit în mod pozitiv la decizia de a lucra pentru noi. Acestea nu sunt numere marginale, ci, sper eu, o tendință care continuă.
-> 
+>
 > It is closely aligned with our hacker culture, and how our organization was perceived. We asked our employees, "Were you aware of the open source software program at Facebook?". Two-thirds said "Yes". One-half said that the program positively contributed to their decision to work for us. These are not marginal numbers, and I hope, a trend that continues.
 
 Dacă compania ta coboară pe acest traseu, este important să păstrezi granițele între comunitate și activitatea corporativă clare. În fine, open source se susține pe sine prin contribuții de la oameni din întreaga lume, și aceasta este mai mare decât oricare companie sau locație.
@@ -150,6 +130,7 @@ Proiectele care provin de la o companie mare, cum ar fi [Go](https://github.com/
 
 În funcție de circumstanțele tale personale, poți încerca să strângi bani în mod independent pentru a-ți finanța munca open source. De exemplu:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon și-a finanțat munca pe [Redux](https://github.com/reactjs/redux) printr-o [campanie de finanțare colectivă Patreon](https://redux.js.org/)
 * @andrewgodwin a finanțat munca pe migrațiile de scheme Django [printr-o campanie Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
@@ -172,7 +153,6 @@ Găsirea sponsorizărilor funcționează bine dacă ai deja un public puternic s
 Câteva exemple de proiecte sponsorizate includ:
 
 * **[webpack](https://github.com/webpack)** strânge bani de la companii și indivizi [prin OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** este [finanțat prin Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** o organizație nonprofit care plătește pentru munca pe [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), și alte proiecte de infrastructură Ruby
 
 ### Creează un flux de venit
@@ -183,7 +163,7 @@ Depinzând de proiectul tău, ai putea să taxezi sprijin comercial, opțiuni de
 * **[Travis CI](https://github.com/travis-ci)** oferă versiuni plătite ale produsului său
 * **[Ghost](https://github.com/TryGhost/Ghost)** este un nonprofit cu un serviciu gestionat plătit
 
-Unele proiecte populare, cum ar fi [npm](https://github.com/npm/npm) și [Docker](https://github.com/docker/docker), chiar strâng capital de risc pentru a susține creșterea afacerii lor.
+Unele proiecte populare, cum ar fi [npm](https://github.com/npm/cli) și [Docker](https://github.com/docker/docker), chiar strâng capital de risc pentru a susține creșterea afacerii lor.
 
 ### Aplicați pentru finanțare nerambursabilă
 

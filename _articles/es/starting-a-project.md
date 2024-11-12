@@ -12,7 +12,7 @@ related:
 
 ## El c&oacute;mo y el por qu&eacute; del C&oacute;digo Abierto
 
-&iquest;Est&aacute;s pensando c&oacute;mo comenzar un proyecto de c&oacut;digo abierto? &iexcl;Felicitaciones! El mundo aprecia tu contribuci&oacute;n. Hablemos sobre lo que es un proyecto de c&oacute;digo abierto y porqu&eacute; la gente lo lleva adelante
+&iquest;Est&aacute;s pensando c&oacute;mo comenzar un proyecto de c&oacute;digo abierto? &iexcl;Felicitaciones! El mundo aprecia tu contribuci&oacute;n. Hablemos sobre lo que es un proyecto de c&oacute;digo abierto y por qu&eacute; la gente lo lleva adelante
 
 ### &iquest;Qu&eacute; significa "C&oacute;digo Abierto"?
 
@@ -22,10 +22,10 @@ Cuando un proyecto es de c&oacute;digo abierto, significa que **cualquier person
 
 Para entender c&oacute;mo funciona, imagina a un amigo que organiza una comida, te invita, y llevas una torta.
 
-* Todos prueban la torta (_usarlo_)
-* &iexcl;La torta es un &eacute;xito! Te piden la receta, la cu&aacute;l t&uacute; das. (_estudiarlo/verlo_)
-* Un amigo, Pedro, es cocinero, y te sugiere colocar menos az&uacute;car (_modificarlo_)
-* Otro amigo, Juan, te pide permiso para usarlo en una cena que tendr&aacute; la pr&oacute;xima semana (_distribuirlo_)
+* Todos prueban la torta. (_usarlo_)
+* &iexcl;La torta es un &eacute;xito! Te piden la receta, la cual tu das. (_estudiarlo/verlo_)
+* Un amigo, Pedro, es cocinero, y te sugiere colocar menos az&uacute;car. (_modificarlo_)
+* Otro amigo, Juan, te pide permiso para usarlo en una cena que tendr&aacute; la pr&oacute;xima semana. (_distribuirlo_)
 
 Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacute;a ir a un restaurante y pedir una porci&oacute;n de torta. Para ello tendr&iacute;as que pagar por la misma, y el restaurante muy probablemente no te dar&aacute; su receta. Si decidieras copiar su torta y venderla bajo otro nombre, el restaurante podr&iacute;a recurrir a acciones legales en contra.
 
@@ -41,11 +41,11 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
 
 [Hay muchas razones](https://ben.balter.com/2015/11/23/why-open-source/) por las cuales una persona u organizaci&oacute;n querr&iacute;an involucrarse en un proyecto de c&oacute;digo abierto. Algunos ejemplos son:
 
-* **Colaboraci&oacute;n:** Los proyectos de c&oacute;digo abierto pueden aceptar cambios efectuados por cualquier persona alrededor del mundo. [Exercism](https://github.com/exercism/), por ejemplo, una plataforma para ejercicios de programaci&oacute;n con m&aacute;s de 350 colaboradores.
+* **Colaboraci&oacute;n:** Los proyectos de c&oacute;digo abierto pueden aceptar cambios efectuados por cualquier persona alrededor del mundo. [Exercism](https://github.com/exercism/), por ejemplo, es una plataforma para ejercicios de programaci&oacute;n con m&aacute;s de 350 colaboradores.
 
-* **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto puedne ser usados por cualquiera para casi cualquier pr&oacute;p&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adopci&oacute;n y remezcla:** Los proyectos de c&oacute;digo abierto pueden ser usados por cualquiera para casi cualquier prop&oacute;sito. Las personas pueden usarlos hasta para construir otras cosas. [WordPress](https://github.com/WordPress), por ejemplo, comenzaron como un "fork" de un proyecto existente llamado [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparencia:** Cualquiera puede inspeccionar un proyecto de este tipo, ya sea para encontrar errores como inconsistencias. La transparencia es de importancia para gobiernos como el de [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o [United States](https://sourcecode.cio.gov/), para industrias reguladas como la bancaria o la del cuidado de la salud, y para la seguridad del software como [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparencia:** Cualquiera puede inspeccionar un proyecto de este tipo, ya sea para encontrar errores como inconsistencias. La transparencia es de importancia para gobiernos como el de [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) o [United States](https://www.cio.gov/2016/08/11/peoples-code.html), para industrias reguladas como la bancaria o la del cuidado de la salud, y para la seguridad del software como [Let's Encrypt](https://github.com/letsencrypt).
 
 C&oacute;digo abierto no es solamente software. Uno puede "abrir" cualquier cosa, desde conjuntos de datos, hasta libros. Mira esto [GitHub Explore](https://github.com/explore) para tener otros ejemplos.
 
@@ -71,7 +71,7 @@ Si no estás convencido todav&iacute;a, toma un momento para pensar acerca de cu
 
 Los objetivos pueden ayudarte a detectar puntos en los que continuar trabajando, a qu&eacute; decirle que no, y a d&oacute;nde recurrir por ayuda. Comienza pregunt&aacute;ndote, _&iquest;Por qu&eacute; estoy haciendo "c&oacute;digo abierto" a mi proyecto?_
 
-No hay nunca una respuesta correcta a la &eacute;sta pregunta. Puedes tener m&uacute;ltiples objetivos para un solo proyecto, o diferentes proyectos con diferentes objetivos.
+No hay nunca una respuesta correcta a esta pregunta. Puedes tener m&uacute;ltiples objetivos para un solo proyecto o diferentes proyectos con diferentes objetivos.
 
 Si tu &uacute;nico objetivo es mostrar al mundo tu trabajo, quiz&aacute;s no necesites ni quieras contribuci&oacute;n, y quiz&aacute;s digas eso en el README. Por otra parte, si quieres ayuda, invertir&aacute;s tiempo en clarificar la documentaci&oacute;n y en hacer sentir a los reci&eacute;n llegados bienvenidos.
 
@@ -87,7 +87,7 @@ A medida que tu proyecto crezca, tu comunidad podr&aacute; llegar a necesitar m&
 
 El tiempo que dediques a tareas ajenas a codificar depender&aacute; del tama&ntilde;o y alcance de tus proyectos, deber&iacute;as estar preparado, como encargado de mantenimiento, a afrontarlas por tu cuenta o encontrar a alguien que pueda ayudarte.
 
-**Si eres parte de una compa&ntilde;ia que quiere "abrir" el c&oacute;digo de un proyecto,** debes asegurarte que el mismo tiene recursos internos que necesitan mejorar. Necesitar&aacute;s identificar al responsable de mantener el proyecto una vez lanzado, y definir c&oacute;mo vas a compartir esas tareas con tu comunidad.
+**Si eres parte de una compa&ntilde;ia que quiere "abrir" el c&oacute;digo de un proyecto,** debes asegurarte que el mismo tiene recursos internos que necesitan mejorar. Necesitar&aacute;s identificar al responsable de mantener el proyecto una vez lanzado y definir c&oacute;mo vas a compartir esas tareas con tu comunidad.
 
 Si necesitas un presupuesto dedicado o personal para la promoci&oacute;n, operaci&oacute;n y mantenimiento del proyecto, empieza esas conversaciones de forma temprana.
 
@@ -101,13 +101,13 @@ Si necesitas un presupuesto dedicado o personal para la promoci&oacute;n, operac
 
 ### Contribuyendo en otros proyectos.
 
-Si tu meta es aprender c&oacute;mo contribuir con otros o entender c&oacute;mo funciona el "c&oacute;digo abierto", considera contribuir en proyectos existentes. Comienza con proyectos que ya has estado usando y que te gustan. Contribuir a un proyecto puede ser tan simple como arreglar "typos" o actualizar documentaci&oacute;n.
+Si tu meta es aprender c&oacute;mo contribuir con otros o entender c&oacute;mo funciona el "C&oacute;digo Abierto", considera contribuir en proyectos existentes. Comienza con proyectos que ya has estado usando y que te gustan. Contribuir a un proyecto puede ser tan simple como arreglar "typos" o actualizar documentaci&oacute;n.
 
-Si no sab&eacute;s como comenzar a contribuir, mira esto [Gu&iacute;a sobre c&oacute;mo contribuir](../how-to-contribute/).
+Si no sab&eacute;s como comenzar a contribuir, mira esta [Gu&iacute;a sobre c&oacute;mo contribuir](../how-to-contribute/).
 
 ## Lanzando tu propio proyecto de C&oacute;digo Abierto
 
-No hay momento prefecto para abrir el c&oacute;digo de tu trabajo. Puedes abrir el de una idea, el de un trabajo en progreso, o despu&eacute;s de varios a&ntilde;os de ser un proyecto cerrado.
+No hay momento perfecto para abrir el c&oacute;digo de tu trabajo. Puedes abrir el de una idea, el de un trabajo en progreso o despu&eacute;s de varios a&ntilde;os de ser un proyecto cerrado.
 
 Generalmente, puedes abrir el c&oacute;digo de tu proyecto cuando te sientas c&oacute;modo de que otras personas vean y te aconsejen sobre tu trabajo.
 
@@ -124,7 +124,7 @@ Si tu proyecto est&aacute; en GitHub, colocar estos archivos en tu directorio ra
 
 ### Eligiendo una licencia
 
-Una licencia de C&oacute;digo Abierto garantiza que otros puedan usar, copiar, modificar y contribuir en tu proyecto sin problemas. Adem&aacute;s ayuda a protegerte de situaciones legales complejas. **Debes elegir una licencia cuando inicias tu proyecto!**
+Una licencia de C&oacute;digo Abierto garantiza que otros puedan usar, copiar, modificar y contribuir en tu proyecto sin problemas. Adem&aacute;s ayuda a protegerte de situaciones legales complejas. **&iexcl;Debes elegir una licencia cuando inicias tu proyecto!**
 
 El trabajo legal no es divertido. La buena noticia es que puedes copiar y pegar una licencia existente en tu repositorio. Solo llevar&aacute; un minuto proteger tu trabajo.
 
@@ -168,26 +168,26 @@ Cuando incluyes un archivo de este tipo en tu directorio ra&iacute;z, GitHub aut
 Un archivo CONTRIBUTING le da informaci&oacute;n a la audiencia acerca de c&oacute;mo participar en el proyecto, por ejemplo:
 
 * C&oacute;mo archivar un reporte de bug (trata de usar [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* C&oacute;mo sugerir una nueva funcionalidad/caracter&iacute;stica.
-* C&oacute;mo establecer tu entorno y correr pruebas.
+* C&oacute;mo sugerir una nueva funcionalidad/caracter&iacute;stica
+* C&oacute;mo establecer tu entorno y correr pruebas
 
 Adem&aacute;s de detalles t&eacute;cnicos, este archivo es una oportunidad para comunicar tus expectativas, como:
 
 * Los tipos de contribuci&oacute;n que esperas
 * Tu visi&oacute;n del proyecto (La hoja de ruta)
-* C&oacute;mo deber&iacute;an comunicarse (o c&oacute;mo no) los contribuyentes contigo.
+* C&oacute;mo deber&iacute;an comunicarse (o c&oacute;mo no) los contribuyentes contigo
 
 Usando un tono c&aacute;lido y amigable, y ofreciendo sugerencias espec&iacute;ficas para contribuciones puede ayudar a los iniciados a sentirse bienvenidos y ansiosos de participar.
 
-Por ejemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) comienza [su gu&iacute;a de contribuciones](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) con:
+Por ejemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) comienza [su gu&iacute;a de contribuciones](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) con:
 
 > Primero, muchas gracias por considerar contribuir a Active Admin. Son personas como ustedes las que la hacen una gran herramienta.
 
-En las primeras etapas del proyecto, tu archivo CONTRIBUITNG puede ser simple. Siempre debes explicar c&oacute;mo reportar bugs o issues, y cualquier requerimiento t&eacute;cnico (como tests) para hacer una contribuci&oacute;n.
+En las primeras etapas del proyecto, tu archivo CONTRIBUTING puede ser simple. Siempre debes explicar c&oacute;mo reportar bugs o issues, y cualquier requerimiento t&eacute;cnico (como tests) para hacer una contribuci&oacute;n.
 
-Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir &eacute;sta informaci&oacute;n significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
+Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir esta informaci&oacute;n significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
 
-Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
 Vincula tu CONTRIBUTING desde tu README, as&iacute; m&aacute;s personas pueden verlo.Si tu [colocas el archivo en tu repositorio](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub autom&aacute;ticamente lo vincular&aacute; cuando un contribuyente cree un issue o abra un pull request.
 
@@ -211,7 +211,7 @@ Adem&aacute;s de comunicar _c&oacute;mo_ esperas que se comporten los participan
 
 Como muchas licencias de c&oacute;digo abierto, existen est&aacute;ndares emergentes para c&oacute;digos de conducta para que no debas escribir uno propio. El [Contributor Covenant](https://www.contributor-covenant.org/) es un c&oacute;digo de conducta usado por [m&aacute;s de 40000 proyectos de c&oacute;digo abierto](https://www.contributor-covenant.org/adopters), incluyendo Kubernetes, Rails, and Swift. Debes estar preparado para redefinir el tuyo cuando sea necesario.
 
-Copia el texto directamente en el archivo CODE_OF_CONDUCT dentro de tu repositorio, en el directorio ra&iacute;z, y vinculalo desde tu README.
+Copia el texto directamente en el archivo CODE_OF_CONDUCT dentro de tu repositorio, en el directorio ra&iacute;z, y vincúlalo desde tu README.
 
 ## Dando un nombre y una marca a tu proyecto
 
@@ -226,13 +226,13 @@ Debes elegir un nombre sencillo de recordar y que en lo posible de una idea de l
 
 Si est&aacute;s construyendo sobre un proyecto ya existente, usar su nombre como prefijo suele clarificar lo que el mismo hace (ejemplo: [node-fetch](https://github.com/bitinn/node-fetch) trae `window.fetch` a Node.js).
 
-Considera claridad por sobre todo. Los chismes son divertidos,pero recuerda que algunas bromas pueden no ser traducidas otros idiomas o llevadas a otras culturas, con gente que posee diferentes experiencias a las tuyas. Algunos de tus potenciales usuarios pueden ser empleados de la compa&ntilde;&iacute;a: no debes hacerlos sentir inc&oacute;modos cuando tienen que explicar tu proyecto en el trabajo!
+Considera claridad por sobre todo. Los chismes son divertidos, pero recuerda que algunas bromas pueden no ser traducidas otros idiomas o llevadas a otras culturas, con gente que posee diferentes experiencias a las tuyas. Algunos de tus potenciales usuarios pueden ser empleados de la compa&ntilde;&iacute;a: &iexcl;no debes hacerlos sentir inc&oacute;modos cuando tienen que explicar tu proyecto en el trabajo!
 
 ### Evitando conflictos con los nombres
 
 Busca proyectos con el mismo nombre, o similar, especialmente si compartes el mismo ecosistema o idioma. Si tu nombre coincide con alg&uacute;n otro proyecto popular, puede confundir a las personas.
 
-Si quieres una p&aacute;gina web, manejo de Twitter, u otros &iacute;tems que representen tu proyecto, asegurate de que puedas asignar el nombre que quieras. En lo posible, [reserva tu nombre ahora](https://instantdomainsearch.com/) para estar tranquilo, aunque a&uacute;n no lo vayas a usar.
+Si quieres una p&aacute;gina web, manejo de Twitter, u otros &iacute;tems que representen tu proyecto, asegúrate de que puedas asignar el nombre que quieras. En lo posible, [reserva tu nombre ahora](https://instantdomainsearch.com/) para estar tranquilo, aunque a&uacute;n no lo vayas a usar.
 
 Tu nombre no debe infringir ninguna marca (trademark), de ser as&iacute; la compa&ntilde;&iacute;a puede pedirte que des de baja a tu proyecto, o puede tomar acciones legales en tu contra. No vale el riesgo.
 
@@ -250,7 +250,7 @@ Ya sea documentaci&oacute;n oficial como casual (un email), tu estilo de redacci
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   He tratado de involucrarme con cada hilo del listado de emails, y mostrando un comportamiento ejemplar, siendo agradable con las personas, tomando sus issues seriamente y tratando de ser de ayuda por sobre todo. Despu&eacute;s de un tiempo las personas no solo me buscaban para hacerme preguntas si no para ayudarme a responderlas, y, para mi sorpresa, imitaban mi estilo.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -360,4 +360,4 @@ Si eres una compa&ntilde;&iacute;a u organizaci&oacute;n:
 
 ## &iexcl;Lo has hecho!
 
-Felicitaciones por abrir el c&oacute;digo de tu primer proyecto! Sin importar el devenir, trabajar en p&uacute;blico es un regalo a la comunidad. Con cada commit, comentario y pull request, est&aacute;s creando oportunidades no solo para ti, si no para que otras personas puedan aprender y crecer.
+&iexcl;Felicitaciones por abrir el c&oacute;digo de tu primer proyecto! Sin importar el devenir, trabajar en p&uacute;blico es un regalo a la comunidad. Con cada commit, comentario y pull request, est&aacute;s creando oportunidades no solo para ti, si no para que otras personas puedan aprender y crecer.

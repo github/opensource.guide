@@ -3,15 +3,6 @@ lang: tr
 title: Liderlik ve Yönetim
 description: Büyüyen açık kaynak projeleri, karar almak için resmi kurallardan yararlanabilir.
 class: leadership
-toc:
-  understanding-governance-for-your-growing-project: Büyüyen projeniz için yönetimi anlama
-  what-are-examples-of-formal-roles-used-in-open-source-projects: Açık kaynak projelerde kullanılan resmi rol türleri nelerdir?
-  how-do-i-formalize-these-leadership-roles: Bu liderlik rollerini nasıl formalize ederim?
-  when-should-i-give-someone-commit-access: Ne zaman birine commit izni vermeliyim?
-  what-are-some-of-the-common-governance-structures-for-open-source-projects: Açık kaynaklı projeler için ortak yönetim yapılarının bazıları nelerdir?
-  do-i-need-governance-docs-when-i-launch-my-project: Projemi başlattığımda yönetim belgelerine ihtiyacım var mı?
-  what-happens-if-corporate-employees-start-submitting-contributions: Şirket çalışanları katkı göndermeye başlarsa ne olur?
-  do-i-need-a-legal-entity-to-support-my-project: Projemi desteklemek için tüzel kişiliğe ihtiyacım var mı?
 order: 6
 image: "/assets/images/cards/leadership.png"
 related:
@@ -72,11 +63,11 @@ Projeniz çok aktif bir katılımcı topluluğa sahipse, farklı konu alanların
 <aside markdown="1" class="pquote">
   \[Biz\] çekirdek takıma birkaç "alt takım" ekliyoruz. Her alt takım belirli bir alana, örneğin dil tasarımına veya kütüphanelere odaklanır. (...) Küresel koordinasyon ve bir bütün olarak proje için güçlü, tutarlı bir vizyon sağlamak için her bir alt ekip, çekirdek ekibin bir üyesi tarafından yönetilir.
   <p markdown="1" class="pquote-credit">
-- ["Rust Yönetişim RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+- ["Rust Yönetişim RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Liderlik ekipleri projeyi tartışmak için (Gitter veya Google Hangout'ta olduğu gibi) belirlenmiş bir kanal oluşturmak (IRC'deki gibi) veya düzenli olarak buluşmak isteyebilir. Hatta başkalarının dinleyebilmesi için bu toplantıları halka açabilirsiniz. Örneğin [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [her hafta çalışma saatlerinde yayın yapar](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs) .
+Liderlik ekipleri projeyi tartışmak için (Gitter veya Google Hangout'ta olduğu gibi) belirlenmiş bir kanal oluşturmak (IRC'deki gibi) veya düzenli olarak buluşmak isteyebilir. Hatta başkalarının dinleyebilmesi için bu toplantıları halka açabilirsiniz. Örneğin [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [her hafta çalışma saatlerinde yayın yapar](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs) .
 
 Liderlik rolleri belirledikten sonra, insanların onlara nasıl ulaşabileceğini belgelemeyi unutmayın! Projenizde birisinin nasıl sorumlu olabileceği ya da bir alt komiteye katılabileceği konusunda net bir süreç belirleyin ve bunu GOVERNANCE.md'inize yazın.
 

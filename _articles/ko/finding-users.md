@@ -10,11 +10,11 @@ related:
   - building
 ---
 
-## Spreading the word
+## 소문내기
 
 시작할 때부터 오픈소스 프로젝트를 홍보해야 한다는 규칙은 없습니다. 오픈소스에 기여하는 데는 인기와 무관한 많은 이유가 있습니다. 사람들이 여러분의 오픈소스 프로젝트를 찾고 이용해주기를 기대하지만 말고 여러분의 노력에 대한 이야기를 퍼뜨려야 합니다!
 
-## Figure out your message
+## 메시지 생각해 내기
 
 프로젝트를 홍보하기 위한 실질적인 작업을 시작하기 전에 프로젝트가 무엇을 하고 왜 중요한지 설명할 수 있어야 합니다.
 
@@ -28,7 +28,7 @@ related:
 
 메시지 전달에 대해 더 알아보고 싶다면 사용자 페르소나 개발을 위한 Mozilla의 ["Personas and Pathways"](http://mozillascience.github.io/working-open-workshop/personas_pathways/)를 참조하세요.
 
-## Help people find and follow your project
+## 사람들이 당신의 프로젝트를 찾고 팔로우하도록 돕기
 
 <aside markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
@@ -61,7 +61,7 @@ Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.c
 
 이제 여러분은 프로젝트에 대한 메시지와 사람들이 프로젝트를 쉽게 찾아올 수 있는 길을 마련했습니다. 세상으로 나가서 사람들에게 널리 알리세요!
 
-## Go where your project's audience is (online)
+## 프로젝트의 청중이 있는 곳으로 가기 (온라인)
 
 온라인에서의 활동은 이야기를 빠르게 퍼트리는 훌륭한 방법입니다. 온라인 채널을 이용하면 아주 넓은 층의 잠재 사용자 혹은 기여자와 닿을 수 있습니다.
 
@@ -85,7 +85,7 @@ Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.c
 
 여러분의 노력에도 불구하고 아무도 관심을 가지지 않는다면, 너무 실망하지 마세요! 대부분의 프로젝트는 초기 단계에 수 개월부터 수 년의 시간을 필요로 합니다. 처음 시도에 반응을 얻지 못한다면, 다른 전략을 시도하거나 다른 사람의 프로젝트에 가치를 제공할 방법을 찾아보세요. 프로젝트를 홍보하고 본궤도에 올리는 데에는 충분한 시간과 노력이 필요합니다.
 
-## Go where your project's audience is (offline)
+## 프로젝트의 청중이 있는 곳으로 가기 (오프라인)
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -125,7 +125,7 @@ Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.c
   </p>
 </aside>
 
-## Build a reputation
+## 평판 쌓기
 
 지금까지 다루어진 전략에 더해서, 여러분의 프로젝트에 기여할 사람들을 초대하는 가장 좋은 방법은 바로 그들의 프로젝트에 기여하는 것입니다.
 
@@ -143,14 +143,6 @@ Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.c
 
 하룻밤 사이에 청중을 확보하는 비법 같은 것은 없습니다. 사람들의 신뢰와 존경심을 얻는 데에는 시간이 필요하고, 평판은 아무리 오래 관리해도 그 끝이 없습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories”](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
-
-## Keep at it!
+## 계속해 나가세요!
 
 사람들이 여러분의 프로젝트에 관심을 갖는 데 오랜 시간이 걸릴 수도 있지만 괜찮습니다! 유명한 프로젝트 중 몇몇은 지금의 경지에 다다르기 위해 몇 년이 들었습니다. 프로젝트가 갑자기 유명해지기를 바라는 대신 관계를 쌓는 데 집중하세요. 인내심을 가지고, 여러분의 노력에 고마워하는 사람들과 작업을 계속 공유하세요.

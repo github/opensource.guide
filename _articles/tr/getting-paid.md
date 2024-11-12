@@ -3,11 +3,6 @@ lang: tr
 title: Açık Kaynak Çalışmalar İçin Ödeme Alma
 description: Zamanınız veya projeniz için maddi destek alarak açık kaynak çabanızı sürdürün.
 class: getting-paid
-toc:
-  why-some-people-seek-financial-support: Neden bazı insanlar finansal destek ister?
-  funding-your-own-time: Kendi zamanınızı finanse etme
-  finding-funding-for-your-project: Projeniz için finansman bulma
-  building-a-case-for-financial-support: Finansal destek için bir süreç oluşturma
 order: 7
 image: /assets/images/cards/getting-paid.png
 related:
@@ -71,14 +66,6 @@ Bugün, birçok insana yarı zamanlı veya tam zamanlı olarak açık kaynak üz
 
 Eğer işvereniniz projeyi gerçekten kullanıyorsa, işiniz daha kolay, ancak adımınızda yaratıcı olun. Belki işvereniniz projeyi kullanmaz, ancak Python'u kullanır ve popüler bir Python projesini sürdürmek yeni Python geliştiricilerini çekmeye yardımcı olur. Belki işvereninizin genel olarak geliştirici dostu görünmesini sağlar.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Açık kaynak kodlu birçok kişi gibi ben de bir projeyi sürdürme yüküyle mücadele ediyordum. Açık kaynak yapmaya ilk başladığımda, üzerinde çalışmak için geç saatlere kadar ofiste kaldım ya da eve geldiğimde uğraştım. (...) Patronumla karşılaştığım sorunları tartışabildim ve Babel'i kendi kullanımımıza göre açık kaynak kodlu görevleri nasıl dahil edebileceğimize dair fikirler bulduk.
-  <p markdown="1" class="pquote-credit">
-- @hzoo, ["Geliştirici Hikayeleri"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Üzerinde çalışmak istediğiniz bir açık kaynak projeniz yoksa, ancak mevcut iş çıktınızın açık kaynaklı olmasını tercih ederseniz, işvereninizin kendi iç yazılımlarının bir kısmının kaynağını açması için bir öneride bulunun.
 
 Birçok şirket markalarını geliştirmek ve kaliteli yetenekler kazanmak için açık kaynaklı programlar geliştiriyor.
@@ -106,12 +93,13 @@ Mevcut işvereninizi açık kaynak çalışmasına öncelik vermeye ikna edemiyo
 
 Kişisel durumunuza bağlı olarak, açık kaynaklı işinize para yatırmak için bağımsız olarak para toplamayı deneyebilirsiniz. Örneğin:
 
+* @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon, [Redux](https://github.com/reactjs/redux) ile ilgili çalışmalarını bir [Patreon kitlesel fonlama kampanyası](https://redux.js.org/) yoluyla finanse etti
 * @andrewgodwin [, bir Kickstarter kampanyasıyla](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django) Django şema göçleri konusundaki çalışmaları finanse etti
 
 Son olarak, bazen açık kaynaklı projeler, yardım etmeyi düşündüğünüz meselelere güçlükler getirir.
 
-* @ConnorChristie, @MARKETProtocol'un javascript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
+* @ConnorChristie, @MARKETProtocol'un JavaScript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
 * @mamiM, [sorun Bounties Network'te finanse](https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
 
 ## Projeniz için finansman bulma
@@ -127,7 +115,6 @@ Açık kaynağın popülaritesi arttıkça, projelere fon bulmak için hala dene
 Sponsorluk bulmak, zaten güçlü bir kitleye veya şöhrete sahipseniz veya projeniz çok popülerse işe yarar. Sponsorlu projelere birkaç örnek:
 
 * **[webpack](https://github.com/webpack)** [OpenCollective](https://opencollective.com/webpack) üzerinden şirketler ve bireylerden para topladı
-* **[Vue](https://github.com/vuejs/vue)** [Patreon](https://github.com/open-source/stories/yyx990803) üzerinden finanse ediliyor
 * **[Ruby Together](https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
 
 ### Bir gelir akışı oluşturun
@@ -138,7 +125,7 @@ Projenize bağlı olarak, ticari destek, barındırılan seçenekler veya ek öz
 * **[Travis CI](https://github.com/travis-ci)** ürünlerinin ücretli sürümlerini sunuyor
 * **[Ghost](https://github.com/TryGhost/Ghost)** ücretli bir yönetim servisi olan kar amacı gütmeyen bir kurumdur.
 
-[Npm](https://github.com/npm/npm) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
+[Npm](https://github.com/npm/cli) ve [Docker](https://github.com/docker/docker) gibi bazı popüler projeler iş büyümelerini desteklemek için risk sermayesini desteği arıyorlar.
 
 ### Hibe fonu için başvur
 

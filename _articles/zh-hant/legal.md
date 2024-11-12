@@ -33,7 +33,7 @@ redirect_from: /zh-tw/legal/
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**讓你們的GitHub專案公開與許可你們的專案是不同的。**公開專案是由[GitHub的服務條款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保護，它允許他人瀏覽以及fork你們的專案，但是沒有權限參與你們的工作。
+**讓你們的GitHub專案公開與許可你們的專案是不同的。**公開專案是由[GitHub的服務條款](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保護，它允許他人瀏覽以及fork你們的專案，但是沒有權限參與你們的工作。
 
 如果你們想讓他人使用，複製，修改你們的專案，或者參與貢獻你們的專案，那麼你們的專案就需要包含一個開源許可協議。例如，即使你們的專案是公開的，但沒有你們的授權，一些人是不能合法在他們的程式碼中使用你們GitHub專案中的任何部分。
 
@@ -99,13 +99,13 @@ redirect_from: /zh-tw/legal/
   <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
     我們已經刪除了Node.js的CLA。這樣做降低了Node.js貢獻者的參與門檻，從而吸引更多的貢獻者。
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 一些情況下你們可能想要爲你們的專案考慮一個額外的貢獻協議：
 
-* 你們的律師想要所有的貢獻者明確接受貢獻者條款，或者因爲他們覺得只有開源許可協議還遠遠不夠。如果這是唯一的問題，那麼有肯定專案開源許可協議的貢獻者協議就足夠了。[jQuery個人貢獻者許可協議](https://contribute.jquery.org/CLA/)就是一個很好的輕量級的個人貢獻者協議。對於一些專案來說，[Developer Certificate of Origin](https://github.com/probot/dco)是一個很好的先例。
+* 你們的律師想要所有的貢獻者明確接受貢獻者條款，或者因爲他們覺得只有開源許可協議還遠遠不夠。如果這是唯一的問題，那麼有肯定專案開源許可協議的貢獻者協議就足夠了。[jQuery個人貢獻者許可協議](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/)就是一個很好的輕量級的個人貢獻者協議。對於一些專案來說，[Developer Certificate of Origin](https://github.com/probot/dco)是一個很好的先例。
 * 你們的專案使用的開放源許可協議不包括明確的專利授權（如MIT），你們需要所有貢獻者的專利授權，這些可能適合用於你們公司的專利組合或者專案的其他貢獻者和用戶。[Apache 個人貢獻者許可協議](https://www.apache.org/licenses/icla.txt)是一種常用的附加貢獻者協議，其具有與Apache許可2.0中的專利許可相同的專利許可。
 * 如果你們的專案使用的是copyleft許可協議，但你們也需要分發專案的專有版本。那你們需要每個貢獻者分配版權給你們或者授予你們許可權。[MongoDB貢獻者協議](https://www.mongodb.com/legal/contributor-agreement)就是這中類型的。
 * 你們認爲你們的專案在其有效期內需要更換許可協議，以及事先得到貢獻者的同意。
@@ -119,13 +119,13 @@ redirect_from: /zh-tw/legal/
 
 **如果你們的開源專案是爲了你們的公司，**絕對需要讓他們知道。根據公司的業務需求和專業知識，你們的法律團隊可能已經制定了有關開放源程式碼許可協議（以及可能還有其他貢獻者協議）的政策，以確保您的專案符合其依賴關係的許可協議。如果不是這樣，你們和他們很幸運！你們的法律團隊應該渴望與你們合作，把這個東西搞清楚。你們需要思考這些事：
 
-* **第三方資源：**你們的專案有其他人創建的依賴或者使用他人的程式碼？如果這些事開源專案，你們需要遵守第三方資源的開源許可協議。首先，選擇與第三方資源的開放源許可協議一起使用的許可協議（見上文）。如果你們的專案修改或者發佈第三方開源資源，那麼你們法律團隊還想知道你們符合第三方開源許可協議的其他條件，例如保留版權聲明。如果你們使用了其他沒有開源許可協議的程式碼，那麼你們可能會要求第三方資源的維護者[添加一個開源許可協議](https://choosealicense.com/no-license/#for-users)，要是你們得不到許可，你們只能停止使用他們的程式碼。
+* **第三方資源：**你們的專案有其他人創建的依賴或者使用他人的程式碼？如果這些是開源專案，你們需要遵守第三方資源的開源許可協議。首先，選擇與第三方資源的開放源許可協議一起使用的許可協議（見上文）。如果你們的專案修改或者發佈第三方開源資源，那麼你們法律團隊還想知道你們符合第三方開源許可協議的其他條件，例如保留版權聲明。如果你們使用了其他沒有開源許可協議的程式碼，那麼你們可能會要求第三方資源的維護者[添加一個開源許可協議](https://choosealicense.com/no-license/#for-users)，要是你們得不到許可，你們只能停止使用他們的程式碼。
 
 * **商業機密：**請考慮專案中是否有公司不想對外公開的東西。如果是這樣的話，你們只能開源專案的一部分，得保護好公司的商業機密。
 
 * **專利：**你們公司是否申請了與你們專案有關的專利？如果開源源程式碼，這會對公司的專利進行[公開披露](https://en.wikipedia.org/wiki/Public_disclosure)。可悲的是，你們可能被要求等待（或者公司會重新思考應用程序）。如果你們期望從擁有大量專利組合的公司的員工那裏得到貢獻，們的法律團隊可能希望你們使用來自貢獻者的明確專利授權的許可協議（例如Apache 2.0或GPLv3）或其他貢獻者協議（見上文）。
 
-* **商標：**認真檢查你們的專案名[沒有與已經存在的商標衝突](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-02.md#避免命名衝突)。如果你們將自己公司的商標用於專案，請檢查它有沒有造成衝突。[FOSSmarks](http://fossmarks.org/)是在自由和開源專案的背景下理解商標的實用指南。
+* **商標：**認真檢查你們的專案名[沒有與已經存在的商標衝突](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-02.md#避免命名衝突)。如果你們將自己公司的商標用於專案，請檢查它有沒有造成衝突。[FOSSmarks](http://fossmarks.org/)是在自由和開源專案的背景下理解商標的實用指南。
 
 * **隱私：**你們的專案是否收集了用戶數據並存儲到公司的服務器？你們的法律團隊可以幫助你們遵守公司政策和外部法規。
 
@@ -143,7 +143,7 @@ redirect_from: /zh-tw/legal/
 </aside>
 
 * **發佈什麼：**[（幾乎） 所有？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)如果你們的法律團隊瞭解並投資於你們公司的開源策略，他們將是你們最好的幫助，而不是阻礙你們的努力。
-* **合規性：**即使你們公司沒有發佈任何開源專案，他們也會使用別人的開源軟件。[意識和過程](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻煩，產品延遲發佈和訴訟。
+* **合規性：**即使你們公司沒有發佈任何開源專案，他們也會使用別人的開源軟件。[意識和過程](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻煩，產品延遲發佈和訴訟。
 
 <aside markdown="1" class="pquote">
   組織必須具有適合["允許"和"copyleft"]類別的許可協議和合規性策略。首先，記錄適用於你們所使用的開源軟件的許可條款（包括子組件和依賴項）。

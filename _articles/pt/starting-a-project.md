@@ -23,11 +23,11 @@ O open source é poderoso porque diminui as barreiras para adoção, o que permi
 Para entender como funciona, imagine que seu amigo está dando uma festa, e você leva uma torta de cereja.
 
 * Todos experimentam a torta (_usa_)
-* A torta é um sucesso! Eles te pedem a receita, que você disponibilizai (_vê_)
+* A torta é um sucesso! Eles te pedem a receita, que você disponibiliza (_vê_)
 * Um amigo, Alex, que é um chefe de pastelaria, sugere reduzir o açúcar (_modifica_)
 * Outra amiga, Lisa, pede para utilizá-la em um jantar na próxima semana (_distribui_)
 
-Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se vocẽ copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
+Em comparação, um processo de código fechado seria ir a um restaurante e pedir um pedaço de torta. Você tem que pagar uma taxa para comer a torta, e o restaurante provavelmente não te dará a receita. Se você copiasse a torta deles exatamente e a vendesse sob seu próprio nome, o restaurante poderia abrir uma ação contra você.
 
 ### Por que as pessoas tornam seu trabalho open source?
 
@@ -43,9 +43,9 @@ Em comparação, um processo de código fechado seria ir a um restaurante e pedi
 
 * **Colaboração:** Projetos open source podem aceitar mudanças de qualquer pessoa no mundo. [Exercism](https://github.com/exercism/), por exemplo, é uma plataforma de exercícios de programação com mais de 350 contribuidores.
 
-* **Adoção e remixing:** Projetos open source podem ser utilizados por qualquer um para praticamente qualquer propósito. As pessoas podem até mesmo utilizá-lo para construir outras coisas. [WordPress](https://github.com/WordPress), por exemplo, começou como um fork de um projeto chamado [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adoção e remixing:** Projetos open source podem ser utilizados por qualquer um para praticamente qualquer propósito. As pessoas podem até mesmo utilizá-lo para construir outras coisas. [WordPress](https://github.com/WordPress), por exemplo, começou como um fork de um projeto chamado [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparência:** Qualquer um pode inspecionar um projeto open source por erros ou inconsistências. A transparência importa a gorvernos como a [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou os [Estados Unidos](https://sourcecode.cio.gov/), industrias regulamentadas como bancos ou industrias de saúde, e softwares de segurança como [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparência:** Qualquer um pode inspecionar um projeto open source por erros ou inconsistências. A transparência importa a governos como a [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) ou os [Estados Unidos](https://www.cio.gov/2016/08/11/peoples-code.html), indústrias regulamentadas como bancos ou indústrias de saúde, e softwares de segurança como [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source não é só sobre software. Você pode tornar qualquer coisa open source, de conjuntos de dados a livros. Dê uma olhada no [GitHub Explore](https://github.com/explore) por ideias do que você pode tornar open source.
 
@@ -69,9 +69,9 @@ Se você ainda não está convencido, reserve um momento para pensar sobre quais
 
 ### Definindo os seus objetivos
 
-Os objetivos podem te ajudar a descrobrir no que trabalhar, para o que dizer não, e onde você precisa da ajuda de outros. Comece perguntando a si mesmo, _por que estou tornando esse projeto open source?_
+Os objetivos podem te ajudar a descobrir no que trabalhar, para o que dizer não, e onde você precisa da ajuda de outros. Comece perguntando a si mesmo, _por que estou tornando esse projeto open source?_
 
-Não há uma resposta definitiva para essa questão. Você pode ter múltiplos objetivos para um dado projeto, ou direfentes projetos com diferentes objetivos.
+Não há uma resposta definitiva para essa questão. Você pode ter múltiplos objetivos para um dado projeto, ou diferentes projetos com diferentes objetivos.
 
 Se seu único objetivo é mostrar seu trabalho, você pode não querer contribuições e até mesmo deixar isso claro em seu README. Por outro lado, se você procura contribuidores, você investirá um certo tempo em produzir uma documentação clara e fazer com que os novatos se sintam bem vindos.
 
@@ -87,13 +87,13 @@ A medida que o seu projeto cresce, sua comunidade pode precisar de mais do que a
 
 Enquanto a quantidade de tempo que você gasta em tarefas que não envolvem código depende do tamanho e escopo do seu projeto, você deve estar preparado, como um mantenedor, a cuidar delas você mesmo ou a encontrar alguém para ajudá-lo.
 
-**Se você faz parte de uma empresa tornando um projeto open source,** certifique-se de que seu projeto tem os recursos internos que ele precisa para florescer. Vocẽ irá querer identificar quem é responsável por manter o projeto após o almoço e compartilhar essas tarefas com a comunidade.
+**Se você faz parte de uma empresa tornando um projeto open source,** certifique-se de que seu projeto tem os recursos internos que ele precisa para florescer. Você irá querer identificar quem é responsável por manter o projeto após o almoço e compartilhar essas tarefas com a comunidade.
 
 Se você precisar de uma renda dedicada ou pessoal para promoção, operações e manutenção do projeto, comece essas discussões cedo.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  Quando você começa a tornar o projeto open source, é importante se certificar de que os seus processos ãdministrativos levam em consideração as contribuições e habilidades da comunidade em torno do seu projeto. Não tenha medo de envolver contribuidores que não são empregados da sua empresa em aspectos chave do projeto - especialmente se eles sao contribuidores assíduos.
+  Quando você começa a tornar o projeto open source, é importante se certificar de que os seus processos administrativos levam em consideração as contribuições e habilidades da comunidade em torno do seu projeto. Não tenha medo de envolver contribuidores que não são empregados da sua empresa em aspectos chave do projeto - especialmente se eles são contribuidores assíduos.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
@@ -118,7 +118,7 @@ Independente do estágio em que você decida tornar o seu projeto open source, t
 * [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Code of conduct](../code-of-conduct/)
 
-Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas espectativas, administrar contribuições, e projeger o direito legal de todos (inclusive o seu). Eles aumentam suas chances de ter uma experência positiva significativamente.
+Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas expectativas, administrar contribuições, e proteger o direito legal de todos (inclusive o seu). Eles aumentam suas chances de ter uma experência positiva significativamente.
 
 Se seu projeto está no GitHub, colocar esses arquivos no seu diretório root com os nomes recomendados ajudará o GitHub a reconhecê-los e automaticamente mostrá-los da maneira apropriada aos seus leitores.
 
@@ -179,7 +179,7 @@ Além dos detalhes técnicos, um arquivo CONTRIBUTING é uma oportunidade de com
 
 Usar um tom acolhedor, amigável e oferecer sugestões específicas para contribuições (como escrever uma documentação, ou fazer um website) pode fazer uma grande diferença em fazer com que novos contribuidores se sintam bem vindos e felizes em participar.
 
-Por exemplo, o [Active Admin](https://github.com/activeadmin/activeadmin/) começa [seu guia de contribuição](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) com:
+Por exemplo, o [Active Admin](https://github.com/activeadmin/activeadmin/) começa [seu guia de contribuição](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) com:
 
 > Primeiramente, obrigado por considerar contribuir para o Active Admin. São pessoas como você que fazem o Active Admin esta grande ferramenta.
 
@@ -187,7 +187,7 @@ Nos primeiros estágios do seu projeto, seu arquivo de CONTRIBUTING pode ser sim
 
 Ao longo do tempo, você pode adicionar outras questões frequentemente respondidas ao seu arquivo CONTRIBUTING. Escrever essas informações significa que menos pessoas te farão as mesmas perguntas repetidas vezes.
 
-Para mais ajuda em como escrever seu arquivo CONTRIBUTING, dê uma olhada no [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) de @nayafia ou o ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) do @mozilla.
+Para mais ajuda em como escrever seu arquivo CONTRIBUTING, dê uma olhada no [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) de @nayafia ou o ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) do @mozilla.
 
 Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que mais pessoas possam vê-lo. Se você [colocar seu arquivo CONTRIBUTING no repositório do seu projeto](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), o GitHub irá automaticamente "linkar" para o seu arquivo quando um contribuidor criar uma issue ou abrir um pull request.
 
@@ -203,7 +203,7 @@ Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que m
   </p>
 </aside>
 
-Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se vocẽ está lançando um projeto open source para a comunidade ou alguma empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, o que irá reduzir seu estresse como mantenedor.
+Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se você está lançando um projeto open source para a comunidade ou alguma empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, o que irá reduzir seu estresse como mantenedor.
 
 Para mais informações, dê uma olhada no nosso [guia do Código de Conduta](../code-of-conduct/).
 
@@ -250,7 +250,7 @@ Quer seja documentação oficial ou um email casual, seu estilo de escrita é pa
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Eu procurei estar envolvido com todas as threads na lista de emails e mostrar comportamento exemplar, sendo legal com as pessoas, levando seus problemas a sério e tentando ser útil de um modo geral. Após um tempo, as pessoas permaneceram não somente para fazer questionamentos, mas para ajudar com as respostas também, e, para minha completa alegria, elas imitaram o meu estilo.
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

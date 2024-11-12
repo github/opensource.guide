@@ -1,6 +1,6 @@
 ---
 lang: zh-hans
-title: 开启一个开源项目
+title: 开始一个开源项目
 description: 从开源的世界汲取智慧，然后开始准备着手发起开源项目。
 class: beginners
 order: 2
@@ -13,15 +13,15 @@ redirect_from: /zh-cn/starting-a-project/
 
 ## 什么是开源,为什么要开源
 
-那你在考虑开始参与开源？恭喜！世界赞赏你的贡献。我们来谈谈开源是什么以及为什么人们这样做。
+如果你正在考虑开始参与开源，那么恭喜你！世界会感激你的贡献。首先我们来谈谈什么是开源以及为什么我们要开源。
 
 ### "开源"是什么意思？
 
 当一个项目被开源，这意味着**任何人都可以出于任何目的查看，使用，修改和分发你的项目**。 这些权限通过[开源许可](https://opensource.org/licenses)强制实施。
 
-开源是强大的，因为它降低了事物被采纳的障碍，允许想法迅速传播。
+开源是强大的，因为它降低了事物被采纳的障碍，使得我们的想法可以被迅速传播。
 
-要了解它的工作原理，想象你的朋友组织了一场聚餐，而你带去了一个樱桃派。
+接下来我们通过一个例子了解它的工作原理。想象你的朋友组织了一场聚餐，而你带去了一个樱桃派。
 
 * 每个人都尝了那个派（_使用_)
 * 派的味道棒极了！大家请你分享它的配方（_view_）
@@ -44,23 +44,23 @@ redirect_from: /zh-cn/starting-a-project/
 
 * **协作：** 开源项目可以接受世界各地人们的修改。 例如 [Exercism](https://github.com/exercism/) 就是一个拥有350多个贡献者的练习平台。
 
-* **采用和重组：** 任何人几乎可以出于任何目的使用开源项目。人们甚至可以使用它来构建其他东西。例如，[WordPress](https://github.com/WordPress) 就是派生自一个名为 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) 的现有项目。
+* **采用和重组：** 任何人几乎可以出于任何目的使用开源项目。人们甚至可以使用它来构建其他东西。例如，[WordPress](https://github.com/WordPress) 就是派生自一个名为 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) 的现有项目。
 
-* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://sourcecode.cio.gov/)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
+* **透明度：** 任何人都可以检查开源项目是否有错误或不一致。 透明度对[保加利亚](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美国](https://www.cio.gov/2016/08/11/peoples-code.html)等政府，银行或医疗保健等受监管行业以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全软件都很重要。
 
-开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 开找找有什么是你可以开源的。
+开源并不仅仅限于软件。您可以开源任何事物，从数据集到书本。查看 [GitHub Explore](https://github.com/explore) 来找找有什么是你可以开源的。
 
 ### 开源是指"免费"吗？
 
-开源最大的吸引之一是它不花钱。 但是，"免费"只是开源的总体价值的一个副产品。
+开源最大的吸引之一是它不花钱。 但是，"免费"只是开源的总体价值的一小部分。
 
-因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
+因为[开源许可证要求](https://opensource.org/osd-annotated)任何人可以几乎出于任何目的使用，修改和共享您的项目，项目本身往往是免费的。 如果该项目花钱使用，任何人也都可以合法地复制和使用免费版本。
 
 因此，大多数开源项目是免费的，但"免费"不是开源定义的一部分。 有些方法可以通过双重许可或有限功能间接地为开源项目收费，同时仍然遵守开源的官方定义。
 
-## 我应该启动自己的开源项目吗？
+## 我应该开始自己的开源项目吗？
 
-简单来说，答案是肯定的，因为无论结果如何，启动您自己的项目来了解开源的工作原理是一个好方法。
+简单来说，答案是肯定的，因为无论结果如何，开始一个您自己的开源项目来了解开源的工作原理是一个好方法。
 
 如果你从来没有创建过一个项目，你可能会担心人们会说什么，或者是否有人会注意到。 如果这听起来像你现在的状态，别担心，你并不孤独！
 
@@ -70,7 +70,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 设置你的目标
 
-目标可以帮助你弄清该做什么，不应该说什么，以及你在哪方面需要其他人的帮助。 首先问自己，_我是为什么开源这个项目？_
+目标可以帮助你弄清该做什么，不应该说什么，以及你在哪方面需要其他人的帮助。 首先问自己，_我为什么要开源这个项目？_
 
 这个问题没有标准答案。 对于一个项目你可以有多个目标，或者具有不同目标的不同项目。
 
@@ -104,7 +104,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 如果你的目标是学习如何与他人合作或了解开源的工作方式，请考虑为现有项目做出贡献。从你已经使用并喜欢的项目开始。像修复拼写错误或更新文档简单的事也能为项目做出贡献。
 
-如果你不知道如何开始作为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
+如果你不知道如何开始成为贡献者，请查看我们的[如何贡献开源指南](../how-to-contribute/)。
 
 ## 发起你自己的开源项目
 
@@ -131,7 +131,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),  和 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 都是非常流行的开源许可证， 但你可以选择[其他选项](https://choosealicense.com).
 
-当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源。
+当你在GitHub上创建新项目时，你可以选择许可证。包括开源许可证将使你的GitHub项目成为开源项目。
 
 ![挑选一个许可证](/assets/images/starting-a-project/repository-license-picker.png)
 
@@ -148,7 +148,7 @@ redirect_from: /zh-cn/starting-a-project/
 * 如何开始？
 * 如果需要，我可以在哪里获得更多的帮助？
 
-您可以使用自己的README回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
+您可以使用自己的 README 回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
@@ -166,7 +166,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 编写你的贡献指南
 
-贡献文件 (CONTRIBUTING file) 告诉你的受众如何参与你的项目. 例如，你可以包括一下信息:
+贡献文件 (CONTRIBUTING 文件) 告诉你的受众如何参与你的项目. 例如，你可以包括以下信息:
 
 * 如何提交错误报告（尝试使用[issue 和 pull request 模板](https://github.com/blog/2111-issue-and-pull-request-templates)）
 * 如何建议一个新功能
@@ -180,7 +180,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 使用热情友好的语气并提供具体的贡献建议（例如编写文档或者搭建网站）可以大大提高新人的参与度。
 
-例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以这样的方式开始[它的贡献指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
+例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以这样的方式开始[它的贡献指南](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md)：
 
 > 首先， 非常感谢你考虑为 Active Admin 贡献帮助。正是你这样的人使 Active Admin 成为一个很棒的工具。
 
@@ -188,7 +188,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 随着时间的推移，你可以将其他常见问题添加到贡献文件中去。写下这些信息意味着问你相同问题的人会越来越少。
 
-想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何构建 CONTRIBUTION.md"](https://mozillascience.github.io/working-open-workshop/contributing/)。
+想要获得更多有关编写贡献文件的方式，请查阅 @nayafia 的 [贡献指南模板](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何构建 CONTRIBUTION.md"](https://mozillascience.github.io/working-open-workshop/contributing/)。
 
 在你的 README 中链接你的 CONTRIBUTING，这样更多人就能看到他。如果你[在你的项目中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，当一个贡献者创建 issue 或者开启一个 pull request 时，GitHub 会自动链接你的文件。
 
@@ -243,7 +243,7 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 你的写作（和代码）如何影响你的品牌
 
-在项目的整个生命周期中，你需要做很多文字工作：READMEs，教程，社区文档，回复issues，甚至肯能要处理很多来信和邮件。
+在项目的整个生命周期中，你需要做很多文字工作：READMEs，教程，社区文档，回复issues，甚至可能要处理很多来信和邮件。
 
 是否是官方文档或者一封普通的邮件，你的书写风格都是你项目品牌的一部分。考虑你可能会拥有粉丝，以及这是你想传达的声音。
 
@@ -251,7 +251,7 @@ redirect_from: /zh-cn/starting-a-project/
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   我尝试处理每一个细节，包括：处理邮件，展示示例，友好待人，认真处理大家的issues以及试图帮助到大家。经过一段时间后，大家可能不再是只问问题，还会帮助我解决其他人的疑问以及给我喜悦，他们模仿我的风格。
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -300,7 +300,7 @@ redirect_from: /zh-cn/starting-a-project/
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    项目使用一致的代码风格和明确的功能/方法/可用的名字
+    项目使用一致的代码风格和明确的函数/方法/变量的名字
   </label>
 </div>
 
@@ -361,4 +361,4 @@ redirect_from: /zh-cn/starting-a-project/
 
 ## 你做到了!
 
-恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit,comment和pull request，你正在为自己或者他人创造学习和成长的机会。
+恭喜你开源了你的首个项目。不论结果如何，对开源社区都是一份礼物。随着每次commit，comment和pull request，你正在为自己或者他人创造学习和成长的机会。

@@ -3,12 +3,6 @@ lang: ro
 title: Pornind un proiect cu sursă deschisă
 description: Învață mai multe despre lumea open source și pregătește-te să-ți lansezi primul proiect.
 class: beginners
-toc:
-  the-what-and-why-of-open-source: "„Care”-urile și „de ce”-urile open source"
-  should-i-launch-my-own-open-source-project: "Ar trebui să-mi lansez propriul meu proiect cu sursă deschisă?"
-  launching-your-own-open-source-project: "Lansându-ți propriul tău proiect cu sursă deschisă"
-  naming-and-branding-your-project: "Numirea și marcarea proiectului tău"
-  your-pre-launch-checklist: "Lista ta de verificări înainte de lansare"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -56,9 +50,9 @@ Prin comparație, într-un proces cu sursă închisă mergi la un restaurant și
 
 * **Colaborarea:** Proiectele cu sursă deschisă pot accepta schimbări de la oricine din lume. [Exercism](https://github.com/exercism/), de exemplu, este o platformă de exerciții de programare cu peste 350 de contributori.
 
-* **Adoptarea și remixarea:** Proiectele cu sursă deschisă pot fi folosite de oricine pentru aproape orice scop. Oamenii le pot folosi chiar și pentru a construi alte lucruri. [WordPress](https://github.com/WordPress), de exemplu, a început ca o bifurcație a unui proiect existent numit [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md).
+* **Adoptarea și remixarea:** Proiectele cu sursă deschisă pot fi folosite de oricine pentru aproape orice scop. Oamenii le pot folosi chiar și pentru a construi alte lucruri. [WordPress](https://github.com/WordPress), de exemplu, a început ca o bifurcație a unui proiect existent numit [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparența:** Oricine poate inspecta un proiect cu sursă deschisă pentru erori sau neconcordanțe. Transparența contează pentru guverne, cum ar fi [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) sau [Statele Unite](https://sourcecode.cio.gov/), industrii reglementate cum ar fi sectorul bancar sau asistența medicală, și software-uri de securitate cum ar fi [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparența:** Oricine poate inspecta un proiect cu sursă deschisă pentru erori sau neconcordanțe. Transparența contează pentru guverne, cum ar fi [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) sau [Statele Unite](https://www.cio.gov/2016/08/11/peoples-code.html), industrii reglementate cum ar fi sectorul bancar sau asistența medicală, și software-uri de securitate cum ar fi [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source nici nu este doar pentru software. Poți deschide sursa a orice de la seturi de date la cărți. Aruncă o privire la [GitHub Explore](https://github.com/explore) pentru idei despre sursa a ce altceva poți deschide.
 
@@ -213,17 +207,17 @@ Un fișier CONTRIBUTING spune audienței tale cum să participe în proiectul t�
 
 Folosind un ton cald și prietenos și oferind sugestii specifice pentru contribuții (cum ar fi scrierea documentației, sau facerea unui site web) poate parcurge o cale lungă pentru a face nou-veniții să se simtă bineveniți și entuziasmați să participe.
 
-De exemplu, [Active Admin](https://github.com/activeadmin/activeadmin/) începe [ghidul său de contribuire](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md) cu:
+De exemplu, [Active Admin](https://github.com/activeadmin/activeadmin/) începe [ghidul său de contribuire](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) cu:
 
 > Mai întâi de toate, îți mulțumesc pentru că ai considerat să contribui la Active Admin. Oamenii ca voi sunt cei care fac Active Admin o unealtă grozavă.
-> 
+>
 > First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
 În primele etape ale proiectului tău, fișierul tău CONTRIBUTING poate fi simplu. Ar trebui mereu să explici cum se raportează bug-uri sau înregistrează probleme, și oricare cerință tehnică (cum ar fi teste) pentru a face o contribuție.
 
 Cu timpul, ai putea adăuga alte întrebări puse des în fișierul tău CONTRIBUTING. Scriind aceste informații înseamnă că mai puțini oameni vă vor întreba aceleași întrebări de mai multe ori.
 
-Pentru mai mult ajutor cu scrierea fișierului tău CONTRIBUTING, aruncă o privire la [șablonul de ghid de contribuire](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) al @nayafia sau [„How to Build a CONTRIBUTING.md”](https://mozillascience.github.io/working-open-workshop/contributing/) al @mozilla.
+Pentru mai mult ajutor cu scrierea fișierului tău CONTRIBUTING, aruncă o privire la [șablonul de ghid de contribuire](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) al @nayafia sau [„How to Build a CONTRIBUTING.md”](https://mozillascience.github.io/working-open-workshop/contributing/) al @mozilla.
 
 Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai mulți oameni îl văd. Dacă [amplasezi fișierul tău CONTRIBUTING în depozitul proiectului tău](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub va lega automat către fișierul tău când un contributor creează o problemă sau deschide o cerere de pull.
 
@@ -300,7 +294,7 @@ Fie că este vorba de documentație oficială sau de un email obișnuit, stilul 
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @janl despre [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl despre [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

@@ -44,9 +44,9 @@ redirect_from: /zh-tw/starting-a-project/
 
 * **協作：** 開源專案可以接受世界各地人們的修改。 例如 [Exercism](https://github.com/exercism/) 就是一個擁有350多個貢獻者的練習平臺。
 
-* **採用和重組：** 任何人幾乎可以出於任何目的使用開源專案。人們甚至可以使用它來構建其他東西。例如，[WordPress](https://github.com/WordPress) 就是派生自一個名爲 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) 的現有專案。
+* **採用和重組：** 任何人幾乎可以出於任何目的使用開源專案。人們甚至可以使用它來構建其他東西。例如，[WordPress](https://github.com/WordPress) 就是派生自一個名爲 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) 的現有專案。
 
-* **透明度：** 任何人都可以檢查開源專案是否有錯誤或不一致。 透明度對[保加利亞](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美國](https://sourcecode.cio.gov/)等政府，銀行或醫療保健等受監管行業以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全軟件都很重要。
+* **透明度：** 任何人都可以檢查開源專案是否有錯誤或不一致。 透明度對[保加利亞](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美國](https://www.cio.gov/2016/08/11/peoples-code.html)等政府，銀行或醫療保健等受監管行業以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全軟件都很重要。
 
 開源並不僅僅限於軟件。您可以開源任何事物，從數據集到書本。查看 [GitHub Explore](https://github.com/explore) 開找找有什麼是你可以開源的。
 
@@ -180,7 +180,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 溫柔友好的逾期和向貢獻者們提供具體的建議（例如寫文檔或者搭建一個網頁）能夠有效地使新人感到受歡迎並樂於參與其中。
 
-例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以這樣的方式開始[它的貢獻指南](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)：
+例如，[Active Admin](https://github.com/activeadmin/activeadmin/) 以這樣的方式開始[它的貢獻指南](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md)：
 
 > 首先， 非常感謝你考慮爲 Active Admin 貢獻幫助。正式你這樣的人們使得 Active Admin 成爲瞭如此優秀的工具。
 
@@ -188,7 +188,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 隨着時間的推移，你硬弓增加其他常見問題到你的貢獻文件中去。寫下這些資訊意味着問你相同問題的人會越來越少。
 
-想要獲得更多有關編寫貢獻文件的方式，請查閱 @nayafia 的 [貢獻指南模板](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何構建 CONTRIBUTION.md"](http://mozillascience.github.io/working-open-workshop/contributing/)。
+想要獲得更多有關編寫貢獻文件的方式，請查閱 @nayafia 的 [貢獻指南模板](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何構建 CONTRIBUTION.md"](http://mozillascience.github.io/working-open-workshop/contributing/)。
 
 來你的 README 中鏈接你的 CONTRIBUTING，這樣更多人就能看到他。如果你[在你的專案中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，當一個貢獻者創建 issue 或者開啓一個 pull request 時，GitHub 會自動鏈接你的文件。
 
@@ -243,7 +243,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 ### 你的寫作（和代碼）如何影響你的品牌
 
-在專案的整個生命週期中，你需要做很多文字工作：READMEs，教程，社群文檔，回覆issues，甚至肯能要處理很多來信和郵件。
+在專案的整個生命週期中，你需要做很多文字工作：READMEs，教程，社群文檔，回覆issues，甚至可能要處理很多來信和郵件。
 
 是否是官方文檔或者一封普通的郵件，你的書寫風格都是你專案品牌的一部分。考慮你可能會擁有粉絲，以及這是你想傳達的聲音。
 
@@ -251,7 +251,7 @@ redirect_from: /zh-tw/starting-a-project/
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
   我嘗試處理每一個細節，包括：處理郵件，展示示例，友好待人，認真處理大家的issues以及試圖幫助到大家。經過一段時間後，大家可能不再是只問問題，還會幫助我解決其他人的疑問以及給我喜悅，他們模仿我的風格。
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 

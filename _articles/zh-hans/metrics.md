@@ -38,7 +38,7 @@ redirect_from: /zh-cn/metrics/
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-如果你的项目是托管在Github, 你可以[访问](https://help.github.com/articles/about-repository-graphs/#traffic) 获取诸如多少人访问过你的项目，他们从哪里得知的之类的信息。在你的项目主页，点击"Graphs", 然后"Traffic"。在这个页面，你可以看到:
+如果你的项目是托管在GitHub, 你可以[访问](https://help.github.com/articles/about-repository-graphs/#traffic) 获取诸如多少人访问过你的项目，他们从哪里得知的之类的信息。在你的项目主页，点击"Graphs", 然后"Traffic"。在这个页面，你可以看到:
 
 * **总浏览量:** 项目被查看了多少次
 
@@ -60,7 +60,7 @@ redirect_from: /zh-cn/metrics/
 
 每个包管理工具可能会对下载量有着大同小异的定义，而且下载量并不直接和安装、使用有关，但是它提供了一个基本的比较标准。尝试使用[Libraries.io](https://libraries.io/) 来跟踪很多流行包管理工具的使用数据。
 
-如果你的项目是托管在Github上，再一次切换到"Traffic" 页面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的项目在一个给定的日期被克隆了多少次，按照独立克隆者的总克隆数排序。
+如果你的项目是托管在GitHub上，再一次切换到"Traffic" 页面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的项目在一个给定的日期被克隆了多少次，按照独立克隆者的总克隆数排序。
 
 ![clone graph](/assets/images/metrics/clone_graph.png)
 
@@ -85,7 +85,7 @@ redirect_from: /zh-cn/metrics/
 
 可能会经常用的衡量社区的指标包括：
 
-* **贡献者的总数和每个贡献者的提交次数：** 有多少贡献者，哪些是活跃的，哪些是不活跃。github上，你可以在"Graphs" -> "Contributors"面板查看这些信息。目前，这个图标只计算了那些往仓库默认分支推送的贡献者。
+* **贡献者的总数和每个贡献者的提交次数：** 有多少贡献者，哪些是活跃的，哪些是不活跃。GitHub上，你可以在"Graphs" -> "Contributors"面板查看这些信息。目前，这个图标只计算了那些往仓库默认分支推送的贡献者。
 
 ![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
 
@@ -119,7 +119,7 @@ redirect_from: /zh-cn/metrics/
 
 * 一个issue保持打开状态的时间（也就代表一个问题保持没有被解决状态的时间）。
 * 一个issue是否因为一个PR得到了解决。
-* 陈旧的iuuse是否被关闭了（被解决的问题应该关闭）。
+* 陈旧的issue是否被关闭了（被解决的问题应该关闭）。
 * 合并一个PR的时间。
 
 ## 通过统计 📊 来了解人们的习惯

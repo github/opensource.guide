@@ -31,7 +31,7 @@ Az elvárásaid mellett a magatartási kódex az alábbiakat írja még le:
 
 Lehetőség szerint használj már létező, publikus dokumentumot. A [Contributor Covenant](https://contributor-covenant.org/) egy azonnal használható magatartási kódex, amelyet már több mint 40,000 nyílt forráskódú projekt használ, mint például a Kubernetes, Rails, és a Swift.
 
-A [Django Code of Conduct](https://www.djangoproject.com/conduct/) és a [Citizen Code of Conduct](http://citizencodeofconduct.org/) szintén nagyon jó minták.
+A [Django Code of Conduct](https://www.djangoproject.com/conduct/) és a [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) szintén nagyon jó minták.
 
 Helyezd el a CODE_OF_CONDUCT állomány a projekt gyökérkönyvtárában, és hivatkozd meg őket a CONTRIBUTING és README állományokból, hogy mindenkinek látható legyen.
 
@@ -40,7 +40,7 @@ Helyezd el a CODE_OF_CONDUCT állomány a projekt gyökérkönyvtárában, és h
 <aside markdown="1" class="pquote">
   Az a magatartási kódex, amelyet nem (vagy nem tudnak) betartatni rosszabb, mintha nem lenne: azt üzeni, hogy az értékek, amelyek benne megfogalmazásra kerültek nem fontosak és lényegtelenek a közösség számára.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community/)
+— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
 </aside>
 
@@ -54,7 +54,7 @@ Magyarázd el részletesen, hogy a magatartási kódexnek hogyan szerzel érvén
 
 Praktikus biztosítani egy privát csatornát (pl. e-mail cím), amin a magatartási kódex megsértését jelenteni tudják. Add meg azt is, hogy ki vagy kik kapják a jelentést. Ez lehet egy vagy több karbantartó, esetleg egy külön testület.
 
-Ne feledd, előfordulhat, hogy épp olyan személyre vonatkozóan érkezik kifogás aki szintén kapja a jelentést. Ebben az esetben adj lehetőséget arra, hogy más személy részére jelentsék a szabálysértést. Például, @ctb és @mr-c [kifejtik ezt a projektjükben](https://github.com/dib-lab/khmer/blob/master/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
+Ne feledd, előfordulhat, hogy épp olyan személyre vonatkozóan érkezik kifogás aki szintén kapja a jelentést. Ebben az esetben adj lehetőséget arra, hogy más személy részére jelentsék a szabálysértést. Például, @ctb és @mr-c [kifejtik ezt a projektjükben](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
 > A zaklató, erőszakos vagy egyéb elfogadhatatlan viselkedést emailben lehet jelenteni **khmer-project@idyll.org** címre, amelyet csak C. Titus Brown és Michael R. Crusoe kap meg. Ha bármelyikük érintett a szabálysértésben, akkor **Judi Brown Clarke, Ph.D.** Sokszínűségért Felelős Igazgató legyen a címzett.*
 

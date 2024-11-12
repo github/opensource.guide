@@ -3,13 +3,6 @@ lang: ro
 title: Cum să contribui la open source?
 description: Dorești să contribui la open source? Un ghid pentru facerea de contribuții open source, pentru începători și pentru veterani.
 class: contribute
-toc:
-  why-contribute-to-open-source: "De ce să contribui la open source?"
-  what-it-means-to-contribute: "Ce înseamnă să contribui"
-  orienting-yourself-to-a-new-project: "Orientându-te către un nou proiect"
-  finding-a-project-to-contribute-to: "Găsind un proiect la care să contribui"
-  how-to-submit-a-contribution: "Cum să trimiți o contribuție?"
-  what-happens-after-you-submit-a-contribution: "Ce are loc după ce trimiți o contribuție?"
 order: 1
 image: /assets/images/cards/contribute.png
 related:
@@ -89,21 +82,6 @@ O neînțelegere comună despre contribuirea la open source este că trebuie să
 
 Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale grozavă de a te implica într-un proiect și de a întâlni alți membri ai comunității. Construind aceste relații îți va da oportunități de a lucra pe alte părți ale proiectului.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  <p>
-    Întâi am luat legătura cu echipa de dezvoltare Python (numită și python-dev) când am trimis email la lista de email-uri în 17 iunie 2002 pentru a-mi accepta patch-ul. Am prins repede bug-ul din sursa deschisă, și am decis să încep să organizez rezumatele email-urilor pentru grup. Ei mi-au dat o scuză grozavă pentru a cere clarificări despre un subiect, dar mai critic am putut observa când cineva indica ceva ce necesita rezolvare.
-  </p>
-  <p>
-    <em>
-      I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
-    </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Îți place să planifici evenimente?
 
 * Organizează ateliere sau întâlniri despre proiect, [precum @fzamperin a făcut pentru NodeSchool](https://github.com/nodeschool/organizers/issues/406)
@@ -122,7 +100,7 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
 * Scrie și îmbunătățește documentația proiectului
 * Selectează un dosar de exemple arătând cum este folosit proiectul
 * Începe un buletin informativ pentru proiect, sau selectează sublinieri din lista de email-uri
-* Scrie tutoriale pentru proiect, [cum au făcut contribuitorii PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Scrie tutoriale pentru proiect, [cum au făcut contribuitorii PyPA](https://packaging.python.org/)
 * Scrie o traducere pentru documentația proiectului
 
 <aside markdown="1" class="pquote">
@@ -259,9 +237,8 @@ Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să d
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### O listă de verificare înainte de a contribui
 

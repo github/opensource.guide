@@ -3,12 +3,6 @@ lang: en
 title: Open Source Metrics
 description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
 class: metrics
-toc:
-  why-measure-anything: "Why measure anything?"
-  discovery: "Discovery"
-  usage: "Usage"
-  retention: "Retention"
-  maintainer-activity: "Maintainer activity"
 order: 9
 image: /assets/images/cards/metrics.png
 related:
@@ -118,7 +112,7 @@ Unresponsive maintainers become a bottleneck for open source projects. If someon
 
 [Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
 
-Consider tracking how long it takes for you (or another maintainer) to respond to contributions, whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
+Consider [tracking how long it takes for you (or another maintainer) to respond to contributions](https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/), whether an issue or a pull request. Responding doesn't require taking action. It can be as simple as saying: _"Thanks for your submission! I'll review this within the next week."_
 
 You could also measure the time it takes to move between stages in the contribution process, such as:
 
@@ -130,3 +124,5 @@ You could also measure the time it takes to move between stages in the contribut
 ## Use 📊 to learn about people
 
 Understanding metrics will help you build an active, growing open source project. Even if you don't track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+
+[CHAOSS](https://chaoss.community/) is a welcoming, open source community focused on analytics, metrics and software for community health.
