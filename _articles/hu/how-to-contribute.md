@@ -68,15 +68,6 @@ Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programo
 
 Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való részvételnek vagy hogy találkozz közösségi tagokkal az, hogy más jellegű hozzájárulásod van a projekthez. Ezeknek a kapcsolatoknak a kiépítése lehetőséget teremt arra, hogy a projekt egyéb részein dolgozz.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Az első kapcsolatom a Python fejlesztői csapattal (python-dev) az volt, amikor a 2002 június 17-én kértem őket a levelező listán, hogy fogadják el a javításomat.
-  Gyorsan rákattantam a nyílt forráskódra, így elhatároztam, hogy kezelni fogom a csoport levelezési listáját. Nagyszerű lehetőséget biztosítottak, hogy az adott témában a kérdéseket tisztázzuk, de még fontosabb, hogy észrevettem, ha valaki rámutatott valamire, ami javításra szorult.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Fenntartói Történetek"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Szeretsz rendezvényt szervezni?
 
 * Szervezz gyakorlati előadásokat vagy találkozókat a projektről, [ahogy @fzamperin csinálja a NodeSchool-nál](https://github.com/nodeschool/organizers/issues/406)
@@ -95,7 +86,7 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 * Írd és javítsd a projekt dokumentációját
 * Tarts karban egy példa könyvtárat a projekt használatáról
 * Indíts hírlevelet a projektről, vagy a levelező listáról készít összefoglalót
-* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://packaging.python.org/)
 * Fordíts le a projekt dokumentációját
 
 <aside markdown="1" class="pquote">
@@ -218,8 +209,8 @@ Az alábbiakban találsz néhány oldalt, amelyek segítenek abban, hogy felfede
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Egy ellenőrző lista, mielőtt részt vennél a projektben
 

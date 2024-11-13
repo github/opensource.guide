@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: オープンソースプロジェクトを始めよう
-description: オープンソースの世界のことをもっと学び、あなた自身のプロジェクトを立ち上げる準備をしましょう
+description: オープンソースの世界のことをもっと学び、あなた自身のプロジェクトを立ち上げる準備をしましょう。
 class: beginners
 order: 2
 image: /assets/images/cards/beginner.png
@@ -36,9 +36,9 @@ _フリーソフトウェア_ という言葉も _オープンソース_ と同�
 
 * **コラボレーション：** オープンソースプロジェクトは世界の誰からも変更を受け付けます。例えば [Exercism](https://github.com/exercism/) は、350を超えるコントリビューターがいるプログラミング練習プラットフォームです。
 
-* **取り入れて再構成：** オープンソースプロジェクトは誰しもがほとんどいかなる理由のためにも使えるものです。人々は他のものを作るためにでも使うことができます。例えば [WordPress](https://github.com/WordPress) は、 [b2](https://github.com/WordPress/book/blob/master/Content/Part%201/2-b2-cafelog.md) と呼ばれる既存のプロジェクトのフォークとして始まりました。
+* **取り入れて再構成：** オープンソースプロジェクトは誰しもがほとんどいかなる理由のためにも使えるものです。人々は他のものを作るためにでも使うことができます。例えば [WordPress](https://github.com/WordPress) は、 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) と呼ばれる既存のプロジェクトのフォークとして始まりました。
 
-* **透明性：** 誰でもオープンソースプロジェクトにエラーがないかや一貫していないところがないか調べることができます。透明性は[ブルガリア](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)や[アメリカ](https://sourcecode.cio.gov/)のような政府、銀行やヘルスケアのような規制産業、 [Let's Encrypt](https://github.com/letsencrypt) のようなセキュリティソフトウェアにとって重要です。
+* **透明性：** 誰でもオープンソースプロジェクトにエラーがないかや一貫していないところがないか調べることができます。透明性は[ブルガリア](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a)や[アメリカ](https://www.cio.gov/2016/08/11/peoples-code.html)のような政府、銀行やヘルスケアのような規制産業、 [Let's Encrypt](https://github.com/letsencrypt) のようなセキュリティソフトウェアにとって重要です。
 
 オープンソースはソフトウェアのためだけのものでもありません。データセットから本まであらゆるものをオープンソースにできるのです。他になにかオープンソースにできるものはないかアイデアを得るために [GitHub Explore](https://github.com/explore) をチェックしてみましょう。
 
@@ -56,7 +56,7 @@ _フリーソフトウェア_ という言葉も _オープンソース_ と同�
 
 もし今までプロジェクトをオープンソースにしたことがないのであれば、他の人から何を言われるか、誰も全く気づいてくれないんじゃないかと心配になっているかもしれません。もしあなたがそうだとしたら、あなたは一人ではありません！
 
-オープンソース活動は他の執筆や絵画などのクリエイティブな活動を似ています。世界にあなたの作品を公開するのは怖いと感じるでしょうが、上達する唯一の方法は練習することなのです。たとえ、誰も見ている人が居ないとしても。
+オープンソース活動は他の執筆や絵画などのクリエイティブな活動と似ています。世界にあなたの作品を公開するのは怖いと感じるでしょうが、上達する唯一の方法は練習することなのです。たとえ、誰も見ている人が居ないとしても。
 
 もしまだ納得していないのであれば、あなたのゴールがどういったものであるかを少し考えてみましょう。
 
@@ -172,15 +172,15 @@ CONTRIBUTING ファイルはあなたのプロジェクトにどうやって参�
 
 暖かく友好的なトーンを使って、（ドキュメントを書く、もしくはウェブサイトを作る、といったような）コントリビュートを具体的に提示することで、新しく来る人が歓迎されていて是非参加したいと思ってもらうのにとても役に立ちます。
 
-例えば、 [Active Admin](https://github.com/activeadmin/activeadmin/) は[コントリビュートガイド](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)を下記の内容から始めています：
+例えば、 [Active Admin](https://github.com/activeadmin/activeadmin/) は[コントリビュートガイド](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md)を下記の内容から始めています：
 
 > まずはじめに、 Active Admin へのコントリビュートを考えてくれてありがとうございます。あなたのような人々が Active Admin を偉大なツールにしているのです。
 
-あなたのプロジェクトの最初期では、 CONTRIBUTING ファイルはシンプルで大丈夫です。常にバグの報告の仕方かイシューの登録の仕方、コントリビュートをする際の技術的な要求（テストなど）を書くようにしましょう。
+あなたのプロジェクトの最初期では、 CONTRIBUTING ファイルはシンプルで大丈夫です。常にバグの報告の仕方かイシューの登録の仕方、コントリビュートをする際の技術的な要求（テストなど）を書くようにしましょう。
 
 時間が経つにつれて、 CONTRIBUTING ファイルに頻繁に聞かれる質問を加えるでしょう。こういった情報を書くことによって、同じ質問を何度も繰り返ししてくる人が減っていくでしょう。
 
-CONTRIBUTING ファイルを書くときに更に役に立つものとして、 @nayafia の [contributing guide template](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) や @mozilla の ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) も参考になるでしょう。
+CONTRIBUTING ファイルを書くときに更に役に立つものとして、 @nayafia の [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) や @mozilla の ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) も参考になるでしょう。
 
 README に CONTRIBUTING ファイルへのリンクをすることで、より多くの人の目に触れるようになります。 [CONTRIBUTING ファイルをプロジェクトのリポジトリに置くことで](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)、 GitHub でコントリビューターがイシューを登録したり、プルリクエストをオープンする際に、そのファイルへのリンクが自動的に表示されます。
 
@@ -243,13 +243,13 @@ README に CONTRIBUTING ファイルへのリンクをすることで、より�
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   メーリングリストのすべてのスレッドに関わるようにしましたし、模範的な行動を示し、人々に親切にし、イシューを真剣に捉え、何より助けになるようにしました。しばらくすると、人々は質問をするだけでなく、質問に答えたり、何よりも嬉しいことに私のスタイルを真似してくれたのです。
   <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
 暖かく、排他的でない言葉遣い（一人の人を指すときであっても「彼ら」を使う、といったような）をすることで、あなたのプロジェクトで新しいコントリビューターが歓迎されていると感じてもらうことに繋がります。シンプルな言葉遣いをすることにこだわりましょう。あなたのプロジェクトを見る人の多くは英語のネイティブスピーカーではないかもしれません。
 
-あなたがどう文書を書くかに加えて、あなたのコーディングスタイルもプロジェクトのブランドの一分になるかもしれません。 [Angular](https://github.com/johnpapa/angular-styleguide) と [jQuery](https://contribute.jquery.org/style-guide/js/) の2つは厳密なコーディングスタイルとガイドラインを持つプロジェクトの例です。
+あなたがどう文書を書くかに加えて、あなたのコーディングスタイルもプロジェクトのブランドの一部になるかもしれません。 [Angular](https://github.com/johnpapa/angular-styleguide) と [jQuery](https://contribute.jquery.org/style-guide/js/) の2つは厳密なコーディングスタイルとガイドラインを持つプロジェクトの例です。
 
 かならずしもプロジェクトを始める際にスタイルガイドを書く必要はありませんし、とにかく異なるコーディングスタイルを盛り込むのが楽しいと思うかもしれません。しかし、あなたの文書やコーディングスタイルが異なるタイプの人々を惹きつけることもあれば落胆させることもあるということを予期しておくべきです。プロジェクトの最初期はあなたが望む先例を作る良い機会です。
 

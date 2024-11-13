@@ -68,14 +68,6 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
 
 Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan cara yang baik untuk bisa berpartisipasi pada proyek dan bertemu dengan anggota komunitas lainnya. Membangun hubungan tersebut akan memberikan Anda kesempatan untuk bekerja pada bagian lain dari proyek.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Saya pertama kali menghubungi tim pengembang Python (python-dev) ketika saya mengirimkan pesan email kepada mailing list pada 17 Juni 2002 tentang perbaikan dari saya. Saya dengan cepat menemukan kesalahan, dan memutuskan untuk mulai memilih email dari grup. Mereka memberikan saya alasan yang baik untuk bertanya tentang klarifikasi sebuah topik, tetapi yang lebih penting lagi saya mampu mendeteksi apabila seseorang menunjukkan sesuatu yang perlu diperbaiki.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Apakah Anda suka merencanakan kegiatan?
 
 * Mengelola workshop atau acara pertemuan tentang proyek, [seperti yang dilakukan @fzamperin untuk NodeSchool](https://github.com/nodeschool/organizers/issues/406)
@@ -215,7 +207,8 @@ Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk me
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Daftar sebelum Anda berkontribusi
 
@@ -439,7 +432,7 @@ Jika Anda tidak bisa menemukan ide Anda dimanapun, Anda siap untuk bergerak. Jik
 
 Sebelum Anda membuka sebuah laporan masalah atau melakukan pull request, periksa dokumen kontribusi proyek (biasanya pada dokumen bernama CONTRIBUTING, atau pada README), untuk melihat apakah Anda perlu mencantumkan informasi yang spesifik. Sebagai contoh, mereka mungkin meminta Anda untuk mengikuti sebuah template, atau mengharuskan Anda untuk menggunakan perangkat pengujian.
 
-Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada Github, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
+Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada GitHub, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">

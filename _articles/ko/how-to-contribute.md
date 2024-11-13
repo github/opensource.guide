@@ -10,7 +10,7 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## 왜 오픈소스에 기여할까요?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
@@ -48,7 +48,7 @@ related:
 
 오픈소스에 참여하는 것을 즐기는 평생 기여자가 될 필요는 없습니다. 웹 사이트에서 오타를 발견하고 누군가가 고쳐주길 바란 적 있나요? 오픈소스 프로젝트에서 여러분은 그렇게 할 수 있습니다. 오픈소스는 사람들이 삶에 대해 어떻게 대처하고 그들이 세상을 경험하는지를 느끼도록 도와줍니다.
 
-## What it means to contribute
+## 기여한다는 것의 의미
 
 새로운 오픈소스 기여자라면, 기여하는 과정이 겁날 수도 있습니다. 알맞은 프로젝트를 어떻게 찾아야 할까요? 코딩을 할 줄 모른다면요? 뭔가 잘못되면 어떡하죠?
 
@@ -68,14 +68,6 @@ related:
 
 코드를 작성하는 것을 좋아해도, 다른 유형의 기여는 프로젝트에 참여하고 다른 커뮤니티 구성원을 만날 수 있는 좋은 방법입니다. 이러한 관계를 구축하면 프로젝트의 다른 부분에서 작업할 기회를 얻을 수 있습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories”](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### 행사 계획 짜는 걸 좋아하세요?
 
 * [NodeSchool을 위해 @fzamperin이 했던 것처럼](https://github.com/nodeschool/organizers/issues/406), 프로젝트에 관한 워크샵이나 미팅 조직하기
@@ -94,7 +86,7 @@ related:
 * 프로젝트 문서 작성 및 개선하기
 * 프로젝트 사용법을 보여주는 예제 폴더 선별하기
 * 프로젝트의 뉴스레터 발행을 시작하거나 메일링 리스트의 하이라이트를 관리하기
-* [PyPA의 기여처럼](https://github.com/pypa/python-packaging-user-guide/issues/194), 프로젝트 튜토리얼 작성하기
+* [PyPA의 기여처럼](https://packaging.python.org/), 프로젝트 튜토리얼 작성하기
 * 프로젝트 문서 번역 작성하기
 
 <aside markdown="1" class="pquote">
@@ -142,7 +134,7 @@ related:
 
 비록 당신이 소프트웨어 개발자일지라도, 문서 프로젝트 작업은 오픈소스에서 시작하는 데 도움이 될 수 있습니다. 코드를 포함하지 않는 프로젝트에서 작업하는 것은 보통 어렵지 않으며, 협력하는 과정에서 여러분의 자신감과 경험을 쌓을 수 있을 것입니다.
 
-## Orienting yourself to a new project
+## 새 프로젝트로 향하기
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
@@ -189,11 +181,13 @@ related:
 * **토론 포럼 혹은 메일링 리스트:** 일부 프로젝트는 회화성 주제(버그 제보나 기능 요구 대신 _"...하려면 어떻게 하나요?"_ 또는 _"...에 대해 어떻게 생각하세요?"_ 같은 주제)에 대해 이러한 채널을 사용할 수 있습니다. 나머지 프로젝트는 모든 대화에 이슈 트래커를 사용합니다.
 * **채팅 채널:** 일부 프로젝트에서는 일상 대화, 협업 및 빠른 의사소통을 위해 Slack이나 IRC 같은 채팅 채널을 사용합니다.
 
-## Finding a project to contribute to
+## 기여할 프로젝트 찾기
 
 오픈소스 프로젝트가 어떻게 작동하는지 알았으니, 이제 기여할 프로젝트를 찾아야 합니다!
 
-이전에 오픈소스에 기여한 적이 없다면, 케네디 미국 전 대통령으로부터 조언을 구하세요. _"Ask not what your country can do for you - ask what you can do for your country."_
+이전에 오픈 소스에 기여한 적이 없다면, 미국 존 케네디 대통령의 명언을 떠올려보세요. 
+_"Ask not what your country can do for you - ask what you can do for your country."_
+_"국가가 나를 위해 무엇을 해줄 것을 바라기에 앞서, 내가 국가를 위해 무엇을 할 것인가를 생각해야 한다."_
 
 오픈소스에 기여하는 것은 프로젝트 전반에 걸쳐 모든 수준에서 발생합니다. 여러분의 첫 번째 기여가 정확히 무엇이고 어떻게 보일지 생각할 필요가 없습니다.
 
@@ -215,7 +209,8 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### 기여하기 전 확인할 사항
 
@@ -371,7 +366,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
   </p>
 </aside>
 
-## How to submit a contribution
+## 기여하는 방법
 
 기여하고 싶은 프로젝트를 찾았나요? 드디어! 기여하는 올바른 방법은 다음과 같습니다.
 
@@ -383,7 +378,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
@@ -483,7 +478,7 @@ PR이 반드시 완료된 작업을 포함할 필요는 없습니다. 보통 다
 
 만약 첫 PR을 열려고 한다면 @kentcdodds가 무료 영상 튜토리얼로 공개한 [Make a Pull Request](http://makeapullrequest.com/)를 참조하세요. @Roshanjossey의 [First Contributions](https://github.com/Roshanjossey/first-contributions) 저장소에서 연습해볼 수도 있습니다.
 
-## What happens after you submit a contribution
+## 기여한 후에 일어나는 일
 
 해내셨군요! 오픈소스 기여자가 되신 것을 축하드립니다. 앞으로도 많이 기여하실 수 있기를 바랍니다.
 
@@ -515,6 +510,6 @@ PR이 반드시 완료된 작업을 포함할 필요는 없습니다. 보통 다
 
 만세! 오픈소스에 기여하는 데 성공했습니다!
 
-## You did it!
+## 해냈어요!
 
 처음으로 오픈소스에 기여한 사람이든, 기여할 새로운 방법을 찾고 있든, 이 문서가 그것을 행동에 옮길 수 있는 계기가 되었길 바랍니다. 비록 기여가 받아들여지지 않더라도, 관리자가 당신을 도우려 할 때 감사의 말을 하는 것을 잊지 마세요. 오픈소스의 이슈, PR, 댓글 하나하나는 여러분에 의해 만들어집니다. 

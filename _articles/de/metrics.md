@@ -29,7 +29,7 @@ Mit mehr Informationen können Sie:
 >
 > Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
 
-Popularität ist nicht alles. Jeder kommt aus verschiedenen Gründen auf Open Source. Wenn Ihr Ziel als Open-Source-Betreuer\*in darin besteht, Ihre Arbeit zu präsentieren, Ihren Code transparent zu machen oder einfach nur um Spaß zu haben, sind Metriken für Sie möglicherweise nicht wichtig.
+Popularität ist nicht alles. Jeder kommt aus verschiedenen Gründen auf Open-Source. Wenn Ihr Ziel als Open-Source-Betreuer\*in darin besteht, Ihre Arbeit zu präsentieren, Ihren Code transparent zu machen oder einfach nur um Spaß zu haben, sind Metriken für Sie möglicherweise nicht wichtig.
 
 Wenn Sie daran interessiert sind, Ihr Projekt auf einer tieferen Ebene zu verstehen, lesen Sie weiter, um die Aktivitäten Ihres Projekts zu analysieren.
 
@@ -49,7 +49,7 @@ Wenn Ihr Projekt auf GitHub gehostet wird, [können Sie sich ansehen](https://he
 
 * **Popular content** zeigt, wohin Besucher\*innen auf Ihrer Projektseite gehen, aufgeschlüsselt nach Seitenaufrufen und einzelnen Besucher\*innen.
 
-[GitHub-Stern](https://help.github.com/articles/about-stars/) korrelieren nicht unbedingt mit Downloads und Nutzung, aber zeigen Ihnen, wie viele Menschen Ihre Arbeit schätzen.
+[GitHub-Sterne](https://help.github.com/articles/about-stars/) korrelieren nicht unbedingt mit Downloads und Nutzung, aber zeigen Ihnen, wie viele Menschen Ihre Arbeit schätzen.
 
 Vielleicht möchten Sie auch [die Auffindbarkeit an bestimmten Orten verfolgen](https://opensource.com/business/16/6/pirate-metrics): z.B. Google PageRank, von Ihrer Projektwebsite ausgehende Empfehlungen, oder eingehende Empfehlungen anderer Open-Source-Projekte oder -Webseiten.
 
@@ -72,7 +72,7 @@ Wenn die Nutzung im Vergleich zur Anzahl der Personen, die Ihr Projekt entdecken
 
 Wenn Ihr Projekt z.B. auf der Titelseite von [Hacker News](https://news.ycombinator.com/) landet, werden Sie wahrscheinlich eine Steigerung der Entdeckungsrate (Traffic) sehen, aber eine niedrigere Konversionsrate, weil Sie alle auf Hacker News erreichen. Wenn Ihr Ruby-Projekt jedoch auf einer Ruby-Konferenz vorgestellt wird, ist es wahrscheinlicher, dass Sie eine hohe Konversionsrate von einem Zielpublikum sehen.
 
-Versuchen Sie herauszufinden woher Ihr Publikum kommt, und bitten Sie auf Ihrer Projektseite um Feedback der Besucher\*innen, um herauszufinden, welche dieser beiden Effekte Ihr Projekt betrifft.
+Versuchen Sie herauszufinden, woher Ihr Publikum kommt, und bitten Sie auf Ihrer Projektseite um Feedback der Besucher\*innen, um herauszufinden, welche dieser beiden Effekte Ihr Projekt betrifft.
 
 Sobald Sie wissen, dass Leute Ihr Projekt benutzen, möchten Sie vielleicht versuchen, herauszufinden, was sie damit machen. Bauen sie darauf auf, indem sie Ihren Code forken und Funktionen hinzufügen? Nutzen sie es für wissenschaftliche oder gewerbsmäßige Zwecke?
 
@@ -101,7 +101,7 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
 
-  Open Source ist mehr als nur Code: Erfolgreiche Open-Source-Projekte beinhalten Code und Dokumentationsbeiträge sowie Gespräche über diese Änderungen.
+  Open-Source ist mehr als nur Code: Erfolgreiche Open-Source-Projekte beinhalten Code und Dokumentationsbeiträge sowie Gespräche über diese Änderungen.
 
   _Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes._
 
@@ -118,14 +118,14 @@ Unresponsive Betreuer\*innen werden zum Flaschenhals für Open-Source-Projekte. 
 
 [Untersuchungen von Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) deuten darauf hin, dass eine schnelle und freundliche Reaktion der Maintainer\*innen Mitwirkende zu weiteren Beiträgen ermutigt.
 
-Überlegen Sie, wie lange es dauert, bis Sie (oder ein anderer Betreuer) auf Beiträge reagieren, egal ob es sich um ein Issue oder ein Pull Request handelt. Die Reaktion muss keine Maßnahme sein; Auch ein einfaches : _"Vielen Dank für diesen Beitrag! Ich werde ihn innerhalb einer Woche überprüfen."_ zählt.
+Überlegen Sie, wie lange es dauert, bis Sie (oder ein\*e andere\*r Betreuer\*in) auf Beiträge reagieren, egal ob es sich um ein Issue oder ein Pull Request handelt. Die Reaktion muss keine Maßnahme sein; Auch ein einfaches : _"Vielen Dank für diesen Beitrag! Ich werde ihn innerhalb einer Woche überprüfen."_ zählt.
 
 Sie können auch die Zeit messen, die benötigt wird, um zwischen den einzelnen Phasen des Beitragsprozesses zu wechseln, wie z.B:
 
 * Die durchschnittliche Dauer, die ein Issue offen bleibt
 * Ob Issues durch PRs geschlossen werden
 * Ob veraltete Issues geschlossen werden
-* Die Durchschnittliche Zeit für den Merge eines Pull Requests
+* Die durchschnittliche Zeit für den Merge eines Pull Requests
 
 ## Nutzen Sie 📊 um die Helfer\*innen besser zu verstehen
 

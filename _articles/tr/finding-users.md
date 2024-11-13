@@ -3,13 +3,6 @@ lang: tr
 title: Projeniz için Kullanıcı Bulma
 description: Açık kaynaklı projenizin, mutlu kullanıcıların eline geçerek büyümesini sağlayın.
 class: finding
-toc:
-  spreading-the-word: Duyurmak
-  figure-out-your-message: Mesajını ilet
-  help-people-find-and-follow-your-project: İnsanların projenizi bulmasına ve takip etmesine yardımcı olun
-  go-where-your-projects-audience-is-online: Projenizin izleyicisinin (çevrimiçi) olduğu yere gidin
-  go-where-your-projects-audience-is-offline: Projenizin kitlesinin (çevrimdışı) olduğu yere gidin
-  build-a-reputation: Bir itibar oluşturun
 order: 3
 image: "/assets/images/cards/finding.png"
 related:
@@ -68,7 +61,7 @@ Projeniz GitHub'da barındırıyorsanız, kolayca web sitesi yapmak için [GitHu
 
 Artık projeniz için bir mesajınız ve insanların projenizi bulmaları için kolay bir yolu olsun, haydi çıkıp izleyicilerinizle konuşun!
 
-## Projenizin izleyicisinin (çevrimiçi) olduğu yere gidin
+## Projenizin hedef kitlesinin olduğu yere gidin (çevrimiçi olarak)
 
 Çevrimiçi sosyal yardım, mesajınızı hızla paylaşmanın ve yaymanın harika bir yoludur. Çevrimiçi kanalları kullanarak, çok geniş bir kitleye ulaşma potansiyeline sahip olursunuz.
 
@@ -92,7 +85,7 @@ Genel olarak konuşursak, karşılığında bir şey istemeden önce başkaları
 
 İlk duyurularınız hiç kimsesin dikkatini çekmiyorsa veya kimse cevap vermiyorsa, cesaretini kırmayın! Çoğu proje lansmanı aylar veya yıllar alabilen yinelemeli bir süreçtir. İlk kez bir yanıt alamazsanız, farklı bir taktik deneyin veya başkalarının çalışmalarına ilk olarak değer katmanın yollarını arayın. Projenizi tanıtmak ve başlatmak zaman ve özveri gerektirir.
 
-## Projenizin kitlesinin (çevrimdışı) olduğu yere gidin
+## Projenizin hedef kitlesinin olduğu yere gidin (çevrimdışı)
 
 ![Public speaking](/assets/images/finding-users/public_speaking.jpg)
 
@@ -128,7 +121,7 @@ Dilinize veya ekosisteminize özgü konferansları arayın. Konuşmanızı gönd
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   JSConf insanlarına çok hoş bir şekilde yazdım ve bana JSConf AB'de sunabileceğim bir yer vermeleri için yalvardım. (...) Altı aydır üzerinde çalıştığım bu şeyi sunarken son derece korktum. (...) Bütün konuşma sırasında şunu düşündüm. Aman tanrım, burada ne yapıyorum?
   <p markdown="1" class="pquote-credit">
-- @ry, ["Node.js'nin Hikayesi" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+- @ry, ["Node.js'nin Hikayesi" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&amp;t=24m57s)
   </p>
 </aside>
 
@@ -149,14 +142,6 @@ Yeni gelenlere yardım etmek, kaynakları paylaşmak ve başkalarının projeler
 İtibarınızı oluşturmak için asla çok erken veya geç değildir. Kendi projenizi daha önce başlatmış olsanız bile, başkalarına yardım etmenin yollarını aramaya devam edin.
 
 Kitle oluşturmak için bir gecede çözüm yoktur. Başkalarının güvenini ve saygısını kazanmak zaman alır ve itibarınızı geliştirmek hiç tamamlanmayan bir iştir.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS ilk kez 2011 yılının başında piyasaya sürüldü. (...) Mesajını her zamanki gibi yaydım: Tweetledim, yapabileceğin şeyler hakkında blog yazıları yazdım, buluşmalarda çeşitli tartışmalar sırasında bahsettim. 2014 yılında daha iyi tanındığında, onunla ilgili sunumlar yapmaya başladım.
-  <p markdown="1" class="pquote-credit">
-- @ariya, ["Geliştirici Hikayeleri"](https://github.com/open-source/stories/ariya) 
-  </p>
-</aside>
 
 ## Devam et!
 

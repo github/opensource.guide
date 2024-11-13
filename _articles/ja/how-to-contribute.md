@@ -68,14 +68,6 @@ related:
 
 たとえコードを書くことが好きであったとしても、他の種類のコントリビュートはプロジェクトに関わり、他のコミュニティメンバーに会う良いやり方です。このような関係を作ることはそのプロジェクトの他の部分に関わる人と仕事をする機会を与えてくれます。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  私が初めて Python 開発チーム(別名 python-dev )と接触したのは、2002年6月17日に私のパッチを受け入れてもらうためにメーリングリストにメールをした時でした。私はすぐにオープンソースバグに遭遇し、グループのためにメールの要約を整理し始めることにしました。彼らは、私の各トピックについての質問に寛大に接してくれましたが、更に非常に重要だったのが、誰かが修正が必要であるなにかを指摘した時にすぐに気づくことができるようになったということでした。
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### イベントを計画するのが好きですか？
 
 * [@fzamperin が NodeSchool でやったように](https://github.com/nodeschool/organizers/issues/406)ワークショップやミートアップを開催する
@@ -94,7 +86,7 @@ related:
 * プロジェクトのドキュメントを書いたり改善する
 * プロジェクトがどのように使われているかの事例を選別する
 * プロジェクトのニュースレターを始めたり、メーリングリストのハイライトを整理する
-* [PyPA のコントリビューターがやったように](https://github.com/pypa/python-packaging-user-guide/issues/194)、プロジェクトのチュートリアルを書く
+* [PyPA のコントリビューターがやったように](https://packaging.python.org/)、プロジェクトのチュートリアルを書く
 * プロジェクトのドキュメントを翻訳する
 
 <aside markdown="1" class="pquote">
@@ -140,7 +132,7 @@ related:
 * @h5bp はフロントエンド開発者のための[面接での質問集](https://github.com/h5bp/Front-end-Developer-Interview-Questions)をまとめています
 * @stuartlynn と @nicole-a-tesla は[ツノメドリについての愉快な事柄のコレクション](https://github.com/stuartlynn/puffin_facts)を作っています
 
-たとえあなたがソフトウェアエンジニアだったとしても、ドキュメントを書くことはオープンソース活動を始めるにあたって良いスタートとなります。ときにはコードを書かないプロジェクトに関わること障壁が低く、コラボレーションのプロセスを通じて自身と経験を身につけることができます。
+たとえあなたがソフトウェアエンジニアだったとしても、ドキュメントを書くことはオープンソース活動を始めるにあたって良いスタートとなります。ときにはコードを書かないプロジェクトに関わることのほうが障壁が低く、コラボレーションのプロセスを通じて自信と経験を身につけることができます。
 
 ## 新しいプロジェクトに順応しよう
 
@@ -211,12 +203,12 @@ README を読んで、壊れたリンクやタイポを見つけるかもしれ�
 
 * [GitHub Explore](https://github.com/explore/)
 * [Open Source Friday](https://opensourcefriday.com)
-* [First Timers Only](http://www.firsttimersonly.com/)
-* [Your First PR](https://yourfirstpr.github.io/)
+* [First Timers Only](https://www.firsttimersonly.com/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
-* [Up For Grabs](http://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
+* [Up For Grabs](https://up-for-grabs.net/)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### コントリビュートする前のチェックリスト
 
@@ -388,7 +380,7 @@ master ブランチのコミットアクティビティをみてみましょう�
   </p>
 </aside>
 
-イシューやプルリクエストをオープンする前に、あなたのアイデアが効果的に扱われる助けのために、これらのことを心のとどめておきましょう。
+イシューやプルリクエストをオープンする前に、あなたのアイデアが効果的に扱われる助けのために、これらのことを心にとどめておきましょう。
 
 **コンテキストを与えましょう。** 他の人がすぐに把握する手助けをしましょう。もしあなたがエラーに遭遇しているのであれば、あなたが何をしようとしていて、どうやって再現させるのかを説明しましょう。もしあなたが新しいアイデアを提案しているのであれば、なぜそれがプロジェクトにとって（あなたにとってだけではなく！）便利だと思うのかを説明しましょう。
 

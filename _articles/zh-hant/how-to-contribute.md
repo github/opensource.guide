@@ -57,7 +57,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 ### **你不一定要會寫程式才能貢獻**
 
-對開源做出貢獻常見的誤解之一就是：要寫程式纔算貢獻。其實專案裡不需編碼的工作也是[經常被忽視](https://github.com/blog/2195-the-shape-of-open-source)的部分。你對專案所做的非程式類貢獻，其實是對專案來說莫大的幫助！
+對開源做出貢獻常見的誤解之一就是：要寫程式才算貢獻。其實專案裡不需編碼的工作也是[經常被忽視](https://github.com/blog/2195-the-shape-of-open-source)的部分。你對專案所做的非程式類貢獻，其實是對專案來說莫大的幫助！
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
@@ -68,14 +68,6 @@ redirect_from: /zh-tw/how-to-contribute/
 </aside>
 
 即便你樂於寫程式，撰寫程式以外的貢獻對於專案來說也是舉足輕重的，維繫這樣的關係也能讓你獲得與專案的其他成員共事的機會。
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars3.githubusercontent.com/u/54418?v=3&s=460" class="pquote-avatar" alt="avatar">
-  我第一次接觸 Python 開發團隊（簡稱 python-dev）是在 2002年6月17日，當時我向郵件列表寄了一份請求接受補丁的信，接著我決定為工作小組蒐集整理郵件摘要，後來他們甚至給了我一個機會去諮詢某個主題，這當中的關鍵是，我能注意到有人指出哪些東西必須要處裡。
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["系統維護者的故事"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### **你是否熱衷於規劃活動？**
 
@@ -95,7 +87,7 @@ redirect_from: /zh-tw/how-to-contribute/
 * 撰寫和改善專案的說明文件
 * 策劃一個資料夾來蒐集專案的實際應用案例
 * 辦一個專案的電子報，或者蒐整郵件列表的摘要
-* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://packaging.python.org/)
 * 翻譯專案的說明文件
 
 <aside markdown="1" class="pquote">
@@ -133,7 +125,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 ### **其實不一定要是開源軟體的專案！**
 
-雖然很多人提到「開源」兩字是指「開源軟體」，其實不盡是如此，許多事物你都可以你可以開源協作，你可以開源一本書、開源食譜、開源一張你整理的清單，都可以像開源軟體一樣發展你想製作的東西。
+雖然很多人提到「開源」兩字是指「開源軟體」，其實不盡是如此，許多事物你都可以開源協作，你可以開源一本書、開源食譜、開源一張你整理的清單，都可以像開源軟體一樣發展你想製作的東西。
 
 舉例來說：
 
@@ -141,7 +133,7 @@ redirect_from: /zh-tw/how-to-contribute/
 * @h5bp 維護了針對前端開發者的[面試題](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * @stuartlynn 和 @nicole-a-tesla 蒐集了[關於海鸚的小知識](https://github.com/stuartlynn/puffin_facts)
 
-即使你是一個軟體開法者，撰寫說明文件也能幫助剛加入開源的你去更加的認識它。這通常也能讓你以一個不用接觸程式碼的方式自在的參與專案，當中協作的過程亦能建立你的信心與經驗。
+即使你是一個軟體開發者，撰寫說明文件也能幫助剛加入開源的你去更加的認識它。這通常也能讓你以一個不用接觸程式碼的方式自在的參與專案，當中協作的過程亦能建立你的信心與經驗。
 
 ## **根據專案定位自我**
 
@@ -179,7 +171,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 * **許可協議（LICENSE）:** 根據定義，每個開源專案都必須有個[開源許可協議](https://choosealicense.com)。如果專案沒有的話，那它不能算是個開源社群。
 * **README:**  README 是一個引導手冊，對剛加入社群的人們表示歡迎，它通常會解釋專案有何用處，為何發起，以及如何快速入門等。
-* **貢獻（CONTRIBUTING）:**  READMES 幫助人認識與使用專案，「貢獻」這個文件則是針對想對專案貢獻的人寫的指南。它會說明目前專案需要怎樣類型的貢獻者，並介紹貢獻時的流程是如何進行。並非所有的專案都會有這個文件，但如果有的話某種程度上也是向有意貢獻的人表達友善的意思。
+* **貢獻（CONTRIBUTING）:**  README 幫助人認識與使用專案，「貢獻」這個文件則是針對想對專案貢獻的人寫的指南。它會說明目前專案需要怎樣類型的貢獻者，並介紹貢獻時的流程是如何進行。並非所有的專案都會有這個文件，但如果有的話某種程度上也是向有意貢獻的人表達友善的意思。
 * **行爲準則（CODE_OF_CONDUCT）:** 這份文件裡頭設立了基本規範來約束參與者的行為以及提醒應有的禮儀，並非所有的專案都會有這個文件，但如果有的話某種程度上也是向有意貢獻的人表達友善的意思。
 * **其它文件:** 有些專案也許還有其它文件，例如教學、專案導覽，或者是管理政策，這在大型專案中常見。
 
@@ -196,7 +188,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 如果你從來都沒有爲開源做過貢獻的話，那麼請謹記來自美國總統約翰 F.肯尼迪的這段話：「**不問國家能爲你做什麼，要問你能爲國家做什麼。**」
 
-開源專案的每個面向與跨專案間都需要貢獻者，先不用太專牛角尖的去想你一定要先在那做貢獻，或是做得好不好。
+開源專案的每個面向與跨專案間都需要貢獻者，先不用太鑽牛角尖的去想你一定要先在那做貢獻，或是做得好不好。
 
 不如從你使用過的或將來會使用到的專案開始貢獻，你特別關注的專案才會是你會自願積極參與的專案。
 
@@ -212,11 +204,12 @@ redirect_from: /zh-tw/how-to-contribute/
 
 * [GitHub 探索](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
-* [你的第一個 PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [貢獻忍者](https://contributor.ninja)
+* [最初的贡献](https://firstcontributions.github.io)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### **提交貢獻前應做的檢查清單**
 
@@ -235,7 +228,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 **專案是否積極地接受各方的貢獻**
 
-在 master branch 上看看提交的活躍度。在 GitHub 上託管的開源專案，你可以在專案主頁上看到這些訊息。
+在 main branch 上看看提交的活躍度。在 GitHub 上託管的開源專案，你可以在專案主頁上看到這些訊息。
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
@@ -390,7 +383,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 在你提出一個 issue 或 PR 之前，或者是在聊天室提問之前，請謹記下面所列出的幾點建議，會讓你的工作更有效率。
 
-**交代來龍去脈。** 以便於讓其他人能夠快速的理解。比方說執行程式時遇到一個錯誤，你要解釋你是當時是想做甚麼，並描述如何做才能重現錯誤。又比方說你是提交一個新的想法，你要解釋爲什麼這麼想，為什麼你認為這點子對專案會有幫助（而不是只對你有幫助！）
+**交代來龍去脈。** 以便於讓其他人能夠快速的理解。比方說執行程式時遇到一個錯誤，你要解釋你當時是想做甚麼，並描述如何做才能重現錯誤。又比方說你是提交一個新的想法，你要解釋爲什麼這麼想，為什麼你認為這點子對專案會有幫助（而不是只對你有幫助！）
 
 > 😇 _"當我做 Y 的時候 X 功能沒有正常運作"_
 >

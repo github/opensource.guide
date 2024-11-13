@@ -3,13 +3,6 @@ lang: ro
 title: Găsirea de utilizatori pentru proiectul tău
 description: Ajută-ți proiectul cu sursă deschisă să crească punându-l în mâinile utilizatorilor fericiți.
 class: finding
-toc:
-  spreading-the-word: "Răspândirea cuvântului"
-  figure-out-your-message: "Găsește-ți mesajul"
-  help-people-find-and-follow-your-project: "Ajută oamenii să-ți găsească și să-ți urmeze proiectul"
-  go-where-your-projects-audience-is-online: "Mergi acolo unde este audiența proiectului tău (online)"
-  go-where-your-projects-audience-is-offline: "Mergi acolo unde este audiența proiectului tău (offline)"
-  build-a-reputation: "Construiește-ți o reputație"
 order: 3
 image: /assets/images/cards/finding.png
 related:
@@ -198,21 +191,6 @@ Ajutând nou-veniții, împărțind resurse, și făcând contribuții gândite 
 Nu este niciodată prea devreme, sau prea tâziu, să începi să-ți construiești reputația. Chiar dacă ți-ai lansat deja propriul tău proiect, continuă să cauți căi de a-i ajuta pe ceilalți.
 
 Nu există o soluție peste noapte de a construi un public. Obținerea încrederii și respectului celorlalți ia timp, și construirea reputației tale nu se sfârșește niciodată.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  <p>
-    PhantomJS a fost lansat prima dată la începutul lui 2011. (...) Am răspândit cuvântul prin căile obișnuite: am tweet-uit despre el, am scris postări de blog despre lucruri pe care le poți face cu el, l-am menționat în timpul variatelor discuții din întâlniri. Când a devenit mai cunoscut în 2014, am început să țin prezentări despre el.
-  </p>
-  <p>
-    <em>
-      PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
-    </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Continuă!
 

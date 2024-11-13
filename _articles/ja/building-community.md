@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: 居心地の良いコミュニティを築こう
-description: 人々があなたのプロジェクトを使ったり、コントリビュートしたり、人に伝えたくなるようなコミュニティを築きましょう
+description: 人々があなたのプロジェクトを使ったり、コントリビュートしたり、人に伝えたくなるようなコミュニティを築きましょう。
 class: building
 order: 4
 image: /assets/images/cards/building.png
@@ -30,7 +30,7 @@ related:
 * **コントリビュートの仕方をわかりやすく説明しよう**。その際、 [CONTRIBUTING ファイルを使い](../starting-a-project/#コントリビュートのガイドラインを書く)、イシューの状態を最新に保ちましょう。
 
 [GitHub の 2017 Open Source Survey](http://opensourcesurvey.org/2017/) では、未完成であったり混乱するドキュメントはオープンソースプロジェクトのユーザーにとって最大の問題である事が示されています。良いドキュメントが人々をあなたのプロジェクトに招き入れます。結果として、イシューやプルリクエストを登録する人が出てきます。こういったやり取りを、漏斗の底に近づいてもらう機会として利用しましょう。
- 
+
 * **新しくプロジェクトに参加してくれた人に対して、興味を示してくれたことへの感謝の気持ちを伝えよう！** 一度ネガティブな経験をしただけで、人は戻ってきてくれなくなってしまいます。
 * **すぐに返事を返すようにしよう。** 一ヶ月もの間イシューに返事をしなければ、おそらく彼らはあなたのプロジェクトのことを忘れ去ってしまうでしょう。
 * **受け入れるコントリビュートの種類について心を広く持とう。** 多くのコントリビューターがバグレポートや小さな修正から始めます。プロジェクトへの[コントリビュートには多くのやり方](../how-to-contribute/#コントリビュートするということが意味するもの)があります。人々が望むやり方でコントリビュートできるように手助けしましょう。
@@ -54,7 +54,7 @@ related:
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   これまでに（技術）イベントに参加して、知り合いが誰もおらず、周りは皆グループになって古くからの友人同士のように話しているといった経験をしたことはありませんか？（中略）オープンソースプロジェクトにコントリビュートをしたいと思っているのに、なぜ、またはどのようにそのプロジェクトが立ち上がったのかがわからないという状況を想像してみて下さい。
   <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -82,7 +82,7 @@ related:
 
 ![Middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[Mozilla の調査によると](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)、48時間以内にコードレビューをしてもらったコントリビューターは返答や再度コントリビュートを行う確率が非常に高いということがわかっています。 
+[Mozilla の調査によると](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)、48時間以内にコードレビューをしてもらったコントリビューターは返答や再度コントリビュートを行う確率が非常に高いということがわかっています。
 
 Stack Overflow、Twitter、Reddit といったインターネットにおける他の場所でもあなたのプロジェクトについての会話が交わされることがあります。そのような場所からも通知が来るよう設定しておくことで、誰かがあなたのプロジェクトに言及したときに通知を受け取ることができます。
 
@@ -138,7 +138,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 プロジェクトを見たほとんどの人はあなたとやり取りすることはないでしょう。人々は恐れを感じたり、どのように始めたらよいかわからないといった理由で、コントリビュートをやめたかもしれません。そういった場合でも、ほんの少しでも彼らを歓迎する言葉があれば、彼らがイライラしてプロジェクトを去ってしまう事を防ぐことができます。
 
-これは [Rubinius](https://github.com/rubinius/rubinius/) の[コントリビュートガイド](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)の書き出しの例です：
+これは [Rubinius](https://github.com/rubinius/rubinius/) の[コントリビュートガイド](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md)の書き出しの例です：
 
 > まず最初に、Rubinius を使ってくれてありがとうとお伝えしたいと思います。このプロジェクトは愛の結晶であり、バグを見つけてくれたり、性能を向上させたり、ドキュメントを書くことを手伝ってくれる全てのユーザーに感謝しています。あらゆるコントリビュートには意味があるので、参加してくれることに感謝しています。そうは言っても、私達があなた達の問題に首尾よく取り組む事ができるように、いくつかのガイドラインに従うようお願いしたいと思います。
 
@@ -148,7 +148,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   リーダーたちは異なる意見を持っていることでしょう。あらゆる健全なコミュニティはそうあるべきなのです！しかし、大きな声が人々を疲弊させることによって必ずしも勝つとは限らず、目立たない少数派の声も聞き入れられるように対策を講じる必要があります。
   <p markdown="1" class="pquote-credit">
-— @@sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
 </aside>
 
@@ -160,7 +160,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 ![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **CONTRIBUTORS ファイルや AUTHORS ファイルをプロジェクトに作ろう。** [Sinatra](https://github.com/sinatra/sinatra/blob/master/AUTHORS.md) が実施しているように、これらのファイルにプロジェクトにコントリビュートしてくれた人すべてをリストしましょう。
+* **CONTRIBUTORS ファイルや AUTHORS ファイルをプロジェクトに作ろう。** [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) が実施しているように、これらのファイルにプロジェクトにコントリビュートしてくれた人すべてをリストしましょう。
 
 * かなり大きなコミュニティを既に獲得しているのであれば、コントリビューターへの感謝を伝える **ニュースレターを送ったり、ブログポストを書いたりしましょう。** Rust の [This Week in Rust](https://this-week-in-rust.org/) や Hoodie の [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) はどちらも良い事例です。
 
@@ -168,7 +168,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 * もしプロジェクトが GitHub 上にあるのであれば、 **プロジェクトをあなた個人のアカウントから [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** に移し、最低でも一人代わりの管理者を追加しましょう。 Organization によって外部の協力者と一緒にプロジェクト上での作業をしやすくなります。
 
-実際のところ、[ほとんどのプロジェクトはたった](https://peerj.com/preprints/1233.pdf) 一人か二人のメンテナーしかおらず、彼らがほとんどの作業を行っています。プロジェクトやコミュニティが大きくなるほど、協力者を見つけるのがより簡単になります。
+実際のところ、[ほとんどのプロジェクトはたった](https://peerj.com/preprints/1233/) 一人か二人のメンテナーしかおらず、彼らがほとんどの作業を行っています。プロジェクトやコミュニティが大きくなるほど、協力者を見つけるのがより簡単になります。
 
 常に要求に応じてくれる人が見つかるとは限りませんが、そういったシグナルを出しておくことで、協力してくれる人が出てくるチャンスが増えます。そしてより早く始めると、より早く人々が助けてくれるでしょう。
 
@@ -198,7 +198,7 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   プロジェクトのメンテナーとして、コントリビューターに対して敬意を払うのは非常に重要です。彼らはあなたの言うことを非常に個人的に捉えることがよくあります。
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -224,7 +224,7 @@ README は[単なる手順書以上の存在です](../starting-a-project/#readm
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Atom の Issue に投票システムが存在しない理由の一部は、 Atom チームはあらゆるケースにおいて投票システムを使うわけではないからです。時には、あまり支持されていなくても、正しいと感じることを選ぶ必要があります。（中略）私が提供し、実施すると固く約束するのは…、コミュニティの意見に耳を傾けることが私の仕事であるということです。
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom's decision making process
   </p>
 </aside>
 

@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: あなたのプロジェクトのユーザーを見つけよう
-description: あなたのプロジェクトを喜んで使ってくれるユーザーを獲得してプロジェクトを拡大しよう
+description: あなたのプロジェクトを喜んで使ってくれるユーザーを獲得してプロジェクトを拡大しよう。
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -142,14 +142,6 @@ Django の共同作者の [@adrianholovaty](https://news.ycombinator.com/item?id
 評判を築くのに早すぎたり遅すぎることはありません。既にプロジェクトを立ち上げていたとしても、他の人を助ける方法を探し続けましょう。
 
 一夜で人々を引きつけるようなやり方はありません。信頼や尊敬を得るには時間がかかりますし、評判を築く事は永遠に終わることはありません。
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS は2011年初頭に初めてリリースされました。（中略）私は普通のやり方でメッセージを広めていきました：プロジェクトについてツイートし、人々がこのプロジェクトを使うことでできることについてブログポストを書き、ミートアップの様々な議論で言及しました。2014年にもっと知られるようになった時、プロジェクトについてプレゼンテーションをし始めました。
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## やり続けよう！
 

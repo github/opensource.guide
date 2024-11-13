@@ -5,7 +5,7 @@ de:
     contribute: Mitarbeiten
   index:
     lead: Open-Source-Software wird von Menschen wie Ihnen gemacht. Lernen Sie, wie Sie Ihr Projekt anfangen und ausbauen können.
-    opensourcefriday: Es ist Freitag! Investieren Sie ein paar Stunden in die Software, die Sie verwenden und lieben.
+    opensourcefriday: Es ist Freitag! Investieren Sie ein paar Stunden in die Software, die Sie verwenden und lieben
   article:
     table_of_contents: Inhaltsverzeichnis
     back_to_all_guides: Zurück zur Übersicht
@@ -28,4 +28,4 @@ de:
       # Label für das Herz-Octicon
       love_label: love
       # Label für das Octicon der Mitwirkenden
-      friends_label: friends
+      friends_label: Freunden

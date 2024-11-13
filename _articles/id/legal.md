@@ -32,7 +32,7 @@ Ketika Anda [membuat proyek baru](https://help.github.com/articles/creating-a-ne
 
 ![create repository](/assets/images/legal/repo-create-name.png)
 
-**Membuat proyek GitHub Anda sebagai publik tidaklah sama dengan melisensikan proyek Anda.** Proyek publik dibahas pada [Perjanjian Layanan GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang mengijinkan orang lain untuk melihat dan melakukan fork terhadap proyek Anda, tetapi jika tidak, maka tidak ada hak akses terhadap proyek Anda.
+**Membuat proyek GitHub Anda sebagai publik tidaklah sama dengan melisensikan proyek Anda.** Proyek publik dibahas pada [Perjanjian Layanan GitHub](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), yang mengijinkan orang lain untuk melihat dan melakukan fork terhadap proyek Anda, tetapi jika tidak, maka tidak ada hak akses terhadap proyek Anda.
 
 Jika Anda menginginkan orang lain untuk bisa menggunakan, menyalin, memodifikasi, atau berkontribusi balik pada proyek Anda, Anda perlu menyertakan sebuah lisensi open source. Sebagai contoh, seseorang tidak dapat menggunakan sembarang bagian dari proyek GitHub Anda pada kode mereka secara legal, meskipun bersifat publik, kecuali Anda memberikan ijin kepada mereka.
 
@@ -98,13 +98,13 @@ Juga, dengan menambahkan "pekerjaan administratif" yang dipercaya oleh sebagian 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Kami telah menghilangkan CLA untuk Node.js. Dengan melakukan hal ini akan mengurangi hambatan bagi kontributor Node.js untuk bergabung sehingga memperluas area basis kontributor.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 Beberapa situasi dimana Anda ingin mempertimbangkan perjanjian kontributor tambahan pada proyek Anda meliputi:
 
-* Pengacara Anda ingin semua kontributor menerima perjanjian kontribusi (_tandatangan_, online atau offline), karena mereka merasa lisensi open source tidaklah cukup (meskipun sebenarnya sudah!). Jika ini merupakan satu-satunya alasan, sebuah perjanjian kontributor yang mengakui lisensi open source sudahlah cukup. [Perjanjian Lisensi Kontributor Individual jQuery](https://contribute.jquery.org/CLA/) adalah contoh bagus dari perjanjian kontributor tambahan yang sederhana. Untuk beberapa proyek [Developer Certificate of Origin](https://github.com/probot/dco) mungkin menjadi alternatif yang lebih sederhana.
+* Pengacara Anda ingin semua kontributor menerima perjanjian kontribusi (_tandatangan_, online atau offline), karena mereka merasa lisensi open source tidaklah cukup (meskipun sebenarnya sudah!). Jika ini merupakan satu-satunya alasan, sebuah perjanjian kontributor yang mengakui lisensi open source sudahlah cukup. [Perjanjian Lisensi Kontributor Individual jQuery](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) adalah contoh bagus dari perjanjian kontributor tambahan yang sederhana. Untuk beberapa proyek [Developer Certificate of Origin](https://github.com/probot/dco) mungkin menjadi alternatif yang lebih sederhana.
 * Proyek Anda menggunakan lisensi open source yang tidak menyertakan ijin patent (seperti MIT), dan Anda perlu pengajuan patent dari semua kontributor, beberapa diantaranya yang mungkin bekerja pada perusahaan dengan portofolio paten yang besar yang bisa digunakan untuk menyerang Anda atau kontributor atau pengguna proyek Anda. [Perjanjian Lisensi Kontributor Individual Apache](https://www.apache.org/licenses/icla.pdf) adalah perjanjian kontributor tambahan yang sering dipakai dan memiliki ijin penggunaan patent mengikuti apa yang bisa ditemukan pada lisensi Apache 2.0.
 * Proyek Anda berada dibawah lisensi copyleft, tetapi Anda juga perlu mendistribusikan versi tertutup dari proyek Anda. Anda mungkin perlu meminta setiap kontributor untuk menyatakan hak cipta kepada Anda atau memberikan ijin kepada Anda (tetapi bukan kepada publik) sebuah lisensi yang bersifat _permissive_. [Perjanjian Kontributor MongoDB](https://www.mongodb.com/legal/contributor-agreement) adalah contoh jenis perjanjian ini.
 * Anda berpikir proyek Anda perlu mengubah lisensi dikemudian hari dan ingin para kontributor untuk menyetujuinya di awal terhadap perubahan tersebut.
@@ -133,18 +133,18 @@ Jika Anda merilis proyek open source perusahaan Anda pertama kalinya, informasi 
 
 Dalam jangka panjang, tim hukum Anda bisa melakukan lebih banyak lagi dengan membantu perusahaan untuk mendapatkan lebih banyak dari keterlibatannya pada open source:
 
-* **Kebijakan kontribusi karyawan:** Pertimbangkan untuk mengembangkan kebijakan perusahaan yang menentukan bagaimana karyawan berkontribusi pada proyek open source. Sebuah kebijakan yang jelas akan mengurangi kebingungan  pada karyawan Anda dan membantu mereka untuk berkontribusi pada proyek open source yang penting bagi perusahaan, baik sebagai bagian dari pekerjaan mereka atau dimasa senggang mereka. Sebuah contoh bagus adalah [Model IP dan Kebijakan Kontribusi Open Source](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) milik Rackspace.
+* **Kebijakan kontribusi karyawan:** Pertimbangkan untuk mengembangkan kebijakan perusahaan yang menentukan bagaimana karyawan berkontribusi pada proyek open source. Sebuah kebijakan yang jelas akan mengurangi kebingungan  pada karyawan Anda dan membantu mereka untuk berkontribusi pada proyek open source yang penting bagi perusahaan, baik sebagai bagian dari pekerjaan mereka atau dimasa senggang mereka. Sebuah contoh bagus adalah [Model IP dan Kebijakan Kontribusi Open Source](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) milik Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Membiarkan IP yang terkait dengan patch membangun basis pengetahuan dan reputasi karyawan. Ini menunjukkan bahwa perusahaan menekankan pengembangan karyawan dan menciptakan rasa pemberdayaan dan otonomi. Semua manfaat ini juga menyebabkan semangat kerja lebih tinggi dan retensi karyawan yang lebih baik.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
 </aside>
 
 * **Apa yang dirilis:** [(Hampir) semuanya?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) jika tim hukum Anda memahami dan berinvestasi pada strategi open source perusahaan Anda, mereka akan banyak membantu dibandingkan merugikan Anda.
-* **Kesesuaian:** Meskipun perusahaan Anda tidak merilis proyek open source, perusahaan Anda menggunakan perangkat lunak open source milik orang lain. [Kewaspadaandan proses](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) bisa mencegah masalah, keterlambatan produk, dan tuntutan hukum.
+* **Kesesuaian:** Meskipun perusahaan Anda tidak merilis proyek open source, perusahaan Anda menggunakan perangkat lunak open source milik orang lain. [Kewaspadaandan proses](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) bisa mencegah masalah, keterlambatan produk, dan tuntutan hukum.
 
 <aside markdown="1" class="pquote">
   Organisasi harus memiliki lisensi dan strategi penyesuaian yang sesuai untuk kategori \["permissive" dan "copyleft"\]. Hal ini dimulai dengan menyimpan catatan dari istilah lisensi yang digunakan pada perangkat lunak open source yang Anda gunakan — termasuk sub komponen dan ketergantungannya.

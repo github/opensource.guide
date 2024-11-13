@@ -2,29 +2,25 @@ name: GitHub Actions CI
 on:
   push:
     branches: master
-  pull_request: []
+  pull_request:
+  merge_group:
+permissions:
+  contents: read
 jobs:
   tests:
     runs-on: ubuntu-latest
     steps:
-    - name: Set up Git repository
-      uses: actions/checkout@v1
-
-    - name: Set up Ruby
-      uses: actions/setup-ruby@v1
-
-    - name: Set up Node
-      uses: actions/setup-node@v1
-
-    - name: Restore bundler cache
-      uses: actions/cache@v1
-      with:
-        path: vendor/gems
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: ${{ runner.os }}-gems-
-
-    - name: Bootstrap
-      run: script/bootstrap
-
-    - name: Tests
-      run: script/test
+      - name: Set up Git repository
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@a2bbe5b1b236842c1cb7dd11e8e3b51e0a616acc # v1
+        with:
+          bundler-cache: true
+      - name: Set up Node
+        uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # v4
+      - name: Bootstrap
+        run: script/bootstrap
+        env:
+          SKIP_BUNDLER: true
+      - name: Tests
+        run: script/test

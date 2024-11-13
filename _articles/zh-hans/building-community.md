@@ -39,7 +39,7 @@ redirect_from: /zh-cn/building-community/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比较低的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
+  对一些人来说，为开源做贡献比其他人更容易。有很多人害怕因为做得不对或不合群而被骂。这些情感需求是项目最难解决的问题，但通过为贡献者提供一个技术熟练度很低的贡献空间（文档、网页内容标记等），可以大大减少这些担忧。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
@@ -56,7 +56,7 @@ redirect_from: /zh-cn/building-community/
   你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
 
   <p markdown="1" class="pquote-credit">
-— @janl, ["让开源可持续发展"](https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+— @janl, ["让开源可持续发展"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
 </aside>
 
@@ -76,7 +76,7 @@ redirect_from: /zh-cn/building-community/
 
 ### 积极回应
 
-一旦你[推广项目](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/master/github-open-source-guide-03.md)，人们将会给你们反馈。他们可能会问项目是如何工作的，或者参与项目初期需要你的帮助。
+一旦你[推广项目](https://github.com/liadbiz/opensource-contribute-guide-chinise/blob/HEAD/github-open-source-guide-03.md)，人们将会给你们反馈。他们可能会问项目是如何工作的，或者参与项目初期需要你的帮助。
 
 当有人列出一条issue，提交一个pull request，或者询问项目的有关问题时，你们应该尽量回答他们。当你们快速地做出回应时，人们将感觉到他们参与了对话，以及他们将会更热情地参与。
 
@@ -84,7 +84,7 @@ redirect_from: /zh-cn/building-community/
 
 ![middleman pull request](/assets/images/building-community/middleman_pr.png)
 
-[一份Mozilla研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
+[Mozilla的一份研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
 
 与项目有关的话题也可能发生在互联网的其它地方，例如Stack Overflow，Twitter，或者Reddit。你可以在像这样的一些网站设置通知，这样当有人提及项目时，可以即时的收到提醒。
 
@@ -132,7 +132,7 @@ redirect_from: /zh-cn/building-community/
 
 随着项目的成长，好的文档会变得愈加重要。临时贡献者或路人是不可能一下子就对项目非常熟悉，一份好的文档，能够很快找到他们需要的。
 
-在 CONTRIBUTING 文件里，需要明确告诉新来的贡献者该如何开始。而且若是可能为了想要达到这个目的，还需要准备一个专门的部分。
+在 CONTRIBUTING 文件里，需要明确告诉新来的贡献者该如何开始。你甚至可能为此专门准备一个独立的部分：例如 [Django](https://github.com/django/django), 就提供一个专门的首页面来欢迎和指导新晋贡献者。
 
 ![django new contributors page](/assets/images/building-community/django_new_contributors.png)
 
@@ -142,9 +142,9 @@ redirect_from: /zh-cn/building-community/
 
 你不可能做到与项目中的绝大多数人产生互动，你们可能没有收到一些贡献，因为有些人感到害怕或者不知道该从何处开始，有时候即使是几个字也能阻止一些人沮丧地离开你们的项目。
 
-例如，这里是[Rubinius](https://github.com/rubinius/rubinius/)如何开始[它的贡献指南](https://github.com/rubinius/rubinius/blob/master/.github/contributing.md)：
+例如，这里是[Rubinius](https://github.com/rubinius/rubinius/)如何开始[它的贡献指南](https://github.com/rubinius/rubinius/blob/HEAD/.github/contributing.md)：
 
-> 我们想感谢你们使用Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够找到你们的issue。
+> 我们想感谢你们使用Rubinius。这个项目是一个充满爱的工作，我们希望所有用户查找bugs，取得性能上的提升，以及帮助完善文档。每一个贡献都是有意义的，所以感谢你们的参与。话虽如此，但我们还是要求你们遵守一些指南，这样我们就能够解决你们的issue。
 
 ### 共享项目所有权
 
@@ -164,7 +164,7 @@ redirect_from: /zh-cn/building-community/
 
 ![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
 
-* **在项目中添加一个贡献者或者作者文件** 用于记录每一个参与贡献的人。
+* **在项目中添加一个贡献者文件(CONTRIBUTORS) 或者作者文件(AUTHORS)** 用于记录每一个参与贡献的人。
 
 * 如果社区有了一定的规模，那么 **发送一封信或者发表一篇博客** 感谢贡献者们。Rust的[Rust周报](https://this-week-in-rust.org/)和Hoodie的[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)就是两个非常好的范例。
 
@@ -174,7 +174,7 @@ redirect_from: /zh-cn/building-community/
 
 事实上很多项目只有一个或者两个做大量工作的维护者。随着项目以及社区越来越大，就会有更多的人参与进来。
 
-虽然并不是一直都有人在回答问题，但是你可以去增加一些信号，以让他人有能够接触的机会，越是尽早开始，越是能够获得帮助。
+虽然并不是一直都有人在回答问题，但是你可以去增加一些信号，以让他人有能够加入的机会，越是尽早开始，越是能够获得帮助。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
@@ -203,7 +203,7 @@ redirect_from: /zh-cn/building-community/
   作为一名维护者，尊重你们的贡献者非常重要。他们经常处理一些你们描述亲切的事情。
 
   <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["保持和善，要么滚蛋"](https://www.kennethreitz.org/essays/be-cordial-or-be-on-your-way)
+— @kennethreitz, ["保持和善，要么滚蛋"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
 </aside>
 
@@ -213,8 +213,8 @@ redirect_from: /zh-cn/building-community/
 
 ### 将你们的README视为最高法则
 
-README [不仅仅是一组指令](../starting-a-project/#撰写自述文件)。它也是一个谈论目标、产品愿景和路线的地方。
-如果人们过分专注于讨论特定功能的优点，它可能有助于重新审视您的README，并谈论项目的更高的愿景。关注README也会使对话变得个人化，所以可以进行建设性的讨论。
+README [不仅仅是一个简单的说明](../starting-a-project/#撰写自述文件)。它也是一个谈论目标、产品愿景和路线的地方。
+如果人们过分专注于讨论特定功能的优点，那么你可能需要重新审视您的README，并谈论项目的更高的愿景。关注README也会使对话变得个人化，所以可以进行建设性的讨论。
 
 ### 专注过程，而不是结果
 
@@ -231,7 +231,7 @@ README [不仅仅是一组指令](../starting-a-project/#撰写自述文件)。�
 Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情况下都不会遵循投票系统。有时我们必须选择我们认为是对的事，即使它不流行。（。。。）我能通过社区的反馈知道我能够提供什么以及做什么样的工作。
 
   <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 决策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
+— @lee-dohm on Atom 决策流程
   </p>
 </aside>
 
