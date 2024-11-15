@@ -524,3 +524,13 @@ Hooray! You've successfully made an open source contribution!
 ## You did it! 🎉
 
 Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+
+## Where to Start Contributing to Open Source 🌟
+
+1. **Pick a project** you're passionate about.  
+2. Look for **"Good First Issues"** on GitHub.  
+3. **Learn Git & GitHub** basics.  
+4. **Start small**—fix typos, improve docs, or tackle simple bugs.  
+5. Join the community and **ask for help** when needed.
+
+Ready to start? Let's contribute! 🚀
