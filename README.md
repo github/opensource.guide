@@ -18,40 +18,48 @@ Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.
 
 ## Folder Structure 
 
-```.devcontainer``` This folder contains configuration files (like devcontainer.json) that define a <strong>developement environment</strong> for the project. 
-It helps set up a consistent workspace for developers, ensuring everyone works with the same tools, settings and dependencies, regardless 
-of their local set up. 
+```.devcontainer``` This folder contains configuration files (like devcontainer.json) that define a <strong>development environment</strong> for the project.
+It helps set up a consistent workspace for developers, ensuring everyone works with the same tools, settings, and dependencies, regardless
+of their local setup.
 
-```.github``` This folder is used to store GitHub-specifc configuration files for the repository. It helps manage automation, workflows, and guidelines 
-for contribtors. 
+```.github``` This folder is used to store GitHub-specific configuration files for the repository. It helps manage automation, workflows, and guidelines
+for contributors.
 
-```_articles``` This folder contains all the written content (articles) for this project, organized by language and topic. These articles provide 
-helpful guidance, best practices, and insights about contributing to open source projects. 
+```_articles``` This folder contains all the written content (articles) for this project, organized by language and topic. These articles provide
+helpful guidance, best practices, and insights about contributing to open source projects.
 
-```_data``` This folder contains data files (in formats like YAML) used to store structured information, like site settings, translations, 
-or metadata. The repository reads these files to dynamically generate parts of the website, such as menus, translations or lists. The folder is important 
-because it seperates content from code, making it easier to update data without changing the code itself
+```_data``` This folder contains data files (in formats like YAML) used to store structured information, such as site settings, translations,
+or metadata. The repository reads these files to dynamically generate parts of the website, such as menus, translations, or lists. The folder is important
+because it separates content from code, making it easier to update data without changing the code itself.
 
-```_includes``` This folder contains reusable chunks of HTML code, like headers, footers, or components that appear on multiple pages. 
-The files within this folder are inserted into larger templates or pages, reducing repetition and keeping the code organized. This folder 
-ensures consistency across the site and makes it easy to update shared elements in one place instead of multiple files. 
+```_includes```
+This folder contains reusable chunks of HTML code, like headers, footers, or components that appear on multiple pages.
+The files within this folder are inserted into larger templates or pages, reducing repetition and keeping the code organized. This folder
+ensures consistency across the site and makes it easy to update shared elements in one place instead of multiple files.
 
-```_layouts``` This folder contains layouts templates (files) for the site, each file in the folder is a template for a page on the application.
-The layout templates in this folder act like blueprints, they determing where certain parts of the page goes and storing all the templates in this folder allows 
-for components to be reused across multiple pages this helps to keep the site consistent and easier to maintain.
+```_layouts```
+This folder contains layout templates (files) for the site. Each file in the folder is a template for a page on the application.
+The layout templates in this folder act like blueprints: they determine where certain parts of the page go. Storing all the templates in this folder allows
+for components to be reused across multiple pages, which helps keep the site consistent and easier to maintain.
 
-```assets``` This folder contains static files like images, CSS (styles), and JavaScript (scripts) used to style and add functionality to the website. 
-These files are served to users when they visit the site, making it look nice and interactive. Storing all the designs and functionality-related files in one place, 
-keeps the repository organized. 
+```assets``` This folder contains static files like images, CSS (styles), and JavaScript (scripts) used to style and add functionality to the website.
+These files are served to users when they visit the site, making it look nice and interactive. Storing all the design and functionality-related files in one place
+keeps the repository organized.
 
-```docs``` This folder holds documentation files related to the project. It provides extra information for developers or contributors, 
-like how to set up or use the project. This extra information gives developers the opportunity to contribute to this repository beyond just the README file. 
+```docs``` This folder holds documentation files related to the project. It provides extra information for developers or contributors,
+such as how to set up or use the project. This extra information gives developers the opportunity to contribute to this repository beyond just the README file.
 
 ```node_modules``` This folder contains all the dependencies (external libraries and tools) managed by Node.js, which are needed to build or run the project.
-It provides the code libraries the project relies on, such as tools for building the website and running workflows. 
+It provides the code libraries the project relies on, such as tools for building the website and running workflows. It ensures the project works as expected without
+requiring developers to manually install every dependency.
 
+```script``` This folder stores automation scripts used for specific tasks, like testing, building, or deploying the project. It runs the commands or tools
+to streamline workflows, such as running tests or ignoring specific URLs during builds. This folder automates repetitive tasks, saving time
+and reducing human error.
 
-
+```test``` This folder contains test files and configurations to ensure the project works as expected. It runs checks (tests) on the code, workflows, or site functionality
+to catch bugs or issues before changes are merged. The files in this folder maintain the quality of the project by verifying everything works correctly, which is especially important
+for collaborative projects.
 
 ## Acknowledgments
 
