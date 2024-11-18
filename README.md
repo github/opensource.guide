@@ -16,6 +16,13 @@ This site is powered by [Jekyll](https://jekyllrb.com/). Check out our [contribu
 
 Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
 
+## Folder Structure 
+
+```.devcontainer``` This folder contains configuration files (like devcontainer.json) that define a <strong>developement environment</strong> for the project. 
+It helps set up a consistent workspace for developers, ensuring everyone works with the same tools, settings and dependencies, regardless 
+of their local set up. 
+
+
 ## Acknowledgments
 
 The initial release of these guides were authored by **[@nayafia][1], [@bkeepers][2], [@stephbwills][3],** and **[@mlinksva][4]**.
