@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: bn
 title: Starting an Open Source Project
 description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
@@ -34,11 +34,11 @@ _Free software_ refers to the same set of projects as _open source_. Sometimes y
 
 [There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) why a person or organization would want to open source a project. Some examples include:
 
-* **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
+- **Collaboration:** Open source projects can accept changes from anybody in the world. [Exercism](https://github.com/exercism/), for example, is a programming exercise platform with over 350 contributors.
 
-* **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
+- **Adoption and remixing:** Open source projects can be used by anyone for nearly any purpose. People can even use it to build other things. [WordPress](https://github.com/WordPress), for example, started as a fork of an existing project called [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://www.cio.gov/2016/08/11/peoples-code.html), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
+- **Transparency:** Anyone can inspect an open source project for errors or inconsistencies. Transparency matters to governments like [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) or the [United States](https://www.cio.gov/2016/08/11/peoples-code.html), regulated industries like banking or healthcare, and security software like [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source isn't just for software, either. You can open source everything from data sets to books. Check out [GitHub Explore](https://github.com/explore) for ideas on what else you can open source.
 
@@ -62,7 +62,7 @@ If you're not yet convinced, take a moment to think about what your goals might 
 
 ### Setting your goals
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself, _why am I open sourcing this project?_
 
 There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
 
@@ -106,10 +106,10 @@ Generally speaking, you should open source your project when you feel comfortabl
 
 No matter which stage you decide to open source your project, every project should include the following documentation:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Code of conduct](../code-of-conduct/)
+- [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
+- [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
+- [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+- [Code of conduct](../code-of-conduct/)
 
 As a maintainer, these components will help you communicate expectations, manage contributions, and protect everyone's legal rights (including your own). They significantly increase your chances of having a positive experience.
 
@@ -135,10 +135,10 @@ READMEs do more than explain how to use your project. They also explain why your
 
 In your README, try to answer the following questions:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+- What does this project do?
+- Why is this project useful?
+- How do I get started?
+- Where can I get more help, if I need it?
 
 You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
 
@@ -160,15 +160,15 @@ When you include a README file in the root directory, GitHub will automatically 
 
 A CONTRIBUTING file tells your audience how to participate in your project. For example, you might include information on:
 
-* How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
-* How to suggest a new feature
-* How to set up your environment and run tests
+- How to file a bug report (try using [issue and pull request templates](https://github.com/blog/2111-issue-and-pull-request-templates))
+- How to suggest a new feature
+- How to set up your environment and run tests
 
 In addition to technical details, a CONTRIBUTING file is an opportunity to communicate your expectations for contributions, such as:
 
-* The types of contributions you're looking for
-* Your roadmap or vision for the project
-* How contributors should (or should not) get in touch with you
+- The types of contributions you're looking for
+- Your roadmap or vision for the project
+- How contributors should (or should not) get in touch with you
 
 Using a warm, friendly tone and offering specific suggestions for contributions (such as writing documentation, or making a website) can go a long way in making newcomers feel welcomed and excited to participate.
 
@@ -214,8 +214,8 @@ Branding is more than a flashy logo or catchy project name. It's about how you t
 
 Pick a name that is easy to remember and, ideally, gives some idea of what the project does. For example:
 
-* [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
-* [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
+- [Sentry](https://github.com/getsentry/sentry) monitors apps for crash reporting
+- [Thin](https://github.com/macournoyer/thin) is a fast and simple Ruby web server
 
 If you're building upon an existing project, using their name as a prefix can help clarify what your project does (for example, [node-fetch](https://github.com/bitinn/node-fetch) brings `window.fetch` to Node.js).
 

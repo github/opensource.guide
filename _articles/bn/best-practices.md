@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: bn
 title: Best Practices for Maintainers
 description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
 class: best-practices
@@ -60,10 +60,10 @@ If maintaining your project is part-time or purely volunteered, be honest about 
 
 Here are a few rules that are worth writing down:
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+- How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
+- The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
+- When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
+- How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
 
@@ -81,7 +81,7 @@ You've written things down. Ideally, everybody would read your documentation, bu
 
 Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Saying no isn't fun, but _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
 
 Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
 
@@ -111,10 +111,10 @@ Secondly, ignoring contributions sends a negative signal to your community. Cont
 
 If you don't want to accept a contribution:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+- **Thank them** for their contribution
+- **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
+- **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
+- **Close the request**
 
 You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
 
@@ -134,8 +134,8 @@ To reduce the volume of unwanted contributions in the first place, explain your 
 
 If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
 
-* Fill out an issue or PR template/checklist
-* Open an issue before submitting a PR
+- Fill out an issue or PR template/checklist
+- Open an issue before submitting a PR
 
 If they don't follow your rules, close the issue immediately and point to your documentation.
 
@@ -233,11 +233,11 @@ The good news about maintaining a popular project is that other maintainers have
 
 There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot](https://github.com/dependabot) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
+- [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
+- [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
+- [Danger](https://github.com/danger/danger) helps automate code review
+- [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
+- [dependabot](https://github.com/dependabot) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
 
 For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
 

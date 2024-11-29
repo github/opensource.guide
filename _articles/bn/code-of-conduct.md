@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: bn
 title: Your Code of Conduct
 description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
 class: coc
@@ -24,10 +24,10 @@ Try to establish a code of conduct as early as possible: ideally, when you first
 
 In addition to communicating your expectations, a code of conduct describes the following:
 
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
+- Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
+- Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
+- What happens if someone violates the code of conduct
+- How someone can report violations
 
 Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
 
@@ -46,17 +46,17 @@ Place a CODE_OF_CONDUCT file in your project's root directory, and make it visib
 
 You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
 
-* It demonstrates that you are serious about taking action when it's needed.
+- It demonstrates that you are serious about taking action when it's needed.
 
-* Your community will feel more reassured that complaints actually get reviewed.
+- Your community will feel more reassured that complaints actually get reviewed.
 
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
+- You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
 
 You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
 
 Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
+> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.\*
 
 For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
 
@@ -87,15 +87,15 @@ When somebody reports a code of conduct violation, it is your, not their, job to
 
 There are a few ways you might respond to a code of conduct violation:
 
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
+- **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
 
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
+- **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
 
 Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
 
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
+- **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
 
-* **Permanently ban** the person from the project
+- **Permanently ban** the person from the project
 
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 
