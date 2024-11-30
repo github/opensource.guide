@@ -1,7 +1,7 @@
 ---
 lang: bn
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+title: রক্ষণাবেক্ষণকারিদের জন্য আর্দশ অনুশীলন
+description: প্রক্রিয়া নথিভূক্ত করা থেকে শুরু করে সম্প্রদায়কে উন্নত করার ক্ষেত্রে, অপনার জীবনকে সহজ করুন একজন ওপেন সোর্স রক্ষণাবেক্ষণকারি হিসাবে।
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -10,28 +10,29 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## রক্ষণাবেক্ষণকারী বলতে কী বোঝায়?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+আপনি যদি একটি ওপেন সোর্স প্রকল্প রক্ষণাবেক্ষণ করেন যেটা অনেক লোক ব্যবহার করে, আপনি হয়ত লক্ষ্য করেছেন যে আপনি কম কোডিং করছেন এবং সমস্যাগুলিতে বেশি সাড়া দিচ্ছেন।
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+একটি প্রকল্পের প্রাথমিক পর্যায়ে, আপনি নতুন ধারণা নিয়ে পরীক্ষা-নিরীক্ষা করবেন এবং আপনি যা চান তার উপর ভিত্তি করে সিদ্ধান্ত নিবেন। কিন্তু আপনার প্রকল্পের জনপ্রিয়তা বাড়ার সাথে সাথে আপনি নিজেকে আপনার ব্যবহারকারী এবং অবদানকারীদের সাথে আরও বেশি কাজ করতে দেখবেন।
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+একটা প্রকল্প রক্ষণাবেক্ষণ করতে কোডং করার থেকেও বেশি কিছুর প্রয়োজন। এই কাজগুলো বেশির ভাগ সময়ই অপ্রত্যাশিত হয়ে থাকে, কিন্তু এগুলো প্রকল্প বড় করার মতোই সমান গুরুত্তপূর্ণ্য। নথিপত্র পক্রিয়াকরন থেকে শুরু করে সম্প্রদায়কে উন্নত করার ক্ষেত্রে, অপনার জীবনকে সহজ করার জন্য আমরা কিছু উপায় সংগ্রহ করেছি।
 
-## Documenting your processes
+## প্রক্রিয়া নথিভূক্ত করা
 
-Writing things down is one of the most important things you can do as a maintainer.
+রক্ষণাবেক্ষণকারি হিসেবে করা আপনার সব থেকে গুরুত্তপূর্ণ্য কাজগুলোর মধ্যে একটি হচ্ছে লিখে রাখা।
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+নথিভূক্ত করা শুধুমাত্র আপনার নিজের চিন্তাভাবনাকে স্পষ্ট করে না, এটি অন্যদেরকে আপনার প্রয়োজন বা প্রত্যাশা বুঝতে সাহায্য করে, তারা আপনার কাছে জানতে চাওয়ার আগেই।
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+জিনিস পত্র লিখে রাখলে না বলতে সুবিধা হয় যখন কোন কিছু আপনার লক্ষের সাথে না মিলে। এটা অন্যদেরকে আপনার সাথে মিলে কাজ করা এবং সাহায্য করাকেও সহজ করে দিবে। আপনি কখনোই জানবেন না কে পড়তে পারে অথবা ব্যবহার করতে পারে আপনার প্রকল্প।
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+যদি আপনি সম্পূর্ণ্য অনুচ্ছেদ আকারে নাও লিখেন, তবে বুলেট পয়েন্ট আকারে লেখা ভাল একদম না লেখার থেকে।
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+আপনার নথিপত্র হালনাগাদ করতে ভুলবেন না। আপনি যদি সর্বদা এটা করতে নাও পারেন তবে আপনার পুরানো নথিগুলো মুছুন অথবা এটি পুরানো বলে চিহ্নিত করুন যাতে অবদানকারীরা জানে যে এখানে পুরাতন নথি হালনাগাদ করার মাধ্যমে তারা এই প্রকল্পে অবদান রাখতে পারবে৷
 
-### Write down your project's vision
+### আপনার কর্ম পরিকল্পনা লিখুন
 
+আপনার প্রকল্পের লক্ষ্যগুলো লেখার মাধ্যমে শুরু করুন। এগুলো আপনার README(রিডমি) ফাইলে সংযুক্ত করুন, অথবা VISION(ভিশন) নামে আলাদা ফাইল তৈরি করুন।
 Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
 
 Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
