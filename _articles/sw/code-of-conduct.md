@@ -25,7 +25,7 @@ Jaribu kuanzisha kanuni za maadili mapema iwezekanavyo: kwa kawaida, wakati unau
 Mbali na kuwasilisha matarajio yako, kanuni za maadili zinaelezea yafuatayo:
 
 * Pahali kanuni za maadili zinatumika _(tu kwenye masuala na ombi la kuvuta, au shughuli za jamii kama matukio?)_
-* Ni nani anayehusika na kanuni za maadili _(wanachama wa jamii na wasimamizi, lakini je, kuhusu wadhamini?)_
+* Ni nani anayehusika na kanuni za maadili _(wanachama wa jamii na watunzaji, lakini je, kuhusu wadhamini?)_
 * Nini kinatokea ikiwa mtu atakiuka kanuni za maadili
 * Jinsi mtu anavyoweza kuripoti ukiukwaji
 
@@ -52,7 +52,7 @@ Unapaswa kueleza jinsi kanuni zako za maadili zitakavyotekelezwa **_kabla_** ya 
 
 * Utawapa uhakika jamii yako kwamba mchakato wa uchunguzi ni wa haki na wazi, iwapo watapata uchunguzi kwa ukiukwaji.
 
-Unapaswa kuwapa watu njia ya faragha (kama anwani ya barua pepe) ya kuripoti ukiukwaji wa kanuni za maadili na kueleza ni nani anayepokea ripoti hiyo. Inaweza kuwa msimamizi, kundi la wasimamizi, au kikundi cha kazi cha kanuni za maadili.
+Unapaswa kuwapa watu njia ya faragha (kama anwani ya barua pepe) ya kuripoti ukiukwaji wa kanuni za maadili na kueleza ni nani anayepokea ripoti hiyo. Inaweza kuwa mtunzaji, kundi la watunzaji, au kikundi cha kazi cha kanuni za maadili.
 
 Usisahau kwamba mtu anaweza kutaka kuripoti ukiukwaji kuhusu mtu anayepokea ripoti hizo. Katika kesi hii, wape chaguo la kuripoti ukiukwaji kwa mtu mwingine. Kwa mfano, @ctb na @mr-c [wanasema kwenye mradi wao](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
 
@@ -81,7 +81,7 @@ Kabla ya kujibu, jipe muda wa kuelewa kilichotokea. Soma kupitia maoni ya mtu hu
 
 ### Chukua hatua inayofaa
 
-Baada ya kukusanya na kuchakata habari ya kutosha, utahitaji kuamua cha kufanya. Unapofikiria hatua zako zinazofuata, kumbuka kwamba lengo lako kama msimamizi ni kukuza mazingira salama, ya heshima, na ya ushirikiano. Fikiria sio tu jinsi ya kushughulikia hali hiyo, bali pia jinsi majibu yako yatakavyoathiri tabia na matarajio ya jamii yako kwa ujumla.
+Baada ya kukusanya na kuchakata habari ya kutosha, utahitaji kuamua cha kufanya. Unapofikiria hatua zako zinazofuata, kumbuka kwamba lengo lako kama mtunzaji ni kukuza mazingira salama, ya heshima, na ya ushirikiano. Fikiria sio tu jinsi ya kushughulikia hali hiyo, bali pia jinsi majibu yako yatakavyoathiri tabia na matarajio ya jamii yako kwa ujumla.
 
 Wakati mtu anaporipoti ukiukwaji wa kanuni za maadili, ni kazi yako, si yao, kushughulikia hilo. Wakati mwingine, ripoti inatoa habari kwa hatari kubwa kwa kazi yao, sifa, au usalama wa mwili. Kuwalazimisha kukabiliana na mnyanyasaji wao kunaweza kuwasababisha wawe katika hali ngumu. Unapaswa kushughulikia mawasiliano ya moja kwa moja na mtu anayehusika, isipokuwa ripoti inahitaji vinginevyo.
 
@@ -99,15 +99,15 @@ Wakati mwingine, suluhu haiwezi kupatikana. Mtu anayehusika anaweza kuwa mkali a
 
 Kuwakataa watu hakupaswi kuchukuliwa kwa urahisi na inawakilisha tofauti ya kudumu na isiyoweza kutatuliwa. Unapaswa kuchukua hatua hizi tu wakati ni wazi kwamba suluhu haiwezi kupatikana.
 
-## Wajibu wako kama msimamizi
+## Wajibu wako kama mtunzaji
 
 Kanuni za maadili si sheria zinazotekelezwa bila mpangilio. Wewe ndiye mtendaji wa kanuni za maadili na ni wajibu wako kufuata sheria ambazo kanuni za maadili zinaweka.
 
-Kama msimamizi, unaunda miongozo kwa jamii yako na kutekeleza miongozo hiyo kulingana na sheria zilizowekwa katika kanuni za maadili. Hii inamaanisha kuchukua ripoti yoyote ya ukiukwaji wa kanuni za maadili kwa uzito. Mtu anayeripoti anastahili uchunguzi wa kina na wa haki wa malalamiko yao. Ikiwa unagundua kuwa tabia waliyoripoti si ukiukwaji, wasiliana wazi nao na eleza kwa nini huenda usichukue hatua. Wanaweza kufanya nini na hiyo ni juu yao: kuvumilia tabia ambayo walikuwa nayo tatizo nayo, au kuacha kushiriki katika jamii.
+Kama mtunzaji, unaunda miongozo kwa jamii yako na kutekeleza miongozo hiyo kulingana na sheria zilizowekwa katika kanuni za maadili. Hii inamaanisha kuchukua ripoti yoyote ya ukiukwaji wa kanuni za maadili kwa uzito. Mtu anayeripoti anastahili uchunguzi wa kina na wa haki wa malalamiko yao. Ikiwa unagundua kuwa tabia waliyoripoti si ukiukwaji, wasiliana wazi nao na eleza kwa nini huenda usichukue hatua. Wanaweza kufanya nini na hiyo ni juu yao: kuvumilia tabia ambayo walikuwa nayo tatizo nayo, au kuacha kushiriki katika jamii.
 
 Ripoti ya tabia ambayo haikiuka _kiuhalisia_ kanuni za maadili bado inaweza kuashiria kuwa kuna tatizo katika jamii yako, na unapaswa kuchunguza tatizo hili na kuchukua hatua ipasavyo. Hii inaweza kujumuisha kurekebisha kanuni zako za maadili ili kufafanua tabia inayokubalika na/au kuzungumza na mtu ambaye tabia yao iliripotiwa na kuwaambia kwamba ingawa hawakuvunja kanuni za maadili, wanakaribia mpaka wa kile kinachotarajiwa na wanawafanya washiriki wengine wakose amani na utulivu.
 
-Mwishowe, kama msimamizi, ni jukumu lako kuunda na kutekeleza viwango vya tabia inayokubalika. Una uwezo wa kuunda maadili ya jamii ya mradi, na washiriki wanatarajia wewe kutekeleza maadili hayo kwa njia ya haki na isiyo na upendeleo.
+Mwishowe, kama mtunzaji, ni jukumu lako kuunda na kutekeleza viwango vya tabia inayokubalika. Una uwezo wa kuunda maadili ya jamii ya mradi, na washiriki wanatarajia wewe kutekeleza maadili hayo kwa njia ya haki na isiyo na upendeleo.
 
 ## Kuimarisha tabia unayotaka kuona duniani 🌎
 

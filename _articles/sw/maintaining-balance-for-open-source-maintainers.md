@@ -44,7 +44,7 @@ Ni muhimu kuelewa ni nini husababisha sisi kupata uchovu. Hapa kuna mada chache 
   </p>
 </aside>
 
-* **Kutosema 'hapana':** Inaweza kuwa rahisi kuchukua majukumu zaidi kuliko unapaswa kwenye mradi wa open source. Iwe inatoka kwa watumiaji, wachangiaji au wasimamizi wengine - hatuwezi kutimiza matarajio yao kila wakati.
+* **Kutosema 'hapana':** Inaweza kuwa rahisi kuchukua majukumu zaidi kuliko unapaswa kwenye mradi wa open source. Iwe inatoka kwa watumiaji, wachangiaji au watunzaji wengine - hatuwezi kutimiza matarajio yao kila wakati.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">

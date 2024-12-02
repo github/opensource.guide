@@ -165,11 +165,11 @@ Angalia ikiwa unaweza kupata njia za kushiriki umiliki na jamii yako kadri iweze
 
 * Ikiwa una jamii kubwa, **tuma jarida au andika chapisho la blogu** ukishukuru wachangiaji. [Hii Wiki katika Rust](https://this-week-in-rust.org/) na [Shoutouts za Hoodie](http://hood.ie/blog/shoutouts-week-24.html) ni mifano miwili nzuri.
 
-* **Wape kila mchango ruhusa ya kuingia.** @felixge alipata kuwa hii ilifanya watu [kuwa na shauku zaidi ya kusafisha patches zao](https://felixge.de/2013/03/11/the-pull-request-hack.html), na hata alipata wasimamizi wapya kwa miradi ambayo hakuwa amefanya kazi nayo kwa muda.
+* **Wape kila mchango ruhusa ya kuingia.** @felixge alipata kuwa hii ilifanya watu [kuwa na shauku zaidi ya kusafisha patches zao](https://felixge.de/2013/03/11/the-pull-request-hack.html), na hata alipata watunzaji wapya kwa miradi ambayo hakuwa amefanya kazi nayo kwa muda.
 
-* Ikiwa mradi wako uko GitHub, **hamasisha mradi wako kutoka kwenye akaunti yako binafsi hadi [Shirika](https://help.github.com/articles/creating-a-new-organization-account/)** na ongeza angalau msimamizi mmoja wa akiba. Mashirika yanafanya iwe rahisi kufanya kazi kwenye miradi na washirikishi wa nje.
+* Ikiwa mradi wako uko GitHub, **hamasisha mradi wako kutoka kwenye akaunti yako binafsi hadi [Shirika](https://help.github.com/articles/creating-a-new-organization-account/)** na ongeza angalau mtunzaji mmoja wa akiba. Mashirika yanafanya iwe rahisi kufanya kazi kwenye miradi na washirikishi wa nje.
 
-Ukweli ni kwamba [miradi mingi ina](https://peerj.com/preprints/1233/) wasimamizi mmoja au wawili tu wanaofanya kazi nyingi. Kadri mradi wako unavyokuwa, na kadri jamii yako inavyokuwa kubwa, ndivyo itakuwa rahisi kupata msaada.
+Ukweli ni kwamba [miradi mingi ina](https://peerj.com/preprints/1233/) watunzaji mmoja au wawili tu wanaofanya kazi nyingi. Kadri mradi wako unavyokuwa, na kadri jamii yako inavyokuwa kubwa, ndivyo itakuwa rahisi kupata msaada.
 
 Ingawa huenda usipate mtu kila wakati wa kujibu wito, kuweka ishara huko nje kunaongeza uwezekano kwamba watu wengine wataingilia kati. Na kadri unavyoweza kuanza mapema, ndivyo watu wanaweza kusaidia.
 
@@ -193,7 +193,7 @@ Kwa sehemu kubwa, ikiwa umejenga jamii ya kirafiki, heshimu, na umeandika michak
 
 Wakati jamii yako inakabiliwa na suala gumu, hasira zinaweza kuongezeka. Watu wanaweza kuwa na hasira au kukasirika na kuhamasisha hasira zao kwa wengine, au kwako.
 
-Kazi yako kama mtunza mradi ni kuzuia hali hizi zisipande. Hata kama una maoni thabiti kuhusu mada hiyo, jaribu kuchukua nafasi ya msimamizi au mwezeshaji, badala ya kuingia kwenye ugumu na kusukuma maoni yako. Ikiwa mtu anakuwa mbaya au anachujikulia mazungumzo, [fanya haraka](../building-community/#dont-tolerate-bad-actors) kudumisha mazungumzo ya heshima na yenye tija.
+Kazi yako kama mtunza mradi ni kuzuia hali hizi zisipande. Hata kama una maoni thabiti kuhusu mada hiyo, jaribu kuchukua nafasi ya mtunzaji au mwezeshaji, badala ya kuingia kwenye ugumu na kusukuma maoni yako. Ikiwa mtu anakuwa mbaya au anachujikulia mazungumzo, [fanya haraka](../building-community/#dont-tolerate-bad-actors) kudumisha mazungumzo ya heshima na yenye tija.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">

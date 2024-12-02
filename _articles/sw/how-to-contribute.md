@@ -46,7 +46,7 @@ Kwa ufafanuzi, kazi yako yote ya programu huria ni ya umma, ambayo ina maana kwa
 
 ### Jifunze ujuzi wa watu
 
-Open Source hutoa fursa za kufanya mazoezi ya ujuzi wa uongozi na usimamizi, kama vile kusuluhisha mizozo, kupanga timu za watu, na kuipa kazi kipaumbele.
+Open Source hutoa fursa za kufanya mazoezi ya ujuzi wa uongozi na utunzaji, kama vile kusuluhisha mizozo, kupanga timu za watu, na kuipa kazi kipaumbele.
 
 ### Inawezesha kuweza kufanya mabadiliko, hata madogo
 
@@ -277,7 +277,7 @@ Sasa, angalia masuala ya mradi.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Je, wasimamizi wanajibu haraka kwa masuala yanapofunguliwa?
+    Je, watunzaji wanajibu haraka kwa masuala yanapofunguliwa?
   </label>
 </div>
 
@@ -314,7 +314,7 @@ Sasa fanya vivyo hivyo kwa maombi ya kuvuta ya mradi.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Je, wasimamizi wanajibu haraka kwa maombi ya kuvuta yanapofunguliwa?
+    Je, watunzaji wanajibu haraka kwa maombi ya kuvuta yanapofunguliwa?
   </label>
 </div>
 
@@ -346,7 +346,7 @@ Mradi ambao ni rafiki na unakaribisha unamaanisha kuwa watakuwa tayari kupokea w
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Je, wasimamizi wanajibu kwa msaada kwa maswali katika masuala?
+    Je, watunzaji wanajibu kwa msaada kwa maswali katika masuala?
   </label>
 </div>
 
@@ -367,7 +367,7 @@ Mradi ambao ni rafiki na unakaribisha unamaanisha kuwa watakuwa tayari kupokea w
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Je, wasimamizi wanawashukuru watu kwa michango yao?
+    Je, watunzaji wanawashukuru watu kwa michango yao?
   </label>
 </div>
 
@@ -427,7 +427,7 @@ Kabla ya kufungua suala au ombi la kuvuta, au kuuliza swali katika mazungumzo, z
 >
 > 😢 _"Kwa nini huwezi kurekebisha tatizo langu? Je, huu si mradi wako?"_
 
-**Heshimu maamuzi ya jamii.** Mawazo yako yanaweza kutofautiana na vipaumbele au maono ya jumuiya. Wanaweza kutoa maoni au kuamua kutofuata wazo lako. Ingawa unapaswa kujadiliana na kutafuta maelewano, wasimamizi wanapaswa kuishi na uamuzi wako kwa muda mrefu zaidi kuliko utakavyo. Ikiwa hukubaliani na mwelekeo wao, unaweza daima kufanya kazi kwa uma yako mwenyewe au kuanza mradi wako mwenyewe.
+**Heshimu maamuzi ya jamii.** Mawazo yako yanaweza kutofautiana na vipaumbele au maono ya jumuiya. Wanaweza kutoa maoni au kuamua kutofuata wazo lako. Ingawa unapaswa kujadiliana na kutafuta maelewano, watunzaji wanapaswa kuishi na uamuzi wako kwa muda mrefu zaidi kuliko utakavyo. Ikiwa hukubaliani na mwelekeo wao, unaweza daima kufanya kazi kwa uma yako mwenyewe au kuanza mradi wako mwenyewe.
 
 > 😇 _"Nimesikitishwa kuwa huwezi kuunga mkono kesi yangu ya utumiaji, lakini kama ulivyoelezea inaathiri tu sehemu ndogo ya watumiaji, ninaelewa ni kwa nini. Asante kwa kusikiliza."_
 >
@@ -513,7 +513,7 @@ Wakati mtu anapohitaji mabadiliko, kuwa na majibu. Wamechukua muda wao kupitia m
 
 Ikiwa huna muda wa kufanya kazi kwenye suala hilo tena kutokana na sababu kama mazungumzo yamekuwa yakiendelea kwa miezi, na hali zako zimebadilika au huwezi kupata suluhisho, mwambie mtunzaji ili waweze kufungua suala hilo kwa mtu mwingine, kama [@RitaDee alivyofanya kwa suala katika hazina ya programu ya OpenSauced](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 
-### Mchango wako haukubaliki
+### 👎 Mchango wako haukubaliki
 
 Mchango wako unaweza au usikubaliwe mwishowe. Tunatarajia hujaweka kazi nyingi ndani yake tayari. Ikiwa hujui kwa nini haikukubaliwa, ni sawa kabisa kumuuliza mtunzaji kwa maoni na ufafanuzi. Mwishowe, hata hivyo, itabidi uheshimu kuwa hii ni uamuzi wao. Usijadili au kuwa na hasira. Daima unakaribishwa ku "fork" na kufanya kazi kwenye toleo lako mwenyewe ikiwa huafikiani!
 
