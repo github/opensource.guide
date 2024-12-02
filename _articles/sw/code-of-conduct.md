@@ -109,6 +109,6 @@ Ripoti ya tabia ambayo haikiuka _kiuhalisia_ kanuni za maadili bado inaweza kuas
 
 Mwishowe, kama mtunzaji, ni jukumu lako kuunda na kutekeleza viwango vya tabia inayokubalika. Una uwezo wa kuunda maadili ya jamii ya mradi, na washiriki wanatarajia wewe kutekeleza maadili hayo kwa njia ya haki na isiyo na upendeleo.
 
-## Kuimarisha tabia unayotaka kuona duniani 🌎
+## Imarisha tabia unayotaka kuona duniani 🌎
 
 Wakati mradi unavyoonekana kuwa wenye ukali au usio na ukarimu, hata kama ni mtu mmoja tu ambaye tabia yake inakubaliwa na wengine, unakabiliwa na hatari ya kupoteza wachangiaji wengi zaidi, baadhi yao huenda hujawahi kukutana nao. Si rahisi kila wakati kupitisha au kutekeleza kanuni za maadili, lakini kukuza mazingira ya ukarimu kutasaidia jamii yako kukua.
