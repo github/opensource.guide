@@ -521,6 +521,6 @@ Mchango wako unaweza au usikubaliwe mwishowe. Tunatarajia hujaweka kazi nyingi n
 
 Hongera! Umefanikiwa kufanya mchango wa Open Source!
 
-## Umefanya ile kitu! 🎉
+## Umeifanya! 🎉
 
 Iwe umetoa mchango wako wa kwanza wa Open Source, au unatafuta njia mpya za kuchangia, tunatumai kuwa umehamasishwa kuchukua hatua. Hata kama mchango wako haukukubaliwa, usisahau kusema asante wakati mtunza huduma anaweka juhudi kukusaidia. Open Source hutengenezwa na watu kama wewe: toleo moja, ombi la kuvuta, maoni au matano ya juu kwa wakati mmoja.
