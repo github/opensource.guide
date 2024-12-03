@@ -40,7 +40,7 @@ Mtunzaji haimaanishi lazima kuwa mtu anayandika msimbo kwa mradi wako. Inaweza k
 
 **Neno "mwandikaji" au "committer"** linaweza kutumika kutofautisha ufikiaji wa kuandika, ambayo ni aina maalum ya wajibu, kutoka kwa aina nyingine za mchango.
 
-Ingawa unaweza kufafanua majukumu ya mradi wako kwa njia yoyote unavyopenda, [zingatia kutumia tafsiri pana](../how-to-contribute/#what-it-means-to-contribute) ili kuhamasisha aina zaidi za mchango. Unaweza kutumia majukumu ya uongozi kutambua rasmi watu ambao wamefanya michango bora kwa mradi wako, bila kujali ujuzi wao wa kiufundi.
+Ingawa unaweza kufafanua majukumu ya mradi wako kwa njia yoyote unavyopenda, [zingatia kutumia tafsiri pana](../how-to-contribute/#nini-maana-ya-kuchangia) ili kuhamasisha aina zaidi za mchango. Unaweza kutumia majukumu ya uongozi kutambua rasmi watu ambao wamefanya michango bora kwa mradi wako, bila kujali ujuzi wao wa kiufundi.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">

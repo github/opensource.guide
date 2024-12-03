@@ -497,7 +497,7 @@ Kabla ya kuanza kusherehekea, moja ya yafuatayo itatokea baada ya kuwasilisha mc
 
 ### 😭 Hupati jibu
 
-Tunatumahi [uliangalia mradi kwa ishara za shughuli](#a-checklist-before-you-contribute) kabla ya kutoa mchango. Hata kwenye mradi unaoendelea, kuna uwezekano kwamba mchango wako hautapata jibu.
+Tunatumahi [uliangalia mradi kwa ishara za shughuli](#orodha-ya-ukaguzi-kabla-ya-kuchangia) kabla ya kutoa mchango. Hata kwenye mradi unaoendelea, kuna uwezekano kwamba mchango wako hautapata jibu.
 
 Kama hujapata jibu kwa zaidi ya wiki moja, ni haki kuuliza kwa adabu katika thread yenyewe, ukiomba mtu yeyote kuhusu mapitio. Ikiwa unajua jina la mtu sahihi wa kupitia mchango wako, unaweza kumtaja katika laini hiyo.
 

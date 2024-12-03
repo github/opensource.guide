@@ -169,7 +169,7 @@ Njia moja ya kupata wachangiaji wapya ni wazi [kuweka lebo kwenye masuala ambayo
 
 Unapowaona wachangiaji wapya wakifanya michango mara kwa mara, tambua kazi yao kwa kuwapea majukumu zaidi. Andika jinsi wengine wanaweza kukua katika nafasi za uongozi ikiwa wanataka.
 
-Kuhamasisha wengine [kushiriki umiliki wa mradi](../building-community/#share-ownership-of-your-project) kunaweza kupunguza mzigo wako mwenyewe, kama @lmccart alivyogundua kwenye mradi wake, [p5.js](https://github.com/processing/p5.js).
+Kuhamasisha wengine [kushiriki umiliki wa mradi](../building-community/#shiriki-umiliki-wa-mradi-wako) kunaweza kupunguza mzigo wako mwenyewe, kama @lmccart alivyogundua kwenye mradi wake, [p5.js](https://github.com/processing/p5.js).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">

@@ -123,7 +123,7 @@ Fanya bidii yako kupitisha sera ya kutovumilia watu hawa. Ikiwa utaacha bila kud
 
 Mijadala ya kawaida kuhusu vipengele vidogo vya mradi wako inawavuruga wengine, ikiwa ni pamoja na wewe, kutoka kwa kuzingatia kazi muhimu. Watu wapya wanaofika kwenye mradi wako wanaweza kuona mazungumzo haya na wasitake kushiriki.
 
-Unapona tabia mbaya ikitokea kwenye mradi wako, itangaze hadharani. Eleza, kwa sauti nzuri lakini thabiti, kwa nini tabia yao si ya kukubalika. Ikiwa tatizo linaendelea, huenda ukahitaji [kuomba waondoke](../code-of-conduct/#enforcing-your-code-of-conduct). Kanuni yako ya [tabia](../code-of-conduct/) inaweza kuwa mwongozo mzuri kwa mazungumzo haya.
+Unapona tabia mbaya ikitokea kwenye mradi wako, itangaze hadharani. Eleza, kwa sauti nzuri lakini thabiti, kwa nini tabia yao si ya kukubalika. Ikiwa tatizo linaendelea, huenda ukahitaji [kuomba waondoke](../code-of-conduct/#kutekeleza-kanuni-zako-za-maadili). Kanuni yako ya [tabia](../code-of-conduct/) inaweza kuwa mwongozo mzuri kwa mazungumzo haya.
 
 ### Wafikie wachangiaji walipo
 
@@ -193,7 +193,7 @@ Kwa sehemu kubwa, ikiwa umejenga jamii ya kirafiki, heshimu, na umeandika michak
 
 Wakati jamii yako inakabiliwa na suala gumu, hasira zinaweza kuongezeka. Watu wanaweza kuwa na hasira au kukasirika na kuhamasisha hasira zao kwa wengine, au kwako.
 
-Kazi yako kama mtunza mradi ni kuzuia hali hizi zisipande. Hata kama una maoni thabiti kuhusu mada hiyo, jaribu kuchukua nafasi ya mtunzaji au mwezeshaji, badala ya kuingia kwenye ugumu na kusukuma maoni yako. Ikiwa mtu anakuwa mbaya au anachujikulia mazungumzo, [fanya haraka](../building-community/#dont-tolerate-bad-actors) kudumisha mazungumzo ya heshima na yenye tija.
+Kazi yako kama mtunza mradi ni kuzuia hali hizi zisipande. Hata kama una maoni thabiti kuhusu mada hiyo, jaribu kuchukua nafasi ya mtunzaji au mwezeshaji, badala ya kuingia kwenye ugumu na kusukuma maoni yako. Ikiwa mtu anakuwa mbaya au anachujikulia mazungumzo, [fanya haraka](../building-community/#usivumilie-wahusika-wabaya) kudumisha mazungumzo ya heshima na yenye tija.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
