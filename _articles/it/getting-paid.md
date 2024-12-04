@@ -86,7 +86,7 @@ Se la tua azienda segue questa strada, è importante mantenere chiari i confini 
 
 Se non riesci a convincere il tuo attuale datore di lavoro a dare priorità al lavoro open source, valuta la possibilità di trovare un nuovo datore di lavoro che incoraggi il contributo dei dipendenti all'open source. Cerca aziende che sottolineano il loro impegno verso l'open source. Per esempio:
 
-* Ad alcune aziende piace [Netflix](https://netflix.github.io/) o [PayPal](https://paypal.github.io/), hanno siti web che evidenziano il loro coinvolgimento nell'open source
+* Ad alcune aziende piace [Netflix](https://netflix.github.io/), hanno siti web che evidenziano il loro coinvolgimento nell'open source
 * [Zalando](https://opensource.zalando.com) пdivulga la sua [politica di contributo open source](https://opensource.zalando.com/docs/using/contributing/) per i dipendenti
 
 È probabile che anche i progetti che provengono da una grande azienda, come [Go](https://github.com/golang) o [React](https://github.com/facebook/react), assumano persone per lavorare con l'open source.

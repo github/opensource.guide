@@ -86,7 +86,7 @@ Ha a vállalatod ezt az utat választja, fontos, hogy a közösségi és a váll
 
 Ha nem tudod meggyőzni a jelenlegi munkáltatót a nyílt forráskódú munka fontosságáról, fontold meg, hogy keresel egy új munkaadót, aki ösztönzi a munkavállalók hozzájárulását a nyílt forráskódhoz. Keress olyan cégeket, amelyek kifejezetten a nyílt forráskódú munkát támogatják. Például:
 
-* Néhány cégnek, mint a [Netflix](https://netflix.github.io/) vagy a [PayPal](https://paypal.github.io/), külön weboldala van, amin a nyílt forráskódú munkát támogatják
+* Néhány cégnek, mint a [Netflix](https://netflix.github.io/), külön weboldala van, amin a nyílt forráskódú munkát támogatják
 * [Zalando](https://opensource.zalando.com) publikálta a [nyílt forráskódban történő részvétel feltételeit](https://opensource.zalando.com/docs/using/contributing/) a munkavállalói számára
 
 A nagy cégektől származó projektek, mint a [Go](https://github.com/golang) vagy a [React](https://github.com/facebook/react), szintén nagy valószínűséggel foglalkoztatnak embereket, hogy nyílt forráskódon dolgozzanak.

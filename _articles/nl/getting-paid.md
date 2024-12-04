@@ -101,7 +101,7 @@ Als uw bedrijf deze weg inslaat, is het belangrijk om de grenzen tussen gemeensc
 
 Als u uw huidige werkgever niet kunt overtuigen om prioriteit te geven aan open source-werk, overweeg dan om een nieuwe werkgever te zoeken die werknemersbijdragen aan open source aanmoedigt. Zoek naar bedrijven die hun toewijding aan open source-werk expliciet maken. Bijvoorbeeld:
 
-* Sommige bedrijven, zoals [Netflix](https://netflix.github.io/) of [PayPal](https://paypal.github.io/), hebben websites die hun betrokkenheid bij open source benadrukken
+* Sommige bedrijven, zoals [Netflix](https://netflix.github.io/), hebben websites die hun betrokkenheid bij open source benadrukken
 * [Zalando](https://opensource.zalando.com) publiceerde zijn [open source bijdragebeleid](https://opensource.zalando.com/docs/using/contributing/) voor werknemers
 
 Projecten die zijn ontstaan ​​bij een groot bedrijf, zoals [Go](https://github.com/golang) of [React](https://github.com/facebook/react), zullen waarschijnlijk ook mensen in dienst hebben om aan te werken open source.
