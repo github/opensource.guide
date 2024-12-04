@@ -123,7 +123,7 @@ Dacă compania ta coboară pe acest traseu, este important să păstrezi graniț
 
 Dacă nu îți poți convinge angajatorul curent să acorde prioritate muncii open source, consideră să găsești un nou angajator care încurajează contribuțiile angajaților la open source. Caută companii care își fac dedicarea la munca open source în mod explicit. De exemplu:
 
-* Unele companii, cum ar fi [Netflix](https://netflix.github.io/) sau [PayPal](https://paypal.github.io/), au site-uri web care evidențiază implicarea lor în open source
+* Unele companii, cum ar fi [Netflix](https://netflix.github.io/), au site-uri web care evidențiază implicarea lor în open source
 * [Rackspace](https://www.rackspace.com/en-us) și-a publicat [politica de contribuire la open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) pentru angajați
 
 Proiectele care provin de la o companie mare, cum ar fi [Go](https://github.com/golang) sau [React](https://github.com/facebook/react), probabil vor angaja de asemenea oameni să lucreze pe open source.

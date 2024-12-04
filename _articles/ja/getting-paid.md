@@ -86,7 +86,7 @@ related:
 
 オープンソース活動を優先するということを現在の雇用主に納得してもらえなかった場合、オープンソースへのコントリビュートを奨励している新しい雇用主を探すことを検討しましょう。オープンソース活動へのコントリビュートを明確にしている企業を探しましょう。例えば：
 
-* [Netflix](https://netflix.github.io/) や [PayPal](https://paypal.github.io/) といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
+* [Netflix](https://netflix.github.io/) といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
 * [Rackspace](https://www.rackspace.com/en-us) は従業員向けに[オープンソースコントリビュートポリシー](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)を公開しています
 
 [Go](https://github.com/golang) や [React](https://github.com/facebook/react) のような大企業がはじめたプロジェクトでは、オープンソース活動を行う人々を採用する可能性があります。

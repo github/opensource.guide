@@ -86,7 +86,7 @@ If your company goes down this route, it's important to keep the boundaries betw
 
 If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
+* Some companies, like [Netflix](https://netflix.github.io/), have websites that highlight their involvement in open source
 * [Zalando](https://opensource.zalando.com) published its [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) for employees
 
 Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.

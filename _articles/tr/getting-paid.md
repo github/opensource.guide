@@ -86,7 +86,7 @@ Birçok şirket markalarını geliştirmek ve kaliteli yetenekler kazanmak için
 
 Mevcut işvereninizi açık kaynak çalışmasına öncelik vermeye ikna edemiyorsanız, çalışan katkılarını açık kaynağa teşvik eden yeni bir işveren bulmayı düşünün. Açık kaynak kodlu çalışmalara açık bir şekilde kendini adadıklarını söyleyen şirketleri arayın. Örneğin:
 
-* [Netflix](https://netflix.github.io/) veya [PayPal](https://paypal.github.io/) gibi bazı şirketler, açık kaynaklara katılımını vurgulayan web sitelerine sahiptir.
+* [Netflix](https://netflix.github.io/) gibi bazı şirketler, açık kaynaklara katılımını vurgulayan web sitelerine sahiptir.
 * [Zalando](https://opensource.zalando.com) , çalışanlara yönelik [açık kaynak katkı politikasını](https://opensource.zalando.com/docs/using/contributing/) yayınladı
 
 [Go](https://github.com/golang) veya [React](https://github.com/facebook/react) gibi büyük bir şirketten gelen projeler, muhtemelen açık kaynak üzerinde çalışmak için insanları istihdam edecek.
