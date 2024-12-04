@@ -96,7 +96,7 @@ Jeśli Twoja firma pójdzie tą drogą, ważne jest, aby zachować wyraźne gran
 
 Jeśli nie możesz przekonać swojego obecnego pracodawcy do priorytetowego traktowania pracy typu open source, zastanów się nad znalezieniem nowego, który zachęca pracowników do korzystania z oprogramowania typu open source. Poszukaj firm, które wyrażają swoje zaangażowanie w pracę z otwartym oprogramowaniem. Na przykład:
 
-* Niektóre firmy, jak [Netflix](https://netflix.github.io/) lub [PayPal](https://paypal.github.io/), mają strony internetowe, które podkreślają ich zaangażowanie w open source
+* Niektóre firmy, jak [Netflix](https://netflix.github.io/), mają strony internetowe, które podkreślają ich zaangażowanie w open source
 * [Zalando](https://opensource.zalando.com) opublikował [politykę dotyczącą wkładu typu open source](https://opensource.zalando.com/docs/using/contributing/) dla pracowników
 
 Projekty, które powstały w dużej firmie, takie jak [Go](https://github.com/golang) lub [React](https://github.com/facebook/react), prawdopodobnie również zatrudniają ludzi do pracy na otwartym oprogramowaniu.
