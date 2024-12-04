@@ -86,7 +86,7 @@ Sekiranya syarikat anda melalui laluan ini, penting untuk menjaga batas antara a
 
 Sekiranya anda tidak dapat meyakinkan majikan anda untuk memprioritaskan pekerjaan sumber terbuka, pertimbangkan untuk mencari majikan baru yang mendorong sumbangan pekerja kepada sumber terbuka. Cari syarikat yang membuat dedikasi mereka untuk kerja sumber terbuka secara eksplisit. Sebagai contoh:
 
-* Beberapa syarikat, seperti [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), mempunyai laman web yang menonjolkan penglibatan mereka dalam sumber terbuka
+* Beberapa syarikat, seperti [Netflix](https://netflix.github.io/), mempunyai laman web yang menonjolkan penglibatan mereka dalam sumber terbuka
 * [Zalando](https://opensource.zalando.com) menerbitkannya [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) untuk pekerja
 
 Projek yang berasal dari syarikat besar, seperti [Go](https://github.com/golang) atau [React](https://github.com/facebook/react), kemungkinan juga akan menggaji orang untuk bekerja di sumber terbuka.
