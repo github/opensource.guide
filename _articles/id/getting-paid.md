@@ -86,7 +86,7 @@ Jika perusahaan Anda mengikuti rute ini, merupakan hal yang penting untuk menjag
 
 Jika Anda tidak mampu meyakinkan perusahaan untuk memprioritaskan pekerjaan open source, pertimbangkan untuk mencari perusahaan lain yang mendorong kontribusi karyawan pada open source. Cari perusahaan yang mendedikasikan pada pekerjaan open source secara eksplisit. Sebagai contoh:
 
-* Beberapa perusahaan, seperti [Netflix](https://netflix.github.io/) atau [PayPal](https://paypal.github.io/), memiliki halaman web yang menunjukan keterlibatan mereka pada open source
+* Beberapa perusahaan, seperti [Netflix](https://netflix.github.io/), memiliki halaman web yang menunjukan keterlibatan mereka pada open source
 * [Zalando](https://opensource.zalando.com) mempublikasikan [kebijakan kontribusi open source](https://opensource.zalando.com/docs/using/contributing/) bagi pegawai
 
 Proyek-proyek yang berasal dari perusahaan besar, seperti [Go](https://github.com/golang) atau [React](https://github.com/facebook/react), juga akan memperkerjakan orang-orang untuk bekerja pada open source.

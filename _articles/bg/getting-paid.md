@@ -86,7 +86,7 @@ related:
 
 Ако не можете да убедите настоящия си работодател да даде приоритет на работата с отворен код, помислете за намиране на нов работодател, който насърчава приноса на служителите към отворен код. Потърсете компании, които подчертават своята отдаденост на работата с отворен код. Например:
 
-* Някои компании, като [Netflix](https://netflix.github.io/) или [PayPal](https://paypal.github.io/), имат уебсайтове, които подчертават тяхното участие в отворен код
+* Някои компании, като [Netflix](https://netflix.github.io/), имат уебсайтове, които подчертават тяхното участие в отворен код
 * [Zalando](https://opensource.zalando.com) публикува своята [политика за принос с отворен код](https://opensource.zalando.com/docs/using/contributing/) за служители
 
 Проекти, които произхождат от голяма компания, като [Go](https://github.com/golang) или [React](https://github.com/facebook/react), will also likely employ people to work on open source.
