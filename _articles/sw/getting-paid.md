@@ -86,7 +86,7 @@ Ikiwa kampuni yako inaenda kwenye njia hii, ni muhimu kuweka mipaka kati ya shug
 
 Ikiwa huwezi kumshawishi mwajiri wako wa sasa kuipa kipaumbele kazi ya open source, fikiria kutafuta mwajiri mpya anayehimiza michango ya wafanyakazi kwenye open source. Tafuta makampuni ambayo yanaweka wazi kujitolea kwao kwa kazi ya open source. Kwa mfano:
 
-* Makampuni mengine, kama [Netflix](https://netflix.github.io/) au [PayPal](https://paypal.github.io/), yana tovuti zinazosisitiza ushiriki wao katika open source
+* Makampuni mengine, kama [Netflix](https://netflix.github.io/), yana tovuti zinazosisitiza ushiriki wao katika open source
 * [Zalando](https://opensource.zalando.com) ilichapisha [sera yake ya mchango wa open source](https://opensource.zalando.com/docs/using/contributing/) kwa wafanyakazi
 
 Miradi ambayo ilianza katika kampuni kubwa, kama [Go](https://github.com/golang) au [React](https://github.com/facebook/react), pia itakuwa na uwezekano wa kuajiri watu kufanya kazi kwenye open source.
