@@ -16,7 +16,7 @@ it:
       description: Vuoi dare un suggerimento? Questo contenuto è open source. Aiutaci a migliorarlo.
       button: Contribuire
     subscribe:
-      heading: Rimania in contatto
+      heading: Rimani in contatto
       description: Sii il primo a conoscere gli ultimi suggerimenti e risorse open source su GitHub.
       label: Email
       button: Sottoscrivi
