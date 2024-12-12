@@ -172,9 +172,9 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * [जहरीले लोगों से कैसे निपटें](https://www.youtube.com/watch?v=7lIpP3GEyXs), जीना हाउजगे
 * [सस्टेनओएसएस](https://sustainoss.org/)
 * [नेतृत्व की रॉकवुड कला](https://rockwoodleadership.org/art-of-leadership/)
-* [नहीं कहना](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), माइक मैकक्यूएड
-* [गवर्निंग ओपन](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* कार्यशाला के एजेंडे को रीमिक्स किया गया था [घर से मोज़िला की मूवमेंट बिल्डिंग](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) शृंखला
+* [नहीं कहना](https://mikemcquaid.com/saying-no/), माइक मैकक्यूएड
+* [गवर्निंग ओपन](https://governingopen.com/)
+* कार्यशाला के एजेंडे को रीमिक्स किया गया था [घर से मोज़िला की मूवमेंट बिल्डिंग](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) शृंखला
 
 ## योगदानकर्ताओं
 

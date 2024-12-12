@@ -172,9 +172,9 @@ Pamiętaj, że ekologia osobista to ciągła praktyka, która będzie ewoluować
 * [Jak radzić sobie z toksycznymi ludźmi](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Sztuka przywództwa](https://rockwoodleadership.org/art-of-leadership/), Rockwood
-* [Mówienie "nie"](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Otwartość zarządzania](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Program warsztatów został zaczerpnięty z serii [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org)
+* [Mówienie "nie"](https://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Otwartość zarządzania](https://governingopen.com/)
+* Program warsztatów został zaczerpnięty z serii [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/)
 
 ## Współtwórcy
 
