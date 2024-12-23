@@ -172,9 +172,9 @@ Recuerda, la ecología personal es una práctica continua que evolucionará a me
 * [Cómo lidiar con personas tóxicas](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Cómo decir no](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Gobernanza del Código Abierto](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* La agenda del taller se basó en [Movimiento de construcción desde casa de Mozilla](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org)
+* [Cómo decir no](https://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Gobernanza del Código Abierto](https://governingopen.com/)
+* La agenda del taller se basó en [Movimiento de construcción desde casa de Mozilla](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/)
 
 ## Colaboradores
 
