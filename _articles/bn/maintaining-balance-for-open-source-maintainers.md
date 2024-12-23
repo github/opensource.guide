@@ -34,7 +34,7 @@ Take time to reflect on what parts of open source maintenance energizes you. Und
 
 It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
 
-- **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
@@ -44,7 +44,7 @@ It's important to understand what causes us to get burned out. Here are a few co
   </p>
 </aside>
 
-- **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
@@ -54,7 +54,7 @@ It's important to understand what causes us to get burned out. Here are a few co
   </p>
 </aside>
 
-- **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -64,7 +64,7 @@ It's important to understand what causes us to get burned out. Here are a few co
   </p>
 </aside>
 
-- **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
 
 <aside markdown="1" class="pquote">
   [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
@@ -73,7 +73,7 @@ It's important to understand what causes us to get burned out. Here are a few co
   </p>
 </aside>
 
-- **Conflicting demands:** Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **Conflicting demands:** Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
 
 <aside markdown="1" class="pquote">
   With paid open source, conflict between employer's focus and what's best for the community
@@ -99,11 +99,11 @@ There are tools like the [Burnout Checklist](https://governingopen.com/resources
 
 This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
 
-- **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning.
+* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning.
 
   You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
 
-- **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
@@ -113,7 +113,7 @@ This will look different for each maintainer, and will change depending on your 
   </p>
 </aside>
 
-- **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
 
 <aside markdown="1" class="pquote">
  Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
@@ -122,7 +122,7 @@ This will look different for each maintainer, and will change depending on your 
   </p>
 </aside>
 
-- **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
+* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
 
   If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
 
@@ -134,7 +134,7 @@ This will look different for each maintainer, and will change depending on your 
   </p>
 </aside>
 
-- **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
@@ -166,15 +166,15 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 
 ## Additional Resources
 
-- [Maintainer Community](http://maintainers.github.com/)
-- [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
-- [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg
-- [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
-- [SustainOSS](https://sustainoss.org/)
-- [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-- [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-- [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-- Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Maintainer Community](http://maintainers.github.com/)
+* [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
+* [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg
+* [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
+* [SustainOSS](https://sustainoss.org/)
+* [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
+* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
+* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
+* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
 
 ## Contributors
 
