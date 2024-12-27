@@ -13,7 +13,7 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
       - name: Set up Ruby
-        uses: ruby/setup-ruby@540484a3c0f308b08619664ec40bf6c371d172c3 # v1
+        uses: ruby/setup-ruby@bfefad842bb982ff05b233bcbc1571d97a87e69f # v1
         with:
           bundler-cache: true
       - name: Set up Node
