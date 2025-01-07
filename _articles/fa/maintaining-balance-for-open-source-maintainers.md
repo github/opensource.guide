@@ -46,20 +46,20 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-
 * **ناتوانی در 'نه' گفتن:** بر عهده گرفتن مسئولیت های بیشتر از ظرفیت در یک پروژه منبع باز می تواند آسان باشد. چه از طرف کاربران باشد، چه مشارکت کنندگان یا سایر نگهبانان - ما همیشه نمی توانیم انتظارات همه را برآورده کنیم
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
 
 متوجه شدم که بیش از یک وظیفه را به عهده می گرفتم و باید کار چند نفر را انجام می دادم، مانند آنچه در FOSS انجام می شود.
-  <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, نگهدارنده Termux, در "چه چیزی باعث فرسودگی شغلی میشود"
-  </p>
+
+<p markdown="1" class="pquote-credit">
+— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, نگهدارنده Termux, در "چه چیزی باعث فرسودگی شغلی میشود" 
+</p>
+
 </aside>
 
 * **کار انفرادی :** نگهدارنده بودن می تواند فوق العاده باعث تنهایی باشد. حتی اگر با گروهی از نگهدارندگان کار می کنید، چند سال گذشته برای تشکیل تیم های توزیع شده حضوری بسیار دشوار بوده است.
-
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -79,7 +79,6 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 </aside>
 
 * **تعارض منافع:**  منبع باز پر از گروه هایی با انگیزه های مختلف است که پیمایش در آنها ممکن است دشوار باشد. اگر برای کار منبع باز پول دریافت می کنید، علایق کارفرمای شما ممکن است گاهی در تضاد با جامعه باشد.
-
 
 <aside markdown="1" class="pquote">
   با پرداخت حقوق یه نگهدارندگان متن باز، تضاد بین تمرکز کارفرمایان و آنچه برای جامعه بهترین است رخ میدهد.
@@ -103,7 +102,6 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 \
 برخی از نگهدارندگان نیز از فناوری پوشیدنی برای ردیابی معیارهایی مانند کیفیت خواب و تغییرات ضربان قلب (هر دو با استرس مرتبط هستند) استفاده می کنند.
 
-
 <aside markdown="1" class="pquote">
 من به گجت های پوشیدنی خوب اعتقاد زیادی دارم. با علم پشت آن، می توانید بفهمید که چگونه می توانستید بهتر عمل کنید و چگونه به وضعیت مطلوبی از آنچه می خواهید انجام دهید، برسید.
   <p markdown="1" class="pquote-credit">
@@ -117,11 +115,9 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 * * **به جامعه تکیه کنید:** تفویض اختیار و یافتن مشارکت کنندگان می تواند بار کاری را کاهش دهد. داشتن چندین نقطه تماس برای یک پروژه می تواند به شما کمک کند بدون نگرانی از کار دست بکشید. با سایر نگهدارندگان و جامعه گسترده‌تر در گروه‌هایی مانند [Maintainer Community](http://maintainers.github.com/) ارتباط برقرار کنید گروه مذکور می‌تواند منبع خوبی برای پشتیبانی و یادگیری همتایان باشد..
 
-
 همچنین می‌توانید به دنبال راه‌هایی برای تعامل با جامعه کاربران باشید، بنابراین می‌توانید به طور منظم بازخورد شنیده و تأثیر کار منبع باز خود را درک کنید.
 
 * **Explore funding:** فرقی ندارد که به دنبال مقداری پول پیتزا باشید یا می‌خواهید به صورت تمام وقت متن‌باز استفاده کنید، منابع زیادی برای کمک به شما وجود دارد! به عنوان اولین قدم، [GitHub Sponsors](https://github.com/sponsors) را فعال کنید تا به دیگران اجازه دهید از کار منبع باز شما حمایت مالی کنند. اگر به فکر پرش به تمام وقت هستید، برای دور بعدی [GitHub Accelerator](http://accelerator.github.com/) اقدام کنید.
-
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
@@ -132,7 +128,6 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 </aside>
 
 * **استفاده از ابزارها:** استفاده از ابزار هایی برای اتوماتیک کردن برخی از فرایند ها و صرف زمان صرفه جویی شده در توسعه با معنا تر. ابزارهایی مانند  [GitHub Copilot](https://github.com/features/copilot/) و [GitHub Actions](https://github.com/features/actions).
-
 
 <aside markdown="1" class="pquote">
 برای کارهای حوصله سر بر از [Copilot](https://github.com/features/copilot/) استفاده کنید و در عوض کارهای باحال بکنید
@@ -154,7 +149,6 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 </aside>
 
 * **تغین حدود:** شما نمی توانید به هر درخواستی بله بگویید. این می تواند به سادگی بگوید: "در حال حاضر نمی توانم به آن برسم و در آینده برنامه ای ندارم" یا فهرست کردن آنچه که علاقه مند به انجام و یا انجام ندادن آن در README هستید. برای مثال، می‌توانید بگویید: «من فقط پول رکوئست هایی را ادغام می‌کنم که دلایل ایجاد آنها را به وضوح ذکر کرده‌اند» یا «من فقط مسائل را در روزهای پنج‌شنبه از ساعت 6 تا 7 بعد از ظهر بررسی می‌کنم.» این انتظارات را برای دیگران ایجاد می‌کند و چیزی به شما می‌دهد تا برای کمک به کاهش تنش‌ها از سوی مشارکت‌کنندگان یا کاربران در زمان‌های دیگر، به آن اشاره کنید.
-
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
@@ -205,8 +199,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 مترجم:
 [@mostafa](https://github.com/mostafayavari94)
 
-
-مشارکت کنندگان : 
+مشارکت کنندگان:
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
