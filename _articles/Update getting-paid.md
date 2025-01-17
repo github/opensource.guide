@@ -3,11 +3,11 @@ lang: en
 title: Getting Paid for Open Source Work
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
-order: 7
-image: /assets/images/cards/getting-paid.png
+order: 1
+image: /assets/images/getting-paid.png
 related:
-  - best-practices
-  - leadership
+  - practices
+  
 ---
 
 ## Why some people seek financial support
@@ -15,35 +15,31 @@ related:
 Much of the work of open source is voluntary. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
-  <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
-  </p>
-</aside>
+  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" avatar">
+I was looking for a "time" programming project that would keep me occupied during the week around this weekend. (...) I had no computer, and im only use my android phone on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) 
 
-There are many reasons why a person would not want to be paid for their open source work.
+There are many reasons why a person want to pay there work  to be paid for their open source work.
 
 * **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
+* **They enjoy thinking of open source as a time** or creative escape and  want to feel financially obligated to work on their projects.
 * **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
-  <p markdown="1" class="pquote-credit">
+  Financial donated do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+  <p markdown="1" class="pquote">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
 For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
 
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
+Maintaining popular projects can be a significant responsibility, taking up 5 or 10 hours per week instead of a few hours per month.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
-  <p markdown="1" class="pquote-credit">
+  <p markdown="1" class="pquote">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
@@ -53,7 +49,7 @@ Paid work also enables people from different walks of life to make meaningful co
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
-  <p markdown="1" class="pquote-credit">
+  <p markdown="1" class="pquote">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
@@ -79,15 +75,10 @@ If your company goes down this route, it's important to keep the boundaries betw
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
-  <p markdown="1" class="pquote-credit">
-— @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
-  </p>
-</aside>
+  <p markdown="1" class="pquote"
 
 If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
 
-* Some companies, like [Netflix](https://netflix.github.io/), have websites that highlight their involvement in open source
-* [Zalando](https://opensource.zalando.com) published its [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) for employees
 
 Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
 
@@ -95,7 +86,6 @@ Depending on your personal circumstances, you can try raising money independentl
 
 * @Homebrew (and [many other maintainers and organizations](https://github.com/sponsors/community)) fund their work through [GitHub Sponsors](https://github.com/sponsors)
 * @gaearon funded his work on [Redux](https://github.com/reactjs/redux) through a [Patreon crowdfunding campaign](https://redux.js.org/)
-* @andrewgodwin funded work on Django schema migrations [through a Kickstarter campaign](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
 Finally, sometimes open source projects put bounties on issues that you might consider helping with.
 
@@ -124,18 +114,12 @@ Depending on your project, you may be able to charge for commercial support, hos
 
 * **[Sidekiq](https://github.com/mperham/sidekiq)** offers paid versions for additional support
 * **[Travis CI](https://github.com/travis-ci)** offers paid versions of its product
-* **[Ghost](https://github.com/TryGhost/Ghost)** is a nonprofit with a paid managed service
 
 Some popular projects, like [npm](https://github.com/npm/cli) and [Docker](https://github.com/docker/docker), even raise venture capital to support their business growth.
 
 ### Apply for grant funding
 
 Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
-
-* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** received a grant from [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
-* **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
 
 For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
 
@@ -163,15 +147,7 @@ What, exactly, will you accomplish with the proposed funding? Focus on project m
 
 ### How you'll receive the funds
 
-Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders, so be sure to do your research beforehand.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
-  <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
-  </p>
-</aside>
+Does the funder have any requirements around disbursal? For example, you may need to be a nonprofit or have a nonprofit fiscal sponsor. Or perhaps the funds must be given to an individual contractor rather than an organization. These requirements vary between funders,
 
 ## Experiment and don't give up
 
