@@ -62,7 +62,7 @@ If you're not yet convinced, take a moment to think about what your goals might 
 
 ### Setting your goals
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself, _why am I open sourcing this project?_
 
 There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
 
