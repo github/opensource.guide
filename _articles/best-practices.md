@@ -81,7 +81,7 @@ You've written things down. Ideally, everybody would read your documentation, bu
 
 Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
 
-Saying no isn't fun, but  _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+Saying no isn't fun, but _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
 
 Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
 
