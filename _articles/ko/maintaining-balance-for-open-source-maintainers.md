@@ -114,8 +114,6 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-
-
 * **도구 사용하기:** [GitHub Copilot](https://github.com/features/copilot/)이나 [GitHub Actions](https://github.com/features/actions) 같은 도구를 탐구하여 반복적인 작업을 자동화하고 더 의미 있는 기여를 할 수 있는 시간을 확보하세요.
 
 <aside markdown="1" class="pquote">
