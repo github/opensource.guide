@@ -72,3 +72,17 @@ available at [https://contributor-covenant.org/version/1/4][version]
 
 [homepage]: https://contributor-covenant.org
 [version]: https://contributor-covenant.org/version/1/4/
+
+
+## Quick Start Guide to Contributing
+
+1. **Fork the Repository**: Click the "Fork" button on the top right of the repository page.
+2. **Clone Your Fork**: Use the command `git clone <your-fork-url>` to clone your fork locally.
+3. **Create a Branch**: Run `git checkout -b <your-branch-name>` to create a new branch for your changes.
+4. **Make Your Changes**: Edit the files as needed.
+5. **Commit Your Changes**: Use `git commit -m "Your message here"` to commit your changes.
+6. **Push Your Changes**: Push your changes to your fork with `git push origin <your-branch-name>`.
+7. **Open a Pull Request**: Go to the original repository and click "New Pull Request" to submit your changes.
+
+
+
