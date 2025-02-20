@@ -88,7 +88,6 @@ redirect_from: /zh-cn/getting-paid/
 如果你实在无法在当前的雇主下开展相关开源的工作，那么是到了该考虑换老板的时候，应到找个支持想为开源作贡献的老板！寻找那些致力于开源工作的公司。比如：
 
 * [Ghost](https://ghost.org/)  就是一家围绕很多[开源项目](https://github.com/tryghost/ghost)的好公司
-* [Zalando](https://opensource.zalando.com) 甚至为其员工提供了[贡献开源守则](https://opensource.zalando.com/docs/using/contributing/)
 
 那些大公司发起的项目，如 [Go](https://github.com/golang) 或 [React](https://github.com/facebook/react)，均希望雇佣到优秀的工程师来为他们工作。
 
