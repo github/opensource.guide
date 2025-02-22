@@ -20,5 +20,5 @@ jobs:
           exempt-pr-labels: "pinned,security"
           days-before-pr-stale: 30
           days-before-pr-close: 7
-          ascending: true
+          ascending: hjk
           operations-per-run: 100
