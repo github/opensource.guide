@@ -1,7 +1,7 @@
 ---
-lang: en
-title: Best Practices for Maintainers
-description: Making your life easier as an open source maintainer, from documenting processes to leveraging your community.
+lang: bn
+title: রক্ষণাবেক্ষণকারিদের জন্য আর্দশ অনুশীলন
+description: নথিপত্র পক্রিয়াকরন থেকে শুরু করে সম্প্রদায়কে উন্নত করার ক্ষেত্রে, অপনার জীবনকে সহজ করুন একজন ওপেন সোর্স রক্ষণাবেক্ষণকারি হিসাবে।
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
@@ -10,62 +10,62 @@ related:
   - leadership
 ---
 
-## What does it mean to be a maintainer?
+## রক্ষণাবেক্ষণকারী বলতে কী বোঝায়?
 
-If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
+আপনি যদি একটি ওপেন সোর্স প্রকল্প রক্ষণাবেক্ষণ করেন যেটা অনেক লোক ব্যবহার করে, আপনি হয়ত লক্ষ্য করেছেন যে আপনি কম কোডিং করছেন এবং সমস্যাগুলিতে বেশি সাড়া দিচ্ছেন।
 
-In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+একটি প্রকল্পের প্রাথমিক পর্যায়ে, আপনি নতুন নতুন পরিকল্পনা নিয়ে পরীক্ষা-নিরীক্ষা করবেন এবং আপনার ইচ্ছার উপর ভিত্তি করে সিদ্ধান্ত নিবেন। কিন্তু আপনার প্রকল্পের জনপ্রিয়তা বাড়ার সাথে সাথে আপনি নিজেকে আপনার ব্যবহারকারী এবং অবদানকারীদের সাথে বেশি কাজ করতে দেখবেন।
 
-Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
+একটা প্রকল্প রক্ষণাবেক্ষণ করতে কোডিং করার থেকেও বেশি কিছুর প্রয়োজন। এই কাজগুলো বেশির ভাগ সময়ই অপ্রত্যাশিত হয়ে থাকে, কিন্তু এগুলো প্রকল্প বড় করার মতোই সমান গুরুত্তপূর্ণ্য। নথিপত্র পক্রিয়াকরন থেকে শুরু করে সম্প্রদায়কে উন্নত করার ক্ষেত্রে, অপনার জীবনকে সহজ করার জন্য আমরা কিছু উপায় একত্রিত করেছি।
 
-## Documenting your processes
+## আপনার প্রক্রিয়া নথিভুক্ত করা
 
-Writing things down is one of the most important things you can do as a maintainer.
+রক্ষণাবেক্ষণকারি হিসেবে আপনার সব থেকে গুরুত্তপূর্ণ্য কাজগুলোর মধ্যে একটি হচ্ছে লিখে রাখা।
 
-Documentation not only clarifies your own thinking, but it helps other people understand what you need or expect, before they even ask.
+নথিভূক্ত করা শুধুমাত্র আপনার নিজের চিন্তাভাবনাকে স্পষ্ট করে না, এটি অন্যদেরকে আপনার কাছে জানতে চাওয়ার আগেই আপনার প্রয়োজন বা প্রত্যাশা বুঝতে সাহায্য করে।
 
-Writing things down makes it easier to say no when something doesn't fit into your scope. It also makes it easier for people to pitch in and help. You never know who might be reading or using your project.
+যখন কোন কিছু আপনার লক্ষের সাথে না মিলে, তখন নথিপত্র লেখা থাকলে না বলতে সুবিধা হয়। এটা অন্যদেরকে আপনার সাথে একসাথে কাজ করা এবং সাহায্য করাকেও সহজ করে দেয়। আপনি কখনোই জানবেন না কে আপনার প্রকল্প পড়তে অথবা ব্যবহার করতে পারে।
 
-Even if you don't use full paragraphs, jotting down bullet points is better than not writing at all.
+যদি আপনি সম্পূর্ণ্য বিস্তারিত ভাবে নাও লিখেন, তবে একদম না লেখার থেকে খসড়া বুলেট পয়েন্ট আকারে লেখা ভাল।
 
-Remember to keep your documentation up-to-date. If you're not able to always do this, delete your outdated documentation or indicate it is outdated so contributors know updates are welcome.
+আপনার নথিপত্র হালনাগাদ(আপডেট) করতে ভুলবেন না। আপনি যদি সর্বদা এটা করতে নাও পারেন তবে আপনার পুরানো নথিগুলো মুছুন অথবা এটি পুরানো বলে চিহ্নিত করুন যাতে অবদানকারীরা জানে যে এখানে পুরাতন নথি হালনাগাদ করার মাধ্যমে তারা এই প্রকল্পে অবদান রাখতে পারে৷
 
-### Write down your project's vision
+### আপনার কর্ম-পরিকল্পনা লিখুন
 
-Start by writing down the goals of your project. Add them to your README, or create a separate file called VISION. If there are other artifacts that could help, like a project roadmap, make those public as well.
+আপনার প্রকল্পের লক্ষ্যগুলো লেখার মাধ্যমে শুরু করুন। এগুলো আপনার রিডমি(README) ফাইলে সংযুক্ত করুন, অথবা ভিশন(VISION) নামে আলাদা ফাইল তৈরি করুন। যদি অন্য কোন গুরুত্তপুর্ণ্য জিনিস থাকে যেটা অন্যদের সাহায্য করবে যেমন প্রকল্পের রোডম্যাপ ইত্যাদি, সেগুলো সবার জন্য উন্মুক্ত করে দিন।
 
-Having a clear, documented vision keeps you focused and helps you avoid "scope creep" from others' contributions.
+একটি স্পষ্ট এবং নথিভূক্ত কর্ম-পরিকল্পনা আপনাকে প্রকৃত লক্ষে অবিচল রাখবে এবং অন্যান্য অবদানকারীদের মাধ্যমে "scope creep" হওয়া অর্থাৎ প্রকৃত লক্ষ্য থেকে ধীরে ধীরে দূরে সরে যাওয়া এড়াতে সাহায্য করবে।
 
-For example, @lord discovered that having a project vision helped him figure out which requests to spend time on. As a new maintainer, he regretted not sticking to his project's scope when he got his first feature request for [Slate](https://github.com/lord/slate).
+উদাহরণস্বরূপ @lord আবিষ্কার করলো যে একটি প্রকল্পের কর্ম-পরিকল্পনা তাকে বুঝতে সাহায্য করে কোন অনুরোধগুলিতে(requests) সময় ব্যয় করা উচিত। যখন সে প্রথম [Slate](https://github.com/lord/slate) এর ফিচার(বৈশিষ্ট) সংযুক্ত করার অনুরোধ পায় এবং যে তার প্রকল্পের লক্ষ্য থেকে দূরে সরে যায়, তখন সে একজন নতুন রক্ষণাবেক্ষণকারী হিসেবে অনুতপ্ত হয়।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of a half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
+  আমি ভুল করেছি। আমি একটি পূর্ণাঙ্গ সমাধান বের করার জন্য যথেষ্ট চেষ্টা করিনি। অপরিপক্ক সমাধান করার থেকে আমি যদি বলতাম "এটা করার জন্য এখন আমার সময় নেই, কিন্তু এটা আমি দীর্ঘমেয়াদী পরিকল্পনার(long term nice-to-have list) তালিকায় যুক্ত করবো।"
   <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
+— @lord, ["নতুন ওপেন সোর্স রক্ষণাবেক্ষণকারীদের জন্য টিপস"](https://lord.io/blog/2014/oss-tips/)
   </p>
 </aside>
 
-### Communicate your expectations
+### অন্যদেরকে আপনার প্রত্যাশাগুলো জানান
 
-Rules can be nerve-wracking to write down. Sometimes you might feel like you're policing other people's behavior or killing all the fun.
+নিয়মকানুন(Rules) লিপিবদ্ধ করা খুবই যন্ত্রণাদায়ক। অনেক সময় আপনার মনে হতে পারে আপনি অন্যদের আচরণ তদারকি করছেন অথবা সকল আনন্দ-বিনোদনের গলা চেপে ধরছেন।
 
-Written and enforced fairly, however, good rules empower maintainers. They prevent you from getting dragged into doing things you don't want to do.
+যদি নিয়মকানুন লিপিবদ্ধ করা এবং ন্যায্য ভাবে প্রয়োগ করা হয়, যতকিছুই হোক, ভাল নিয়মকানুন রক্ষণাবেক্ষণকারীদের ক্ষমতা বৃদ্ধি করে। এটা আপনাকে এমন কাজ করতে বাধ্য হওয়া থেকে রক্ষা করে যা আপনি করতে চান না।
 
-Most people who come across your project don't know anything about you or your circumstances. They may assume you get paid to work on it, especially if it's something they regularly use and depend on. Maybe at one point you put a lot of time into your project, but now you're busy with a new job or family member.
+আপনার প্রকল্পের বেশির ভাগ মানুষ আপনার বা আপনার পরিস্থিতি সম্পর্কে কিছুই জানে না। তারা মনে করতে পারে যে আপনি এটি নিয়ে কাজ করার জন্য টাকা পান, বিশেষ করে যদি এটি এমন কিছু হয় যা তারা নিয়মিত ব্যবহার করে এবং নির্ভর করে। হয়তো এক সময় আপনি আপনার প্রকল্পে অনেক সময় দিয়েছিলেন, কিন্তু এখন আপনি নতুন চাকরি বা পরিবার সদস্যদের নিয়ে ব্যস্ত।
 
-All of this is perfectly okay! Just make sure other people know about it.
+এগুলোর সবই পুরপুরি ঠিক আছে! শুধু এটা নিশ্চিত করুন যে অন্যরা আপনার পরিস্থিতিগুলো যেন জানে।
 
-If maintaining your project is part-time or purely volunteered, be honest about how much time you have. This is not the same as how much time you think the project requires, or how much time others want you to spend.
+প্রকল্প রক্ষণাবেক্ষণ যদি আপনার পার্ট-টাইম বা সম্পূর্ণভাবে স্বেচ্ছাসেবামূলক হয়, তবে আপনি কতটুকু সময় দিতে পারবেন সে সম্পর্কে সৎ থাকুন। এটা সেই সময়ের সমান নয় যেটা আপনি মনে করছেন প্রকল্পের প্রয়োজন বা অন্যরা আপনার কাছ থেকে যে পরিমান সময় চাচ্ছে।
 
-Here are a few rules that are worth writing down:
+লিখে রাখার মত কিছু নিয়মকানুন হচ্ছেঃ
 
-* How a contribution is reviewed and accepted (_Do they need tests? An issue template?_)
-* The types of contributions you'll accept (_Do you only want help with a certain part of your code?_)
-* When it's appropriate to follow up (_for example, "You can expect a response from a maintainer within 7 days. If you haven't heard anything by then, feel free to ping the thread."_)
-* How much time you spend on the project (_for example, "We only spend about 5 hours per week on this project"_)
+* কিভাবে একটি অবদান পর্যালোচনা(reviewed) এবং গ্রহণ করা হবে (_তাদের কি টেষ্ট(test) প্রয়োজন? নাকি ইস্যু টেমপ্লেট(issue template) প্রয়োজন?_)
+* কোন ধরনের অবদান আপনি গ্রহন করবেন (_আপনার কি কোন নির্দিষ্ট অংশের কোডিং এ সাহায্য প্রয়োজন?_)
+* কখন ফলো-আপ করা উপযুক্ত (_যেমন, 'আপনি ৭ দিনের মধ্যে একজন রক্ষণাবেক্ষণকারীর কাছ থেকে প্রতিউত্তর আশা করতে পারেন। যদি এই সময়ের মধ্যে কোন প্রতিউত্তর না পান, তবে থ্রেডটি পিং করতে স্বচ্ছন্দ বোধ করুন(feel free to ping the thread)।_)
+* আপনি এই প্রকল্পে কতটুকু সময় ব্যয় করবেন (_যেমন, "আমরা এই প্রকল্পে প্রতি সপ্তাহে শুধুমাত্র ৫ ঘন্টা সময় ব্যয় করবো"_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) are several examples of projects with ground rules for maintainers and contributors.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) এগুলো হচ্ছে রক্ষণাবেক্ষণকারী এবং অবদানকারীদের জন্য মৌলিক নিয়ম সহ কিছু প্রকল্পের উদাহরণ।
 
 ### Keep communication public
 

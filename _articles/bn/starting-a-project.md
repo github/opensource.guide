@@ -1,5 +1,5 @@
 ---
-lang: pcm
+lang: bn
 title: Starting an Open Source Project
 description: Learn more about the world of open source and get ready to launch your own project.
 class: beginners
@@ -46,7 +46,7 @@ Open source isn't just for software, either. You can open source everything from
 
 One of open source's biggest draws is that it does not cost money. "Free of charge", however, is a byproduct of open source's overall value.
 
-Because [an open source license requires](https://opensource.org/osd-annotated) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
+Because [an open source license requires](https://opensource.org/definition-annotated/) that anyone can use, modify, and share your project for nearly any purpose, projects themselves tend to be free of charge. If the project cost money to use, anyone could legally make a copy and use the free version instead.
 
 As a result, most open source projects are free, but "free of charge" is not part of the open source definition. There are ways to charge for open source projects indirectly through dual licensing or limited features, while still complying with the official definition of open source.
 
@@ -223,7 +223,7 @@ Consider clarity above all. Puns are fun, but remember that some jokes might not
 
 ### Avoiding name conflicts
 
-[Check for open source projects with a similar name](http://ivantomic.com/projects/ospnc/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
+[Check for open source projects with a similar name](https://namechecker.vercel.app/), especially if you share the same language or ecosystem. If your name overlaps with a popular existing project, you might confuse your audience.
 
 If you want a website, Twitter handle, or other properties to represent your project, make sure you can get the names you want. Ideally, [reserve those names now](https://instantdomainsearch.com/) for peace of mind, even if you don't intend to use them just yet.
 

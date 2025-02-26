@@ -109,7 +109,6 @@ Wenn Ihr Unternehmen diesen Weg einschlägt, ist es wichtig, die Grenzen zwische
 Wenn Sie Ihren derzeitigen Arbeitgeber nicht davon überzeugen können, Open-Source-Arbeit zu priorisieren, sollten Sie sich überlegen, einen neuen Arbeitgeber zu finden, der Mitarbeit an Open-Source fördert. Zum Beispiel:
 
 * Manche Firmen, wie [Netflix](https://netflix.github.io/), zeigen ihr Open-Source-Engagement auf ihren Webseiten
-* [Zalando](https://opensource.zalando.com) veröffentlicht seine [Open-Source-Beitragsrichtlinie](https://opensource.zalando.com/docs/using/contributing/) für Angestellte
 
 Aus einer großen Firma stammende Projekte, wie z.B. [Go](https://github.com/golang) oder [React](https://github.com/facebook/react), stellen u. U. auch weiterhin Leute für Open-Source-Arbeit an.
 
@@ -153,7 +152,7 @@ Einige Softwarestiftungen und Unternehmen bieten Zuschüsse für Open-Source-Arb
 * **[Read the Docs](https://github.com/rtfd/readthedocs.org)** erhielt eine Förderung des [Mozilla Open-Source Support](https://www.mozilla.org/en-US/grants/)
 * Arbeiten an **[OpenMRS](https://github.com/openmrs)** wurden von [Stripes Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees) gefördert
 * **[Libraries.io](https://github.com/librariesio)** erhielt Fördermittel der [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* Die **[Python Software Foundation](https://www.python.org/psf/grants/)** fördert Python-relvante Arbeiten
+* Die **[Python Software Foundation](https://www.python.org/psf/grants/)** fördert Python-relevante Arbeiten
 
 Weitere, detaillierter erklärte Möglichkeiten, um für Open-Source-Arbeit bezahlt zu werden, finden Sie in [der Anleitung "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) von @nayafia. Die verschiedenen Finanzierungsarten erfordern unterschiedliche Fähigkeiten, die Sie Ihren Stärken entsprechend in Erwägung ziehen sollten.
 
