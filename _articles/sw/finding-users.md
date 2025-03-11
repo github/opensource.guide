@@ -97,7 +97,7 @@ Ikiwa wewe ni [mpya katika kuzungumza hadharani](https://speaking.io/), anza kwa
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Nilikuwa na wasiwasi sana kuhusu kwenda PyCon. Nilikuwa nikitoa hotuba, nilikuwa na watu wachache tu niliowajua huko, nilikuwa nikienda kwa wiki nzima. (...) Sikuwa na haja ya kuwa na wasiwasi, hata hivyo. PyCon ilikuwa nzuri sana! (...) Kila mtu alikuwa rafiki na mwenye kupenda, kiasi kwamba nilipata wakati mgumu kutokuwa na mazungumzo na watu!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["Jinsi Nilivyojifunza Kusahau Wasiwasi na Kupenda PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["Jinsi Nilivyojifunza Kusahau Wasiwasi na Kupenda PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

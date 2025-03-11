@@ -97,7 +97,7 @@ Si vous êtes [nouveau sur la prise de parole en public](https://speaking.io/), 
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   J'étais plutôt nerveux d'aller à PyCon. Je donnais une conférence, je n'allais connaître que quelques personnes, j'y allais pendant une semaine entière. (...) Je n'aurais pas dû m'inquiéter, cependant. PyCon était phénoménalement génial ! (...) Tout le monde était incroyablement amical et extraverti, tellement que j'ai rarement trouvé le temps de ne pas parler aux gens !
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
