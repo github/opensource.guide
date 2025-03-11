@@ -97,7 +97,7 @@ related:
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   मैं PyCon जाने को लेकर काफी घबराया हुआ था। मैं एक भाषण दे रहा था, मैं वहां केवल कुछ लोगों को जानने वाला था, मैं पूरे एक सप्ताह के लिए जा रहा था। (...) हालाँकि, मुझे चिंतित नहीं होना चाहिए था। PyCon असाधारण रूप से अद्भुत था! (...) हर कोई अविश्वसनीय रूप से मिलनसार और मिलनसार था, इतना कि मुझे लोगों से बात न करने का समय ही नहीं मिल पाता था!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["मैंने चिंता करना बंद करना और पाइकॉन से प्यार करना कैसे सीखा"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["मैंने चिंता करना बंद करना और पाइकॉन से प्यार करना कैसे सीखा"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

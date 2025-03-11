@@ -97,7 +97,7 @@ Ha teljesen [új vagy az előadásban](https://speaking.io/), keress egy helyi s
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Nagyon feszült voltam, amikor a PyCon rendezvényre készültem. Előadást kellett tartanom, miközben alig ismertem ott pár embert, és ezt egy egész héten keresztül. (...) Nem kellett volna aggódnom. A PyCon fantasztikus volt! (...) Mindenki hihetetlenül barátságos és nyitott volt, annyira, hogy ritkán találtam időt arra, hogy ne beszélgessek az emberekkel!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

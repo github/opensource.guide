@@ -95,7 +95,7 @@ related:
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   من از اینکه بخواهم به <span dir="rtl">«PyCon»</span> بروم، خیلی استرس داشتم. قرار بود که سخنرانی بکنم، قرار بود فقط با چند نفر در آنجا آشنا شوم، قرار بود یک هفته‌ی تمام آنجا می‌بودم. .... هر چند نیازی نبود که استرس داشته باشم. <span dir="rtl">PyCon</span>  فراتر از انتظارهایم فوق‌العاده بود! همگی به طرز خار‌ق‌العاده‌ای رفتاری دوستانه داشتند و خوش‌برخورد بودند، به قدری که من به ندرت وقت می‌کردم که با مردم صحبت نکنم!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
