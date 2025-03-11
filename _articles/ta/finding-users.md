@@ -97,7 +97,7 @@ related:
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   நான் PyCon செல்வது பற்றி சிறிது பதற்றமாக இருந்தது. நான் ஒரு பேச்சு கொடுக்கவிருந்தேன், நான் அங்கு ஒரு சிலரை மட்டுமே தெரிந்து கொள்ள போகிறேன், நான் ஒரு முழு வாரத்திற்கு போகிறேன். (...) நான் கவலைப்பட தேவையில்லை. PyCon அற்புதமாக இருந்தது! (...) எல்லோரும் நம்பமுடியாத நட்புடனும் மற்றும் வெளிப்படையாகவும் இருந்தனால், நான் மற்றவர்களிடம் பேசாமல் இருந்த நேரம் என்பது மிகவும் அரிதாக இருந்தது!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["நான் கவலைப்படுவதை நிறுத்தி PyCon மீது நேசம் கொண்டேன்"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["நான் கவலைப்படுவதை நிறுத்தி PyCon மீது நேசம் கொண்டேன்"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

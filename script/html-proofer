@@ -10,6 +10,7 @@ url_ignores = [
   "https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/",
   "https://pages.18f.gov/open-source-guide/making-readmes-readable/",
   "https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/",
+  "https://sloan.org/programs/digital-technology",
   %r{^https?://readwrite\.com/2014/10/10/open-source-diversity-how-to-contribute/},
   %r{^https?://twitter\.com/},
   %r{^https?://(www\.)?kickstarter\.com/},

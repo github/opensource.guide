@@ -96,7 +96,7 @@ Si no tienes [experiencia para hablar en p&uacute;blico](https://speaking.io/), 
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
 Estaba muy nerviosa acerca de ir a Pycon. Estaba dando una charla, solo iba a conocer a un par de personas ah&iacute;, me iba por una semana entera. (...) No deber&iacute;a haberme preocupado, sin embargo. ¡Pycon fue fenomenalmente incre&iacute;ble! (...). ¡Todos eran incre&iacute;blemente amigables y extrovertidos, tanto que rara vez encontraba tiempo para no hablar con la gente!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
