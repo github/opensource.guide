@@ -3,6 +3,7 @@
 .bundle
 .jekyll-metadata
 .ruby-version
+.tool-versions
 .sass-cache/
 /vendor
 _site/
