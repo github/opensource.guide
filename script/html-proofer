@@ -19,6 +19,7 @@ url_ignores = [
   %r{^https://help\.github\.com/},
   %r{^https://github\.com/},
   %r{^https?://(www\.)?reddit\.com},
+  %r{^https://rockwoodleadership\.org/},
 ]
 
 HTMLProofer::Runner.new(
