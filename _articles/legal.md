@@ -135,8 +135,7 @@ For better or worse, consider letting them know even if it's a personal project.
 
 * **Privacy:** Does your project collect data on users? "Phone home" to company servers? Your legal team can help you comply with company policies and external regulations.
 
-* **AI** As AI models and functionality become integral to software, it is crucial to understand licensing agreements and relevant legislation controlling their use. Even when a model or service claims to be under a standard open source license, additional terms may impose restrictions, such as preventing abuse or fraud. New legislation is also putting restrictions on the types of systems or actions that can be performed by AI based software.
-
+* **AI** As AI models and functionality become integral to software, it is crucial to understand licensing agreements and relevant legislation controlling their use. Even when a model or service claims to be under a standard open source license, additional terms may impose restrictions, such as preventing abuse or fraud. New legislation is also putting restrictions on the types of systems or actions that can be performed by AI-based software.
 * **Software Bill of Materials** A Software Bill of Materials (SBOM) is a comprehensive list of third-party dependencies, versions, associated licenses, and other metadata. SBOMs are legally mandated in certain countries, industries, or due to contractual obligations. A request for a SBOM often starts the license compliance journey for an organization.
 
 If you're releasing your company's first open source project, the above is more than enough to get through (but don't worry, most projects shouldn't raise any major concerns).
