@@ -13,7 +13,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 메인테이너들의 경험과 그들이 균형을 찾는 전략을 더 깊이 이해하기 위해, 우리는 <a href="http://maintainers.github.com/">메인테이너 커뮤니티</a>의 40명과 워크숍을 진행했으며, 이를 통해 오픈 소스에서 번아웃을 경험한 사례와, 그들이 균형을 유지하는 데 도움이 된 실천 방법을 직접 배울 수 있었습니다. 여기서 개인 생태계(personal ecology)라는 개념이 중요한 역할을 합니다.
 
 그렇다면 개인 생태계란 무엇일까요? <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">Rockwood Leadership Institute의 설명</a>에 따르면, 여기에는 "<strong>우리의 에너지를 평생 동안 지속하기 위해 균형, 속도 그리고 효율성을 유지하는 것</strong>"이 포함됩니다. 
-이는 메인테이너들이 시간이 흐르면서 변화하는 더 큰 생태계의 일부로서 자신의 역할과 기여를 인식하는 데 도움을 주는 개념이 되었습니다. 번아웃은 [세계보건기구(WHO)가 정의](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281)한 바와 같이 만성적인 업무 스트레스로 인해 발생하는 증후군이며, 메인테이너들 사이에서도 흔히 나타납니다. 이는 종종 동기 상실, 집중력 저하, 그리고 기여자 및 커뮤니티에 대한 공감 부족으로 이어집니다.
+이는 메인테이너들이 시간이 흐르면서 변화하는 더 큰 생태계의 일부로서 자신의 역할과 기여를 인식하는 데 도움을 주는 개념이 되었습니다. 번아웃은 [세계보건기구(WHO)가 정의](https://icd.who.int/browse/2025-01/foundation/en#129180281)한 바와 같이 만성적인 업무 스트레스로 인해 발생하는 증후군이며, 메인테이너들 사이에서도 흔히 나타납니다. 이는 종종 동기 상실, 집중력 저하, 그리고 기여자 및 커뮤니티에 대한 공감 부족으로 이어집니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
