@@ -113,7 +113,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 ### **你喜歡幫助他人？**
 
-* 回答有關於專案的問題，例如在 Stack Overflow( [Postgres 的展示範例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge) )或者 reddit 上
+* 回答有關於專案的問題，例如在 Stack Overflow( [Postgres 的展示範例](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge) )或者 reddit 上
 * 回答處於開放狀態的議題
 * 鼓勵、協助創造友善的討論區禮儀
 
