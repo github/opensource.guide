@@ -22,10 +22,10 @@ ta:
       button: பதிவு
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
+      format: "[github] மற்றும் [friends] எழுதிய [love] [code]"
       # Label for code octicon
-      code_label: code
+      code_label: குறியீடு
       # Label for love octicon
-      love_label: love
+      love_label: அன்பு
       # Label for the contributors link
-      friends_label: friends
+      friends_label: நண்பர்கள்
