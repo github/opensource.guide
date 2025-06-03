@@ -1,66 +1,65 @@
 ---
 lang: ta
-untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+title: திறந்த மூல பராமரிப்பாளர்களுக்கு சமநிலையை பராமரித்தல்
+description: சுய பராமரிப்புக்கான உதவிக்குறிப்புகள் மற்றும் ஒரு பராமரிப்பாளராக எரிவதைத் தவிர்ப்பது.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+ஒரு திறந்த மூல திட்டம் பிரபலமடைந்து வருவதால், நீண்ட காலத்திற்கு புத்துணர்ச்சியுடனும், உற்பத்தித்திறனாகவும் இருக்க சமநிலையை பராமரிக்க உங்களுக்கு உதவ தெளிவான எல்லைகளை அமைப்பது முக்கியம். 
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+பராமரிப்பாளர்களின் அனுபவங்கள் மற்றும் சமநிலையைக் கண்டுபிடிப்பதற்கான அவர்களின் உத்திகள் பற்றிய நுண்ணறிவுகளைப் பெற, <a href="http://maintainers.github.com/"> பராமரிப்பாளர் சமூகம் </a> இன் 40 உறுப்பினர்களுடன் நாங்கள் ஒரு பட்டறையை நடத்தினோம், இது திறந்த மூலத்தில் எரியும் மற்றும் அவர்களின் பணிகளைத் தக்கவைத்துக் கொள்ள உதவிய நடைமுறைகளுடனான அவர்களின் மோசமான அனுபவங்களிலிருந்து கற்றுக்கொள்ள அனுமதிக்கிறது. தனிப்பட்ட சூழலியல் கருத்து நடைமுறைக்கு வருகிறது.
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse/2025-01/foundation/en#129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+தனிப்பட்ட சூழலியல் என்றால் என்ன? <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">ராக்வுட் தலைமைத்துவ நிறுவனத்தால் விவரிக்கப்பட்ட</a>, இது "<strong>வாழ்நாள் முழுவதும் நமது ஆற்றலைத் தக்கவைக்க சமநிலை, வேகம் மற்றும் செயல்திறனைப் பராமரித்தல்</strong>" ஆகியவற்றை உள்ளடக்கியது. இது எங்கள் உரையாடல்களை வடிவமைத்து, பராமரிப்பாளர்கள் தங்கள் செயல்களையும் பங்களிப்புகளையும் காலப்போக்கில் உருவாகும் ஒரு பெரிய சுற்றுச்சூழல் அமைப்பின் பகுதிகளாக அங்கீகரிக்க உதவுகிறது. [WHO ஆல் வரையறுக்கப்பட்டுள்ளது](https://icd.who.int/browse/2025-01/foundation/en#129180281) நாள்பட்ட பணியிட மன அழுத்தத்தின் விளைவாக ஏற்படும் ஒரு நோய்க்குறியான எரிதல், பராமரிப்பாளர்களிடையே அசாதாரணமானது அல்ல. இது பெரும்பாலும் உந்துதல் இழப்பு, கவனம் செலுத்த இயலாமை மற்றும் நீங்கள் பணிபுரியும் பங்களிப்பாளர்கள் மற்றும் சமூகத்தின் மீது பச்சாதாபம் இல்லாததற்கு வழிவகுக்கிறது.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
-  I was unable to focus or start on a task. I had a lack of empathy for users.
+  என்னால் ஒரு பணியில் கவனம் செலுத்தவோ தொடங்கவோ முடியவில்லை. பயனர்களுக்கு பச்சாத்தாபம் இல்லாதது எனக்கு.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, தனது திறந்த மூல வேலைகளில் எரித்தலின் தாக்கம் குறித்து, Owncast live streaming server பராமரிப்பவர்
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+தனிப்பட்ட சூழலியல் கருத்தை ஏற்றுக்கொள்வதன் மூலம், பராமரிப்பாளர்கள் எரியைத் தவிர்க்கலாம், சுய பாதுகாப்புக்கு முன்னுரிமை அளிக்கலாம், மேலும் அவர்களின் சிறந்த வேலையைச் செய்ய சமநிலை உணர்வை நிலைநிறுத்தலாம்.
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## சுய பராமரிப்புக்கான உதவிக்குறிப்புகள் மற்றும் ஒரு பராமரிப்பாளராக எரிவதைத் தவிர்ப்பது:
 
-### Identify your motivations for working in open source
+### திறந்த மூலத்தில் பணியாற்றுவதற்கான உங்கள் உந்துதல்களை அடையாளம் காணவும்
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+திறந்த மூல பராமரிப்பின் எந்த பகுதிகள் உங்களை உற்சாகப்படுத்துகின்றன என்பதைப் பிரதிபலிக்க நேரம் ஒதுக்குங்கள். உங்கள் உந்துதல்களைப் புரிந்துகொள்வது, உங்கள் ஈடுபாட்டையும் புதிய சவால்களுக்கும் தயாராக இருக்கும் வகையில் வேலைக்கு முன்னுரிமை அளிக்க உதவும். இது பயனர்களிடமிருந்து நேர்மறையான பின்னூட்டமாக இருந்தாலும், சமூகத்துடன் ஒத்துழைப்பதற்கும் சமூகமயமாக்குவதன் மகிழ்ச்சியும் அல்லது குறியீட்டில் டைவிங் செய்வதன் திருப்தி, உங்கள் உந்துதல்களை அங்கீகரிப்பது உங்கள் கவனத்தை வழிநடத்த உதவும்.
 
-### Reflect on what causes you to get out of balance and stressed out
+### நீங்கள் சமநிலையிலிருந்து வெளியேறவும், வலியுறுத்தவும் என்ன காரணம் என்பதைப் பற்றி சிந்தியுங்கள்
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+நாம் எரிக்கப்படுவதற்கு என்ன காரணம் என்பதைப் புரிந்துகொள்வது முக்கியம். திறந்த மூல பராமரிப்பாளர்களிடையே நாங்கள் கண்ட சில பொதுவான கருப்பொருள்கள் இங்கே:
 
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **நேர்மறையான கருத்துக்கள் இல்லாதது:** பயனர்கள் புகார் இருக்கும்போது அடைய அதிக வாய்ப்புள்ளது. எல்லாம் நன்றாக வேலை செய்தால், அவர்கள் அமைதியாக இருக்க முனைகிறார்கள். உங்கள் பங்களிப்புகள் எவ்வாறு வித்தியாசத்தை ஏற்படுத்துகின்றன என்பதைக் காட்டும் நேர்மறையான பின்னூட்டமின்றி வளர்ந்து வரும் சிக்கல்களின் பட்டியலைக் காண்பது ஊக்கமளிக்கும்.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
-  Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
+  சில நேரங்களில் அது வெற்றிடத்தை கத்துவது போல உணர்கிறது, மேலும் கருத்து என்னை மிகவும் உற்சாகப்படுத்துகிறது என்பதை நான் காண்கிறேன். எங்களுக்கு நிறைய மகிழ்ச்சியான ஆனால் அமைதியான பயனர்கள் உள்ளனர்.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
+— <a href="https://github.com/thisisnic">@thisisnic</a>, Apache Arrow பராமரிப்பவர்
   </p>
 </aside>
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **'இல்லை' என்று சொல்லவில்லை:** திறந்த மூல திட்டத்தில் நீங்கள் செய்ய வேண்டியதை விட அதிக பொறுப்புகளை ஏற்றுக்கொள்வது எளிதானது. இது பயனர்கள், பங்களிப்பாளர்கள் அல்லது பிற பராமரிப்பாளர்களிடமிருந்து வந்தாலும் - நாங்கள் எப்போதும் அவர்களின் எதிர்பார்ப்புகளுக்கு ஏற்ப வாழ முடியாது.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
+  FOSS-ல் பொதுவாக செய்யப்படுவது போல, ஒன்றுக்கு மேற்பட்ட வேண்டுகோளுக்கு நான் எடுத்துக்கொள்வதையும், பல நபர்களின் வேலையைச் செய்ய வேண்டியதையும் நான் கண்டேன்.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
+— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, Termux பராமரிப்பவர், அவர்களின் வேலையில் எரிவதற்கு என்ன காரணம்
   </p>
 </aside>
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **தனியாக வேலை செய்வது:** ஒரு பராமரிப்பாளராக இருப்பது முற்றிலும் தனிமையாக உணர முடியும். நீங்கள் பராமரிப்பாளர்களின் குழுவுடன் பணிபுரிந்திருந்தாலும், கடந்த சில ஆண்டுகளில் விநியோகிக்கப்பட்ட அணிகளை ஒன்றிணைப்பது கடினம்.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
+  குறிப்பாக கோவிட் (COVID) மற்றும் வீட்டிலிருந்து வேலை செய்வதால், யாரையும் ஒருபோதும் பார்க்கவோ அல்லது யாருடனும் பேசுவது கடினம்.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>, தனது திறந்த மூல வேலைகளில் எரித்தலின் தாக்கம் குறித்து, Owncast live streaming server பராமரிப்பவர்
   </p>
 </aside>
 
