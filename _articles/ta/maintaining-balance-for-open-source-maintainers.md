@@ -179,7 +179,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 இந்த வழிகாட்டிக்காக தங்கள் அனுபவங்களையும், உதவிக்குறிப்புகளையும் எங்களுடன் பகிர்ந்து கொண்ட அனைத்து பராமரிப்பாளர்களுக்கும் மிக்க நன்றி!
 
-இந்த வழிகாட்டியை எழுதியவர் [@abbycabs](https://github.com/abbycabs) பங்களிப்புகளுடன்:
+இந்த வழிகாட்டியை எழுதியவர் [@abbycabs](https://github.com/abbycabs), மேலும் [@balamt](https://github.com/balamt) மொழிபெயர்த்துள்ளனர், பங்களிப்புகளுடன்:
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)

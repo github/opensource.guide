@@ -1,84 +1,83 @@
 ---
 lang: ta
-untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+title: உங்கள் திட்டத்திற்கான சிறந்த பாதுகாப்பு நடைமுறைகள்
+description: சார்புநிலை மற்றும் தனியார் பாதிப்பு அறிக்கையிடலைப் பாதுகாக்க அத்தியாவசிய பாதுகாப்பு நடைமுறைகள், MFA மற்றும் குறியீடு ஸ்கேனிங் மூலம் நம்பிக்கையை வளர்ப்பதன் மூலம் உங்கள் திட்டத்தின் எதிர்காலத்தை பலப்படுத்துங்கள்.
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+பிழைகள் மற்றும் புதிய அம்சங்கள் ஒருபுறம் இருக்க, ஒரு திட்டத்தின் நீண்ட ஆயுள் அதன் பயனை மட்டுமல்ல, அதன் பயனர்களிடமிருந்து அது சம்பாதிக்கும் நம்பிக்கையையும் சார்ந்துள்ளது. இந்த நம்பிக்கையை உயிர்ப்புடன் வைத்திருக்க வலுவான பாதுகாப்பு நடவடிக்கைகள் முக்கியம். உங்கள் திட்டத்தின் பாதுகாப்பை கணிசமாக மேம்படுத்த நீங்கள் எடுக்கக்கூடிய சில முக்கியமான நடவடிக்கைகள் இங்கே.
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## அனைத்து சலுகை பெற்ற பங்களிப்பாளர்களும் Multi-Factor Authentication (MFA) இயக்கப்பட்டிருப்பதை உறுதிசெய்யவும்.
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### உங்கள் திட்டத்திற்கு சலுகை பெற்ற பங்களிப்பாளராக ஆள்மாறாட்டம் செய்யும் ஒரு தீங்கிழைக்கும் நபர், பேரழிவு தரும் சேதங்களை ஏற்படுத்துவார்.
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+சலுகை பெற்ற அணுகலைப் பெற்றவுடன், இந்த நபர் உங்கள் குறியீட்டை தேவையற்ற செயல்களைச் செய்ய மாற்றியமைக்கலாம் (எடுத்துக்காட்டு: கிரிப்டோகரன்சியை சுரங்கப்படுத்துதல்), அல்லது உங்கள் பயனர்களின் உள்கட்டமைப்பிற்கு தீம்பொருளை விநியோகிக்கலாம் அல்லது அறிவுசார் சொத்து மற்றும் முக்கியமான தரவை, பிற சேவைகளுக்கு வெளியேற்ற தனியார் குறியீடு களஞ்சியங்களை அணுகலாம். 
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+கணக்கு கையகப்படுத்தலுக்கு எதிராக MFA கூடுதல் பாதுகாப்பை வழங்குகிறது. இயக்கப்பட்டதும், உங்கள் பயனர்பெயர் மற்றும் கடவுச்சொல்லுடன் உள்நுழைந்து, உங்களுக்கு மட்டுமே தெரிந்த அல்லது அணுகக்கூடிய மற்றொரு வகையான அங்கீகாரத்தை வழங்க வேண்டும்.
 
-## Secure your code as part of your development workflow
+## உங்கள் மேம்பாட்டின் ஒரு பகுதியாக உங்கள் குறியீட்டைப் பாதுகாக்கவும்.
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### உங்கள் குறியீட்டில் உள்ள பாதுகாப்பு பாதிப்புகளை, பின்னர் உற்பத்தியில் பயன்படுத்துவதை விட, செயல்பாட்டின் ஆரம்பத்தில் கண்டறியப்பட்டால் சரிசெய்வது மலிவானது.
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+உங்கள் குறியீட்டில் உள்ள பாதுகாப்பு பாதிப்புகளைக் கண்டறிய நிலையான பயன்பாட்டு பாதுகாப்பு சோதனை (SAST - Static Application Security Testing) கருவியைப் பயன்படுத்தவும். இந்த கருவிகள் குறியீடு மட்டத்தில் இயங்குகின்றன, மேலும் செயல்படுத்தும் சூழல் தேவையில்லை, எனவே செயல்பாட்டின் ஆரம்பத்தில் செயல்படுத்தப்படலாம், மேலும் உருவாக்கத்தின் போது அல்லது குறியீடு மதிப்பாய்வு கட்டங்களின் போது உங்கள் வழக்கமான மேம்பாட்டு பணிப்பாய்வில் தடையின்றி ஒருங்கிணைக்கப்படலாம். 
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+இது உங்கள் குறியீட்டை ஒரு திறமையான நிபுணர் பார்ப்பது போன்றது, இது வெளிப்படையான பார்வையில் மறைந்திருக்கக்கூடிய பொதுவான பாதுகாப்பு பாதிப்புகளைக் கண்டறிய உதவுகிறது. 
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+உங்கள் SAST கருவியை எவ்வாறு தேர்வு செய்வது?
+உரிமத்தைச் சரிபார்க்கவும்: சில கருவிகள் திறந்த மூல திட்டங்களுக்கு இலவசம். உதாரணமாக GitHub CodeQL அல்லது SemGrep.
+உங்கள் மொழிகளுக்கான கவரேஜைச் சரிபார்க்கவும்.
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+* நீங்கள் ஏற்கனவே பயன்படுத்தும் கருவிகளுடன், உங்கள் தற்போதைய செயல்முறையுடன் எளிதாக ஒருங்கிணைக்கக்கூடிய ஒன்றைத் தேர்ந்தெடுக்கவும். எடுத்துக்காட்டாக, விழிப்பூட்டல்களைப் பார்க்க வேறொரு கருவிக்குச் செல்வதற்குப் பதிலாக, உங்கள் தற்போதைய குறியீடு மதிப்பாய்வு செயல்முறை மற்றும் கருவியின் ஒரு பகுதியாக அவை கிடைத்தால் நல்லது.
+* தவறான நேர்மறைகளைப் பற்றி எச்சரிக்கையாக இருங்கள்! எந்த காரணமும் இல்லாமல் கருவி உங்களை மெதுவாக்குவதை நீங்கள் விரும்பவில்லை!
+* அம்சங்களைச் சரிபார்க்கவும்: சில கருவிகள் மிகவும் சக்திவாய்ந்தவை மற்றும் கறை கண்காணிப்பைச் செய்ய முடியும் (எடுத்துக்காட்டு: GitHub CodeQL), சில செயற்கை நுண்ணறிவு (AI) உருவாக்கிய சரிசெய்தல் பரிந்துரைகளை முன்மொழிகின்றன, சில தனிப்பயன் வினவல்களை எழுதுவதை எளிதாக்குகின்றன (எடுத்துக்காட்டு: SemGrep).  
 
-## Don't share your secrets
+## உங்கள் ரகசியங்களைப் பகிர்ந்து கொள்ளாதீர்கள்.
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### API விசைகள், டோக்கன்கள் மற்றும் கடவுச்சொற்கள் போன்ற முக்கியமான தகவல்கள் சில நேரங்களில் தற்செயலாக உங்கள் களஞ்சியத்தில் கவரப்படலாம்.
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+இந்தக் காட்சியை கற்பனை செய்து பாருங்கள்: உலகெங்கிலும் உள்ள டெவலப்பர்களின் பங்களிப்புகளுடன் கூடிய பிரபலமான திறந்த மூல திட்டத்தின் பராமரிப்பாளராக நீங்கள் இருக்கிறீர்கள். ஒரு நாள், ஒரு பங்களிப்பாளர் அறியாமல் ஒரு மூன்றாம் தரப்பு சேவையின் சில API விசைகளை களஞ்சியத்தில் ஒப்படைப்பார். சில நாட்களுக்குப் பிறகு, யாரோ ஒருவர் இந்த விசைகளைக் கண்டுபிடித்து, அனுமதியின்றி சேவையில் நுழைய அவற்றைப் பயன்படுத்துகிறார். சேவை சமரசம் செய்யப்படுகிறது, உங்கள் திட்டத்தின் பயனர்கள் செயலிழப்பு நேரத்தை அனுபவிக்கிறார்கள், மேலும் உங்கள் திட்டத்தின் நற்பெயர் பாதிக்கப்படுகிறது. பராமரிப்பாளராக, சமரசம் செய்யப்பட்ட ரகசியங்களைத் திரும்பப் பெறுதல், தாக்குபவர் இந்த ரகசியத்தைக் கொண்டு என்ன தீங்கிழைக்கும் செயல்களைச் செய்திருக்க முடியும் என்பதை ஆராய்தல், பாதிக்கப்பட்ட பயனர்களுக்குத் தெரிவித்தல் மற்றும் திருத்தங்களைச் செயல்படுத்துதல் போன்ற கடினமான பணிகளை நீங்கள் இப்போது எதிர்கொள்கிறீர்கள். 
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+இதுபோன்ற சம்பவங்களைத் தடுக்க, உங்கள் குறியீட்டில் உள்ள அந்த ரகசியங்களைக் கண்டறிய உதவும் "ரகசிய ஸ்கேனிங்" தீர்வுகள் உள்ளன. GitHub Secret Scanning, மற்றும் Truffle Security-இன் Trufflehog போன்ற சில கருவிகள், அவற்றை முதலில் தொலைதூர கிளைகளுக்குத் தள்ளுவதைத் தடுக்கலாம், மேலும் சில கருவிகள் உங்களுக்காக சில ரகசியங்களைத் தானாகவே ரத்து செய்யும். 
 
-## Check and update your dependencies
+## உங்கள் சார்புகளைச் சரிபார்த்து புதுப்பிக்கவும்.
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+### உங்கள் திட்டத்தில் உள்ள சார்புநிலைகள் உங்கள் திட்டத்தின் பாதுகாப்பை சமரசம் செய்யும் பாதிப்புகளைக் கொண்டிருக்கலாம். சார்புநிலைகளை கைமுறையாகப் புதுப்பித்த நிலையில் வைத்திருப்பது நேரத்தை எடுத்துக்கொள்ளும் பணியாக இருக்கலாம்.
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+இதைப் பற்றி யோசித்துப் பாருங்கள்: பரவலாகப் பயன்படுத்தப்படும் நூலகத்தின் உறுதியான அடித்தளத்தில் கட்டமைக்கப்பட்ட ஒரு திட்டம். நூலகம் பின்னர் ஒரு பெரிய பாதுகாப்பு சிக்கலைக் காண்கிறது, ஆனால் அதைப் பயன்படுத்தி பயன்பாட்டை உருவாக்கியவர்களுக்கு இது பற்றித் தெரியாது. ஒரு தாக்குபவர் இந்த பலவீனத்தைப் பயன்படுத்தி, அதைப் பிடிக்க பாய்ந்து வரும்போது, முக்கியமான பயனர் தரவு அம்பலப்படுத்தப்படுகிறது. இது ஒரு தத்துவார்த்த வழக்கு அல்ல. 2017 இல் Equifax க்கு இதுதான் நடந்தது: கடுமையான பாதிப்பு கண்டறியப்பட்டதாக அறிவிக்கப்பட்ட பிறகு அவர்கள் தங்கள் Apache Struts சார்புநிலையைப் புதுப்பிக்கத் தவறிவிட்டனர். இது சுரண்டப்பட்டது, மேலும் பிரபலமற்ற Equifax மீறல் 144 மில்லியன் பயனர்களின் தரவைப் பாதித்தது. 
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+இதுபோன்ற சூழ்நிலைகளைத் தடுக்க, Dependabot மற்றும் Renovate போன்ற மென்பொருள் கலவை பகுப்பாய்வு (SCA - Software Composition Analysis ) கருவிகள், NVD அல்லது GitHub ஆலோசனை தரவுத்தளம் போன்ற பொது தரவுத்தளங்களில் வெளியிடப்பட்ட அறியப்பட்ட பாதிப்புகளுக்கு உங்கள் சார்புகளை தானாகவே சரிபார்த்து, பின்னர் அவற்றை பாதுகாப்பான பதிப்புகளுக்குப் புதுப்பிக்க இழுப்பு கோரிக்கைகளை உருவாக்குகின்றன. சமீபத்திய பாதுகாப்பான சார்பு பதிப்புகளுடன் புதுப்பித்த நிலையில் இருப்பது உங்கள் திட்டத்தை சாத்தியமான ஆபத்துகளிலிருந்து பாதுகாக்கிறது. 
 
-## Avoid unwanted changes with protected branches
+## பாதுகாக்கப்பட்ட கிளைகளுடன் தேவையற்ற மாற்றங்களைத் தவிர்க்கவும்.
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### உங்கள் முக்கிய கிளைகளுக்கான கட்டுப்பாடற்ற அணுகல் தற்செயலான அல்லது தீங்கிழைக்கும் மாற்றங்களுக்கு வழிவகுக்கும், அவை பாதிப்புகளை அறிமுகப்படுத்தலாம் அல்லது உங்கள் திட்டத்தின் நிலைத்தன்மையை சீர்குலைக்கலாம்.
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+ஒரு புதிய பங்களிப்பாளர் பிரதான கிளைக்கு எழுதும் அணுகலைப் பெறுகிறார், மேலும் தற்செயலாக சோதிக்கப்படாத மாற்றங்களைத் தள்ளுகிறார். சமீபத்திய மாற்றங்களின் காரணமாக, ஒரு கடுமையான பாதுகாப்பு குறைபாடு பின்னர் கண்டறியப்படுகிறது. இதுபோன்ற சிக்கல்களைத் தடுக்க, கிளை பாதுகாப்பு விதிகள் மாற்றங்களை முதலில் மதிப்பாய்வுகளுக்கு உட்படுத்தாமல் மற்றும் குறிப்பிட்ட நிலை சோதனைகளில் தேர்ச்சி பெறாமல் முக்கியமான கிளைகளில் தள்ளவோ அல்லது இணைக்கவோ முடியாது என்பதை உறுதி செய்கின்றன. இந்த கூடுதல் நடவடிக்கை நடைமுறையில் இருப்பதால் நீங்கள் பாதுகாப்பாகவும் சிறப்பாகவும் இருக்கிறீர்கள், ஒவ்வொரு முறையும் உயர்தர தரத்தை உறுதி செய்கிறீர்கள்.
 
-## Set up an intake mechanism for vulnerability reporting
+## பாதிப்பு அறிக்கையிடலுக்கான உட்கொள்ளும் பொறிமுறையை அமைக்கவும்.
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### உங்கள் பயனர்கள் பிழைகளைப் புகாரளிப்பதை எளிதாக்குவது ஒரு நல்ல நடைமுறைதான், ஆனால் பெரிய கேள்வி என்னவென்றால்: இந்தப் பிழை பாதுகாப்பு தாக்கத்தை ஏற்படுத்தும் போது, தீங்கிழைக்கும் ஹேக்கர்களுக்கு உங்கள் மீது இலக்கு வைக்காமல் அவர்கள் அதை எவ்வாறு பாதுகாப்பாக உங்களிடம் புகாரளிக்க முடியும்?
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+இதைப் பற்றி யோசித்துப் பாருங்கள்: ஒரு பாதுகாப்பு ஆராய்ச்சியாளர் உங்கள் திட்டத்தில் ஒரு பாதிப்பைக் கண்டறிந்தாலும், அதைப் புகாரளிக்க தெளிவான அல்லது பாதுகாப்பான வழியைக் கண்டுபிடிக்கவில்லை. நியமிக்கப்பட்ட செயல்முறை இல்லாமல், அவர்கள் ஒரு பொதுப் பிரச்சினையை உருவாக்கலாம் அல்லது சமூக ஊடகங்களில் வெளிப்படையாக விவாதிக்கலாம். அவர்கள் நல்ல நோக்கத்துடன் ஒரு தீர்வை வழங்கினாலும், அவர்கள் அதை ஒரு பொது இழுப்பு கோரிக்கையுடன் செய்தால், அது இணைக்கப்படுவதற்கு முன்பு மற்றவர்கள் அதைப் பார்ப்பார்கள்! இந்த பொது வெளிப்படுத்தல், நீங்கள் அதை நிவர்த்தி செய்ய வாய்ப்பு கிடைக்கும் முன்பே தீங்கிழைக்கும் நடிகர்களுக்கு பாதிப்பை வெளிப்படுத்தும், இது பூஜ்ஜிய நாள் (Zero-day) சுரண்டலுக்கு வழிவகுக்கும், உங்கள் திட்டத்தையும் அதன் பயனர்களையும் தாக்கும்.
 
-### Security Policy
+### பாதுகாப்புக் கொள்கை
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+இதைத் தவிர்க்க, ஒரு பாதுகாப்புக் கொள்கையை வெளியிடுங்கள். `SECURITY.md` கோப்பில் வரையறுக்கப்பட்ட ஒரு பாதுகாப்புக் கொள்கை, பாதுகாப்புக் கவலைகளைப் புகாரளிப்பதற்கான படிகளை விவரிக்கிறது, ஒருங்கிணைந்த வெளிப்படுத்தலுக்கான வெளிப்படையான செயல்முறையை உருவாக்குகிறது மற்றும் புகாரளிக்கப்பட்ட சிக்கல்களைத் தீர்ப்பதற்கான திட்டக் குழுவின் பொறுப்புகளை நிறுவுகிறது. இந்தப் பாதுகாப்புக் கொள்கை "பொதுப் பிரச்சினை அல்லது மக்கள் தொடர்புத் தகவலில் விவரங்களை வெளியிட வேண்டாம், security@example.com இல் எங்களுக்கு ஒரு தனிப்பட்ட மின்னஞ்சலை அனுப்பவும்" என்பது போல எளிமையாக இருக்கலாம், ஆனால் அவர்கள் உங்களிடமிருந்து எப்போது பதிலைப் பெறுவார்கள் என்பது போன்ற பிற விவரங்களையும் கொண்டிருக்கலாம். வெளிப்படுத்தல் செயல்முறையின் செயல்திறன் மற்றும் செயல்திறனுக்கு உதவும் எதையும்.
 
-### Private Vulnerability Reporting
+### தனியார் பாதிப்பு அறிக்கையிடல்
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+சில தளங்களில், தனிப்பட்ட சிக்கல்கள் இருந்தால், உட்கொள்ளல் முதல் ஒளிபரப்பு வரை, உங்கள் பாதிப்பு மேலாண்மை செயல்முறையை நீங்கள் நெறிப்படுத்தலாம் மற்றும் வலுப்படுத்தலாம். GitLab இல், இது தனிப்பட்ட சிக்கல்களுடன் செய்யப்படலாம். GitHub இல், இது தனியார் பாதிப்பு அறிக்கையிடல் (PVR - private vulnerability reporting) என்று அழைக்கப்படுகிறது. PVR பராமரிப்பாளர்கள் பாதிப்பு அறிக்கைகளைப் பெறவும், நிவர்த்தி செய்யவும் உதவுகிறது, இவை அனைத்தும் GitHub தளத்திற்குள் உள்ளன. GitHub தானாகவே திருத்தங்களை எழுத ஒரு தனியார் ஃபோர்க்கையும், ஒரு வரைவு பாதுகாப்பு ஆலோசனையையும் உருவாக்கும். சிக்கல்களை வெளிப்படுத்தவும், திருத்தங்களை வெளியிடவும் நீங்கள் முடிவு செய்யும் வரை இவை அனைத்தும் ரகசியமாகவே இருக்கும். வளையத்தை மூட, பாதுகாப்பு ஆலோசனைகள் வெளியிடப்படும், மேலும் உங்கள் அனைத்து பயனர்களுக்கும் அவர்களின் SCA கருவி மூலம் தகவல் அளித்து பாதுகாக்கும்.
 
-## Conclusion: A few steps for you, a huge improvement for your users
+## முடிவு: உங்களுக்காக ஒரு சில படிகள், உங்கள் பயனர்களுக்கு ஒரு பெரிய முன்னேற்றம்.
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+இந்த சில படிகள் உங்களுக்கு எளிதானதாகவோ அல்லது அடிப்படையானதாகவோ தோன்றலாம், ஆனால் அவை உங்கள் திட்டத்தை அதன் பயனர்களுக்கு மிகவும் பாதுகாப்பானதாக மாற்றுவதற்கு நீண்ட தூரம் செல்கின்றன, ஏனெனில் அவை மிகவும் பொதுவான சிக்கல்களுக்கு எதிராக பாதுகாப்பை வழங்கும்.
 
-## Contributors
+## பங்களிப்பாளர்கள்
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+### இந்த வழிகாட்டிக்காக தங்கள் அனுபவங்களையும் உதவிக்குறிப்புகளையும் எங்களுடன் பகிர்ந்து கொண்ட அனைத்து பராமரிப்பாளர்களுக்கும் மிக்க நன்றி!
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+இந்த வழிகாட்டியை [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) எழுதியுள்ளனர், மேலும் [@balamt](https://github.com/balamt) மொழிபெயர்த்துள்ளனர், பங்களிப்புகள்: 
 
 [@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + many others!
+[@intrigus-lgtm](https://github.com/intrigus-lgtm) + இன்னும் பலர்!
