@@ -274,7 +274,7 @@ Egal ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein
   </p>
 </aside>
 
-Freundliche, [inklusive Sprache](https://fairlanguage.com/service/) kann Ihr Projekt einladender für neue Mitwirkende machen. Bleiben Sie auch bei einfacher/leichter Sprache, denn nicht alle Ihrer Leser\*innen haben die Fähigkeit, komplizierte Formulierungen sofort zu verstehen.
+Freundliche, inklusive Sprache kann Ihr Projekt einladender für neue Mitwirkende machen. Bleiben Sie auch bei einfacher/leichter Sprache, denn nicht alle Ihrer Leser\*innen haben die Fähigkeit, komplizierte Formulierungen sofort zu verstehen.
 
 Neben Wortwahl und Schreibstil wird auch Ihr Programmierstil Teil der Marke Ihres Projekts. [Angular](https://github.com/johnpapa/angular-styleguide) und [jQuery](https://contribute.jquery.org/style-guide/js/) beispielsweise haben strenge Richtlinien dafür.
 

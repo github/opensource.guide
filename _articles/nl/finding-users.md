@@ -109,7 +109,7 @@ Als je [nieuw bent bij spreken in het openbaar](https://speaking.io/), begin dan
   _I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!_
 
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["Hoe ik heb geleerd om te stoppen met piekeren en van PyCon te houden"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["Hoe ik heb geleerd om te stoppen met piekeren en van PyCon te houden"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

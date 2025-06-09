@@ -98,7 +98,7 @@ redirect_from: /zh-cn/finding-users/
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   我去 PyCon 的时候非常紧张。我要发表一次演讲，在那儿我只认识几个人，还是在那儿呆了整整一周。其实我不应该焦虑的。PyCon 真是太棒了！每个人都是非常友好热情，以至于我也非常愿意和大家讨论。
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

@@ -1,170 +1,183 @@
 ---
 lang: fa
 untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+title: حفظ تعادل برای نگهدارندگان پروژه‌های متن‌باز
+description: نکاتی برای مراقبت از خود و جلوگیری از فرسودگی به عنوان یک نگهدارنده
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
+با رشد محبوبیت یک پروژه متن‌باز، مهم است که مرزهای مشخصی تعیین کنید تا به حفظ تعادل و ماندن در وضعیت آماده و پربازده برای مدت طولانی کمک کنید.
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+برای کسب دیدگاه‌هایی از تجربیات نگهدارندگان و استراتژی‌های آن‌ها برای یافتن تعادل، ما یک کارگاه با ۴۰ عضو از <a href="http://maintainers.github.com/">جامعه نگهدارندگان</a> برگزار کردیم که به ما این امکان را داد تا از تجربیات مستقیم آن‌ها در مورد فرسودگی شغلی در متن‌باز و روش‌هایی که به آن‌ها کمک کرده تعادل کار خود را حفظ کنند، بیاموزیم. اینجاست که مفهوم «بوم‌شناسی شخصی» وارد عمل می‌شود.
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+پس بوم‌شناسی شخصی چیست؟ همانطور که توسط <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">موسسه رهبری راکوود</a> توضیح داده شده، این شامل «<strong>حفظ تعادل، سرعت و کارایی برای پایداری انرژی در طول عمر</strong>» است. این چارچوب به ما کمک کرد تا گفتگوهایمان را به گونه‌ای شکل دهیم که نگهدارندگان بتوانند اقدامات و مشارکت‌های خود را به عنوان بخشی از یک اکوسیستم بزرگ‌تر که با گذشت زمان تکامل می‌یابد، بشناسند. فرسودگی شغلی، یک سندرم ناشی از استرس مزمن محل کار که توسط [سازمان جهانی بهداشت](https://icd.who.int/browse/2025-01/foundation/en#129180281) تعریف شده است، در میان نگهدارندگان غیرمعمول نیست. این اغلب منجر به از دست دادن انگیزه، عدم توانایی در تمرکز و عدم همدلی برای مشارکت‌کنندگان و جامعه‌ای که با آن‌ها کار می‌کنید می‌شود.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
-  I was unable to focus or start on a task. I had a lack of empathy for users.
+ من نمی‌توانستم تمرکز کنم یا تسکی را شروع کنم. هیچ همدلی نسبت به کاربران نداشتم.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>، نگهدارنده سرور پخش زنده Owncast، درباره تاثیر فرسودگی شغلی در کار متن‌باز
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+با در آغوش گرفتن مفهوم بوم‌شناسی شخصی، نگهدارندگان می‌توانند به طور پیشگیرانه از فرسودگی جلوگیری کنند، مراقبت از خود را در اولویت قرار دهند و حس تعادل را حفظ کنند تا کار خود را به نحوه احسن انجام دهند.
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## نکاتی برای مراقبت از خود و جلوگیری از فرسودگی به عنوان یک نگهدارنده:
 
-### Identify your motivations for working in open source
+### انگیزه‌های خود را برای کار در متن‌باز شناسایی کنید
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+زمانی را صرف کنید تا در مورد اینکه چه بخش‌هایی از نگهداری پروزه ها متن باز به شما انرژی می‌دهد، فکر کنید. درک انگیزه‌هایتان می‌تواند به شما کمک کند تا
+کارها را به گونه‌ای اولویت‌بندی کنید که شما را آماده چالش‌های جدید نگه دارد.
+خواه بازخورد مثبت کاربران باشد، لذت همکاری و معاشرت با جامعه متن باز  یا رضایت از کدنویسی در هر صورت شناخت انگیزه می تواند به تمرکز شما کمک کند.
 
-### Reflect on what causes you to get out of balance and stressed out
+### درباره عواملی که باعث از دست دادن تعادل و استرس شما می‌شوند تأمل کنید
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+درک اینکه چه عاملی باعث فرسودگی می‌شود، مهم است. در ادامه به برخی از دلایل رایج در میان نگهدارندگان متن‌باز اشاره شده است:
 
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **کمبود بازخورد مثبت:** کاربران در بیشتر موارد تنها نارضایتی خود را اطلاع میدهند اگر همه چیز خوب پیش برود، آن‌ها معمولاً سکوت می‌کنند. دیدن لیستی از مشکلات گزارش شده در حال رشد بدون, بازخورد مثبت می تواند دلسرد کننده باشد. اما باید توچه داشت که توسعه و نگهداری شما باعث پیشرفت پروژه میشود.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
-  Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
+  گاهی اوقات کمی شبیه فریاد زدن در فضای خالی است و می بینم که بازخورد مثبت واقعاً به من انرژی می دهد. با این حال ما کاربران خوشحال اما ساکت زیادی داریم.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
+— <a href="https://github.com/thisisnic">@thisisnic</a>, یکی از نگهدارندگان Apache arrow 
   </p>
 </aside>
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+* **ناتوانی در 'نه' گفتن:** بر عهده گرفتن مسئولیت های بیشتر از ظرفیت در یک پروژه منبع باز می تواند آسان باشد. چه از طرف کاربران باشد، چه مشارکت کنندگان یا سایر نگهبانان - ما همیشه نمی توانیم انتظارات همه را برآورده کنیم
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
-  <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
-  </p>
+
+متوجه شدم که بیش از یک وظیفه را به عهده می گرفتم و باید کار چند نفر را انجام می دادم، مانند آنچه در FOSS انجام می شود.
+
+<p markdown="1" class="pquote-credit">
+— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, نگهدارنده Termux, در "چه چیزی باعث فرسودگی شغلی میشود" 
+</p>
+
 </aside>
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+* **کار انفرادی :** نگهدارنده بودن می تواند فوق العاده باعث تنهایی باشد. حتی اگر با گروهی از نگهدارندگان کار می کنید، چند سال گذشته برای تشکیل تیم های توزیع شده حضوری بسیار دشوار بوده است.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
+به خصوص بعد از COVID و کار در خانه این بسیار سخت تر شده که هرگز کسی را نمی بینید یا با کسی در حین کار صحبت نمیکنید.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+— <a href="https://github.com/gabek">@gabek</a>، نگهدارنده سرور پخش زنده Owncast، درباره تاثیر فرسودگی شغلی در کار متن‌باز
   </p>
 </aside>
 
-* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+* **نبود زمان و منابع کافی:** این مورد به ویژه در مورد نگهدارندگان دواوطلب که باید زمان آزاد خود را فدای کار بر روی یک پروژه کنند، صادق است.
 
 <aside markdown="1" class="pquote">
-  [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
+  [من می‌خواهم] حمایت مالی بیشتری داشته باشم، تا بتوانم روی کار متن باز تمرکز کنم بدون اینکه پس‌اندازم را مصرف کنم و برای جبران آن باید در آینده بیشتر کار کنم.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— نگهدارهده پروژه متن باز
   </p>
 </aside>
 
-* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **تعارض منافع:**  منبع باز پر از گروه هایی با انگیزه های مختلف است که پیمایش در آنها ممکن است دشوار باشد. اگر برای کار منبع باز پول دریافت می کنید، علایق کارفرمای شما ممکن است گاهی در تضاد با جامعه باشد.
 
 <aside markdown="1" class="pquote">
-  With paid open source, conflict between employer's focus and what's best for the community
+  با پرداخت حقوق یه نگهدارندگان متن باز، تضاد بین تمرکز کارفرمایان و آنچه برای جامعه بهترین است رخ میدهد.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— نگهدارهده پروژه متن باز
   </p>
 </aside>
 
-### Watch out for signs of burnout
+### مراقب علائم فرسودگی شغلی باشید
 
-Can you keep up your pace for 10 weeks? 10 months? 10 years?
+آیا می توانید سرعت خود را برای 10 هفته حفظ کنید؟ 10 ماه؟ 10 سال؟
 
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
+ابزارهایی وجود دارند که می توانند به شما کمک کنند تا روی سرعت فعلی خود فکر کنید و ببینید آیا اصلاحاتی وجود دارد که بتوانید انجام دهید.
+برای نمونه ابزار
+\
+[Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) 
+\
+ساخته شده توسط
+\
+[@shaunagm](https://github.com/shaunagm).
+\
+برخی از نگهدارندگان نیز از فناوری پوشیدنی برای ردیابی معیارهایی مانند کیفیت خواب و تغییرات ضربان قلب (هر دو با استرس مرتبط هستند) استفاده می کنند.
 
 <aside markdown="1" class="pquote">
- I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
+من به گجت های پوشیدنی خوب اعتقاد زیادی دارم. با علم پشت آن، می توانید بفهمید که چگونه می توانستید بهتر عمل کنید و چگونه به وضعیت مطلوبی از آنچه می خواهید انجام دهید، برسید.
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— نگهدارهده پروژه متن باز
   </p>
 </aside>
 
-### What would you need to continue sustaining yourself and your community?
+### برای ادامه حفظ خود و جامعه خود به چه چیزی نیاز دارید؟
 
-This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
+جواب این سوال برای هر نگهدارنده متفاوت به نظر می رسد و بسته به فاز زندگی شما و سایر عوامل خارجی تغییر می کند. اما در ادامه چند موضوع ذکر میشود:
 
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
+* * **به جامعه تکیه کنید:** تفویض اختیار و یافتن مشارکت کنندگان می تواند بار کاری را کاهش دهد. داشتن چندین نقطه تماس برای یک پروژه می تواند به شما کمک کند بدون نگرانی از کار دست بکشید. با سایر نگهدارندگان و جامعه گسترده‌تر در گروه‌هایی مانند [Maintainer Community](http://maintainers.github.com/) ارتباط برقرار کنید گروه مذکور می‌تواند منبع خوبی برای پشتیبانی و یادگیری همتایان باشد..
 
-  You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
+همچنین می‌توانید به دنبال راه‌هایی برای تعامل با جامعه کاربران باشید، بنابراین می‌توانید به طور منظم بازخورد شنیده و تأثیر کار منبع باز خود را درک کنید.
 
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **Explore funding:** فرقی ندارد که به دنبال مقداری پول پیتزا باشید یا می‌خواهید به صورت تمام وقت متن‌باز استفاده کنید، منابع زیادی برای کمک به شما وجود دارد! به عنوان اولین قدم، [GitHub Sponsors](https://github.com/sponsors) را فعال کنید تا به دیگران اجازه دهید از کار منبع باز شما حمایت مالی کنند. اگر به فکر پرش به تمام وقت هستید، برای دور بعدی [GitHub Accelerator](http://accelerator.github.com/) اقدام کنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
- I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
+مدتی پیش در یک پادکست بودم و در مورد نگهداری و پایداری منبع باز گپ می زدیم. دریافتم که حتی تعداد کمی از افرادی که از کار من در GitHub حمایت می کنند به من کمک کردند تا تصمیم سریعی بگیرم که جلوی یک بازی ننشینم و در عوض یک کار کوچک را با منبع باز انجام دهم.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
+— <a href="https://github.com/mansona">@mansona</a>, نگهدارنده EmberJS
   </p>
 </aside>
 
-* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **استفاده از ابزارها:** استفاده از ابزار هایی برای اتوماتیک کردن برخی از فرایند ها و صرف زمان صرفه جویی شده در توسعه با معنا تر. ابزارهایی مانند  [GitHub Copilot](https://github.com/features/copilot/) و [GitHub Actions](https://github.com/features/actions).
 
 <aside markdown="1" class="pquote">
- Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
+برای کارهای حوصله سر بر از [Copilot](https://github.com/features/copilot/) استفاده کنید و در عوض کارهای باحال بکنید
   <p markdown="1" class="pquote-credit">
-— open source maintainer
+— نگهدارهده پروژه متن باز
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
+* **Rest and recharge:** برای سرگرمی ها و علایق خود در خارج از منبع باز وقت بگذارید. آخر هفته ها را برای استراحت و تجدید قوا استراحت کنید – و [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) خود را طوری تنظیم کنید که در دسترس بودن شما را منعکس کند! یک خواب خوب شبانه می تواند تفاوت بزرگی در توانایی شما برای حفظ تلاش هایتان در طولانی مدت ایجاد کند.
 
-  If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
+اگر جنبه های خاصی از پروژه خود را به خصوص لذت بخش می دانید، سعی کنید ساختار کار خود را طوری تنظیم کنید که بتوانید آن را در طول روز تجربه کنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
+من فرصت بیشتری برای بروز "لحظه های خلاقیت" در وسط روز به جای تلاش برای خاموش کردن آن در عصر پیدا می کنم.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
+— <a href="https://github.com/danielroe">@danielroe</a>, نگهدارنده Nuxt
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **تغین حدود:** شما نمی توانید به هر درخواستی بله بگویید. این می تواند به سادگی بگوید: "در حال حاضر نمی توانم به آن برسم و در آینده برنامه ای ندارم" یا فهرست کردن آنچه که علاقه مند به انجام و یا انجام ندادن آن در README هستید. برای مثال، می‌توانید بگویید: «من فقط پول رکوئست هایی را ادغام می‌کنم که دلایل ایجاد آنها را به وضوح ذکر کرده‌اند» یا «من فقط مسائل را در روزهای پنج‌شنبه از ساعت 6 تا 7 بعد از ظهر بررسی می‌کنم.» این انتظارات را برای دیگران ایجاد می‌کند و چیزی به شما می‌دهد تا برای کمک به کاهش تنش‌ها از سوی مشارکت‌کنندگان یا کاربران در زمان‌های دیگر، به آن اشاره کنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
-  <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
+رای اعتماد معنادار به دیگران در این محورها، نمی توانید فردی باشید که به هر درخواستی بله بگویید. با انجام این کار، از نظر حرفه ای یا شخصی هیچ مرزی را حفظ نمی کنید و تبدیل به یک همکار غیر قابل اعتماد میشوید.  <p markdown="1" class="pquote-credit">
+— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, نگهدارنده Homebrew اقتباس شده از  [Saying No](https://mikemcquaid.com/saying-no/)
   </p>
 </aside>
 
-  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+یاد بگیرید که در از بین بردن رفتار سمی و تعاملات منفی قاطع باشید. اشکالی ندارد اگر در چیزهایی که برایتان اهمیتی ندارید انرژی صرف نکنید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-My software is gratis, but my time and attention is not.
-  <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
+نرم افزار من رایگان است، اما وقت و توجه من نه.
+<p markdown="1" class="pquote-credit">
+— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, نگهدارنده Leaflet
   </p>
 </aside>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.  
+بر کسی پوشیده نیست که نگهداری منبع باز جنبه‌های تاریک خود را دارد و یکی از این موارد این است که گاهی اوقات با افراد کاملاً ناسپاس، پر توقع یا کاملاً سمی تعامل داشته باشید. با افزایش محبوبیت یک پروژه، تعداد دفعات این نوع تعامل نیز افزایش می‌یابد که بر باری که نگهدارندگان بر دوش می‌کشند می‌افزاید و احتمالاً به یک عامل خطر مهم برای فرسودگی شغلی شخص تبدیل می‌شود.
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+— <a href="https://github.com/foosel">@foosel</a>, نگهدارنده Octoprint اقتباس شده از [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
 </aside>
 
-Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
+به یاد داشته باشید، بوم شناسی شخصی یک تمرین مداوم است که با ادامه داشتن در سفر منبع باز شما تکامل می یابد. با اولویت دادن به خودمراقبتی و حفظ حس تعادل، می‌توانید به طور مؤثر و پایدار به جامعه منبع باز کمک کنید و از رفاه و موفقیت پروژه‌هایتان در درازمدت اطمینان حاصل کنید.
 
-## Additional Resources
+## منابع مرتبط
 
 * [Maintainer Community](http://maintainers.github.com/)
 * [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
@@ -172,15 +185,21 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Saying No](https://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Governing Open](https://governingopen.com/)
+* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) series
 
-## Contributors
+## مشارکت کنندگان
 
-Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+با تشکر فراوان از همه نگهدارندگان که تجربیات و نکات خود را برای این راهنما با ما به اشتراک گذاشتند!
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from: 
+نگارنده:
+[@abbycabs](https://github.com/abbycabs)
+
+مترجم:
+[@mostafa](https://github.com/mostafayavari94)
+
+مشارکت کنندگان:
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)

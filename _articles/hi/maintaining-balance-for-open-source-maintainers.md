@@ -12,7 +12,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 संतुलन खोजने के लिए अनुरक्षकों के अनुभवों और उनकी रणनीतियों के बारे में जानकारी प्राप्त करने के लिए, हमने <a href="http://maintainers.github.com/">मेंटेनर समुदाय</a> के 40 सदस्यों के साथ एक कार्यशाला चलाई, जिससे हमें अनुमति मिली खुले स्रोत में बर्नआउट के साथ उनके प्रत्यक्ष अनुभवों और उन प्रथाओं से सीखना जिन्होंने उन्हें अपने काम में संतुलन बनाए रखने में मदद की है। यहीं पर व्यक्तिगत पारिस्थितिकी की अवधारणा काम आती है।
 
-तो, व्यक्तिगत पारिस्थितिकी क्या है? जैसा <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance% 2सी%20पेसिंग%20और%20दक्षता%20टू%20सस्टेन%20योर%20एनर्जी%20ओवर%20ए%20लाइफटाइम%20ऑफ%20एक्टिविज्म">रॉकवुड लीडरशिप इंस्टीट्यूट द्वारा वर्णित</a>, इसमें "<strong>संतुलन बनाए रखना, गति बनाए रखना और शामिल है जीवन भर हमारी ऊर्जा को बनाए रखने की दक्षता</strong>।" इसने हमारी बातचीत को तैयार किया, जिससे अनुरक्षकों को समय के साथ विकसित होने वाले एक बड़े पारिस्थितिकी तंत्र के हिस्से के रूप में अपने कार्यों और योगदान को पहचानने में मदद मिली। बर्नआउट, क्रोनिक कार्यस्थल तनाव से उत्पन्न एक सिंड्रोम जैसा कि [डब्ल्यूएचओ द्वारा परिभाषित](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), अनुरक्षकों के बीच असामान्य नहीं है। इससे अक्सर प्रेरणा की हानि, ध्यान केंद्रित करने में असमर्थता और उन योगदानकर्ताओं और समुदाय के लिए सहानुभूति की कमी हो जाती है जिनके साथ आप काम करते हैं।
+तो, व्यक्तिगत पारिस्थितिकी क्या है? जैसा <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance% 2सी%20पेसिंग%20और%20दक्षता%20टू%20सस्टेन%20योर%20एनर्जी%20ओवर%20ए%20लाइफटाइम%20ऑफ%20एक्टिविज्म">रॉकवुड लीडरशिप इंस्टीट्यूट द्वारा वर्णित</a>, इसमें "<strong>संतुलन बनाए रखना, गति बनाए रखना और शामिल है जीवन भर हमारी ऊर्जा को बनाए रखने की दक्षता</strong>।" इसने हमारी बातचीत को तैयार किया, जिससे अनुरक्षकों को समय के साथ विकसित होने वाले एक बड़े पारिस्थितिकी तंत्र के हिस्से के रूप में अपने कार्यों और योगदान को पहचानने में मदद मिली। बर्नआउट, क्रोनिक कार्यस्थल तनाव से उत्पन्न एक सिंड्रोम जैसा कि [डब्ल्यूएचओ द्वारा परिभाषित](https://icd.who.int/browse/2025-01/foundation/en#129180281), अनुरक्षकों के बीच असामान्य नहीं है। इससे अक्सर प्रेरणा की हानि, ध्यान केंद्रित करने में असमर्थता और उन योगदानकर्ताओं और समुदाय के लिए सहानुभूति की कमी हो जाती है जिनके साथ आप काम करते हैं।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -172,9 +172,9 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * [जहरीले लोगों से कैसे निपटें](https://www.youtube.com/watch?v=7lIpP3GEyXs), जीना हाउजगे
 * [सस्टेनओएसएस](https://sustainoss.org/)
 * [नेतृत्व की रॉकवुड कला](https://rockwoodleadership.org/art-of-leadership/)
-* [नहीं कहना](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), माइक मैकक्यूएड
-* [गवर्निंग ओपन](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* कार्यशाला के एजेंडे को रीमिक्स किया गया था [घर से मोज़िला की मूवमेंट बिल्डिंग](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) शृंखला
+* [नहीं कहना](https://mikemcquaid.com/saying-no/), माइक मैकक्यूएड
+* [गवर्निंग ओपन](https://governingopen.com/)
+* कार्यशाला के एजेंडे को रीमिक्स किया गया था [घर से मोज़िला की मूवमेंट बिल्डिंग](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) शृंखला
 
 ## योगदानकर्ताओं
 

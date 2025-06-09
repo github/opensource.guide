@@ -12,7 +12,7 @@ Açık kaynaklı bir projenin popülaritesi arttıkça, uzun vadede yenilenmiş 
 
 Bakımcıların deneyimleri ve dengeyi bulma stratejileri hakkında bilgi edinmek için <a href=“http://maintainers.github.com/”>Bakımcı Topluluğu</a>'nun 40 üyesiyle bir atölye çalışması gerçekleştirdik ve açık kaynakta tükenmişlikle ilgili ilk elden deneyimlerini ve işlerinde dengeyi korumalarına yardımcı olan uygulamaları öğrenmemizi sağladık. Kişisel ekoloji kavramı burada devreye giriyor.
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse/2025-01/foundation/en#129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -172,9 +172,9 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Saying No](https://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Governing Open](https://governingopen.com/)
+* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) series
 
 ## Contributors
 

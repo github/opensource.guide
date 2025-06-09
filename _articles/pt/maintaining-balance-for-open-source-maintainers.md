@@ -11,7 +11,7 @@ Com o crescimento de popularidade de projetos código aberto, se torna important
 
 Para obter insights sobre as experiências dos mantenedores e suas estratégias para encontrar equilíbrio, realizamos uma oficina com 40 membros da <a href="http://maintainers.github.com/">Comunidade de Mantenedores</a>, permitindo-nos aprender com suas experiências pessoais de esgotamento em código aberto e as práticas que os ajudaram a manter o equilíbrio em seu trabalho. É aqui que o conceito de ecologia pessoal entra em jogo.
 
-Então, o que é a ecologia pessoal? Conforme <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">descrito pelo Instituto de Liderança Rockwood</a>, envolve "<strong>manter o equilíbrio, o ritmo e a eficiência para sustentar nossa energia ao longo de uma vida</strong>." Isso moldou nossas conversas, ajudando os mantenedores a reconhecerem suas ações e contribuições como partes de um ecossistema maior que evolui ao longo do tempo. O esgotamento, uma síndrome resultante do estresse crônico no local de trabalho, conforme [definido pela OMS](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), não é incomum entre mantenedores. Isso frequentemente leva a uma perda de motivação, incapacidade de se concentrar e falta de empatia pelos colaboradores e comunidade com os quais você trabalha.
+Então, o que é a ecologia pessoal? Conforme <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">descrito pelo Instituto de Liderança Rockwood</a>, envolve "<strong>manter o equilíbrio, o ritmo e a eficiência para sustentar nossa energia ao longo de uma vida</strong>." Isso moldou nossas conversas, ajudando os mantenedores a reconhecerem suas ações e contribuições como partes de um ecossistema maior que evolui ao longo do tempo. O esgotamento, uma síndrome resultante do estresse crônico no local de trabalho, conforme [definido pela OMS](https://icd.who.int/browse/2025-01/foundation/en#129180281), não é incomum entre mantenedores. Isso frequentemente leva a uma perda de motivação, incapacidade de se concentrar e falta de empatia pelos colaboradores e comunidade com os quais você trabalha.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -171,9 +171,9 @@ Lembre-se, a ecologia pessoal é uma prática contínua que evoluirá à medida 
 * [Como lidar com pessoas tóxicas](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Arte da Liderança Rockwood](https://rockwoodleadership.org/art-of-leadership/)
-* [Dizer Não](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governança do Código Aberto](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* A agenda do workshop foi adaptada a partir da série [Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) da Mozilla.
+* [Dizer Não](hhttps://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Governança do Código Aberto](https://governingopen.com/)
+* A agenda do workshop foi adaptada a partir da série [Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) da Mozilla.
 
 ## Contribuidores
 
