@@ -40,7 +40,7 @@ The [Django आचार संहिता](https://www.djangoproject.com/condu
 <aside markdown="1" class="pquote">
   एक आचार संहिता जिसे लागू नहीं किया जाता (या नहीं किया जा सकता) वह किसी भी आचार संहिता के न होने से भी बदतर है: यह संदेश भेजती है कि आचार संहिता में मौजूद मूल्य वास्तव में आपके समुदाय में महत्वपूर्ण या सम्मानित नहीं हैं।
   <p markdown="1" class="pquote-credit">
-— [Ada पहल](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+— [Ada पहल](https://adainitiative.org/)
   </p>
 </aside>
 

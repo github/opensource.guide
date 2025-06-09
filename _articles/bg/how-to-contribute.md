@@ -89,7 +89,7 @@ related:
 
 * Напишете и подобрете документацията на проекта, [както @CBID2 направи за документацията на OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Подгответе папка с примери, показващи как се използва проектът
-* Стартирайте бюлетин за проекта или подредете акценти от пощенския списък, [както направи @opensauced за своя продукт](https://news.opensauced.pizza/about/)
+* Стартирайте бюлетин за проекта или подредете акценти от пощенския списък, [както направи @opensauced за своя продукт](https://opensauced.pizza/blog)
 * Напишете уроци за проекта, [както направиха сътрудниците на PyPA](https://packaging.python.org/)
 * Напишете превод за документацията на проекта, [както @frontendwizard направи за инструкциите за CSS Flexbox предизвикателството на freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 

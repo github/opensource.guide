@@ -99,7 +99,7 @@ related:
 Иногда открытые проекты размещают вознаграждение за задачи, над которыми вы могли бы поработать.
 
 * @ConnorChristie получал оплату, [помогая](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol над иж JavaScript библиотекой через [gitcoin.co](https://gitcoin.co/).
-* @mamiM сделал перевод на японский @MetaMask за вознаграждение на [Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM сделал перевод на японский @MetaMask за вознаграждение на [Bounties Network](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
 
 ## Поиск финансирования для вашего проекта
 

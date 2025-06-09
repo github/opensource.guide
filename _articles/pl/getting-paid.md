@@ -110,7 +110,7 @@ W zależności od osobistych okoliczności możesz spróbować samodzielnie zebr
 Wreszcie, czasami niektóre projekty open source nagradzają za rozwiązywanie danych problemów.
 
 * @ConnorChristie był w stanie otrzymać wynagrodzenie za [pomoc](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol pracował nad biblioteką JavaScript [poprzez nagrodę za gitcoin](https://gitcoin.co/).
-* @mamiM zrobił japońskie tłumaczenia dla @MetaMask po tym, jak [problem został sfinansowany przez Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM zrobił japońskie tłumaczenia dla @MetaMask po tym, jak [problem został sfinansowany przez Bounties Network](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
 
 ## Znajdowanie funduszy na swój projekt
 

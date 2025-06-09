@@ -100,7 +100,7 @@ Kulingana na hali zako binafsi, unaweza kujaribu kukusanya fedha kwa kujitegemea
 Hatimaye, wakati mwingine miradi ya open source huweka zawadi kwenye masuala ambayo unaweza kufikiria kusaidia nayo.
 
 * @ConnorChristie alifaulu kulipwa kwa [kusaidia](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol kufanya kazi kwenye maktaba yao ya JavaScript [kupitia zawadi kwenye gitcoin](https://gitcoin.co/).
-* @mamiM alifanya tafsiri za Kijapani kwa @MetaMask baada ya [suala kufadhiliwa kwenye Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM alifanya tafsiri za Kijapani kwa @MetaMask baada ya [suala kufadhiliwa kwenye Bounties Network](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
 
 ## Kutafuta ufadhili kwa mradi wako
 

@@ -101,7 +101,8 @@ OSS प्रौद्योगिकी उद्योग को बड़े 
 अंत में, कभी-कभी ओपन सोर्स प्रोजेक्ट उन मुद्दों पर इनाम देते हैं जिनमें आप मदद करने पर विचार कर सकते हैं।
 
 * @ConnorChristie भुगतान पाने में सक्षम था [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol अपनी JavaScript लाइब्रेरी पर काम करता है [gitcoin पर इनाम के माध्यम से](https://gitcoin.co/).
-* @mamiM ने इसके बाद @MetaMask का जापानी अनुवाद किया [इस मुद्दे को बाउंटीज़ नेटवर्क पर वित्त पोषित किया गया था](https://explorer.bounties.network/bounty/134).
+* @mamiM ने इसके बाद @MetaMask का जापानी अनुवाद किया [इस मुद्दे को बाउंटीज़ नेटवर्क पर वित्त पोषित किया गया था](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879
+).
 
 ## अपने प्रोजेक्ट के लिए फंडिंग ढूँढना
 

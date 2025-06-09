@@ -100,7 +100,7 @@ A seconda delle tue circostanze personali, puoi provare a raccogliere fondi in m
 Infine, a volte i progetti open source offrono premi per problemi che potresti considerare di aiutare.
 
 * @ConnorChristie è riuscito a essere pagato per [aiuto](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol stanno lavorando sulla propria libreria JavaScript [tramite ricompensa gitcoin](https://gitcoin.co/).
-* @mamiM ha realizzato traduzioni giapponesi per @MetaMask dopo [il rilascio è stato finanziato da Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM ha realizzato traduzioni giapponesi per @MetaMask dopo [il rilascio è stato finanziato da Bounties Network](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
 
 ## Trovare finanziamenti per il tuo progetto
 

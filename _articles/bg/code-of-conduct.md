@@ -40,7 +40,7 @@ related:
 <aside markdown="1" class="pquote">
   Един неприложен (или неприложим) кодекс на поведение е по-лош от липсата на кодекс на поведение: той изпраща съобщението, че ценностите на кодекса на поведение всъщност не са важни или уважавани във вашата общност.
   <p markdown="1" class="pquote-credit">
-— [Инициатива Ада](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+— [Инициатива Ада](https://adainitiative.org/)
   </p>
 </aside>
 

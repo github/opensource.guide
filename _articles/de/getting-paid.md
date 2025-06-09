@@ -119,6 +119,11 @@ Außerdem können Sie versuchen, abhängig von Ihren persönlichen Umständen, s
 * @gaearon finanzierte seine Arbeit an [Redux](https://github.com/reactjs/redux) mittels einer [Patreon-Crowdfunding-Kampagne](https://redux.js.org/)
 * @andrewgodwin finanzierte Arbeit an Djangos Schemamigrations [mittels einer Kickstarter-Kampagne](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
+Und schließlich zahlen Open-Source-Projekte manchmal Prämien für Probleme, bei denen Sie möglicherweise mithelfen möchten.
+
+* @ConnorChristie konnte für seine [Hilfe](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) bei der Arbeit an der JavaScript-Bibliothek von @MARKETProtocol [über Gitcoin-Prämie](https://gitcoin.co/) bezahlt werden.
+* @mamiM hat japanische Übersetzungen für @MetaMask angefertigt, nachdem [die Veröffentlichung vom Bounties Network finanziert wurde](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
+
 ## Geldquellen für Ihr Projekt auftun
 
 Abgesehen von Vereinbarungen für einzelne Projektteilnehmer\*innen, sammeln Projekte manchmal Geld von Unternehmen, Einzelpersonen oder anderen ein, um die laufende Arbeit zu finanzieren.

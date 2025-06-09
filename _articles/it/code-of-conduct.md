@@ -40,7 +40,7 @@ Inserisci un file CODE_OF_CONDUCT nella directory principale del tuo progetto e 
 <aside markdown="1" class="pquote">
   Un codice di condotta non applicato (o inapplicabile) è peggio di nessun codice di condotta: invia il messaggio che i valori del codice di condotta non sono realmente importanti o rispettati nella tua comunità.
   <p markdown="1" class="pquote-credit">
-— [Iniziativa di Ada](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+— [Iniziativa di Ada](hhttps://adainitiative.org/)
   </p>
 </aside>
 

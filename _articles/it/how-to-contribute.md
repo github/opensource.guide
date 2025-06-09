@@ -89,7 +89,7 @@ Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo 
 
 * Scrivi e migliora la documentazione del progetto, [come ha fatto @CBID2 per la documentazione di OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Preparare una cartella di esempi che mostrano come viene utilizzato il progetto
-* Avvia una newsletter del progetto o cura i punti salienti della mailing list, [come ha fatto @opensauced per il suo prodotto](https://news.opensauced.pizza/about/)
+* Avvia una newsletter del progetto o cura i punti salienti della mailing list, [come ha fatto @opensauced per il suo prodotto](https://opensauced.pizza/blog)
 * Scrivi tutorial per il progetto, [come hanno fatto i contributori PyPA](https://packaging.python.org/)
 * Scrivi una traduzione per la documentazione del progetto, [come ha fatto @frontendwizard per le istruzioni CSS Flexbox della sfida freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 

@@ -100,7 +100,7 @@ related:
 در آخر اینکه گاهی اوقات پروژه‌های متن باز درمورد موضوعاتی که ممکن است در آن بخواهید کمک کنید پاداش‌هایی قرار می‌دهند.
 
 * @ConnorChristie توانست بابت [کمک](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) به @MARKETProtocol در «JavaScript library» (کتابخانه‌ی جاوا اسکریپت) از طریق پاداشی‌ تعیین شده در [gitcoin](https://gitcoin.co/)، دستمزد بگیرد
-* @mamiM پس از تأمین اعتبار مربوط به مشکلِ شبکه‌ی Bounties، ترجمه‌ی ژاپنی برای @MetaMask انجام داد.
+* @mamiM پس از تأمین اعتبار مربوط به مشکلِ شبکه‌ی [Bounties](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879)، ترجمه‌ی ژاپنی برای @MetaMask انجام داد.
 
 ## یافتن بودجه برای پروژه‌
 

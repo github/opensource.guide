@@ -115,7 +115,7 @@ Afhankelijk van uw persoonlijke omstandigheden kunt u proberen om zelfstandig ge
 Ten slotte geven open source-projecten soms premies voor problemen waarmee u zou kunnen helpen.
 
 * @ConnorChristie kon betaald worden voor [helpen](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol werken aan hun JavaScript-bibliotheek [via een premie op gitcoin](https://gitcoin.co/).
-* @mamiM deed Japanse vertalingen voor @MetaMask nadat de [kwestie werd gefinancierd op Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM deed Japanse vertalingen voor @MetaMask nadat de [kwestie werd gefinancierd op Bounties Network](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
 
 ## Financiering vinden voor uw project
 

@@ -100,7 +100,7 @@ related:
 И накрая, понякога проекти с отворен код дават премии за проблеми, за които може да обмислите да помогнете.
 
 * @ConnorChristie успя да получи плащане за [помощ](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol работят по своята JavaScript библиотека [чрез награда за gitcoin](https://gitcoin.co/).
-* @mamiM направи японски преводи за @MetaMask след [изданието беше финансирано от Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM направи японски преводи за @MetaMask след [изданието беше финансирано от Bounties Network](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
 
 ## Намиране на финансиране за вашия проект
 

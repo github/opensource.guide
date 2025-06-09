@@ -40,7 +40,7 @@ related:
 <aside markdown="1" class="pquote">
  Кодекс поведения, который не соблюдается (или не может быть соблюден) - хуже, чем отсутствие кодекса поведения вообще: он посылает сигнал о том, что ценности в кодексе поведения на самом деле не важны и не уважаются в вашем сообществе.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+— [Ada Initiative](https://adainitiative.org/)
   </p>
 </aside>
 

@@ -100,7 +100,8 @@ related:
 Τέλος, μερικές φορές τα έργα ανοικτού κώδικα προκηρύσσουν αμοιβές για θέματα που θα μπορούσατε να σκεφτείτε να βοηθήσετε.
 
 * Ο @ConnorChristie μπόρεσε να πληρωθεί για [βοήθεια](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) Η @MARKETProtocol εργάζεται στη βιβλιοθήκη JavaScript [μέσω μιας επικήρυξης στο gitcoin](https://gitcoin.co/).
-* Η @mamiM έκανε μεταφράσεις στα ιαπωνικά για την @MetaMask μετά την [χρηματοδότηση του θέματος στο Bounties Network](https://explorer.bounties.network/bounty/134).
+* Η @mamiM έκανε μεταφράσεις στα ιαπωνικά για την @MetaMask μετά την [χρηματοδότηση του θέματος στο Bounties Network](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879
+).
 
 ## Εύρεση χρηματοδότησης για το πρότζεκτ σας
 

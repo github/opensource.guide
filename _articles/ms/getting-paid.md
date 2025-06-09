@@ -100,7 +100,7 @@ Bergantung pada keadaan peribadi anda, anda boleh mencuba mengumpulkan wang seca
 Akhirnya, kadang-kadang projek sumber terbuka memberi banyak manfaat kepada masalah yang mungkin anda pertimbangkan untuk membantu.
 
 * @ConnorChristie dapat dibayar[helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol berfungsi di perpustakaan JavaScript mereka [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM melakukan terjemahan Jepun untuk @MetaMask selepas [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM melakukan terjemahan Jepun untuk @MetaMask selepas [issue was funded on Bounties Network](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
 
 ## Mencari dana untuk projek anda
 

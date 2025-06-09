@@ -100,7 +100,7 @@ related:
 最後に、オープンソースプロジェクトの中には問題解決を手伝ってもらうために報奨金を提示しているものもあります。
 
 * @ConnorChristie は [gitcoin の報奨金制度](https://gitcoin.co/)で @MARKETProtocol が JavaScript ライブラリの作業を[手伝う](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14)ことで金銭を得ました。
-* @mamiM は @MetaMask の日本語訳作業が [Bounties Network に資金提供された際に](https://beta.bounties.network/bounty/v1/134)、その作業を行いました。
+* @mamiM は @MetaMask の日本語訳作業が [Bounties Network に資金提供された際に](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879)、その作業を行いました。
 
 ## あなたのプロジェクトへの資金提供を探そう
 

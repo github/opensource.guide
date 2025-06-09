@@ -97,6 +97,11 @@ Finalmente, dependiendo de tus circunstancias personales, puedes probar generar 
 * @gaearon financi&oacute; su propio trabajo [Redux](https://github.com/reactjs/redux) a trav&eacute;s de [Patreon crowdfunding campaign](https://redux.js.org/)
 * @andrewgodwin financi&oacute; su trabajo de migraci&oacute;n de esquemas de Django [a trav&eacute;s de una campa&ntilde;a kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 
+Finalmente, a veces los proyectos de código abierto ofrecen recompensas por problemas con los que podrías considerar ayudar.
+
+* @ConnorChristie pudo cobrar por [ayudar](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14). @MARKETProtocol está trabajando en su biblioteca de JavaScript [gracias a una recompensa de Gitcoin](https://gitcoin.co/).
+* @mamiM realizó las traducciones al japonés de @MetaMask después de que [el lanzamiento fuera financiado por la Red de Recompensas](https://community.openhab.org/t/introducing-bountysource-for-funded-development/32879).
+
 ## Encontrando financiaci&oacute;n para tu proyecto.
 
 M&aacute;s all&aacute; de los arreglos con contribuyentes individuales, a veces los proyectos generan dinero de empresas, individuos, u otras para financiar trabajos en proceso.
