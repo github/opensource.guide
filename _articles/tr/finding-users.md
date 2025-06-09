@@ -97,7 +97,7 @@ Genel olarak konuşursak, karşılığında bir şey istemeden önce başkaları
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   PyCon'a giderken oldukça gergindim. Bir konuşma yapıyordum, sadece birkaç kişiyi tanıyacaktım, bir hafta boyunca gidecektim. (...) Yine de bu kadar endişelenmemeliydim. PyCon olağanüstü bir harikaydı! (...) Herkes inanılmaz derecede cana yakın ve paylaşımcıydı, o kadar ki nadiren ben de konuşmak için fırsat bulabildim!
   <p markdown="1" class="pquote-credit">
-- @jhamrick, ["Endişelenmeyi Durdurmayı ve PyCon'u Sevmeyi Nasıl Öğreniyorum"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+- @jhamrick, ["Endişelenmeyi Durdurmayı ve PyCon'u Sevmeyi Nasıl Öğreniyorum"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

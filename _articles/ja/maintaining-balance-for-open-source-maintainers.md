@@ -11,7 +11,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 メンテナーの経験とバランスを取るための戦略を知るために、私たちは 40 人の <a href="http://maintainers.github.com/">maintainer community</a> のメンバーとワークショップを行い、彼らのオープンソースでの燃え尽き症候群に対する第一線での経験と、バランスを保つための実践を学ぶことができました。ここで「パーソナルエコロジー」という概念が登場します。
 
-「パーソナルエコロジー」とはなんでしょうか？<a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a> によると、「<strong>生涯にわたってエネルギーを維持するために、バランス、ペース、効率を維持すること</strong>」を意味します。これにより、私たちの会話のフレームワークを作り、メンテナーが自分の行動や貢献を、時間とともに進化する大きな生態系の一部であると認識する助けとなりました。燃え尽き症候群は、[WHO によって定義されるように](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281) 、慢性的な職場でのストレスから生じる症候群であり、メンテナーの間では珍しくありません。これは、モチベーションの喪失、集中力の欠如、および共同作業者やコミュニティとの共感の欠如に繋がります。
+「パーソナルエコロジー」とはなんでしょうか？<a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a> によると、「<strong>生涯にわたってエネルギーを維持するために、バランス、ペース、効率を維持すること</strong>」を意味します。これにより、私たちの会話のフレームワークを作り、メンテナーが自分の行動や貢献を、時間とともに進化する大きな生態系の一部であると認識する助けとなりました。燃え尽き症候群は、[WHO によって定義されるように](https://icd.who.int/browse/2025-01/foundation/en#129180281) 、慢性的な職場でのストレスから生じる症候群であり、メンテナーの間では珍しくありません。これは、モチベーションの喪失、集中力の欠如、および共同作業者やコミュニティとの共感の欠如に繋がります。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -171,9 +171,9 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Saying No](https://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Governing Open](hhttps://governingopen.com/)
+* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) series
 
 ## 貢献者
 

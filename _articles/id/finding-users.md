@@ -97,7 +97,7 @@ Jika Anda termasuk [awam pada komunikasi publik](https://speaking.io/), mulailah
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Saya cukup gugup ketika hendak menghadiri PyCon. Saya memberikan ceramah, hanya kenal beberapa orang, dan acara berlangsung selama satu minggu penuh. (...) Tetapi saya tidak perlu khawatir. PyCon sudah fenomenal! (...) Semua orang sangat ramah dan aktif, bahkan sangat jarang saya mendapati waktu tidak berbicara dengan orang-orang!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

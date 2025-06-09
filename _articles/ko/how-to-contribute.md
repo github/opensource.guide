@@ -112,7 +112,7 @@ related:
 
 ### 사람들을 돕는 것을 좋아하세요?
 
-* Stack Overflow([Postgres 예시](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) 혹은 Reddit에서 프로젝트에 관련된 질문에 답변하기
+* Stack Overflow([Postgres 예시](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) 혹은 Reddit에서 프로젝트에 관련된 질문에 답변하기
 * 열린 이슈에서 사람들의 질문에 답변하기
 * 토론 게시판이나 대화 채널 관리 돕기
 

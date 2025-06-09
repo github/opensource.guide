@@ -9,6 +9,13 @@ url_ignores = [
   "https://scripts.sil.org/ofl",
   "https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/",
   "https://pages.18f.gov/open-source-guide/making-readmes-readable/",
+  "https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/",
+  "https://sloan.org/programs/digital-technology",
+  "https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you",
+  "https://stackoverflow.com/questions/18664074/",
+  "http://geekfeminism.wikia.com/wiki/Meritocracy",
+  "https://news.ycombinator.com/item?id=7531689",
+  %r{^https?://stackoverflow\.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-(trying-)?to-ge},
   %r{^https?://readwrite\.com/2014/10/10/open-source-diversity-how-to-contribute/},
   %r{^https?://twitter\.com/},
   %r{^https?://(www\.)?kickstarter\.com/},
@@ -16,6 +23,7 @@ url_ignores = [
   %r{^https://help\.github\.com/},
   %r{^https://github\.com/},
   %r{^https?://(www\.)?reddit\.com},
+  %r{^https://rockwoodleadership\.org/},
 ]
 
 HTMLProofer::Runner.new(
