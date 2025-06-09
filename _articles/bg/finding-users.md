@@ -97,7 +97,7 @@ related:
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Бях доста нервен да отида в PyCon. Изнасях лекция, щях да се запозная само с няколко души там, отидох за цяла седмица. (...) Все пак не трябваше да се притеснявам. PyCon беше феноменално страхотен! (...) Всички бяха невероятно дружелюбни и общителни, толкова много, че рядко намирах време да не говоря с хората!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["Как се научих да спра да се тревожа и да обичам PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["Как се научих да спра да се тревожа и да обичам PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

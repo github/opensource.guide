@@ -12,7 +12,7 @@ Man mano che il progetto open source cresce in popolarità, diventa importante s
 
 Per ottenere informazioni dettagliate sulle esperienze dei manutentori e sulle loro strategie di bilanciamento, abbiamo condotto un workshop con 40 membri della <a href="http://maintainers.github.com/">comunità dei manutentori</a>, che ci ha permesso di imparare da le loro esperienze di prima mano con il burnout open source e le pratiche che li hanno aiutati a mantenere l'equilibrio nel loro lavoro. È qui che entra in gioco il concetto di ecologia personale.
 
-Allora, cos'è l'ecologia personale? Come <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance% 2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">descritto dal Rockwood Leadership Institute</a>, implica "<strong>mantenere equilibrio, ritmo ed efficienza per sostenere la nostra energia per tutta la vita</strong>". Questo inquadra le nostre conversazioni, aiutando i sostenitori a riconoscere le loro azioni e i loro contributi come parti di un ecosistema più ampio che si evolve nel tempo. Burnout, una sindrome derivante dallo stress cronico sul lavoro, come [definita dall'OMS](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), non è raro tra i manutentori. Ciò spesso porta a una perdita di motivazione, incapacità di concentrazione e mancanza di empatia verso i colleghi e la comunità con cui lavori.
+Allora, cos'è l'ecologia personale? Come <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance% 2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">descritto dal Rockwood Leadership Institute</a>, implica "<strong>mantenere equilibrio, ritmo ed efficienza per sostenere la nostra energia per tutta la vita</strong>". Questo inquadra le nostre conversazioni, aiutando i sostenitori a riconoscere le loro azioni e i loro contributi come parti di un ecosistema più ampio che si evolve nel tempo. Burnout, una sindrome derivante dallo stress cronico sul lavoro, come [definita dall'OMS](https://icd.who.int/browse/2025-01/foundation/en#129180281), non è raro tra i manutentori. Ciò spesso porta a una perdita di motivazione, incapacità di concentrazione e mancanza di empatia verso i colleghi e la comunità con cui lavori.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -172,9 +172,9 @@ Ricorda che l'ecologia personale è una pratica continua che si evolverà man ma
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Saying No](https://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Governing Open](https://governingopen.com/)
+* Il programma del seminario è un remix della serie di [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/)
 
 ## Associati
 

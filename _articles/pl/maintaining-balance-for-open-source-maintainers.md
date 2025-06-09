@@ -12,7 +12,7 @@ W miarę jak popularność projektu open source rośnie, ważne staje się ustal
 
 Aby uzyskać zrozumienie doświadczeń opiekunów i ich strategii znajdowania równowagi, przeprowadziliśmy warsztaty z 40 członkami <a href="http://maintainers.github.com/">opiekunów społeczności</a>, pozwalając nam poznać ich własne doświadczenia z wypaleniem w open source i praktyki, które pomogły im zachować równowagę w pracy. W tym miejscu pojawia się koncepcja osobistej ekologii.
 
-Czym więc jest ekologia osobista? Zgodnie z <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">opisem Rockwood Leadership Institute</a>,obejmuje ona "<strong>utrzymywanie równowagi, tempa i wydajności, aby utrzymać naszą energię przez całe życie</strong>." To nadało ramy naszym rozmowom, pomagając opiekunom rozpoznać ich działania i wkład jako części większego ekosystemu, który ewoluuje w czasie.Wypalenie, syndrom wynikający z przewlekłego stresu w miejscu pracy, zgodnie z [definicja WHO](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281), nie jest niczym niezwykłym wśród opiekunów. Często prowadzi to do utraty motywacji, niemożności skupienia się i braku empatii dla współpracowników i społeczności, z którą pracujesz.
+Czym więc jest ekologia osobista? Zgodnie z <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">opisem Rockwood Leadership Institute</a>,obejmuje ona "<strong>utrzymywanie równowagi, tempa i wydajności, aby utrzymać naszą energię przez całe życie</strong>." To nadało ramy naszym rozmowom, pomagając opiekunom rozpoznać ich działania i wkład jako części większego ekosystemu, który ewoluuje w czasie.Wypalenie, syndrom wynikający z przewlekłego stresu w miejscu pracy, zgodnie z [definicja WHO](https://icd.who.int/browse/2025-01/foundation/en#129180281), nie jest niczym niezwykłym wśród opiekunów. Często prowadzi to do utraty motywacji, niemożności skupienia się i braku empatii dla współpracowników i społeczności, z którą pracujesz.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -172,9 +172,9 @@ Pamiętaj, że ekologia osobista to ciągła praktyka, która będzie ewoluować
 * [Jak radzić sobie z toksycznymi ludźmi](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Sztuka przywództwa](https://rockwoodleadership.org/art-of-leadership/), Rockwood
-* [Mówienie "nie"](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Otwartość zarządzania](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Program warsztatów został zaczerpnięty z serii [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org)
+* [Mówienie "nie"](https://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Otwartość zarządzania](https://governingopen.com/)
+* Program warsztatów został zaczerpnięty z serii [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/)
 
 ## Współtwórcy
 

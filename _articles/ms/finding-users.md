@@ -97,7 +97,7 @@ Jika anda [new to public speaking](https://speaking.io/), mulakan dengan mencari
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Saya agak gementar pergi ke PyCon. Saya memberi ceramah, saya hanya akan mengetahui beberapa orang di sana, saya akan pergi selama seminggu. (...) Saya tidak seharusnya risau. PyCon sangat hebat! (...) Semua orang sangat ramah dan ramah, sehinggakan saya jarang mendapat masa untuk tidak bercakap dengan orang!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

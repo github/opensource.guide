@@ -93,7 +93,7 @@ If you be [newbie for public speaking](https://speaking.io/), you fit start by d
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   I bin dey very nervous about PyCon. I bin wan give talk, I only know few people wey dey there, I bin wan dey there for one whole week. (...) But I no suppose dey worry, PyCon bin sweet die! (...) Everybody bin friendly and I rarely get time wey I no dey talk with people!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

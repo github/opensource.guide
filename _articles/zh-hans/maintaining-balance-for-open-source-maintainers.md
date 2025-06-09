@@ -12,7 +12,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 为了深入了解维护者的经验及他们如何找到工作平衡，我们与<a href="http://maintainers.github.com/">维护者社区</a>的 40 名成员举办了一个 workshop。通过这样的方式，我们得以学习到他们在开源领域所经历的疲劳过度的第一手情况，以及他们采取了哪些实践来在工作中维持平衡。这正是"个人生态学"概念得以应用的场景。
 
-那么，个人生态学是什么？根据 <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">Rockwood Leadership Institute 的描述</a>，它是"<strong>在我们的一生中，维持平衡、节奏和效率以保持能量</strong>”。这种观点为我们的交流提供了一个结构，帮助维护者意识到随时间发展，他们的行为和贡献是一个更大的生态系统中的组成部分。根据[世卫组织的定义](https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/129180281)，由长时间的工作压力引起的综合症状，即"疲劳过度"，在维护者中并不罕见。这常常会导致失去工作动力、无法集中精力，以及对与之合作的贡献者和社区感到缺乏同情和理解。
+那么，个人生态学是什么？根据 <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">Rockwood Leadership Institute 的描述</a>，它是"<strong>在我们的一生中，维持平衡、节奏和效率以保持能量</strong>”。这种观点为我们的交流提供了一个结构，帮助维护者意识到随时间发展，他们的行为和贡献是一个更大的生态系统中的组成部分。根据[世卫组织的定义](https://icd.who.int/browse/2025-01/foundation/en#129180281)，由长时间的工作压力引起的综合症状，即"疲劳过度"，在维护者中并不罕见。这常常会导致失去工作动力、无法集中精力，以及对与之合作的贡献者和社区感到缺乏同情和理解。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -172,9 +172,9 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 * [如何应对有毒的人](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood领导艺术](https://rockwoodleadership.org/art-of-leadership/)
-* [说"不"](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop 议程改编自 [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) 系列活动
+* [说"不"](https://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Governing Open](https://governingopen.com/)
+* Workshop 议程改编自 [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) 系列活动
 
 ## 贡献者
 

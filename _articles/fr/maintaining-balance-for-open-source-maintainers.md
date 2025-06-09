@@ -1,14 +1,14 @@
 ---
 lang: fr
 untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+title: Maintenir l'équilibre chez les Mainteneurs de code Open Source
+description: Conseils d'écologie personnelle et commen éviter le burnout en tant que mainteneur.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-Au fure et a mesure qu'un projet open source gagne en popularité, il devient important de fixer des limites claires pour vous aider à maintenir l'équilibre afin de rester frais et productif à long terme. 
+Au fur et à mesure qu'un projet open source gagne en popularité, il devient important de fixer des limites claires pour vous aider à maintenir l'équilibre afin de rester frais et productif à long terme. 
 
 Afin de mieux comprendre les expériences des mainteneurs et leurs stratégies pour trouver un équilibre, nous avons organisé un atelier avec 40 membres de la <a href="http://maintainers.github.com/">communauté des mainteneurs</a>, ce qui nous a permis d'apprendre de leurs expériences directes de l'épuisement professionnel dans l'open source et des pratiques qui les ont aidés à maintenir l'équilibre dans leur travail. C'est là que le concept d'écologie personnelle entre en jeu.
 
@@ -178,9 +178,9 @@ N'oubliez pas que l'écologie personnelle est une pratique permanente qui évolu
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Saying No](hhttps://mikemcquaid.com/saying-no/), Mike McQuaid
+* [Governing Open](https://governingopen.com/)
+* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) series
 
 ## Contributors
 

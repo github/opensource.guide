@@ -1,7 +1,7 @@
 ---
 lang: pcm
 title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+description: Want to contribute to open source? A guide to making open source contributions, for first-timers and veterans.
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -181,7 +181,7 @@ A project also has documentation. These files are usually listed in the top leve
 Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
 * **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress whether its to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint.yml), use certain GitHub Action flows to automate and quicken their code reviews.  
+* **Pull requests:** Where people discuss and review changes that are in progress, whether it's to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint.yml), use certain GitHub Action flows to automate and quicken their code reviews.  
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations. A good example of this would be [CHAOSS' weekly Newsletter](https://chaoss.community/news/)
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges. A good example of this would be [EddieHub's Discord community](http://discord.eddiehub.org/).
 
@@ -209,7 +209,7 @@ Open source isn't an exclusive club; it's made by people just like you. "Open so
 
 You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
 
-> According to a study conducted by Igor Steinmacher and other Computer Science researchers, [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as  typo fixes, reformatting, or writing a translation.
+> According to a study conducted by Igor Steinmacher and other Computer Science researchers, [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as typo fixes, reformatting, or writing a translation.
 
 If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
