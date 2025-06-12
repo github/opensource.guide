@@ -40,7 +40,7 @@ Put one CODE_OF_CONDUCT file for your project's main directory, and make sure sa
 <aside markdown="1" class="pquote">
   Code of conduct wey dem nor dey enforce, or wey dem nor fit enforce, e bad pass if dem nor get any code of conduct: e show say the values wey dey the code of conduct nor dey important or dem nor dey respected for your community.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+— [Ada Initiative](https://adainitiative.org/)
   </p>
 </aside>
 

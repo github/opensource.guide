@@ -40,7 +40,7 @@ related:
 <aside markdown="1" class="pquote">
   Ένας κώδικας συμπεριφοράς που δεν επιβάλλεται (ή δεν μπορεί να επιβληθεί) είναι χειρότερος από το να μην υπάρχει καθόλου κώδικας συμπεριφοράς: στέλνει το μήνυμα ότι οι αξίες του κώδικα συμπεριφοράς δεν είναι στην πραγματικότητα σημαντικές ή σεβαστές στην κοινότητά σας.
   <p markdown="1" class="pquote-credit">
-- [Πρωτοβουλία Ada](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+- [Πρωτοβουλία Ada](https://adainitiative.org/)
   </p>
 </aside>
 

@@ -40,7 +40,7 @@ Weka faili ya CODE_OF_CONDUCT katika saraka ya mzizi ya mradi wako, na uifanye i
 <aside markdown="1" class="pquote">
   Kanuni za maadili ambazo hazitekelezwi (au haziwezi kutekelezwa) ni mbaya zaidi kuliko kutokuwa na kanuni za maadili kabisa: inatuma ujumbe kwamba maadili katika kanuni za maadili si muhimu au kuheshimiwa katika jamii yako.
   <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+— [Ada Initiative](https://adainitiative.org/)
   </p>
 </aside>
 
