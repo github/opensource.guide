@@ -89,7 +89,7 @@ Hata kama ungependa kuandika msimbo, aina nyingine za michango ni njia nzuri ya 
 
 * Andika na uboreshe nyaraka za mradi, [kama @CBID2 alivyofanya kwa nyaraka za OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Andaa folda ya mifano inayoonyesha jinsi mradi unavyotumika
-* Anzisha jarida la mradi, au kusanya mambo muhimu kutoka kwenye orodha ya barua, [kama @opensauced alivyofanya kwa bidhaa yao](https://news.opensauced.pizza/about/)
+* Anzisha jarida la mradi, au kusanya mambo muhimu kutoka kwenye orodha ya barua, [kama @opensauced alivyofanya kwa bidhaa yao](https://opensauced.pizza/blog)
 * Andika mafunzo kwa mradi, [kama wachangiaji wa PyPA walivyofanya](https://packaging.python.org/)
 * Andika tafsiri ya nyaraka za mradi, [kama @frontendwizard alivyofanya kwa maelekezo ya changamoto ya CSS Flexbox ya freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 

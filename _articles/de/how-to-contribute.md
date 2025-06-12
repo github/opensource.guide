@@ -95,11 +95,11 @@ Auch wenn Sie gerne Code schreiben, gibt es vielleicht bessere Möglichkeiten, s
 
 ### Schreiben Sie gerne?
 
-* Erstellen und verbessern Sie die Projektdokumentation
+* Erstellen und verbessern Sie die Projektdokumentation, [wie es @CBID2 für die OpenSauced-Dokumentation getan hat](https://github.com/open-sauced/docs/pull/151).
 * Erstellen Sie eine Übersicht von Anwendungsbeispielen, welche die Verwendungsmöglichkeiten der Software zeigen
-* Starten Sie einen Newsletter für das Projekt oder kuratieren Sie Highlights aus der Mailingliste
+* Starten Sie einen Newsletter über das Projekt oder wählen Sie Highlights aus der Mailingliste aus, [wie es @opensauced für sein Produkt getan hat](https://opensauced.pizza/blog)
 * Schreiben Sie Tutorials für das Projekt, so [wie die Mitwirkenden von PyPA](https://packaging.python.org/)
-* Übersetzen Sie die Projektdokumentation
+* Schreiben Sie eine Übersetzung für die Projektdokumentation, [wie @frontendwizard es für die Anweisungen zur CSS Flexbox-Challenge auf freeCodeCamp getan hat](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
