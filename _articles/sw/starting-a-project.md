@@ -116,6 +116,11 @@ Kama mtunza mradi, vipengele hivi vitakusaidia kuwasiliana matarajio, kusimamia 
 
 Ikiwa mradi wako uko kwenye GitHub, kuweka faili hizi kwenye saraka yako ya mizizi kwa majina yaliyopendekezwa kutasaidia GitHub kutambua na kuziwasilisha moja kwa moja kwa wasomaji wako.
 
+## Kuzindua mradi wako wa open source
+
+Sasa umejifunza kuhusu faida za open source, hebu tuangalie hatua muhimu za kuanzisha mradi wako wa kwanza. Tutapitia jinsi ya kuweka leseni, kuandaa nyaraka, na kushirikiana na wengine.
+
+
 ### Kuchagua leseni
 
 Leseni ya open source inahakikisha kwamba wengine wanaweza kutumia, nakala, kubadilisha, na kuchangia tena kwenye mradi wako bila madhara. Pia inakulinda kutokana na hali ngumu za kisheria. **Lazima ujumuisha leseni unapozindua mradi wa open source.**
