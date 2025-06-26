@@ -1,13 +1,8 @@
 ---
 lang: bg
 untranslated: true
-
 title: Най-добри практики за сигурност за вашия проект
 description: Укрепете бъдещето на вашия проект, като изградите доверие чрез основни практики за сигурност – от многофакторна автентификация (MFA) и сканиране на код до безопасно управление на зависимостите и отчитане на частни уязвимости.
-
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
-
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
