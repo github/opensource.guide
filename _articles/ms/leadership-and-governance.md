@@ -143,7 +143,7 @@ Contohnya, jika anda ingin membuat perniagaan komersial, anda boleh menubuhkan C
 
 Sekiranya anda ingin menerima sumbangan untuk projek sumber terbuka anda, anda boleh menyiapkan butang derma (misalnya menggunakan PayPal atau Stripe), tetapi wang tersebut tidak akan ditolak cukai melainkan anda bukan untung yang layak (501c3, jika anda berada di AS).
 
-Sebilangan besar projek tidak mahu mengalami masalah untuk menubuhkan organisasi bukan untung, jadi mereka mencari penaja fiskal bukan untung. Penaja fiskal menerima sumbangan bagi pihak anda, biasanya sebagai pertukaran untuk peratusan sumbangan. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource)adalah contoh organisasi yang berfungsi sebagai penaja fiskal untuk projek sumber terbuka.
+Sebilangan besar projek tidak mahu mengalami masalah untuk menubuhkan organisasi bukan untung, jadi mereka mencari penaja fiskal bukan untung. Penaja fiskal menerima sumbangan bagi pihak anda, biasanya sebagai pertukaran untuk peratusan sumbangan. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource)adalah contoh organisasi yang berfungsi sebagai penaja fiskal untuk projek sumber terbuka.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
