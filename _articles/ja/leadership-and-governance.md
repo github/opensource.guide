@@ -143,7 +143,7 @@ related:
 
 あなたのオープンソースプロジェクトで寄付を受け取りたいのであれば、（例えば PayPal や Stripe を使うことで）寄付ボタンを設置することができます。ただし、非営利団体（ US の場合は 501c3 ）でない場合は課税控除の対象にはなりません。
 
-多くのプロジェクトでは非営利団体を設立するという面倒を避けるために、代わりに非営利の財政スポンサーを見つけています。財政スポンサーは、寄付額の一定の割合を受け取ることと引き換えにあなたの代わりに寄付を受け取ります。 [Software Freedom Conservancy](https://sfconservancy.org/) や [Apache Foundation](https://www.apache.org/) 、 [Eclipse Foundation](https://eclipse.org/org/foundation/) 、 [Linux Foundation](https://www.linuxfoundation.org/projects) 、 [Open Collective](https://opencollective.com/opensource) は、オープンソースプロジェクトの財政スポンサーとして活動している団体の例です。
+多くのプロジェクトでは非営利団体を設立するという面倒を避けるために、代わりに非営利の財政スポンサーを見つけています。財政スポンサーは、寄付額の一定の割合を受け取ることと引き換えにあなたの代わりに寄付を受け取ります。 [Software Freedom Conservancy](https://sfconservancy.org/) や [Apache Foundation](https://www.apache.org/) 、 [Eclipse Foundation](https://www.eclipse.org/org/) 、 [Linux Foundation](https://www.linuxfoundation.org/projects) 、 [Open Collective](https://opencollective.com/opensource) は、オープンソースプロジェクトの財政スポンサーとして活動している団体の例です。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
