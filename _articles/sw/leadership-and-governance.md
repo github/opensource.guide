@@ -143,7 +143,7 @@ Kwa mfano, ikiwa unataka kuanzisha biashara, utahitaji kuanzisha C Corp au LLC (
 
 Ikiwa unataka kupokea michango kwa mradi wako wa open source, unaweza kuanzisha kitufe cha michango (ukitumia PayPal au Stripe, kwa mfano), lakini pesa hiyo haitakuwa na ushuru wa kukatwa isipokuwa wewe ni shirika linalostahiki (501c3, ikiwa uko Marekani).
 
-Miradi mingi haitaki kupitia shida ya kuanzisha shirika la kiserikali, hivyo wanapata mdhamini wa kiserikali badala yake. Mdhamini wa kiserikali anapokea michango kwa niaba yako, kwa kawaida kwa kubadilishana asilimia ya mchango. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) na [Open Collective](https://opencollective.com/opensource) ni mifano ya mashirika yanayohudumia kama wadhamini wa kiserikali kwa miradi ya open source.
+Miradi mingi haitaki kupitia shida ya kuanzisha shirika la kiserikali, hivyo wanapata mdhamini wa kiserikali badala yake. Mdhamini wa kiserikali anapokea michango kwa niaba yako, kwa kawaida kwa kubadilishana asilimia ya mchango. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) na [Open Collective](https://opencollective.com/opensource) ni mifano ya mashirika yanayohudumia kama wadhamini wa kiserikali kwa miradi ya open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
