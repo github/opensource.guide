@@ -1,12 +1,18 @@
 ---
 lang: bg
 untranslated: true
+
 title: Най-добри практики за сигурност за вашия проект
 description: Укрепете бъдещето на вашия проект, като изградите доверие чрез основни практики за сигурност – от многофакторна автентификация (MFA) и сканиране на код до безопасно управление на зависимостите и отчитане на частни уязвимости.
+
+title: Security Best Practices for your Project
+description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
+
 
 Като оставим настрана грешките и новите функции, дълголетието на един проект зависи не само от неговата полезност, но и от доверието, което печели от потребителите си. Силните мерки за сигурност са важни, за да се запази това доверие. Ето някои важни действия, които можете да предприемете, за да подобрите значително сигурността на вашия проект.
 
@@ -82,3 +88,4 @@ MFA предоставя допълнителен слой сигурност с
 
 [@JLLeitschuh](https://github.com/JLLeitschuh)
 [@intrigus-lgtm](https://github.com/intrigus-lgtm) + много други!
+
