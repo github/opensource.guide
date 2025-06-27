@@ -268,7 +268,18 @@ blockquote {
    direction: rtl;  /* Right to Left */
   }
 
-  * {
+  p,
+  a,
+  li,
+  span,
+  label,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  footer {
    font-family: 'Vazirmatn', sans-serif;
   }
 }
