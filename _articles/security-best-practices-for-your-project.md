@@ -50,6 +50,20 @@ Picture this: a project built on the sturdy foundation of a widely-used library.
 
 To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
 
+## Understand and manage open source license risks
+
+### Open source licenses come with terms and ignoring them can lead to legal and reputational risks.
+
+Using open source dependencies can speed up development, but each package includes a license that defines how it can be used, modified, or distributed. Some licenses are permissive, while others (like AGPL or SSPL) impose restrictions that may not be compatible with your project's goals or your users' needs.
+
+Imagine this: You add a powerful library to your project, unaware that it uses a restrictive license. Later, a company wants to adopt your project but raises concerns about license compliance. The result? You lose adoption, need to refactor code, and your project’s reputation takes a hit.
+
+To avoid these pitfalls, consider including automated license checks as part of your development workflow. These checks can help identify incompatible licenses early in the process, preventing problematic dependencies from being introduced into your project.
+
+Another powerful approach is generating a Software Bill of Materials (SBOM). An SBOM lists all components and their metadata (including licenses) in a standardized format. It offers clear visibility into your software supply chain and helps surface licensing risks proactively.
+
+Just like security vulnerabilities, license issues are easier to fix when discovered early. Automating this process keeps your project healthy and safe.
+
 ## Avoid unwanted changes with protected branches
 
 ### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
