@@ -56,7 +56,7 @@ To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dep
 
 Using open source dependencies can speed up development, but each package includes a license that defines how it can be used, modified, or distributed. Some licenses are permissive, while others (like AGPL or SSPL) impose restrictions that may not be compatible with your project's goals or your users' needs.
 
-Imagine this: You add a powerful library to your project, unaware that it uses a restrictive license. Later, a company wants to adopt your project but raises concerns about license compliance. The result? You lose adoption, need to refactor code, and your project’s reputation takes a hit.
+Imagine this: You add a powerful library to your project, unaware that it uses a restrictive license. Later, a company wants to adopt your project but raises concerns about license compliance. The result? You lose adoption, need to refactor code, and your project's reputation takes a hit.
 
 To avoid these pitfalls, consider including automated license checks as part of your development workflow. These checks can help identify incompatible licenses early in the process, preventing problematic dependencies from being introduced into your project.
 
@@ -86,13 +86,13 @@ On some platforms, you can streamline and strengthen your vulnerability manageme
 
 ### Define your threat model to help users and researchers understand scope
 
-Before security researchers can report issues effectively, they need to understand what risks are in scope. A lightweight threat model can help define your project’s boundaries, expected behavior, and assumptions.
+Before security researchers can report issues effectively, they need to understand what risks are in scope. A lightweight threat model can help define your project's boundaries, expected behavior, and assumptions.
 
-A threat model doesn’t need to be complex. Even a simple document outlining what your project does, what it trusts, and how it could be misused goes a long way. It also helps you, as a maintainer, think through potential pitfalls and inherited risks from upstream dependencies.
+A threat model doesn't need to be complex. Even a simple document outlining what your project does, what it trusts, and how it could be misused goes a long way. It also helps you, as a maintainer, think through potential pitfalls and inherited risks from upstream dependencies.
 
-A great example is the [Node.js threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model), which clearly defines what is and isn’t considered a vulnerability in the project’s context.
+A great example is the [Node.js threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model), which clearly defines what is and isn't considered a vulnerability in the project's context.
 
-If you’re new to this, the [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process) offers a helpful introduction to build your own.
+If you're new to this, the [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process) offers a helpful introduction to build your own.
 
 Publishing a basic threat model alongside your security policy improves clarity for everyone.
 
@@ -102,7 +102,7 @@ Publishing a basic threat model alongside your security policy improves clarity 
   <img src="https://avatars.githubusercontent.com/ulisesgascon?s=180" class="pquote-avatar" alt="avatar">
   A vulnerability is basically a flaw, a security misconfiguration or a weak point in our system that can be exploited by third parties to behave in unintended ways.
   <p markdown="1" class="pquote-credit">
-— [@UlisesGascon](https://github.com/ulisesgascon), ["What is a Vulnerability and What’s Not? Making Sense of Node.js and Express Threat Models"](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
+— [@UlisesGascon](https://github.com/ulisesgascon), ["What is a Vulnerability and What's Not? Making Sense of Node.js and Express Threat Models"](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
   </p>
 </aside>
 
@@ -111,17 +111,17 @@ Once you receive a vulnerability report, what happens next?
 Having a basic incident response plan, even a simple checklist, helps you stay calm and act efficiently when time matters. It also shows users and researchers that you take reports seriously.
 
 Your process doesn't have to be complex. At minimum, define:
-- Who reviews and triages security reports
-- How you evaluate severity and decide on mitigation
-- What steps you take to prepare a fix and publish a disclosure
-- How you notify affected users or contributors, if needed
+
+* Who reviews and triages security reports
+* How you evaluate severity and decide on mitigation
+* What steps you take to prepare a fix and publish a disclosure
+* How you notify affected users or contributors, if needed
 
 Coordinated disclosure works best when there's a clear plan. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
 
 For inspiration, the [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) provides a simple but effective example of an open source incident response plan.
 
 This plan can evolve as your project grows, but having a basic framework in place now can save time and reduce mistakes later.
-
 
 ## Treat security as a team effort
 
@@ -131,11 +131,11 @@ While tools and policies are essential, a strong security posture comes from how
 
 Here are a few ways to make security a team sport:
 
-- **Assign clear roles**: Know who handles vulnerability reports, who reviews dependency updates, and who approves security patches.
-- **Limit access using the principle of least privilege**: Only give write or admin access to those who truly need it and review permissions regularly.
-- **Invest in education**: Encourage contributors to learn about secure coding practices, common vulnerability types, and how to use your tools (like SAST or secret scanning).
-- **Foster diversity and collaboration**: A heterogeneous team brings a wider set of experiences, threat awareness, and creative problem-solving skills. It also helps uncover risks others might overlook.
-- **Engage upstream and downstream**: Your dependencies can affect your security and your project affects others. Participate in coordinated disclosure with upstream maintainers, and keep downstream users informed when vulnerabilities are fixed.
+* **Assign clear roles**: Know who handles vulnerability reports, who reviews dependency updates, and who approves security patches.
+* **Limit access using the principle of least privilege**: Only give write or admin access to those who truly need it and review permissions regularly.
+* **Invest in education**: Encourage contributors to learn about secure coding practices, common vulnerability types, and how to use your tools (like SAST or secret scanning).
+* **Foster diversity and collaboration**: A heterogeneous team brings a wider set of experiences, threat awareness, and creative problem-solving skills. It also helps uncover risks others might overlook.
+* **Engage upstream and downstream**: Your dependencies can affect your security and your project affects others. Participate in coordinated disclosure with upstream maintainers, and keep downstream users informed when vulnerabilities are fixed.
 
 Security is an ongoing process, not a one-time setup. By involving your community, encouraging secure practices, and supporting each other, you build a stronger, more resilient project and a safer ecosystem for everyone.
 
@@ -143,7 +143,7 @@ Security is an ongoing process, not a one-time setup. By involving your communit
 
 These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
 
-Security isn’t static. Revisit your processes from time to time as your project grows, so do your responsibilities and your attack surface.
+Security isn't static. Revisit your processes from time to time as your project grows, so do your responsibilities and your attack surface.
 
 ## Contributors
 
