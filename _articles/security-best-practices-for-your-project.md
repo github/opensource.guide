@@ -96,6 +96,32 @@ If you’re new to this, the [OWASP Threat Modeling Process](https://owasp.org/w
 
 Publishing a basic threat model alongside your security policy improves clarity for everyone.
 
+### Prepare a lightweight incident response process
+
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/ulisesgascon?s=180" class="pquote-avatar" alt="avatar">
+  A vulnerability is basically a flaw, a security misconfiguration or a weak point in our system that can be exploited by third parties to behave in unintended ways.
+  <p markdown="1" class="pquote-credit">
+— [@UlisesGascon](https://github.com/ulisesgascon), ["What is a Vulnerability and What’s Not? Making Sense of Node.js and Express Threat Models"](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
+  </p>
+</aside>
+
+Once you receive a vulnerability report, what happens next?
+
+Having a basic incident response plan, even a simple checklist, helps you stay calm and act efficiently when time matters. It also shows users and researchers that you take reports seriously.
+
+Your process doesn't have to be complex. At minimum, define:
+- Who reviews and triages security reports
+- How you evaluate severity and decide on mitigation
+- What steps you take to prepare a fix and publish a disclosure
+- How you notify affected users or contributors, if needed
+
+Coordinated disclosure works best when there's a clear plan. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
+
+For inspiration, the [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) provides a simple but effective example of an open source incident response plan.
+
+This plan can evolve as your project grows, but having a basic framework in place now can save time and reduce mistakes later.
+
 
 ## Treat security as a team effort
 
