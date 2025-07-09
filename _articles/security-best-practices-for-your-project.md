@@ -83,6 +83,21 @@ To avoid this, publish a security policy. A security policy, defined in a `SECUR
 ### Private Vulnerability Reporting
 
 On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+## Treat security as a team effort
+
+### Security isn't a solo responsibility. It works best when shared across your project's community.
+
+While tools and policies are essential, a strong security posture comes from how your team and contributors work together. Building a culture of shared responsibility helps your project identify, triage, and respond to vulnerabilities faster and more effectively.
+
+Here are a few ways to make security a team sport:
+
+- **Assign clear roles**: Know who handles vulnerability reports, who reviews dependency updates, and who approves security patches.
+- **Limit access using the principle of least privilege**: Only give write or admin access to those who truly need it and review permissions regularly.
+- **Invest in education**: Encourage contributors to learn about secure coding practices, common vulnerability types, and how to use your tools (like SAST or secret scanning).
+- **Foster diversity and collaboration**: A heterogeneous team brings a wider set of experiences, threat awareness, and creative problem-solving skills. It also helps uncover risks others might overlook.
+- **Engage upstream and downstream**: Your dependencies can affect your security and your project affects others. Participate in coordinated disclosure with upstream maintainers, and keep downstream users informed when vulnerabilities are fixed.
+
+Security is an ongoing process, not a one-time setup. By involving your community, encouraging secure practices, and supporting each other, you build a stronger, more resilient project and a safer ecosystem for everyone.
 
 ## Conclusion: A few steps for you, a huge improvement for your users
 
