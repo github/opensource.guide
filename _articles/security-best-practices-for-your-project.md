@@ -70,7 +70,7 @@ Just like security vulnerabilities, license issues are easier to fix when discov
 
 A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
 
-## Set up an intake mechanism for vulnerability reporting
+## Make it easy (and safe) to report security issues
 
 ### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
 
@@ -143,11 +143,12 @@ Security is an ongoing process, not a one-time setup. By involving your communit
 
 These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
 
+Security isn’t static. Revisit your processes from time to time as your project grows, so do your responsibilities and your attack surface.
+
 ## Contributors
 
 ### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
 
 This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
 
-[@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + many others!
+[@JLLeitschuh](https://github.com/JLLeitschuh), [@intrigus-lgtm](https://github.com/intrigus-lgtm), [@UlisesGascon](https://github.com/ulisesgascon) + many others!
