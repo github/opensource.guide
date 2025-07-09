@@ -83,6 +83,20 @@ To avoid this, publish a security policy. A security policy, defined in a `SECUR
 ### Private Vulnerability Reporting
 
 On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+
+### Define your threat model to help users and researchers understand scope
+
+Before security researchers can report issues effectively, they need to understand what risks are in scope. A lightweight threat model can help define your project’s boundaries, expected behavior, and assumptions.
+
+A threat model doesn’t need to be complex. Even a simple document outlining what your project does, what it trusts, and how it could be misused goes a long way. It also helps you, as a maintainer, think through potential pitfalls and inherited risks from upstream dependencies.
+
+A great example is the [Node.js threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model), which clearly defines what is and isn’t considered a vulnerability in the project’s context.
+
+If you’re new to this, the [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process) offers a helpful introduction to build your own.
+
+Publishing a basic threat model alongside your security policy improves clarity for everyone.
+
+
 ## Treat security as a team effort
 
 ### Security isn't a solo responsibility. It works best when shared across your project's community.
