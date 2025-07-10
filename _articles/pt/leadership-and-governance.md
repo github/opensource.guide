@@ -144,7 +144,7 @@ Por exemplo, se você quer criar um negócio comercial, você irá querer montar
 
 Se desejar aceitar doações para seu projeto open source, você pode configurar um botão de doações (usando PayPal ou Stripe, por exemplo), mas o dinheiro não será livre de tributação, a menos que você seja uma organização sem fins lucrativos (uma 501c3, se estiver nos EUA).
 
-Muitos projetos não querem se dar ao trabalho de criar uma organização sem fins lucrativos, então encontram um patrocinador fiscal sem fins lucrativos. Um patrocinador fiscal aceita doações em seu nome, geralmente em troca de uma porcentagem da doação. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) e [Open Collective](https://opencollective.com/opensource) são exemplos de organizações que servem como patrocinadores fiscais para projetos open source.
+Muitos projetos não querem se dar ao trabalho de criar uma organização sem fins lucrativos, então encontram um patrocinador fiscal sem fins lucrativos. Um patrocinador fiscal aceita doações em seu nome, geralmente em troca de uma porcentagem da doação. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) e [Open Collective](https://opencollective.com/opensource) são exemplos de organizações que servem como patrocinadores fiscais para projetos open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
