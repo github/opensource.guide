@@ -143,7 +143,7 @@ Sebagai contoh, jika Anda hendak membuat bisnis komersial, Anda perlu membuat C 
 
 Jika Anda hendak menerima donasi untuk proyek open source Anda, Anda bisa membuat tombol donasi (menggunakan PayPal atau Stripe misalnya), tetapi uang tersebut akan dikurangi pajak kecuali Anda adalah nirlaba (501c3 jika Anda berada di AS).
 
-Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka mencari sponsor fiskal nonprofit. Sponsor fiskal menerima donasi untuk Anda, biasanya dengan imbalan beberapa pesen dari donasi. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource) adalah contoh organisasi yang melayani sebagai sponsor fiskal untuk proyek open source.
+Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka mencari sponsor fiskal nonprofit. Sponsor fiskal menerima donasi untuk Anda, biasanya dengan imbalan beberapa pesen dari donasi. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource) adalah contoh organisasi yang melayani sebagai sponsor fiskal untuk proyek open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

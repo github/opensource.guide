@@ -151,7 +151,7 @@ Na przykład, jeśli chcesz założyć działalność komercyjną, musisz zało�
 
 Jeśli chcesz przyjąć darowizny na projekt open source, możesz ustawić przycisk darowizny (na przykład za pomocą PayPal lub Stripe), ale pieniądze nie będą podlegały odliczeniu od podatku, chyba że kwalifikujesz się jako organizacja non-profit (501c3, jeśli jesteś w USA).
 
-Wiele projektów nie chce borykać się z tworzeniem organizacji non-profit, dlatego zamiast tego znajdują sponsora fiskalnego. Sponsor fiskalny przyjmuje darowizny w Twoim imieniu, zwykle w zamian za procent darowizny. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/ ), [Linux Foundation](https://www.linuxfoundation.org/projects) i [Open Collective](https://opencollective.com/opensource) to przykłady organizacji, które pełnią rolę sponsorów fiskalnych dla projektów open source.
+Wiele projektów nie chce borykać się z tworzeniem organizacji non-profit, dlatego zamiast tego znajdują sponsora fiskalnego. Sponsor fiskalny przyjmuje darowizny w Twoim imieniu, zwykle w zamian za procent darowizny. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) i [Open Collective](https://opencollective.com/opensource) to przykłady organizacji, które pełnią rolę sponsorów fiskalnych dla projektów open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

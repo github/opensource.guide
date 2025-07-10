@@ -178,7 +178,7 @@ De exemplu, dacă dorești să creezi o afacere comercială, vei dori să înfii
 
 Dacă vrei să accepți donații pentru proiectul tău cu sursă deschisă, poți crea un buton de donație (folosind PayPal sau Stripe, de exemplu), dar banii nu vor fi deductibili fiscal decât dacă ești o organizație nonprofit calificată (un 501c3, dacă ești în SUA).
 
-Multe proiecte nu doresc să treacă prin dificultățile de înființare a unei organizații nonprofit, deci ele găsesc în schimb un sponsor fiscal nonprofit. Un sponsor fiscal acceptă donații în numele tău, de obicei în schimbul unui procent din donație. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) și [Open Collective](https://opencollective.com/opensource) sunt exemple de organizații care servesc drept sponsori fiscali pentru proiecte cu sursă deschisă.
+Multe proiecte nu doresc să treacă prin dificultățile de înființare a unei organizații nonprofit, deci ele găsesc în schimb un sponsor fiscal nonprofit. Un sponsor fiscal acceptă donații în numele tău, de obicei în schimbul unui procent din donație. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) și [Open Collective](https://opencollective.com/opensource) sunt exemple de organizații care servesc drept sponsori fiscali pentru proiecte cu sursă deschisă.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

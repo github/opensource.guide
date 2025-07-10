@@ -143,7 +143,7 @@ related:
 
 Αν θέλετε να δέχεστε δωρεές για το ανοικτού κώδικα πρότζεκτ σας, μπορείτε να δημιουργήσετε ένα κουμπί δωρεάς (χρησιμοποιώντας το PayPal ή το Stripe, για παράδειγμα), αλλά τα χρήματα δεν θα εκπίπτουν από τη φορολογία, εκτός αν είστε αναγνωρισμένος μη κερδοσκοπικός οργανισμός (501c3, αν είστε στις ΗΠΑ).
 
-Πολλά πρότζεκτ δεν επιθυμούν να μπουν στον κόπο να δημιουργήσουν έναν μη κερδοσκοπικό οργανισμό, οπότε βρίσκουν έναν μη κερδοσκοπικό φορολογικό χορηγό. Ένας φορολογικός χορηγός δέχεται δωρεές εκ μέρους σας, συνήθως με αντάλλαγμα ένα ποσοστό της δωρεάς. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) και [Open Collective](https://opencollective.com/opensource) είναι παραδείγματα οργανισμών που λειτουργούν ως φορολογικοί χορηγοί για πρότζεκτ ανοικτού κώδικα.
+Πολλά πρότζεκτ δεν επιθυμούν να μπουν στον κόπο να δημιουργήσουν έναν μη κερδοσκοπικό οργανισμό, οπότε βρίσκουν έναν μη κερδοσκοπικό φορολογικό χορηγό. Ένας φορολογικός χορηγός δέχεται δωρεές εκ μέρους σας, συνήθως με αντάλλαγμα ένα ποσοστό της δωρεάς. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) και [Open Collective](https://opencollective.com/opensource) είναι παραδείγματα οργανισμών που λειτουργούν ως φορολογικοί χορηγοί για πρότζεκτ ανοικτού κώδικα.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

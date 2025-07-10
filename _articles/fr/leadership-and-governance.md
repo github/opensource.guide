@@ -143,7 +143,7 @@ Par exemple, si vous souhaitez créer une entreprise commerciale, vous devez cr�
 
 Si vous souhaitez accepter des dons pour votre projet open source, vous pouvez configurer un bouton de don (PayPal ou Stripe, par exemple), mais l'argent ne sera pas déductible d'impôt, sauf si vous êtes un organisme à but non lucratif (501c3, si vous êtes aux États-Unis).
 
-Beaucoup de projets ne souhaitent pas se lancer dans la création d'un but non lucratif, ils trouvent donc un sponsor fiscal à but non lucratif. Un sponsor fiscal accepte les dons en votre nom, généralement en échange d'un pourcentage du don. [Software Freedom Conservancy](https://sfconservancy.org/), [Fondation Apache](https://www.apache.org/), [Fondation Eclipse](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) et [Open Collective](https://opencollective.com/opensource) sont des exemples d'organisations qui servent de sponsors fiscaux pour des projets open source.
+Beaucoup de projets ne souhaitent pas se lancer dans la création d'un but non lucratif, ils trouvent donc un sponsor fiscal à but non lucratif. Un sponsor fiscal accepte les dons en votre nom, généralement en échange d'un pourcentage du don. [Software Freedom Conservancy](https://sfconservancy.org/), [Fondation Apache](https://www.apache.org/), [Fondation Eclipse](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) et [Open Collective](https://opencollective.com/opensource) sont des exemples d'organisations qui servent de sponsors fiscaux pour des projets open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
