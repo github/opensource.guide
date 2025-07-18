@@ -13,3 +13,44 @@ fi
 
 echo "==> Installing node dependencies…"
 npm install
+
+#python
+import os
+import subprocess
+import sys
+from pathlib import Path
+
+def run_command(command, cwd=None):
+    try:
+        print(f"==> Running: {' '.join(command)}")
+        subprocess.run(command, cwd=cwd, check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"Error: {e}")
+        sys.exit(1)
+
+def main():
+    # Move to project root (parent of script directory)
+    script_dir = Path(__file__).resolve().parent
+    project_root = script_dir.parent
+    os.chdir(project_root)
+
+    # Check if SKIP_BUNDLER is set
+    skip_bundler = os.environ.get("SKIP_BUNDLER")
+
+    if not skip_bundler:
+        print("==> Installing gem dependencies…")
+        try:
+            subprocess.run(
+                ["bundle", "check", "--path", "vendor/gems"],
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+                check=True
+            )
+        except subprocess.CalledProcessError:
+            run_command(["bundle", "install", "--binstubs", "bin", "--path", "vendor/gems"])
+
+    print("==> Installing node dependencies…")
+    run_command(["npm", "install"])
+
+if __name__ == "__main__":
+    main()
