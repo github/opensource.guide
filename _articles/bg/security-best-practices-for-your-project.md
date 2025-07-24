@@ -1,84 +1,84 @@
 ---
 lang: bg
 untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+title: Най-добри практики за сигурност за вашия проект
+description: Укрепете бъдещето на вашия проект, като изградите доверие чрез основни практики за сигурност – от многофакторна автентификация (MFA) и сканиране на код до безопасно управление на зависимостите и отчитане на частни уязвимости.
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+Като оставим настрана грешките и новите функции, дълголетието на един проект зависи не само от неговата полезност, но и от доверието, което печели от своите потребители. Силните мерки за сигурност са важни, за да се запази това доверие. Ето някои важни действия, които можете да предприемете, за да подобрите значително сигурността на вашия проект.
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## Уверете се, че всички привилегировани участници са активирали многофакторно удостоверяване (MFA)
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### Злонамерен участник, който успее да се представи за привилегирован участник във вашия проект, ще причини катастрофални щети.
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+След като получи привилегирован достъп, този участник може да промени вашия код, за да го накара да извършва нежелани действия (напр. да копае криптовалута), или може да разпространява зловреден софтуер в инфраструктурата на вашите потребители, или може да има достъп до частни хранилища за код, за да открадне интелектуална собственост и чувствителни данни, включително идентификационни данни за други услуги.
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+MFA предоставя допълнителен слой сигурност срещу поглъщане на акаунт. След като бъде активирана, трябва да влезете с потребителското си име и парола и да предоставите друга форма на удостоверяване, която само вие знаете или до която имате достъп.
 
-## Secure your code as part of your development workflow
+## Защитете кода си като част от работния процес на разработка
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### Уязвимостите в сигурността на вашия код са по-евтини за отстраняване, когато бъдат открити в началото на процеса, отколкото по-късно, когато се използват в продукцията.
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+Използвайте инструмент за статично тестване на сигурността на приложенията (SAST), за да откриете уязвимости в сигурността на вашия код. Тези инструменти работят на ниво код и не се нуждаят от среда за изпълнение, следователно могат да бъдат изпълнени в началото на процеса и могат да бъдат безпроблемно интегрирани в обичайния ви работен процес на разработка, по време на изграждането или по време на фазите на преглед на кода.
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+Все едно квалифициран експерт да прегледа вашето хранилище за код, помагайки ви да откриете често срещани уязвимости в сигурността, които биха могли да се крият на видно място, докато кодирате.
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+Как да изберете вашия SAST инструмент?
+Проверете лиценза: Някои инструменти са безплатни за проекти с отворен код. Например GitHub CodeQL или SemGrep.
+Проверете покритието за вашия(ите) език(ци)
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+* Изберете такъв, който лесно се интегрира с инструментите, които вече използвате, със съществуващия ви процес. Например, по-добре е, ако предупрежденията са налични като част от съществуващия ви процес и инструмент за преглед на код, вместо да използвате друг инструмент, за да ги видите.
+* Пазете се от фалшиви положителни резултати! Не искате инструментът да ви забавя без причина!
+* Проверете функциите: някои инструменти са много мощни и могат да проследяват дефекти (пример: GitHub CodeQL), някои предлагат генерирани от изкуствен интелект предложения за корекции, а трети улесняват писането на персонализирани заявки (пример: SemGrep).
 
-## Don't share your secrets
+## Не споделяйте тайните си
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### Чувствителни данни, като API ключове, токени и пароли, понякога могат случайно да бъдат добавени към вашето хранилище.
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+Представете си следния сценарий: Вие сте администратор на популярен проект с отворен код, в който участват разработчици от цял ​​свят. Един ден, сътрудник, без да знае, добавя към хранилището някои API ключове на услуга на трета страна. Няколко дни по-късно, някой намира тези ключове и ги използва, за да влезе в услугата без разрешение. Услугата е компрометирана, потребителите на вашия проект изпитват прекъсвания и репутацията на проекта ви е засегната. Като администратор, вие сте изправени пред трудните задачи за отмяна на компрометирани тайни, разследване на злонамерени действия, които атакуващият би могъл да извърши с тази тайна, уведомяване на засегнатите потребители и внедряване на корекции.
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+За да се предотвратят подобни инциденти, съществуват решения за "сканиране на тайни", които ви помагат да откриете тези тайни в кода си. Някои инструменти като GitHub Secret Scanning и Trufflehog от Truffle Security могат да ви попречат да ги преместите в отдалечени клонове, а някои инструменти автоматично ще отменят някои тайни вместо вас.
 
-## Check and update your dependencies
+## Проверете и актуализирайте зависимостите си
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+### Зависимостите във вашия проект могат да имат уязвимости, които компрометират сигурността му. Ръчното поддържане на зависимостите актуални може да бъде отнемаща време задача.
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+Представете си: проект, изграден върху здравата основа на широко използвана библиотека. Библиотеката по-късно открива голям проблем със сигурността, но хората, които са изградили приложението, използвайки я, не знаят за него. Чувствителни потребителски данни остават изложени на риск, когато атакуващ се възползва от тази слабост и се нахвърли, за да ги грабне. Това не е теоретичен случай. Точно това се случи с Equifax през 2017 г.: Те не успяха да актуализират зависимостта си от Apache Struts след известието, че е открита сериозна уязвимост. Тя беше експлоатирана и скандалният пробив в Equifax засегна данните на 144 милиона потребители.
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+За да предотвратят подобни сценарии, инструменти за анализ на състава на софтуера (SCA), като Dependabot и Renovate, автоматично проверяват вашите зависимости за известни уязвимости, публикувани в публични бази данни като NVD или GitHub Advisory Database, и след това създават заявки за изтегляне, за да ги актуализират до безопасни версии. Поддържането на актуалност с най-новите безопасни версии на зависимостите предпазва вашия проект от потенциални рискове.
 
-## Avoid unwanted changes with protected branches
+## Избягвайте нежелани промени със защитени клонове
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### Неограниченият достъп до основните ви клонове може да доведе до случайни или злонамерени промени, които могат да въведат уязвимости или да нарушат стабилността на проекта ви.
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+Нов участник получава достъп за запис в основния клон и случайно публикува промени, които не са тествани. След това се разкрива сериозен пропуск в сигурността, благодарение на последните промени. За да се предотвратят подобни проблеми, правилата за защита на клоновете гарантират, че промените не могат да бъдат публикувани или обединявани във важни клонове, без първо да бъдат прегледани и да преминат през определени проверки за състояние. С тази допълнителна мярка сте в по-голяма безопасност и по-добре, гарантирайки първокласно качество всеки път.
 
-## Set up an intake mechanism for vulnerability reporting
+## Настройте механизъм за прием на данни за докладване на уязвимости
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### Добра практика е да улесните потребителите си да докладват за грешки, но големият въпрос е: когато тази грешка има въздействие върху сигурността, как могат безопасно да ви я докладват, без да ви поставят в цел за злонамерени хакери?
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+Представете си: Изследовател по сигурността открива уязвимост във вашия проект, но не намира ясен или сигурен начин да я докладва. Без определен процес, той може да създаде публичен проблем или да го обсъди открито в социалните медии. Дори и да е добронамерен и да предложи поправка, ако го направи с публична заявка за изтегляне, други ще я видят, преди да бъде обединена! Това публично разкриване ще изложи уязвимостта на злонамерени лица, преди да имате шанс да я отстраните, което потенциално ще доведе до експлойт от нулев ден, атакуващ вашия проект и неговите потребители.
 
-### Security Policy
+### Политика за сигурност
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+За да избегнете това, публикувайте политика за сигурност. Политиката за сигурност, дефинирана във файл `SECURITY.md`, описва подробно стъпките за докладване на проблеми със сигурността, създава прозрачен процес за координирано разкриване и установява отговорностите на екипа на проекта за справяне с докладваните проблеми. Тази политика за сигурност може да бъде толкова проста, колкото "Моля, не публикувайте подробности в публичен проблем или PR, изпратете ни личен имейл на security@example.com", но може да съдържа и други подробности, като например кога могат да очакват да получат отговор от вас. Всичко, което може да помогне за ефективността и ефикасността на процеса на разкриване.
 
-### Private Vulnerability Reporting
+### Частно докладване на уязвимости
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+На някои платформи можете да рационализирате и подобрите процеса си на управление на уязвимости, от приемане до излъчване, с частни проблеми. В GitLab това може да се направи с частни проблеми. В GitHub това се нарича частно докладване на уязвимости (PVR). PVR позволява на поддържащите да получават и адресират доклади за уязвимости, всичко това в рамките на платформата GitHub. GitHub автоматично ще създаде частен fork за писане на корекциите и проект на съобщение за сигурност. Всичко това остава поверително, докато не решите да разкриете проблемите и да публикувате корекциите. За да се затвори цикълът, ще бъдат публикувани съобщения за сигурност, които ще информират и защитават всички ваши потребители чрез техния SCA инструмент.
 
-## Conclusion: A few steps for you, a huge improvement for your users
+## Заключение: Няколко стъпки за вас, огромно подобрение за вашите потребители
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+Тези няколко стъпки може да ви се сторят лесни или основни, но те са от голяма полза за по-голяма сигурност на вашия проект за неговите потребители, защото ще осигурят защита срещу най-често срещаните проблеми.
 
-## Contributors
+## Сътрудници
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+### Много благодарности на всички администратори, които споделиха своя опит и съвети с нас за това ръководство!
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+Това ръководство е написано от [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) с приноси от: 
 
 [@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + many others!
+[@intrigus-lgtm](https://github.com/intrigus-lgtm) + много други!
