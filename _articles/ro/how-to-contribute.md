@@ -239,6 +239,7 @@ Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să d
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### O listă de verificare înainte de a contribui
 
