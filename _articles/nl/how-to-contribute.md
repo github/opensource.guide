@@ -223,6 +223,7 @@ U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekke
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### Een checklist voordat u bijdraagt
 

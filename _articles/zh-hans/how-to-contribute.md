@@ -211,6 +211,7 @@ redirect_from: /zh-cn/how-to-contribute/
 * [像忍者一样贡献](https://contributor.ninja)
 * [最初的贡献](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### 提交贡献之前的检查列表
 
