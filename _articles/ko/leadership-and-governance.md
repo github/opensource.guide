@@ -143,7 +143,7 @@ related:
 
 오픈소스 프로젝트에 대한 기부를 받고 싶다면 PayPal이나 Stripe 등을 이용해 기부 버튼을 마련해둘 수 있습니다. 하지만 여러분이 비영리(미국 기준 501c3)를 증명하지 못한다면 세금 공제는 받지 못합니다.
 
-대부분 프로젝트는 비영리 단체를 설립하는 번거로운 절차를 따르고 싶어하지 않습니다. 대신 비영리 회계 스폰서를 찾는 방법을 택합니다. 회계 스폰서는 보통 기부금의 일정 비율을 대가로 여러분을 대신하여 기부금을 수령합니다. 오픈소스 프로젝트를 위한 회계 스폰서 역할을 하는 조직은 [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource) 등이 있습니다.
+대부분 프로젝트는 비영리 단체를 설립하는 번거로운 절차를 따르고 싶어하지 않습니다. 대신 비영리 회계 스폰서를 찾는 방법을 택합니다. 회계 스폰서는 보통 기부금의 일정 비율을 대가로 여러분을 대신하여 기부금을 수령합니다. 오픈소스 프로젝트를 위한 회계 스폰서 역할을 하는 조직은 [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource) 등이 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

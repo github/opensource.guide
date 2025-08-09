@@ -143,7 +143,7 @@ Ha például vállalkozást akarsz alapozni a projektedre, akkor ennek megfelel�
 
 Ha adományokat szeretnél kapni a nyílt forráskódú projektedért, elhelyezhetsz egy adomány gombot a weboldalon (PayPal, Stripe, stb. segítségével), de a bevétel kezelésénél ekkor is a helyi adó- és jogszabályoknak megfelelő módon kell eljárnod.
 
-Számos projekt nem vállalja a non-profit szervezet létrehozásával járó bonyodalmakat, ezért olyan támogatókat keresnek akik már non-profit jogi személyek. Ezek a szervezetek a te nevedben fogadhatnak el adományokat, általában némi részesedésért cserébe. A [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) és [Open Collective](https://opencollective.com/opensource) jó példák az ilyen non-profit támogató szervezetre.
+Számos projekt nem vállalja a non-profit szervezet létrehozásával járó bonyodalmakat, ezért olyan támogatókat keresnek akik már non-profit jogi személyek. Ezek a szervezetek a te nevedben fogadhatnak el adományokat, általában némi részesedésért cserébe. A [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) és [Open Collective](https://opencollective.com/opensource) jó példák az ilyen non-profit támogató szervezetre.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

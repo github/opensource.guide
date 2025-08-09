@@ -211,6 +211,7 @@ Az alábbiakban találsz néhány oldalt, amelyek segítenek abban, hogy felfede
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### Egy ellenőrző lista, mielőtt részt vennél a projektben
 
