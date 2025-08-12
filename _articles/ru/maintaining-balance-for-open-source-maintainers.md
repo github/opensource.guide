@@ -218,4 +218,3 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
 [@waldyrious](https://github.com/waldyrious) + many others!
-
