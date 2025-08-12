@@ -146,7 +146,7 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 如果你打算让自己的开源项目接受捐赠的话，你可以创建一个捐赠按钮（使用PayPal或Stripe，举例来说），但是你要知道，这些钱并非是免税的，除非你是认证过的非盈利性组织（在美国的话，诸如501c3）。
 
-很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](https://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/foundation/), [Linux 基金会](https://www.linuxfoundation.org/projects) 以及 [Open Collective](https://opencollective.com/opensource) 等。
+很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](https://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/), [Linux 基金会](https://www.linuxfoundation.org/projects) 以及 [Open Collective](https://opencollective.com/opensource) 等。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

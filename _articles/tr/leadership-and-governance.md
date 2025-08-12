@@ -143,7 +143,7 @@ Parayla çalışmadığınız sürece açık kaynak projenizi desteklemek için 
 
 Açık kaynak projeniz için bağış kabul etmek istiyorsanız, bağış butonu ayarlayabilirsiniz (örneğin, PayPal veya Stripe kullanarak), ancak uygun olmayan bir kar amacı gütmediğiniz sürece para vergiden düşülmez (eğer bir 501c3, ABD'desiniz).
 
-Birçok proje kar amacı gütmeyen bir kuruluş kurma zorunluluğunu yaşamak istememektedir, bu yüzden kar amacı gütmeyen bir mali sponsor bulmaktadırlar. Mali bir sponsor, genellikle bağışın bir yüzdesi karşılığında, sizin adınıza bağışları kabul eder. [Yazılım Özgürlüğü Koruması](https://sfconservancy.org/), [Apache Vakfı](https://www.apache.org/), [Eclipse Vakfı](https://eclipse.org/org/foundation/), [Linux Vakfı](https://www.linuxfoundation.org/projects) ve [Açık Kollektifi](https://opencollective.com/opensource) açık kaynak projeleri için mali sponsor olarak hizmet veren kuruluşlara örnektir.
+Birçok proje kar amacı gütmeyen bir kuruluş kurma zorunluluğunu yaşamak istememektedir, bu yüzden kar amacı gütmeyen bir mali sponsor bulmaktadırlar. Mali bir sponsor, genellikle bağışın bir yüzdesi karşılığında, sizin adınıza bağışları kabul eder. [Yazılım Özgürlüğü Koruması](https://sfconservancy.org/), [Apache Vakfı](https://www.apache.org/), [Eclipse Vakfı](https://eclipse.org/org/), [Linux Vakfı](https://www.linuxfoundation.org/projects) ve [Açık Kollektifi](https://opencollective.com/opensource) açık kaynak projeleri için mali sponsor olarak hizmet veren kuruluşlara örnektir.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

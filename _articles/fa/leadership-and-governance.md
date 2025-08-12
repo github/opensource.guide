@@ -143,7 +143,7 @@ related:
 
 اگر می‌خواهید کمک‌های مالی برای پروژه‌ی متن باز خود بپذیرید، می‌توانید بستری را برای کمک‌های مالی (مثلاً با استفاده از <span dir="rtl">PayPal</span> یا <span dir="rtl">Stripe</span>) ایجاد کنید، اما این مبلغ مشمول کسر مالیات می‌شود، مگر اینکه به عنوان یک سازمان غیرانتفاعی واجد شرایط باشید (اگر در ایالات متحده مستقر هستید).
 
-بسیاری از پروژه‌ها مایل به پذیرفتن مشکلات ناشی از ایجاد سازمانی غیرانتفاعی نیستند، بنابراین در عوض یک حامی مالی غیرانتفاعی پیدا می‌کنند. یک حامی مالی، معمولاً در ازای درصدی از کمک مالی، کمک‌های مالی را از طرف شما قبول می‌کند. [Software Freedom Conservancy](https://sfconservancy.org/)،[Apache Foundation](https://www.apache.org/) ،[Eclipse Foundation](https://eclipse.org/org/foundation/) ، [Linux Foundation](https://www.linuxfoundation.org/projects) و [Open Collective](https://opencollective.com/opensource)، نمونه‌هایی از سازمان‌ها هستند که به عنوان حامی‌های مالی در پروژه‌های متن باز فعالیت می‌کنند
+بسیاری از پروژه‌ها مایل به پذیرفتن مشکلات ناشی از ایجاد سازمانی غیرانتفاعی نیستند، بنابراین در عوض یک حامی مالی غیرانتفاعی پیدا می‌کنند. یک حامی مالی، معمولاً در ازای درصدی از کمک مالی، کمک‌های مالی را از طرف شما قبول می‌کند. [Software Freedom Conservancy](https://sfconservancy.org/)،[Apache Foundation](https://www.apache.org/) ،[Eclipse Foundation](https://eclipse.org/org/) ، [Linux Foundation](https://www.linuxfoundation.org/projects) و [Open Collective](https://opencollective.com/opensource)، نمونه‌هایی از سازمان‌ها هستند که به عنوان حامی‌های مالی در پروژه‌های متن باز فعالیت می‌کنند
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

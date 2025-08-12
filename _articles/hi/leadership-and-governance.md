@@ -144,7 +144,7 @@ related:
 
 यदि आप अपने ओपन सोर्स प्रोजेक्ट के लिए दान स्वीकार करना चाहते हैं, तो आप एक दान बटन सेट कर सकते हैं (उदाहरण के लिए पेपैल या स्ट्राइप का उपयोग करके), लेकिन पैसा तब तक कर-कटौती योग्य नहीं होगा जब तक कि आप एक योग्य गैर-लाभकारी संस्था (501c3, यदि आप अमेरिका में हैं)।
 
-कई परियोजनाएँ एक गैर-लाभकारी संस्था स्थापित करने की परेशानी से गुज़रना नहीं चाहती हैं, इसलिए वे इसके बजाय एक गैर-लाभकारी राजकोषीय प्रायोजक ढूंढती हैं। एक राजकोषीय प्रायोजक आपकी ओर से दान स्वीकार करता है, आमतौर पर दान के एक प्रतिशत के बदले में। [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) ओर [Open Collective](https://opencollective.com/opensource) ऐसे संगठनों के उदाहरण हैं जो ओपन सोर्स परियोजनाओं के लिए वित्तीय प्रायोजक के रूप में काम करते हैं।
+कई परियोजनाएँ एक गैर-लाभकारी संस्था स्थापित करने की परेशानी से गुज़रना नहीं चाहती हैं, इसलिए वे इसके बजाय एक गैर-लाभकारी राजकोषीय प्रायोजक ढूंढती हैं। एक राजकोषीय प्रायोजक आपकी ओर से दान स्वीकार करता है, आमतौर पर दान के एक प्रतिशत के बदले में। [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) ओर [Open Collective](https://opencollective.com/opensource) ऐसे संगठनों के उदाहरण हैं जो ओपन सोर्स परियोजनाओं के लिए वित्तीय प्रायोजक के रूप में काम करते हैं।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

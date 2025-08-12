@@ -209,6 +209,7 @@ Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e c
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### Um checklist antes de você contribuir
 

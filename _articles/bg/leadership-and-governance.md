@@ -143,7 +143,7 @@ related:
 
 Ако искате да приемате дарения за вашия проект с отворен код, можете да настроите бутон за дарение (с помощта на PayPal или Stripe, например), но парите няма да се приспадат от данъци, освен ако не сте квалифицирана организация с нестопанска цел (501c3, ако вие сте в САЩ).
 
-Много проекти не желаят да преминат през неприятностите при създаването на организация с нестопанска цел, така че вместо това намират фискален спонсор с нестопанска цел. Фискален спонсор приема дарения от ваше име, обикновено в замяна на процент от дарението. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) и [Open Collective](https://opencollective.com/opensource) са примери за организации, които служат като фискални спонсори за проекти с отворен код.
+Много проекти не желаят да преминат през неприятностите при създаването на организация с нестопанска цел, така че вместо това намират фискален спонсор с нестопанска цел. Фискален спонсор приема дарения от ваше име, обикновено в замяна на процент от дарението. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) и [Open Collective](https://opencollective.com/opensource) са примери за организации, които служат като фискални спонсори за проекти с отворен код.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

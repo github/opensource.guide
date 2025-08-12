@@ -291,7 +291,7 @@ redirect_from: /zh-tw/starting-a-project/
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    最新的issue隊列，組織和標記清除的issues
+    最新的issue隊列，組織和標記清楚的issues
   </label>
 </div>
 
