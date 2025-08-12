@@ -225,6 +225,7 @@ You can also use one of the following resources to help you discover and contrib
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 * [OpenSauced](https://opensauced.pizza/)
 * [Gitlab Explore](https://gitlab.com/explore/projects/starred)
+
 ### A checklist before you contribute
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
