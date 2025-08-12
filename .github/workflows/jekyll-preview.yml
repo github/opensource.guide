@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
         with:
           # For PRs make sure to checkout the PR branch
           ref: ${{ github.event.pull_request.head.sha }}
