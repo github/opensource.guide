@@ -210,6 +210,7 @@ redirect_from: /zh-tw/how-to-contribute/
 * [貢獻忍者](https://contributor.ninja)
 * [最初的贡献](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### **提交貢獻前應做的檢查清單**
 

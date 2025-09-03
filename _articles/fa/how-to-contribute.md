@@ -215,7 +215,8 @@ related:
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### بررسی چک لیست قبل از مشارکت در پروژه‌ی متن باز
 

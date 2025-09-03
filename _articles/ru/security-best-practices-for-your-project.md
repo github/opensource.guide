@@ -1,84 +1,84 @@
 ---
 lang: ru
 untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+title: Лучшие практики безопасности для вашего Проекта
+description: Укрепите будущее своего проекта, укрепляя доверие с помощью основных методов обеспечения безопасности — от многофакторной аутентификации и сканирования кода до безопасного управления зависимостями и конфиденциальных отчетов об уязвимостях.
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+Помимо исправления ошибок и добавления новых функций, долгосрочное существование проекта зависит не только от его полезности, но и от доверия, которое он заслуживает у пользователей. Надёжные меры безопасности важны для сохранения этого доверия. Ниже приведены ключевые действия, которые вы можете предпринять, чтобы значительно повысить безопасность вашего проекта.
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## Убедитесь, что все привилегированные участники включили двухфакторную аутентификацию (MFA)
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### Злоумышленник, которому удастся выдать себя за участника с привилегированным доступом, может нанести катастрофический ущерб.
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+Получив привилегированный доступ, такой злоумышленник может изменить ваш код, чтобы тот выполнял нежелательные действия (например, майнинг криптовалюты), распространить вредоносное ПО в инфраструктуре ваших пользователей или получить доступ к закрытым репозиториям, чтобы похитить интеллектуальную собственность и конфиденциальные данные, включая учётные данные для других сервисов.
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+MFA обеспечивает дополнительный уровень защиты от захвата учётной записи. После включения вы должны входить с логином и паролем, а также предоставлять дополнительную форму аутентификации, к которой у вас есть доступ (например, одноразовый код из приложения).
 
-## Secure your code as part of your development workflow
+## Обеспечьте безопасность кода в рамках процесса разработки
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### Уязвимости в коде дешевле исправлять на ранних этапах, чем после выхода в продакшн.
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+Используйте инструмент статического анализа безопасности (SAST), чтобы обнаруживать уязвимости в коде. Эти инструменты работают на уровне кода и не требуют исполняемой среды, поэтому их можно запускать на ранних этапах и легко интегрировать в обычный процесс разработки — на этапе сборки или при проверке кода.
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+Это как если бы опытный эксперт просматривал ваш репозиторий и помогал находить распространённые уязвимости, которые могут быть незаметны при обычной разработке.
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+Как выбрать SAST-инструмент?
+Проверьте лицензию: некоторые инструменты бесплатны для open-source проектов, например GitHub CodeQL или SemGrep.
+Проверьте поддержку ваших языков программирования.
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+* Выбирайте инструмент, который легко интегрируется с уже используемыми вами средствами и процессами. Например, лучше, если оповещения будут отображаться в рамках вашего текущего процесса проверки кода, а не в отдельном инструменте.
+* Остерегайтесь ложных срабатываний! Вы не хотите, чтобы инструмент замедлял вашу работу без причины!
+* Проверьте функциональность: некоторые инструменты очень мощные и поддерживают анализ потоков данных (например, GitHub CodeQL), другие предлагают исправления, сгенерированные ИИ, третьи упрощают написание пользовательских запросов (например, SemGrep).
 
-## Don't share your secrets
+## Не храните и не публикуйте свои секреты
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### Конфиденциальные данные, такие как API-ключи, токены и пароли, иногда случайно попадают в репозиторий.
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+Представьте ситуацию: вы — сопровождающий популярного open-source проекта, в который вносят вклад разработчики со всего мира. Однажды участник случайно коммитит в репозиторий API-ключи стороннего сервиса. Через несколько дней кто-то находит эти ключи и использует их для несанкционированного доступа. Сервис оказывается скомпрометирован, пользователи вашего проекта сталкиваются с простоем, а репутация проекта страдает. Как сопровождающий, вы теперь вынуждены отозвать скомпрометированные ключи, выяснить, какие действия злоумышленник мог совершить с этим доступом, уведомить пострадавших пользователей и внедрить исправления.
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+Чтобы предотвратить такие инциденты, существуют решения для сканирования секретов, которые помогают обнаруживать такие данные в вашем коде. Некоторые инструменты, например GitHub Secret Scanning и Trufflehog от Truffle Security, могут предотвратить отправку секретов в удалённые ветки, а некоторые автоматически отзывают обнаруженные ключи.
 
-## Check and update your dependencies
+## Проверяйте и обновляйте зависимости
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+### Уязвимости в зависимостях вашего проекта могут подорвать его безопасность. Ручное обновление зависимостей — трудоёмкая задача.
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+Представьте: проект построен на прочной основе широко используемой библиотеки. Позже в этой библиотеке обнаруживается серьёзная уязвимость, но разработчики приложения об этом не узнают. Конфиденциальные данные пользователей остаются открытыми, и злоумышленник, воспользовавшись этой уязвимостью, похищает их. Это не теория — именно так произошло с Equifax в 2017 году: они не обновили зависимость Apache Struts после уведомления о критической уязвимости. Она была эксплуатирована, и в результате утечки пострадали данные 144 миллионов пользователей.
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+Чтобы избежать подобного, инструменты анализа состава ПО (SCA), такие, как Dependabot и Renovate, автоматически проверяют зависимости на наличие известных уязвимостей из публичных баз данных (например, NVD или GitHub Advisory Database) и создают pull request'ы для обновления до безопасных версий. Поддержание зависимостей в актуальном состоянии защищает ваш проект от потенциальных рисков.
 
-## Avoid unwanted changes with protected branches
+## Защитите основные ветки от нежелательных изменений
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### Неограниченный доступ к основным веткам может привести к случайным или злонамеренным изменениям, которые вызовут уязвимости или нарушат стабильность проекта.
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+Новый участник получает права на запись в основную ветку и случайно пушит непроверенные изменения. В результате обнаруживается серьёзная уязвимость, вызванная этими изменениями. Чтобы избежать таких проблем, правила защиты веток гарантируют, что изменения не могут быть влиты в важные ветки без предварительной проверки и прохождения указанных проверок статуса. С этой дополнительной мерой вы будете в большей безопасности, обеспечивая высокое качество кода при каждом изменении.
 
-## Set up an intake mechanism for vulnerability reporting
+## Настройте механизм приёма отчётов об уязвимостях
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### Хорошей практикой является упрощение процесса сообщения об ошибках, но главный вопрос: как пользователи могут безопасно сообщить об уязвимости, не привлекая внимание злоумышленников?
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+Представьте: исследователь безопасности обнаруживает уязвимость в вашем проекте, но не находит понятного или безопасного способа сообщить о ней. Без чёткого процесса он может создать публичный issue или обсудить проблему в соцсетях. Даже если он действует добросовестно и предлагает исправление, при публичном pull request'е другие увидят уязвимость до её исправления! Такое раскрытие сделает уязвимость доступной для злоумышленников до того, как вы сможете её устранить, что может привести к эксплуатации «в ноль» и атаке на ваш проект и его пользователей.
 
-### Security Policy
+### Политика безопасности
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+Чтобы избежать этого, опубликуйте политику безопасности. Политика безопасности, описанная в файле `SECURITY.md`, детализирует шаги для сообщения о проблемах безопасности, создаёт прозрачный процесс координированного раскрытия и определяет обязанности команды проекта по устранению сообщённых проблем. Политика может быть простой: «Пожалуйста, не публикуйте детали в публичных issue или PR, отправьте нам письмо на security@example.com», но также может содержать дополнительные сведения, например, когда ожидать ответа. Любая информация, которая поможет сделать процесс раскрытия эффективным и быстрым, полезна.
 
-### Private Vulnerability Reporting
+### Приватное сообщение об уязвимостях
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+На некоторых платформах можно упростить и усилить процесс управления уязвимостями — от приёма до оповещения — с помощью приватных обращений. В GitLab это реализовано через приватные issue. В GitHub это называется приватным сообщением об уязвимостях (PVR). PVR позволяет сопровождающим получать и обрабатывать отчёты об уязвимостях прямо в GitHub. GitHub автоматически создаёт приватный форк для написания исправлений и черновик security advisory. Всё это остаётся конфиденциальным, пока вы не решите раскрыть проблему и выпустить исправления. В завершение, security advisory публикуются и информируют, а также защищают всех ваших пользователей через их SCA-инструменты.
 
-## Conclusion: A few steps for you, a huge improvement for your users
+## Заключение: несколько шагов для вас — огромное улучшение для ваших пользователей
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+Эти шаги могут показаться вам простыми или базовыми, но они значительно повышают безопасность вашего проекта для пользователей, обеспечивая защиту от наиболее распространённых проблем.
 
-## Contributors
+## Участники
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+### Большое спасибо всем сопровождающим, которые поделились с нами своим опытом и советами для этого руководства!
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+Это руководство было написано [@nanzggits](https://github.com/nanzggits) и [@xcorail](https://github.com/xcorail) при участии: 
 
 [@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + many others!
+[@intrigus-lgtm](https://github.com/intrigus-lgtm) + [многие другие](https://github.com/github/opensource.guide/graphs/contributors)!

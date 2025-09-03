@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Git repository
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v5.0.0
       - name: Set up Ruby
-        uses: ruby/setup-ruby@a4effe49ee8ee5b8b5091268c473a4628afb5651 # v1
+        uses: ruby/setup-ruby@44511735964dcb71245e7e55f72539531f7bc0eb # v1
         with:
           bundler-cache: true
       - name: Set up Node
