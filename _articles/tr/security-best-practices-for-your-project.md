@@ -1,84 +1,83 @@
 ---
 lang: tr
-untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+title: Projeniz İçin Güvenlik En İyi Uygulamaları
+description: MFA ve kod taramasından güvenli bağımlılık yönetimine ve özel güvenlik açığı raporlamasına kadar temel güvenlik uygulamalarıyla güven inşa ederek projenizin geleceğini güçlendirin.
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+Hatalar ve yeni özellikler bir yana, bir projenin uzun ömürlü olmasını belirleyen şey yalnızca faydalı olması değil, aynı zamanda kullanıcılarının güvenini kazanmasıdır. Güçlü güvenlik önlemleri, bu güveni sürdürmek için önemlidir. İşte projenizin güvenliğini önemli ölçüde artırmak için atabileceğiniz bazı önemli adımlar.
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## Ayrıcalıklı tüm katılımcıların Çok Faktörlü Kimlik Doğrulama (MFA) etkinleştirdiğinden emin olun
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### Projenizde ayrıcalıklı bir katkıcıyı taklit etmeyi başaran kötü niyetli bir aktör, felakete yol açabilir.
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+Ayrıcalıklı erişim elde ettikten sonra, bu aktör kodunuzu değiştirebilir ve kodunuzun istenmeyen işlemler yapmasını (ör. kripto para madenciliği vb.) sağlayabilir, kötü amaçlı yazılım dağıtabilir veya özel kod depolarınıza erişerek fikri mülkiyet ve hassas verileri, diğer hizmetlerin kimlik bilgileri dâhil olmak üzere, sızdırabilir.  
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+MFA, hesap ele geçirmelere karşı ek bir güvenlik katmanı sağlar. Etkinleştirildiğinde, giriş yapmak için kullanıcı adı ve şifreye ek olarak yalnızca sizin bildiğiniz veya erişebildiğiniz başka bir doğrulama yöntemi gerekir.
 
-## Secure your code as part of your development workflow
+## Kodunuzu geliştirme sürecinizin bir parçası olarak güvene alın
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### Kodunuzdaki güvenlik açıkları, dağıtımda fark edilmesine kıyasla, erken aşamalarda tespit edildiğinde çok daha ucuza çözülebilir.
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+Kodunuzdaki güvenlik açıklarını tespit etmek için Statik Uygulama Güvenliği Testi (SAST) aracı kullanın. Bu araçlar kod seviyesinde çalışır, yürütme ortamına ihtiyaç duymaz ve bu nedenle sürecin erken aşamalarında çalıştırılabilir; ayrıca build veya kod inceleme aşamalarına sorunsuzca entegre edilebilir.  
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+Bu, adeta kod deponuzu gözden geçiren, gizlenmiş güvenlik açıklarını sizin için bulan yetenekli bir uzmana sahip olmak gibidir.
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+SAST aracınızı nasıl seçersiniz?  
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+* Lisansı kontrol edin: Bazı araçlar açık kaynak projeleri için ücretsizdir (ör. GitHub CodeQL veya SemGrep).  
+* Kullandığınız dili/dilleri destekleyip desteklemediğini kontrol edin.  
+* Halihazırda kullandığınız araç ve süreçlere kolayca entegre olabilen birini seçin. Örneğin, uyarılar kod inceleme aracınızda görünsün, başka bir platforma gitmeniz gerekmesin.  
+* Yanlış pozitiflere dikkat edin! Araç sizi boş yere yavaşlatmamalı.  
+* Özelliklerini inceleyin: Bazıları çok güçlüdür ve veri akışı takibi yapabilir (ör. GitHub CodeQL), bazıları yapay zekâ ile çözüm önerileri sunar, bazıları özel sorgular yazmayı kolaylaştırır (ör. SemGrep).  
 
-## Don't share your secrets
+## Sırlarınızı paylaşmayın
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### API anahtarları, tokenlar ve parolalar gibi hassas veriler bazen yanlışlıkla repoya yüklenebilir.
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+Şöyle bir senaryo hayal edin: Dünyanın dört bir yanından katkıcıların bulunduğu popüler bir açık kaynak projesinin sahibisiniz. Bir gün, bir katkıcı farkında olmadan üçüncü taraf bir servise ait API anahtarlarını repoya yükler. Günler sonra birileri bu anahtarları bulur ve izinsiz şekilde servise erişir. Servis tehlikeye girer, kullanıcılar kesinti yaşar ve projenizin itibarı zedelenir.  
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+Bunu önlemek için "gizli tarama" (secret scanning) çözümleri vardır. GitHub Secret Scanning veya Truffle Security'nin Trufflehog aracı, bu tür bilgileri repoya göndermenizi engelleyebilir. Bazı araçlar, belirli sırları otomatik olarak iptal de edebilir.  
 
-## Check and update your dependencies
+## Bağımlılıkları kontrol edin ve güncelleyin
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+### Projenizdeki bağımlılıklar, projenizin güvenliğini tehlikeye atan açıklar içerebilir. Bunları manuel olarak güncel tutmak zaman alıcı olabilir.
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+Şöyle düşünün: Sık kullanılan bir kütüphane üzerine inşa edilen bir proje var. Daha sonra bu kütüphanede ciddi bir güvenlik açığı bulundu, fakat uygulamayı geliştirenler bundan haberdar değil. Hassas veriler saldırganların eline geçer. Bu yalnızca teorik bir senaryo değil. 2017'de Equifax, Apache Struts bağımlılığını güncellemedi ve 144 milyon kullanıcının verilerini etkileyen meşhur ihlal yaşandı.  
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+Bunu önlemek için Dependabot ve Renovate gibi Yazılım Bileşen Analizi (SCA) araçları, bağımlılıklarınızı NVD veya GitHub Advisory Database gibi açık veritabanlarıyla karşılaştırarak bilinen güvenlik açıklarını bulur ve güvenli sürümlere güncellemek için otomatik PR oluşturur.  
 
-## Avoid unwanted changes with protected branches
+## Korunan dallarla istenmeyen değişiklikleri engelleyin
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### Ana dallara sınırsız erişim, yanlışlıkla veya kötü niyetli yapılan değişikliklerin güvenlik açıklarına veya projenizin kararlılığını bozmasına yol açabilir.
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+Yeni bir katkıcı ana dala yazma izni alır ve test edilmemiş değişiklikleri doğrudan gönderir. Ardından ciddi bir güvenlik açığı ortaya çıkar. Bunu önlemek için dal koruma kuralları kullanın. Bu kurallar sayesinde önemli dallara gözden geçirilmeden veya belirli kontrolleri geçmeden hiçbir değişiklik birleştirilemez.  
 
-## Set up an intake mechanism for vulnerability reporting
+## Güvenlik açığı raporları için bir bildirim mekanizması oluşturun
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### Kullanıcıların hata raporlamasını kolaylaştırmak iyi bir uygulamadır, ancak bu hatanın güvenlik riski etkisi olduğunda bunu size nasıl güvenle iletebilirler?
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+Şöyle bir durum düşünün: Bir güvenlik araştırmacısı projenizde açık buldu ama bunu bildirecek güvenli bir yol yok. Belki GitHub'da herkese açık bir issue açar ya da sosyal medyada paylaşır. Hatta iyi niyetle bir PR bile gönderebilir ama bu açık, herkes tarafından görülmeden birleşmez. Bu da kötü niyetli kişilerin açığı istismar etmesine yol açabilir.  
 
-### Security Policy
+### Güvenlik Politikası
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+Bunu önlemek için bir güvenlik politikası yayınlayın. `SECURITY.md` dosyasında belirtilen bu politika, güvenlik sorunlarının nasıl raporlanacağını, kimlerin sorumlu olduğunu ve sürecin nasıl işleyeceğini netleştirir. Basitçe "Lütfen herkese açık issue veya PR açmayın, security@example.com adresine mail gönderin" bile yazabilirsiniz. Daha fazla detay da ekleyebilirsiniz (ör. size ne kadar sürede dönüş yapılacağını).  
 
-### Private Vulnerability Reporting
+### Özel Güvenlik Açığı Raporlama
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+Bazı platformlar süreci daha güvenli hale getirmek için özel raporlama sağlar. GitLab'da "private issues", GitHub'da ise "private vulnerability reporting (PVR)" vardır. PVR ile bakımcılar güvenlik açıklarını özel şekilde alıp çözebilir. GitHub otomatik olarak özel bir fork açar, güvenlik tavsiyesi taslağı oluşturur. Tüm süreç siz açıklayana kadar gizli kalır. Sonrasında güvenlik danışmanlığı yayınlanır ve kullanıcılarınız SCA araçları sayesinde korunur.  
 
-## Conclusion: A few steps for you, a huge improvement for your users
+## Sonuç: Küçük adımlar, büyük güvenlik
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+Bu birkaç adım size basit veya sıradan görünebilir, ancak kullanıcılarınız için projenizi çok daha güvenli hale getirir. Çünkü en yaygın sorunlara karşı koruma sağlar.  
 
-## Contributors
+## Katkıcılar
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+### Bu kılavuzu hazırlarken deneyim ve ipuçlarını paylaşan tüm bakımcılara teşekkürler!
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+Bu kılavuz [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) tarafından yazıldı, katkıda bulunanlar:  
 
-[@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + many others!
+[@JLLeitschuh](https://github.com/JLLeitschuh)  
+[@intrigus-lgtm](https://github.com/intrigus-lgtm) + daha birçok kişi!
