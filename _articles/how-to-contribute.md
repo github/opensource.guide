@@ -24,13 +24,13 @@ Contributing to open source can be a rewarding way to learn, teach, and build ex
 
 Why do people contribute to open source? Plenty of reasons!
 
-### Improve software you rely on
+### Improve the software you rely on
 
 Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
 
 ### Improve existing skills
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Whether it's coding, user interface design, graphic design, writing, or organising, if you're looking for practice, there's a task for you on an open source project.
 
 ### Meet people who are interested in similar things
 
@@ -40,7 +40,7 @@ Open source projects with warm, welcoming communities keep people coming back fo
 
 Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
 
-### Build public artifacts that help you grow a reputation (and a career)
+### Build public artefacts that help you grow a reputation (and a career)
 
 By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
 
@@ -175,7 +175,7 @@ A project also has documentation. These files are usually listed in the top leve
 * **LICENSE:** By definition, every open source project must have an [open source license](https://choosealicense.com). If the project does not have a license, it is not open source.
 * **README:** The README is the instruction manual that welcomes new community members to the project. It explains why the project is useful and how to get started.
 * **CONTRIBUTING:** Whereas READMEs help people _use_ the project, contributing docs help people _contribute_ to the project. It explains what types of contributions are needed and how the process works. While not every project has a CONTRIBUTING file, its presence signals that this is a welcoming project to contribute to. A good example of an effective Contributing Guide would be the one from [Codecademy's Docs repository](https://www.codecademy.com/resources/docs/contribution-guide).
-* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behavior associated and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
+* **CODE_OF_CONDUCT:** The code of conduct sets ground rules for participants' behaviour and helps to facilitate a friendly, welcoming environment. While not every project has a CODE_OF_CONDUCT file, its presence signals that this is a welcoming project to contribute to.
 * **Other documentation:** There might be additional documentation, such as tutorials, walkthroughs, or governance policies, especially on bigger projects like [Astro Docs](https://docs.astro.build/en/contribute/#contributing-to-docs).
 
 Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
@@ -189,7 +189,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said:, _"Ask not what your country can do for you - ask what you can do for your country."_
+If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
@@ -498,7 +498,7 @@ Before we start celebrating, one of the following will happen after you submit y
 
 ### 😭 You don't get a response
 
-Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
+Hopefully, you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
 If you haven't gotten a response in over a week, it's fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
 
@@ -524,4 +524,4 @@ Hooray! You've successfully made an open source contribution!
 
 ## You did it! 🎉
 
-Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+Whether you just made your first open source contribution or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
