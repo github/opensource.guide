@@ -2,3 +2,100 @@
 layout: index
 lang: en
 ---
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Profile Card Hover Effect</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background: #f3f4f6;
+      font-family: Arial, sans-serif;
+    }
+
+    .profile-card {
+      position: relative;
+      width: 280px;
+      height: 360px;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+      transition: transform 0.3s ease;
+      cursor: pointer;
+    }
+
+    .profile-card img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .overlay {
+      position: absolute;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.7);
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+      text-align: center;
+      opacity: 0;
+      transform: translateY(100%);
+      transition: all 0.4s ease;
+    }
+
+    .profile-card:hover {
+      transform: scale(1.05);
+    }
+
+    .profile-card:hover .overlay {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    .overlay h3 {
+      margin: 0 0 10px;
+      font-size: 1.4rem;
+    }
+
+    .overlay p {
+      font-size: 0.9rem;
+      margin-bottom: 15px;
+    }
+
+    .overlay a {
+      background: #4f46e5;
+      color: #fff;
+      padding: 8px 14px;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+
+    .overlay a:hover {
+      background: #3730a3;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="profile-card">
+    <img src="https://via.placeholder.com/280x360" alt="Profile">
+    <div class="overlay">
+      <h3>Jane Doe</h3>
+      <p>Frontend Developer | UI/UX Enthusiast</p>
+      <a href="#">View Profile</a>
+    </div>
+  </div>
+
+</body>
+</html>
