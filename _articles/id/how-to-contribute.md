@@ -62,19 +62,11 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://realm.io/news/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
 Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan cara yang baik untuk bisa berpartisipasi pada proyek dan bertemu dengan anggota komunitas lainnya. Membangun hubungan tersebut akan memberikan Anda kesempatan untuk bekerja pada bagian lain dari proyek.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Saya pertama kali menghubungi tim pengembang Python (python-dev) ketika saya mengirimkan pesan email kepada mailing list pada 17 Juni 2002 tentang perbaikan dari saya. Saya dengan cepat menemukan kesalahan, dan memutuskan untuk mulai memilih email dari grup. Mereka memberikan saya alasan yang baik untuk bertanya tentang klarifikasi sebuah topik, tetapi yang lebih penting lagi saya mampu mendeteksi apabila seseorang menunjukkan sesuatu yang perlu diperbaiki.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
 
 ### Apakah Anda suka merencanakan kegiatan?
 
@@ -215,7 +207,9 @@ Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk me
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
+* [First Contributions](https://firstcontributions.github.io)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://opensauced.pizza/)
 
 ### Daftar sebelum Anda berkontribusi
 
@@ -383,7 +377,7 @@ Apakah Anda merupakan kontributor atau mencoba untuk bergabung dengan sebuah kom
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Sebagai kontributor baru,\] saya menyadari bahwa saya perlu bertanya jika ingin menutup sebuah laporan masalah. Saya mengamati kode program. Setelah saya mengetahui situasinya, saya bertanya untuk pengarahan lebih lanjut. Dan akhirnya! Saya berhasil menutup sebuah laporan masalah setelah mendapatkan semua informasi relevan yang saya butuhkan.
   <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pcswr2e78)
+— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
 </aside>
 
@@ -439,7 +433,7 @@ Jika Anda tidak bisa menemukan ide Anda dimanapun, Anda siap untuk bergerak. Jik
 
 Sebelum Anda membuka sebuah laporan masalah atau melakukan pull request, periksa dokumen kontribusi proyek (biasanya pada dokumen bernama CONTRIBUTING, atau pada README), untuk melihat apakah Anda perlu mencantumkan informasi yang spesifik. Sebagai contoh, mereka mungkin meminta Anda untuk mengikuti sebuah template, atau mengharuskan Anda untuk menggunakan perangkat pengujian.
 
-Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada Github, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
+Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada GitHub, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">

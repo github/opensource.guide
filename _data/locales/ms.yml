@@ -1,0 +1,31 @@
+ms:
+  locale_name: Malay
+  nav:
+    about: Mengenai
+    contribute: Menyumbang
+  index:
+    lead: Perisian sumber terbuka dibuat oleh orang seperti anda. Ketahui cara melancarkan dan mengembangkan projek anda.
+    opensourcefriday: Hari Jumaat! Melabur beberapa jam dengan menyumbang kepada perisian yang anda gunakan dan sukai
+  article:
+    table_of_contents: Isi kandungan
+    back_to_all_guides: Kembali ke semua panduan
+    related_guides: Panduan Berkaitan
+  footer:
+    contribute:
+      heading: Menyumbang
+      description: Ingin membuat cadangan? Kandungan ini adalah sumber terbuka. Bantu kami memperbaikinya.
+      button: Menyumbang
+    subscribe:
+      heading: Terus berhubung
+      description: Jadilah orang pertama yang mendengar mengenai petua dan sumber sumber terbuka terkini GitHub.
+      label: Alamat emel
+      button: Langgan
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] dengan [love] oleh [github] dan [friends]"
+      # Label for code octicon
+      code_label: kod
+      # Label for love octicon
+      love_label: cinta
+      # Label for the contributors link
+      friends_label: rakan

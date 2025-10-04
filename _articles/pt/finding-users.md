@@ -97,7 +97,7 @@ Se você é [novato na fala em público](http://speaking.io/), comece encontrand
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Eu estava bem nervosa em ir à PyCon. Eu estava dando uma palestra, ia apenas conhecer umas pessoas lá, estava indo para uma semana inteira. (...) Eu não deveria ter me preocupado, no entanto. A Pycon foi fenomenalmente incrível! (...) Todo mundo era incrivelmente simpático e extrovertido, tanto que eu raramente encontrava tempo para não falar com as pessoas!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -142,14 +142,6 @@ Ajudar os recém-chegadors, compartilhar recursos, e fazer contribuições consc
 Nunca é cedo demais ou tarde demais para iniciar a construir sua reputação. Mesmo que você já tenha lançado seu próprio projeto, continue procurando por formas de ajudar os outros.
 
 Não há uma solução instantânea para a construção de uma audiência. Ganhar a confiança e o respeito dos outros leva tempo, e a construção de sua reputação nunca acaba.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ariya?s=180" class="pquote-avatar" alt="avatar">
-  PhantomJS foi lançado pela primeira vez no início de 2011. (...) Eu espalhei a palavra da maneira usual: Eu "twittava" sobre isso, escrevia posts de blog sobre o que você pode fazer com isso, o mencionei durante várias discussões em meetups. Quando ficou mais conhecido em 2014, comecei a fazer apresentações sobre o assunto.
-  <p markdown="1" class="pquote-credit">
-— @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
-  </p>
-</aside>
 
 ## Continue assim!
 

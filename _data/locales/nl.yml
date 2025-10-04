@@ -1,0 +1,31 @@
+nl:
+  locale_name: Nederlands
+  nav:
+    about: Over
+    contribute: Bijdragen
+  index:
+    lead: Open source software wordt gemaakt door mensen zoals jij. Leer hoe u uw project start en laat groeien.
+    opensourcefriday: Het is vrijdag! Investeer een paar uur om bij te dragen aan de software die u gebruikt en waar u van houdt
+  article:
+    table_of_contents: Inhoudsopgave
+    back_to_all_guides: Terug naar het overzicht
+    related_guides: Gerelateerde gidsen
+  footer:
+    contribute:
+      heading: Bijdragen
+      description: Wilt u een suggestie doen? Deze inhoud is open source. Help ons het te verbeteren.
+      button: Bijdragen
+    subscribe:
+      heading: Blijf op de hoogte
+      description: Wees de eerste die hoort over de nieuwste open source-tips en middellen van GitHub.
+      label: Email adres
+      button: Abonneren
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] met [love] van [github] en [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: liefde
+      # Label for the contributors link
+      friends_label: vrienden

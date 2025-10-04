@@ -1,7 +1,7 @@
 ---
 lang: fr
-title: Leadership et Gouvernance
-description: Les projets open source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
+title: Leadership et gouvernance
+description: Les projets Open Source en croissance peuvent bénéficier de règles formelles pour prendre des décisions.
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -63,11 +63,11 @@ Si votre projet a une communauté de contributeurs très active, vous pouvez for
 <aside markdown="1" class="pquote">
   \[Nous\] complétons l'équipe de base avec plusieurs "sous-équipes". Chaque sous-équipe est concentrée sur une zone spécifique, par exemple, la conception de langage ou les bibliothèques. (...) Pour assurer une coordination globale et une vision forte et cohérente pour le projet dans son ensemble, chaque sous-équipe est dirigée par un membre de l'équipe de base.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md)
+— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Les équipes de direction peuvent vouloir créer une chaîne désignée (comme sur IRC) ou se rencontrer régulièrement pour discuter du projet (comme sur Gitter ou Google Hangout). Vous pouvez même rendre ces réunions publiques afin que les autres puissent les écouter. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), par exemple, [héberge des heures de bureau chaque semaine](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs).
+Les équipes de direction peuvent vouloir créer une chaîne désignée (comme sur IRC) ou se rencontrer régulièrement pour discuter du projet (comme sur Gitter ou Google Hangout). Vous pouvez même rendre ces réunions publiques afin que les autres puissent les écouter. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), par exemple, [héberge des heures de bureau chaque semaine](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Une fois que vous avez établi des rôles de leadership, n'oubliez pas de documenter comment les gens peuvent les atteindre ! Établissez un processus clair pour que quelqu'un puisse devenir responsable ou rejoindre un sous-comité dans votre projet, et l'écrire dans votre GOVERNANCE.md.
 
@@ -143,7 +143,7 @@ Par exemple, si vous souhaitez créer une entreprise commerciale, vous devez cr�
 
 Si vous souhaitez accepter des dons pour votre projet open source, vous pouvez configurer un bouton de don (PayPal ou Stripe, par exemple), mais l'argent ne sera pas déductible d'impôt, sauf si vous êtes un organisme à but non lucratif (501c3, si vous êtes aux États-Unis).
 
-Beaucoup de projets ne souhaitent pas se lancer dans la création d'un but non lucratif, ils trouvent donc un sponsor fiscal à but non lucratif. Un sponsor fiscal accepte les dons en votre nom, généralement en échange d'un pourcentage du don. [Software Freedom Conservancy](https://sfconservancy.org/), [Fondation Apache](https://www.apache.org/), [Fondation Eclipse](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) et [Open Collective](https://opencollective.com/opensource) sont des exemples d'organisations qui servent de sponsors fiscaux pour des projets open source.
+Beaucoup de projets ne souhaitent pas se lancer dans la création d'un but non lucratif, ils trouvent donc un sponsor fiscal à but non lucratif. Un sponsor fiscal accepte les dons en votre nom, généralement en échange d'un pourcentage du don. [Software Freedom Conservancy](https://sfconservancy.org/), [Fondation Apache](https://www.apache.org/), [Fondation Eclipse](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) et [Open Collective](https://opencollective.com/opensource) sont des exemples d'organisations qui servent de sponsors fiscaux pour des projets open source.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

@@ -70,7 +70,9 @@ var prose = unified()
   .use(syntaxMentions)
   .use(emoji)
   .use(sentenceSpacing, {preferred: 1})
-  .use(quotes, {preferred: 'straight'})
+  // Hack for Romanian translation:
+  // https://github.com/github/opensource.guide/pull/1004
+  .use(quotes, {preferred: 'straight', straight: '”'})
   .use(words, {
     "patterns": {
       "this section": { omit: true },
@@ -96,7 +98,7 @@ var markdown = unified()
   .use(stringify)
   .use(frontmatter, 'yaml')
 
-  // https://github.com/wooorm/remark-lint/blob/master/doc/rules.md
+  // https://github.com/wooorm/remark-lint/blob/HEAD/doc/rules.md
   .use(lint)
 
   // Headings

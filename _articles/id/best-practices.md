@@ -181,7 +181,7 @@ Jika Anda perlu sedikit menjauh dari proyek Anda, baik sementara atau selamanya,
 
 Jika orang lain sangat antusias dengan arah proyek Anda, berikan akses atau serahkan kendali pada orang lain. Jika seseorang melakukan _fork_ terhadap proyek Anda dan mengelolanya secara aktif di tempat lain, pertimbangkan untuk menghubungkan ke proyek tersebut melalui proyek Anda. Sangatlah hebat melihat banyak orang menginginkan proyek Anda terus hidup.!
 
-@progrium [menemukan bahwa](https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) dengan mendokumentasikan visi proyeknya, [Dokku](https://github.com/dokku/dokku), membantu tujuannya tetap bertahan meskipun dia sudah meninggalkan proyeknya:
+@progrium [menemukan bahwa](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) dengan mendokumentasikan visi proyeknya, [Dokku](https://github.com/dokku/dokku), membantu tujuannya tetap bertahan meskipun dia sudah meninggalkan proyeknya:
 
 > Saya menuliskan sebuah halaman wiki menjelaskan tentang apa yang saya inginkan dan kenapa. Mengejutkan bagi saya karena pengelola mulai menjalankan proyek sesuai dengan arahan tersebut! Apakah ia melakukannya sesuai dengan apa yang saya kehendaki? Tidak selalu, tetapi ia membawa proyek ini semakin dekat dengan apa yang saya tuliskan.
 
@@ -259,7 +259,7 @@ Sama halnya seperti pekerjaan lainnya, mengambil liburan secara berkala akan mem
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Dalam mengelola WP-CLI, Saya menemukan bahwa saya perlu membuat diri saya bahagia terlebih dahulu, dan menentukan batas keterlibatan saya dengan jelas. Keseimbangan terbaik yang saya temukan adalah 2-5 jam per minggu sebagai bagian dari jadwal pekerjaan normal saya. Hal ini menjaga keterlibatan saya sebagai sebuah gairah. Karena saya memprioritaskan masalah-masalah yang saya kerjakan, saya bisa membuat kemajuan berkala tentang apa yang saya anggap penting.
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
