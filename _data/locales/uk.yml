@@ -1,0 +1,31 @@
+en:
+  locale_name: Українська
+  nav:
+    about: Про проект
+    contribute: Зробити внесок
+  index:
+    lead: Програмне забзпечння з відкритим початковим кодом(Open-Source), зроблене такими ж людьми, як ви. Дізнайся як  створити і розвинути ваш проект.
+    opensourcefriday: Це п'ятниця! Invest a few hours contributing to the software you use and love
+  article:
+    table_of_contents: Зміст
+    back_to_all_guides: До головної
+    related_guides: Пов'язані теми
+  footer:
+    contribute:
+      heading: Зробити внесок
+      description: Хочете зробити пропозицію? Цей сайт з відкритим початковим кодом. Допоможи покращити його.
+      button: Зробити внесок
+    subscribe:
+      heading: Залишайтеся на зв'язку
+      description: Першим дізнавайся новітні Open-Source поради та ресурси GitHub.
+      label: Електронна пошта
+      button: Підписатися
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[кодуй] з [любов'ю] разом з [github]та його[друзями]"
+      # Label for code octicon
+      code_label: кодуй
+      # Label for love octicon
+      love_label: любов'ю
+      # Label for the contributors link
+      friends_label: друзями
