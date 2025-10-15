@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: ar
 untranslated: true
 title: Security Best Practices for your Project
 description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.

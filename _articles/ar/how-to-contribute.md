@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: ar
 title: How to Contribute to Open Source
 description: Want to contribute to open source? A guide to making open source contributions, for first-timers and veterans.
 class: contribute
