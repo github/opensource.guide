@@ -1,0 +1,106 @@
+/* Compiled fallback CSS for opensource.guide
+   Purpose: provide a minimal, self-contained stylesheet so the site renders
+   correctly without requiring local SASS compilation. This mirrors a small
+   subset of Primer/marketing styles used by the templates. */
+
+:root{
+  --container-max:1200px;
+  --brand-color:#0366d6;
+  --muted:#6a737d;
+  --bg:#f6f8fa;
+  --card-bg:#ffffff;
+}
+
+html,body{
+  height:100%;
+  margin:0;
+  padding:0;
+  font-family: 'Roboto', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+  color:#24292e;
+  background:var(--bg);
+}
+
+/* Containers */
+.container-lg{ max-width:var(--container-max); margin:0 auto; padding-left:16px; padding-right:16px; }
+.p-responsive{ padding-left:16px; padding-right:16px; }
+
+.bg-gray-light{ background: linear-gradient(180deg,#fbfdff,#f6f8fa); }
+
+/* Headings and typography */
+.h00-mktg{ font-size:48px; line-height:1.05; margin:0 0 12px; font-weight:700; }
+.h3-mktg{ font-size:20px; margin:0; }
+.lead-mktg{ font-size:18px; margin:0 0 16px; color:var(--muted); }
+.text-gray{ color:var(--muted); }
+.text-black{ color:#111; }
+
+/* Layout utilities (small subset) */
+.d-flex{ display:flex; }
+.flex-wrap{ flex-wrap:wrap; }
+.flex-items-stretch{ align-items:stretch; }
+.flex-self-end{ align-self:flex-end; }
+.pb-6{ padding-bottom:48px; }
+.pt-6{ padding-top:48px; }
+.py-4{ padding-top:16px; padding-bottom:16px; }
+.py-md-6{ padding-top:32px; padding-bottom:32px; }
+.mt-4{ margin-top:16px; }
+.mt-lg-5{ margin-top:28px; }
+
+/* Simple grid columns */
+.gutter-sm{ margin-left:-12px; margin-right:-12px; }
+.gutter-sm > *{ padding-left:12px; padding-right:12px; box-sizing:border-box; }
+.col-12{ width:100%; }
+.col-md-6{ width:100%; }
+@media(min-width:768px){ .col-md-6{ width:50%; } }
+
+/* Cards / guide covers */
+.guide-cover{ display:flex; flex-direction:column; justify-content:space-between; background:var(--card-bg); border-radius:8px; box-shadow:0 1px 3px rgba(27,31,35,0.08); text-decoration:none; overflow:hidden; }
+.guide-cover.Box{ padding:0; }
+.guide-cover-img{ padding-top:24px; }
+.guide-cover-img img{ max-width:160px; height:auto; display:block; margin:0 auto; }
+.guide-cover .p-4{ padding:16px; }
+.height-full{ height:100%; }
+
+/* Footer, nav minimal styles */
+.main-nav{ background:#fff; border-bottom:1px solid #e1e4e8; }
+.main-nav .container-lg{ display:flex; justify-content:space-between; align-items:center; }
+.main-links{ list-style:none; margin:0; padding:0; display:flex; }
+.main-links a{ color:var(--muted); text-decoration:none; padding:12px 18px; display:block; }
+
+/* Misc */
+.lead-mktg .mb-md-5{ margin-bottom:32px; }
+
+/* Small utilities used by templates */
+.text-center{ text-align:center; }
+.mx-auto{ margin-left:auto; margin-right:auto; }
+.mb-0{ margin-bottom:0; }
+.mb-2{ margin-bottom:8px; }
+.lh-none{ line-height:1; }
+.lh-condensed{ line-height:1.2; }
+.text-bold{ font-weight:700; }
+
+/* Accessibility focus for keyboard users */
+a:focus{ outline:3px solid rgba(3,102,214,0.25); outline-offset:2px; }
+
+/* Small responsive tweaks */
+@media (min-width:992px){
+  .h00-mktg{ font-size:64px; }
+}
+
+/* Make images inside articles scale */
+article img, .article-body img{ max-width:100%; height:auto; }
+
+/* Search result helper (used by includes/search-result.html) */
+.search-result{ padding:12px; border-bottom:1px solid #eee; }
+
+/* Skip link (accessible)
+  Visible when focused so keyboard users can jump to main content */
+.skip-to-content{ position:absolute; left:-9999px; top:auto; width:1px; height:1px; overflow:hidden; }
+.skip-to-content:focus{ left:8px; top:8px; width:auto; height:auto; padding:8px 12px; background:#fff; border:1px solid #e1e4e8; z-index:9999; }
+
+/* Footer tweaks */
+footer[role="contentinfo"]{ background:var(--card-bg); }
+footer .little-illo{ max-width:80px; height:auto; }
+footer .p-large{ font-size:16px; color:var(--muted); }
+
+
+/* End of compiled fallback CSS */
