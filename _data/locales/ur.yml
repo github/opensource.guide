@@ -1,0 +1,31 @@
+ur:
+  locale_name: اردو
+  nav:
+    about: متعلق
+    contribute: حصہ ڈالیں
+  index:
+    lead: اوپن سورس سافٹ ویئر آپ جیسے لوگوں کی بدولت بنتا ہے۔ سیکھیں کہ اپنا پروجیکٹ کیسے شروع کریں اور اسے بڑھائیں۔
+    opensourcefriday: آج جمعہ ہے! چند گھنٹے اُن سافٹ ویئرز میں حصہ ڈالیں جنہیں آپ استعمال کرتے ہیں اور پسند کرتے ہیں۔
+  article:
+    table_of_contents: فہرستِ مضامین
+    back_to_all_guides: تمام رہنماؤں پر واپس جائیں
+    related_guides: متعلقہ رہنما
+  footer:
+    contribute:
+      heading: حصہ ڈالیں
+      description: کوئی تجویز دینا چاہتے ہیں؟ یہ مواد اوپن سورس ہے۔ ہمیں بہتر بنانے میں مدد کریں۔
+      button: حصہ ڈالیں
+    subscribe:
+      heading: رابطے میں رہیں
+      description: سب سے پہلے جانیں GitHub کے تازہ اوپن سورس مشورے اور وسائل کے بارے میں۔
+      label: ای میل پتہ
+      button: سبسکرائب کریں
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] کے ساتھ [love] از [github] اور [friends]"
+      # Label for code octicon
+      code_label: کوڈ
+      # Label for love octicon
+      love_label: محبت
+      # Label for the contributors link
+      friends_label: دوست
