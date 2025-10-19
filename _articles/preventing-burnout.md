@@ -66,8 +66,8 @@ Maintenance is a marathon, not a sprint:
 ## Resources for Maintainers
 
 - [The Maintainers](https://www.themaintainers.org/) - Conversations about the roles and experiences of open source maintainers
-- [Working Open Source](https://opensource.guide/working-open-source/) - Balancing open source work with your personal life
-- [Building Community](https://opensource.guide/building-community/) - Creating a welcoming environment for contributors
+- [Working Open Source](/working-open-source/) - Balancing open source work with your personal life
+- [Building Community](/building-community/) - Creating a welcoming environment for contributors
 - [Maintainer Communities](https://github.com/open-source/maintainers) - Community resources for open source maintainers
 
 ## Conclusion
