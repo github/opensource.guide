@@ -11,6 +11,7 @@ Maintaining an open source project can be deeply rewarding, but it can also be e
 ## Understanding Maintainer Burnout
 
 Burnout in open source maintenance typically manifests as:
+
 - Emotional exhaustion from constant demands and support requests
 - Cynicism or detachment from the project you once loved
 - Reduced effectiveness or productivity despite increased effort
@@ -22,6 +23,7 @@ Many maintainers delay addressing these symptoms until they reach a crisis point
 ## Recognizing Early Warning Signs
 
 Watch for these indicators before burnout becomes severe:
+
 - Dreading opening your email or GitHub notifications
 - Spending nights or weekends on maintenance when you didn't plan to
 - Feeling irritable during interactions with contributors
@@ -31,7 +33,7 @@ Watch for these indicators before burnout becomes severe:
 
 ## Setting Sustainable Boundaries
 
-Clear boundaries are essential for long-term maintenance:
+Clear boundaries are essential for long-term maintenance.
 
 **Define your working hours**: Establish specific times when you respond to issues and PRs. Communicate these clearly in your README or CONTRIBUTING.md.
 
@@ -45,7 +47,7 @@ Clear boundaries are essential for long-term maintenance:
 
 ## Delegating and Building a Team
 
-You don't have to do everything alone:
+You don't have to do everything alone.
 
 - **Identify potential maintainers**: Look for consistent, high-quality contributors who understand your project's vision
 - **Document your processes**: Write detailed guides on how you make decisions, merge criteria, and project direction
@@ -55,11 +57,11 @@ You don't have to do everything alone:
 
 ## Taking Care of Your Mental Health
 
-Maintenance is a marathon, not a sprint:
+Maintenance is a marathon, not a sprint.
 
 - **Practice saying no**: You can't accept every feature request. Declining requests is not rude; it's necessary.
 - **Celebrate wins**: Acknowledge releases, milestones, and community achievements
-- **Connect with other maintainers**: Shared experiences help. Join maintainer communities like the Maintainers Slack or open source forums
+- **Connect with other maintainers**: Shared experiences help. Join maintainer communities
 - **Seek professional support if needed**: If stress becomes overwhelming, talking to a therapist or counselor is valid and helpful
 - **Remember your "why"**: Periodically reflect on what made you start this project and what you want it to be
 
@@ -73,3 +75,5 @@ Maintenance is a marathon, not a sprint:
 ## Conclusion
 
 Sustainable open source maintenance requires intentional boundary-setting, delegation, and self-care. By recognizing early warning signs and implementing preventative strategies, you can maintain your project and your wellbeing for years to come.
+
+Remember: A burnt-out maintainer helps no one. Taking care of yourself is taking care of your project.
