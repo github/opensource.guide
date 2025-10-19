@@ -103,4 +103,4 @@ This PR adds a new comprehensive guide on preventing burnout for open source mai
 - Mental health resources and support
 
 ## Why this matters
-While the guides cover "Finding Time," there's currently no dedicated resource addressing maintainer burnout—a critical issue affecting many contributors. This fills that gap.
+While the guides cover "Finding Time," there's currently no dedicated resource addressing maintainer burnout—a critical issue affecting many contributors. This fills that gap
