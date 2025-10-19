@@ -65,42 +65,11 @@ Maintenance is a marathon, not a sprint:
 
 ## Resources for Maintainers
 
-- [The Maintainers by Node.js Foundation](https://www.sas.upenn.edu/~jesusfv/) - Stories and insights from open source maintainers
-- [Maintainers Anonymous](https://maintainers.github.io/) - Community for open source maintainers
-- [Burnout Recovery Guide](https://opensource.com/article/19/11/burnout-open-source-maintainers) - Opensource.com's guide for recovering from burnout
-- [Finding Time to Maintain](https://opensource.guide/finding-time/) - GitHub's guide on time management for maintainers
+- [The Maintainers](https://www.themaintainers.org/) - Conversations about the roles and experiences of open source maintainers
+- [Open Source Guides - Finding Time](https://opensource.guide/finding-time/) - GitHub's guide on time management for maintainers
+- [Burnout and Open Source](https://opensource.com/article/21/3/open-source-burnout) - Managing burnout as an open source maintainer
+- [Node.js TSC Burnout Discussion](https://github.com/nodejs/TSC/issues) - Real discussions from experienced maintainers
 
 ## Conclusion
 
 Sustainable open source maintenance requires intentional boundary-setting, delegation, and self-care. By recognizing early warning signs and implementing preventative strategies, you can maintain your project and your wellbeing for years to come.
-
-Remember: A burnt-out maintainer helps no one. Taking care of yourself is taking care of your project.
-```
-
-**Step 5: Commit this file**
-- Scroll down to the bottom
-- In the "Commit new file" section, write this message:
-```
-  Add: Preventing Burnout for Open Source Maintainers guide
-```
-- Select "Create a new branch for this commit" 
-- Name it: `add-burnout-guide`
-- Click "Propose new file"
-
-**Step 6: Create a Pull Request**
-- GitHub will automatically show you a "Compare & pull request" button
-- Click it
-- Fill in the PR title: `Add: Preventing Burnout for Open Source Maintainers Guide`
-- In the description, write:
-```
-## Summary
-This PR adds a new comprehensive guide on preventing burnout for open source maintainers.
-
-## What's included
-- Recognition of burnout symptoms
-- Strategies for setting sustainable boundaries
-- Delegation and team-building approaches
-- Mental health resources and support
-
-## Why this matters
-While the guides cover "Finding Time," there's currently no dedicated resource addressing maintainer burnout—a critical issue affecting many contributors. This fills that gap
