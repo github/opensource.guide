@@ -66,9 +66,9 @@ Maintenance is a marathon, not a sprint:
 ## Resources for Maintainers
 
 - [The Maintainers](https://www.themaintainers.org/) - Conversations about the roles and experiences of open source maintainers
-- [Open Source Guides - Finding Time](https://opensource.guide/finding-time/) - GitHub's guide on time management for maintainers
-- [Burnout and Open Source](https://opensource.com/article/21/3/open-source-burnout) - Managing burnout as an open source maintainer
-- [Node.js TSC Burnout Discussion](https://github.com/nodejs/TSC/issues) - Real discussions from experienced maintainers
+- [Working Open Source](https://opensource.guide/working-open-source/) - Balancing open source work with your personal life
+- [Building Community](https://opensource.guide/building-community/) - Creating a welcoming environment for contributors
+- [Maintainer Communities](https://github.com/open-source/maintainers) - Community resources for open source maintainers
 
 ## Conclusion
 
