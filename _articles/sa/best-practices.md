@@ -163,7 +163,7 @@ related:
 
 अन्यैः सहाय्यं अपेक्ष्यते चेत्, प्रथमं पृच्छतु।
 
-नूतन योगदानकर्तृ प्रोत्साहनाय, [सरल समस्याः चिन्हितः](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels) कुर्वीत। GitHub प्लेटफॉर्मे दृश्यतां वर्धयति।
+नूतन योगदानकर्तृ प्रोत्साहनाय, [सरल समस्याः चिह्नितान्](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels) कुर्वीत। GitHub प्लेटफॉर्मे दृश्यतां वर्धयति।
 
 नूतन योगदानकर्तृ निरन्तर योगदानं कुर्वन्, तेषां कार्यं मानयतु। अन्यैः नेतृत्व भूमिकां प्राप्तुं मार्गदर्शनं लिखतु।  
 
