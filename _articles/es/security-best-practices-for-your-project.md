@@ -40,7 +40,7 @@ Verifica la cobertura para tu(s) lenguaje(s)
 
 Imagina este escenario: eres el mantenedor de un proyecto de código abierto popular, con contribuciones de desarrolladores de todo el mundo. Un día, un colaborador, sin darse cuenta, comete en el repositorio algunas claves de API de un servicio de terceros. Días después, alguien encuentra estas claves y las utiliza para acceder al servicio sin permiso. El servicio se ve comprometido, los usuarios de tu proyecto experimentan interrupciones y la reputación de tu proyecto se ve afectada. Como mantenedor, ahora te enfrentas a las abrumadoras tareas de revocar los secretos comprometidos, investigar qué acciones maliciosas podría haber realizado el atacante con estos secretos, notificar a los usuarios afectados e implementar soluciones.
 
-Para prevenir este tipo de incidentes, existen soluciones de “escaneo de secretos” que te ayudan a detectar esos secretos en tu código. Algunas herramientas, como GitHub Secret Scanning y Trufflehog de Truffle Security, pueden impedir que los subas a ramas remotas desde el principio, y otras herramientas pueden revocar automáticamente algunos secretos por ti.
+Para prevenir este tipo de incidentes, existen soluciones de "escaneo de secretos" que te ayudan a detectar esos secretos en tu código. Algunas herramientas, como GitHub Secret Scanning y Trufflehog de Truffle Security, pueden impedir que los subas a ramas remotas desde el principio, y otras herramientas pueden revocar automáticamente algunos secretos por ti.
 
 ## Revisa y actualiza tus dependencias.
 
@@ -64,8 +64,7 @@ Imagina esto: un investigador de seguridad descubre una vulnerabilidad en tu pro
 
 ### Política de Seguridad
 
-Para evitar esto, publica una política de seguridad. Una política de seguridad, definida en un archivo SECURITY.md, detalla los pasos para reportar problemas de seguridad, creando un proceso transparente de divulgación coordinada y estableciendo las responsabilidades del equipo del proyecto para atender los problemas reportados. Esta política de seguridad puede ser tan simple como: “Por favor, no publiques detalles en un issue o PR público; envíanos un correo privado a security@example.com
-”, pero también puede incluir otros detalles, como el tiempo estimado de respuesta. Cualquier información que ayude a mejorar la efectividad y eficiencia del proceso de divulgación es recomendable.
+Para evitar esto, publica una política de seguridad. Una política de seguridad, definida en un archivo SECURITY.md, detalla los pasos para reportar problemas de seguridad, creando un proceso transparente de divulgación coordinada y estableciendo las responsabilidades del equipo del proyecto para atender los problemas reportados. Esta política de seguridad puede ser tan simple como: "Por favor, no publiques detalles en un issue o PR público; envíanos un correo privado a security@example.com", pero también puede incluir otros detalles, como el tiempo estimado de respuesta. Cualquier información que ayude a mejorar la efectividad y eficiencia del proceso de divulgación es recomendable.
 
 ### Reporte privado de vulnerabilidades.
 
