@@ -29,6 +29,7 @@ $section_translation: (
         "zh-hans": "章节",
         "pcm": "Portion",
         "sw": "Sehemu ya",
+        "ar" : "قسم"
 );
 
 @each $locale, $translation in $section_translation {

@@ -58,6 +58,7 @@ GEM
     ffi (1.17.1-arm-linux-gnu)
     ffi (1.17.1-arm-linux-musl)
     ffi (1.17.1-arm64-darwin)
+    ffi (1.17.1-x64-mingw-ucrt)
     ffi (1.17.1-x86-linux-gnu)
     ffi (1.17.1-x86-linux-musl)
     ffi (1.17.1-x86_64-darwin)
@@ -281,6 +282,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.18.10-arm64-darwin)
       racc (~> 1.4)
+    nokogiri (1.18.10-x64-mingw-ucrt)
+      racc (~> 1.4)
     nokogiri (1.18.10-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.18.10-x86_64-linux-gnu)
@@ -305,7 +308,7 @@ GEM
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
-    rexml (3.3.9)
+    rexml (3.4.2)
     rouge (3.30.0)
     ruby-rc4 (0.1.5)
     rubyzip (2.3.2)
@@ -342,6 +345,7 @@ PLATFORMS
   arm-linux-gnu
   arm-linux-musl
   arm64-darwin
+  x64-mingw-ucrt
   x86-linux
   x86-linux-gnu
   x86-linux-musl
