@@ -1,7 +1,7 @@
 ---
 lang: ar
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and veterans.
+title: كيف تساهم في مشروع مفتوح المصدر ؟
+description: هل تريد أن تساهم في مشاريع مفتوحة المصدر؟ دليل للمبتدئين والمحترفين حول كيفية المشاركة فيها
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -10,135 +10,134 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+
+## لماذا تساهم في مشروع مفتوح المصدر؟
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
-  <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+العمل على <span dir="rtl">Freenode</span> ساعدني على اكتساب الكثير من المهارات التي استخدمتها لاحقًا في دراستي الجامعية وفي عملي الفعلي. أعتقد أن العمل على مشاريع مفتوحة المصدر يساعدني بقدر ما يساعد المشروع! 
+<p markdown="1" class="pquote-credit">
+— [@errietta](https://github.com/errietta), ["Why cd opensourceI love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+المساهمة في مشاريع مفتوحة المصدر يمكن أن تكون تجربة مُجزية للتعلّم، والتعليم، واكتساب الخبرة في أيّ مهارة تقريبًا.
 
-Why do people contribute to open source? Plenty of reasons!
+لماذا يساهم الناس في مشاريع مفتوحة المصدر؟ هناك الكثير من الأسباب.
 
-### Improve software you rely on
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+### تحسين البرمجيات التي تعتمد عليها
 
-### Improve existing skills
+يبدأ العديد من المساهمين كمستخدمين للبرامج التي يشاركون فيها. عندما تكتشف خطأً في برنامج مفتوح المصدر تستخدمه، قد ترغب في الاطّلاع على المصدر لترى إذا كان بإمكانك إصلاحه بنفسك. إذا كان هذا هو الحال، فإن تقديم التصحيح للمشروع هو أفضل وسيلة لضمان استفادة أصدقائك (وأنت نفسك عند التحديث إلى الإصدار التالي) من هذا الإصلاح.
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+### تطوير المهارات الحالية
 
-### Meet people who are interested in similar things
+سواء كان الأمر يتعلق بالبرمجة، أو تصميم واجهة المستخدم، أو التصميم الجرافيكي، أو الكتابة، أو التنظيم — إذا كنت تبحث عن فرصة للتدريب، فهناك مهمة بانتظارك في أحد المشاريع مفتوحة المصدر.
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+### التعرف على أشخاص مهتمين في أشياء متشابهة
+المشاريع مفتوحة المصدر التي تمتلك مجتمعات لطيفة ومرّحبة تجذب الناس للاستمرار لسنوات. كثير من الأشخاص كوّنوا صداقات قويّة من خلال مشاركتهم في هذه المشاريع، سواء بلقائهم في المؤتمرات أو عبر محادثاتهم الليلية على الإنترنت.
 
-### Find mentors and teach others
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+### إيجاد مرشدين وتعليم الآخرين
 
-### Build public artifacts that help you grow a reputation (and a career)
+العمل مع الآخرين على مشروع مشترك، يعني أنك ستحتاج إلى شرح طريقة عملك، كما ستحتاج إلى طلب المساعدة من الآخرين. فإن عمليتَي التعلّم والتعليم يمكن أن  تشكّلا نشاطًا مُرضيًا لجميع الأطراف. 
 
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
+### بناء أعمال عامة تساعدك على بناء سمعتك ومسارك المهني
 
-### Learn people skills
+كل مساهماتك في المشاريع مفتوحة المصدر تكون عامة ومتاحة للجميع، مما يمنحك أمثلة عملية مجانية يمكنك استخدامها في أي مكان كدليل ملموس على مهاراتك وقدراتك.
+### تعلُّم مهارات التعامل مع الآخرين
 
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
+تُقدّم المشاريع مفتوحة المصدر فرصاً ثمينة لممارسة مهارات القيادة والإدارة، مثل حل التعارضات، وتنظيم فرق العمل، وتحديد أولويات المهام
+.
+### الشعور بالقدرة على إجراء تغييرات، حتى لو صغيرة، يعطيك إحساس بالقوة
+لا حاجة لأن تصبح مساهمًا مدى الحياة حتى تستمتع بالمشاركة في عالم المشاريع مفتوحة المصدر. هل سبق أن رأيت خطأً مطبعيًّا على موقع إلكتروني، وتمنيت لو أن أحدًا ما سيصححه؟ في مشروع مفتوح المصدر يمكنك أنت القيام بذلك.
+تساعد المشاريع مفتوحة المصدر الناس على الشعور بأن لديهم قدرة على التأثير  في حياتهم وكيفية تجربتهم للعالم، وهذا بحد ذاته مُجزٍ.
 
-### It's empowering to be able to make changes, even small ones
+## ما معنى المساهمة
 
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
+إذا كنت مساهمًا جديدًا في المشاريع مفتوحة المصدر، فقد تكون العملية مخيفة بعض الشيء. كيف تجد المشروع المناسب؟ ماذا لو كنت لا تعرف البرمجة؟ ماذا لو حدث خطأ ما؟
 
-## What it means to contribute
+لا تقلق! هناك العديد من الطرق للمشاركة في مشروع مفتوح المصدر، وبعض النصائح البسيطة ستساعدك على تحقيق أقصى استفادة من تجربتك.
 
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
+### لا تحتاج إلى المساهمة بالبرمجة
 
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
-
-### You don't have to contribute code
-
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
+من المفاهيم الخاطئة الشائعة حول المساهمة في المشاريع مفتوحة المصدر هو أنك بحاجة إلى المساهمة بالكود. في الواقع، غالبًا ما تكون الأجزاء الأخرى من المشروع هي [الأكثر إهمالًا أو تجاهلًا](https://github.com/blog/2195-the-shape-of-open-source). ستقدّم خدمة كبيرة للمشروع إذا عرضت المساعدة في هذا النوع من المساهمات!
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
-  <p markdown="1" class="pquote-credit">
+أنا معروف بعملي على<span dir="rtl">CocoaPods</span> لكن في الواقع، معظم الناس لا يعلمون أنني لا أقوم بأيّ عمل حقيقيّ على أداة <span dir="rtl">CocoaPods</span> نفسها. معظم وقتي في المشروع يُقضى في أمور مثل توثيق المشروع والعمل على  <span dir="rtl">(branding)</span> بناء هُويّته.
+<p markdown="1" class="pquote-credit">
 — [@orta](https://github.com/orta), ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
+حتى لو كنت تحب كتابة الكود، فأنواع المساهمات الأخرى تُعد طريقة ممتازة للمشاركة في المشروع والتعرف على أعضاء المجتمع الآخرين. بناء هذه العلاقات سيفتح أمامك فرصًا للعمل على أجزاء أخرى من المشروع.
+### هل تحب تنظيم الأحداث <span dir="rtl">(events)</span>؟
 
-### Do you like planning events?
+* نظّم ورش عمل، أو لقاءات حول المشروع , [@fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
+* نظّم مؤتمر المشروع (إذا كان لديهم واحد)
+* ساعد أعضاء المجتمع في العثور على المؤتمرات المناسبة وتقديم مقترحات للحديث فيها   
 
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking
+### هل تحب التصميم؟
 
-### Do you like to design?
+* أعِد هيكلة التصاميم لتحسين قابلية استخدام المشروع
+* نفّذ أبحاث تجربة المستخدم <span dir="rtl">(user research)</span> لإعادة تصميم هيكل التنقّل<span dir="rtl">(navigation structure)</span> والقوائم، [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
+* أنشئ <span dir = "rtl">Style Guide</span> لمساعدة المشروع على الحفاظ على تصميم بصري متّسق
+* صمّم رسومات لل<span dir="rtl">t-shirts</span> أو شعارًا جديدًا للمشروع، [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
 
-* Restructure layouts to improve the project's usability
-* Conduct user research to reorganize and refine the project's navigation or menus, [like Drupal suggests](https://www.drupal.org/community-initiatives/drupal-core/usability)
-* Put together a style guide to help the project have a consistent visual design
-* Create art for t-shirts or a new logo, [like hapi.js's contributors did](https://github.com/hapijs/contrib/issues/68)
+### هل تحب الكتابة؟
 
-### Do you like to write?
-
-* Write and improve the project's documentation, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
-* Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
-* Write tutorials for the project, [like PyPA's contributors did](https://packaging.python.org/)
-* Write a translation for the project's documentation, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
+* اكتُب وطوّر توثيق المشروع, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
+* نظّم مجلدًا يحتوي على أمثلة توضح كيفية استخدام المشروع
+* أطلِق نشرة إخبارية للمشروع، أو نظّم أبرز المحتويات من قائمة البريد الإلكتروني, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
+* اكتب شروحات <span dir="rtl">(Tutorials)</span> للمشروع, [like PyPA's contributors did](https://packaging.python.org/)
+* اكتب ترجمة لتوثيق المشروع, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
-  <p markdown="1" class="pquote-credit">
+ بجديّة، [التوثيق] مهم جدًّا. حتى الآن، كان التوثيق ممتازًا وكان ميزة قوية في <span dir="rtl">Babel</span>. هناك أقسام بالتأكيد يمكن تحسينها، وحتى إضافة فقرة هنا أو هناك تُقدّر كثيرًا. 
+<p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
 </aside>
 
-### Do you like organizing?
+### هل تحب التنظيم؟
 
-* Link to duplicate issues, and suggest new issue labels, to keep things organized
-* Go through open issues and suggest closing old ones, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
-* Ask clarifying questions on recently opened issues to move the discussion forward
+* اربط المشاكل المكررة واقترح تسميات جديدة للمشاكل <span dir="rtl">(Issue Labels)</span>، للحفاظ على تنظيم المشروع 
+* راجع المشاكل المفتوحة <span dir="rtl">(Open Issues)</span>، واقترح إغلاق المشاكل القديمة, [like @nzakas did for ESLint](https://github.com/eslint/eslint/issues/6765)
+* اطرح أسئلة توضيحية على المشاكل التي فُتحت مؤخرًا لدفع النقاش قدمًا.
 
-### Do you like to code?
+### هل تحب البرمجة؟
 
-* Find an open issue to tackle, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
-* Ask if you can help write a new feature
-* Automate project setup
-* Improve tooling and testing
+* ابحث عن مشكلة مفتوحة لتعمل عليها, [like @dianjin did for Leaflet](https://github.com/Leaflet/Leaflet/issues/4528#issuecomment-216520560)
+* اسأل إذا كان بإمكانك المساعدة في كتابة ميزة جديدة
+* أتمتة إعداد المشروع<span dir="rtl">(Project Setup)</span>
+* تحسين الأدوات أو الاختبارات <span dir="rtl">(Tooling and Testing)</span>
 
-### Do you like helping people?
+### هل تحب مساعدة الآخرين؟
 
-* Answer questions about the project on e.g., Stack Overflow ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) or Reddit
-* Answer questions for people on open issues
-* Help moderate the discussion boards or conversation channels
+* أجب عن الأسئلة المتعلقة بالمشروع، على سبيل المثال: <span dir="rtl">Stack Overflow</span> ([like this Postgres example](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-trying-to-ge)) أو<span dir="rtl">Reddit</span>
+* أجب على أسئلة الأشخاص المتعلقة بالمشاكل المفتوحة
+* ساعد في إدارة ومراقبة قنوات التواصل والمجتمعات التقنية
 
-### Do you like helping others code?
+### هل تحب مساعدة الآخرين في البرمجة؟
 
-* Review code on other people's submissions
-* Write tutorials for how a project can be used
-* Offer to mentor another contributor, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
+* اجع الكود في مساهمات الآخرين
+* اكتب شروحات حول كيفية استخدام المشروع
+* اعرض الإشراف أو التوجيه على مساهم آخر, [like @ereichert did for @bronzdoc on Rust](https://github.com/rust-lang/book/issues/123#issuecomment-238049666)
 
-### You don't just have to work on software projects!
+### لست مضطرًا للعمل على مشاريع برمجية فقط!
 
-While "open source" often refers to software, you can collaborate on just about anything. There are books, recipes, lists, and classes that get developed as open source projects.
+رغم أن مصطلح <span dir ="rtl">(Open Source)</span> غالبًا ما يشير إلى البرمجيات، إلا أنه يمكنك المساهمة في أي شيء تقريبًا. هناك كتب، وصفات، قوائم، ودروس يتم تطويرها كمشاريع مفتوحة المصدر.
 
-For example:
-
+على سبيل المثال : 
 * @sindresorhus curates a [list of "awesome" lists](https://github.com/sindresorhus/awesome)
 * @h5bp maintains a [list of potential interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) for front-end developer candidates
 * @stuartlynn and @nicole-a-tesla made a [collection of fun facts about puffins](https://github.com/stuartlynn/puffin_facts)
 
-Even if you're a software developer, working on a documentation project can help you get started in open source. It's often less intimidating to work on projects that don't involve code, and the process of collaboration will build your confidence and experience.
+حتى لو كنت مطور برمجيات، العمل على مشروع توثيق يمكن أن يساعدك على البدء في عالم المشاريع مفتوحة المصدر. غالبًا ما يكون العمل على المشاريع التي لا تتضمن كود أقل رعبًا، وعملية التعاون ستزيد من ثقتك وخبرتك.
 
-## Orienting yourself to a new project
+## التعرف على مشروع جديد
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
@@ -152,7 +151,7 @@ For anything more than a typo fix, contributing to open source is like walking u
 
 Before jumping in blindly with your own suggestions, start by learning how to read the room. Doing so increases the chances that your ideas will be noticed and heard.
 
-### Anatomy of an open source project
+### مكونات المشروع مفتوح المصدر
 
 Every open source community is different.
 
@@ -185,7 +184,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations. A good example of this would be [CHAOSS' weekly Newsletter](https://chaoss.community/news/)
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges. A good example of this would be [EddieHub's Discord community](http://discord.eddiehub.org/).
 
-## Finding a project to contribute to
+## إيجاد مشروع للمساهمة فيه
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
@@ -226,7 +225,7 @@ You can also use one of the following resources to help you discover and contrib
 * [OpenSauced](https://opensauced.pizza/)
 * [GitLab Explore](https://gitlab.com/explore/projects/starred)
 
-### A checklist before you contribute
+### قائمة تحقّق قبل أن تساهم
 
 When you've found a project you'd like to contribute to, do a quick scan to make sure that the project is suitable for accepting contributions. Otherwise, your hard work may never get a response.
 
@@ -380,11 +379,11 @@ A project that is friendly and welcoming signals that they will be receptive to 
   </p>
 </aside>
 
-## How to submit a contribution
+## كيف ترسل المساهمة؟
 
 You've found a project you like, and you're ready to make a contribution. Finally! Here's how to get your contribution in the right way.
 
-### Communicating effectively
+### التواصل بفعالية
 
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
@@ -436,7 +435,7 @@ Before you open an issue or pull request, or ask a question in chat, keep these 
 
 **Above all, keep it classy.** Open source is made up of collaborators from all over the world. Context gets lost across languages, cultures, geographies, and time zones. In addition, written communication makes it harder to convey a tone or mood. Assume good intentions in these conversations. It's fine to politely push back on an idea, ask for more context, or further clarify your position. Just try to leave the internet a better place than when you found it.
 
-### Gathering context
+### جمع المعلومات
 
 Before doing anything, do a quick check to make sure your idea hasn't been discussed elsewhere. Skim the project's README, issues (open and closed), mailing list, and Stack Overflow. You don't have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 
@@ -458,7 +457,7 @@ If you want to make a substantial contribution, open an issue to ask before work
   </p>
 </aside>
 
-### Opening an issue
+### (issue) الإبلاغ عن مشكلة
 
 You should usually open an issue in the following situations:
 
@@ -472,7 +471,7 @@ Tips for communicating on issues:
 * **If an issue was opened a while ago,** it's possible that it's being addressed somewhere else, or has already been resolved, so comment to ask for confirmation before starting work.
 * **If you opened an issue, but figured out the answer later on your own,** comment on the issue to let people know, then close the issue. Even documenting that outcome is a contribution to the project.
 
-### Opening a pull request
+### <span dir="rtl">(pull request)</span> فتح طلب دمج 
 
 You should usually open a pull request in the following situations:
 
@@ -492,11 +491,11 @@ If the project is on GitHub, here's how to submit a pull request:
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
 
-## What happens after you submit your contribution
+## ماذا يحدث بعد تقديم مساهمتك؟
 
 Before we start celebrating, one of the following will happen after you submit your contribution:
 
-### 😭 You don't get a response
+### 😭 لم تتلقَّ أيَّ ردّ
 
 Hopefully you [checked the project for signs of activity](#a-checklist-before-you-contribute) before making a contribution. Even on an active project, however, it's possible that your contribution won't get a response.
 
@@ -506,7 +505,7 @@ If you haven't gotten a response in over a week, it's fair to politely respond i
 
 If you give a polite reminder and still do not receive a response, it's possible that nobody will ever respond. It's not a great feeling, but don't let that discourage you! 😄 There are many possible reasons why you didn't get a response, including personal circumstances that may be out of your control. Try to find another project or way to contribute. If anything, this is a good reason not to invest too much time in making a contribution before other community members are engaged and responsive.
 
-### 🚧 Someone requests changes to your contribution
+### 🚧 أحدهم يطلب إجراء تعديلات على مساهمتك
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
@@ -514,14 +513,15 @@ When someone requests changes, be responsive. They've taken the time to review y
 
 If you don't have time to work on the issue anymore due to reasons such as the conversation has been going on for months, and your circumstances have changed or you're unable to find a solution, let the maintainer know so that they can open the issue for someone else, like [@RitaDee did for an issue at OpenSauced's app repository](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 
-### 👎 Your contribution doesn't get accepted
+### 👎 لم تُقبَل مساهمَتَك
 
 Your contribution may or may not be accepted in the end. Hopefully you didn't put too much work into it already. If you're not sure why it wasn't accepted, it's perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you'll need to respect that this is their decision. Don't argue or get hostile. You're always welcome to fork and work on your own version if you disagree!
 
-### 🎉 Your contribution gets accepted
+### 🎉 قُبِلت مساهمَتَك
 
 Hooray! You've successfully made an open source contribution!
 
-## You did it! 🎉
+## لقد فَعَلتها 🎉
 
 Whether you just made your first open source contribution, or you're looking for new ways to contribute, we hope you're inspired to take action. Even if your contribution wasn't accepted, don't forget to say thanks when a maintainer put effort into helping you. Open source is made by people like you: one issue, pull request, comment, or high-five at a time.
+
