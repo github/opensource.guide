@@ -41,6 +41,14 @@ If you'd like to contribute, start by searching through the [pull requests](http
 
 If you don't see your idea listed, and you think it fits into the goals of this guide, open a pull request.
 
+## 💡 Quick Tip for Beginners
+
+1. Always create a new branch for your changes.
+2. Write clear commit messages.
+3. Test your changes locally before submitting a PR.
+4. Follow the style guide.
+5. Be patient during reviews.
+
 ## Style guide
 
 If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the guides.
