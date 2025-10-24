@@ -1,7 +1,7 @@
 ---
 lang: ar
-title: Finding Users for Your Project
-description: Help your open source project grow by getting it in the hands of happy users.
+title: العثور على مستخدمين لمشروعك
+description: ساعد مشروعك مفتوح المصدر على النمو من خلال إتاحته للمستخدمين السعداء.
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -10,139 +10,147 @@ related:
   - building
 ---
 
-## Spreading the word
+<div dir="rtl" markdown="1">
 
-There's no rule that says you have to promote an open source project when you launch. There are many fulfilling reasons to work in open source that have nothing to do with popularity. Instead of hoping others will find and use your open source project, you have to spread the word about your hard work!
+## نشر الخبر
 
-## Figure out your message
+لا توجد قاعدة تنص على أنه يجب عليك الترويج لمشروع مفتوح المصدر عند إطلاقه.
+هناك العديد من الأسباب المرضية للعمل في مجال البرمجيات مفتوحة المصدر والتي لا علاقة لها بالشهرة.
+بدلاً من الأمل في أن يجد الآخرون مشروعك مفتوح المصدر ويستخدموه،
+عليك أن تنشر أخبار عملك الجاد!
 
-Before you start the actual work of promoting your project, you should be able to explain what it does, and why it matters.
+## حدد رسالتك
 
-What makes your project different or interesting? Why did you create it? Answering these questions for yourself will help you communicate your project's significance.
+قبل أن تبدأ العمل الفعلي في الترويج لمشروعك، يجب أن تكون قادرًا على شرح ما يفعله المشروع وأهميته.
 
-Remember that people get involved as users, and eventually become contributors, because your project solves a problem for them. As you think about your project's message and value, try to view them through the lens of what _users and contributors_ might want.
+ما الذي يجعل مشروعك مختلفًا أو مثيرًا للاهتمام؟ لماذا قمت بإنشائه؟ إن الإجابة على هذه الأسئلة بنفسك سوف تساعدك على توصيل أهمية مشروعك.
 
-For example, @robb uses code examples to clearly communicate why his project, [Cartography](https://github.com/robb/Cartography), is useful:
+تذكر أن الأشخاص ينخرطون كمستخدمين، ويصبحون في النهاية مساهمين، لأن مشروعك يحل مشكلة لهم.
+عندما تفكر في رسالة مشروعك وقيمته، حاول أن تنظر إليهما من منظور ما قد يرغب فيه المستخدمون والمساهمون.
+
+على سبيل المثال، يستخدم <span dir="rtl">@robb</span> أمثلة التعليمات البرمجية لتوصيل سبب فائدة مشروعه, [Cartography](https://github.com/robb/Cartography), بوضوح:
 
 ![Cartography README](/assets/images/finding-users/cartography.jpg)
 
-For a deeper dive into messaging, check out Mozilla's ["Personas and Pathways"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) exercise for developing user personas.
+للتعمق أكثر في الرسائل، راجع تمرين <span dir="rtl">Mozilla</span> ["الشخصيات والمسارات"](https://mozillascience.github.io/working-open-workshop/personas_pathways/) لتطوير شخصيات المستخدمين.
 
-## Help people find and follow your project
+## ساعد الأشخاص في العثور على مشروعك ومتابعته
 
 <aside markdown="1" class="pquote">
-  You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+  من الناحية المثالية، تحتاج إلى عنوان <span dir="rtl">URL</span> "رئيسي" واحد يمكنك الترويج له وتوجيه الأشخاص إليه فيما يتعلق بمشروعك. لا تحتاج إلى إنفاق الكثير من المال على قالب فاخر أو حتى اسم نطاق، ولكن مشروعك يحتاج إلى نقطة محورية.
   <p markdown="1" class="pquote-credit">
-— Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Peter Cooper & Robert Nyman, ["كيفية نشر الخبر عن الكود الخاص بك"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
-Help people find and remember your project by pointing them to a single namespace.
+ساعد الأشخاص في العثور على مشروعك وتذكره من خلال توجيههم إلى مساحة اسم واحدة.
 
-**Have a clear handle to promote your work.** A Twitter handle, GitHub URL, or IRC channel is an easy way to point people to your project. These outlets also give your project's growing community a place to convene.
+**امتلك حساب واضح للترويج لعملك.** يعد حساب <span dir="rtl">Twitter</span> أو عنوان <span dir="rtl">GitHub URL</span> أو قناة <span dir="rtl">IRC</span> طريقة سهلة لتوجيه الأشخاص إلى مشروعك. توفر هذه المنافذ أيضًا مكانًا لتجمع المجتمع المتنامي لمشروعك.
 
-If you don't wish to set up outlets for your project yet, promote your own Twitter or GitHub handle in everything you do. Promoting your Twitter or GitHub handle will let people know how to contact you or follow your work. If you speak at a meetup or event, make sure that your contact information is included in your bio or slides.
+إذا كنت لا ترغب في إنشاء منافذ لمشروعك حتى الآن، فقم بالترويج لحسابك الخاص على <span dir="rtl">Twitter</span> أو <span dir="rtl">GitHub</span> في كل ما تفعله. إن الترويج لحسابك على <span dir="rtl">Twitter</span> أو <span dir="rtl">GitHub</span> سيسمح للأشخاص بمعرفة كيفية الاتصال بك أو متابعة عملك. إذا كنت تتحدث في اجتماع أو حدث، فتأكد من تضمين معلومات الاتصال الخاصة بك في سيرتك الذاتية أو شرائحك.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
-  A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+  كان الخطأ الذي ارتكبته في تلك الأيام الأولى (...) هو عدم إنشاء حساب <span dir="rtl">Twitter</span> للمشروع. يُعد <span dir="rtl">Twitter</span> وسيلة رائعة لإبقاء الأشخاص على اطلاع دائم بمشروع ما، فضلاً عن تعريف الأشخاص بالمشروع باستمرار.
   <p markdown="1" class="pquote-credit">
-— @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+— @nathanmarz, ["تاريخ عاصفة <span dir="rtl">Apache</span> والدروس المستفادة"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
 </aside>
 
-**Consider creating a website for your project.** A website makes your project friendlier and easier to navigate, especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is active which will make your audience feel more comfortable using it. Provide examples to give people ideas for how to use your project.
+**فكر في إنشاء موقع إلكتروني لمشروعك.** يجعل موقع الويب مشروعك أكثر سهولة ويسرًا في التصفح، خاصةً عندما يقترن بوثائق وبرامج تعليمية واضحة. كما أن وجود موقع ويب يشير إلى أن مشروعك نشط، مما يجعل جمهورك يشعر براحة أكبر عند استخدامه. قدم أمثلة لتزويد الأشخاص بأفكار حول كيفية استخدام مشروعك.
 
-[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), co-creator of Django, said that a website was _"by far the best thing we did with Django in the early days"_.
+[@adrianholovaty](https://news.ycombinator.com/item?id=7531689), قال أحد مؤسسي <span dir="rtl">Django</span>، إن إنشاء موقع ويب كان _"أفضل شيء فعلناه مع <span dir="rtl">Django</span> في الأيام الأولى"_.
 
-If your project is hosted on GitHub, you can use [GitHub Pages](https://pages.github.com/) to easily make a website. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), and [Middleman](https://middlemanapp.com/) are [a few examples](https://github.com/showcases/github-pages-examples) of excellent, comprehensive websites.
+إذا كان مشروعك مستضافًا على <span dir="rtl">GitHub</span>، فيمكنك استخدام [GitHub Pages](https://pages.github.com/) لإنشاء موقع ويب بسهولة. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/), و [Middleman](https://middlemanapp.com/) هي [بعض الأمثلة](https://github.com/showcases/github-pages-examples) على مواقع ويب ممتازة وشاملة.
 
-![Vagrant homepage](/assets/images/finding-users/vagrant_homepage.png)
+![الصفحة الرئيسية لـ <span dir="rtl">Vagrant</span>](/assets/images/finding-users/vagrant_homepage.png)
 
-Now that you have a message for your project, and an easy way for people to find your project, let's get out there and talk to your audience!
+الآن بعد أن أصبحت لديك رسالة لمشروعك، وطريقة سهلة ليتمكن الأشخاص من العثور على مشروعك، فلنخرج ونتحدث إلى جمهورك!
 
-## Go where your project's audience is (online)
+## اذهب إلى حيث يتواجد جمهور مشروعك (عبر الإنترنت)
 
-Online outreach is a great way to share and spread the word quickly. Using online channels, you have the potential to reach a very wide audience.
+التواصل عبر الإنترنت هو وسيلة رائعة لمشاركة المعلومات ونشرها بسرعة. باستخدام القنوات الإلكترونية، يمكنك الوصول إلى جمهور واسع جدًا.
 
-Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
+استفد من المجتمعات والمنصات الموجودة على الإنترنت للوصول إلى جمهورك. إذا كان مشروعك مفتوح المصدر مشروعًا برمجيًا، فمن المحتمل أن تجد جمهورك على [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), أو [Quora](https://www.quora.com/). ابحث عن القنوات التي تعتقد أن الأشخاص سيستفيدون منها أكثر أو سيكونون متحمسين لعملك.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+  كل برنامج له وظائف محددة للغاية لن يجدها مفيدة سوى عدد قليل من المستخدمين. لا ترسل رسائل غير مرغوب فيها إلى أكبر عدد ممكن من الأشخاص. بدلاً من ذلك، ركز جهودك على المجتمعات التي ستستفيد من معرفة مشروعك.
   <p markdown="1" class="pquote-credit">
-— @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+— @pazdera, ["التسويق للمشاريع مفتوحة المصدر"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
 </aside>
 
-See if you can find ways to share your project in relevant ways:
+انظر إذا كان بإمكانك العثور على طرق لمشاركة مشروعك بالطرق :
 
-* **Get to know relevant open source projects and communities.** Sometimes, you don't have to directly promote your project. If your project is perfect for data scientists who use Python, get to know the Python data science community. As people get to know you, natural opportunities will arise to talk about and share your work.
-* **Find people experiencing the problem that your project solves.** Search through related forums for people who fall into your project's target audience. Answer their question and find a tactful way, when appropriate, to suggest your project as a solution.
-* **Ask for feedback.** Introduce yourself and your work to an audience that would find it relevant and interesting. Be specific about who you think would benefit from your project. Try to finish the sentence: _"I think my project would really help X, who are trying to do Y_". Listen and respond to others' feedback, rather than simply promoting your work.
+- **تعرف على المشاريع والمجتمعات مفتوحة المصدر ذات الصلة.** في بعض الأحيان، لا يتعين عليك الترويج لمشروعك بشكل مباشر. إذا كان مشروعك مثاليًا لعلماء البيانات الذين يستخدمون<span dir="rtl">Python</span>، فتعرف على مجتمع علوم بيانات <span dir="rtl">Python</span>. عندما يتعرف الناس عليك، ستنشأ فرص طبيعية للحديث عن عملك ومشاركته.
+- **ابحث عن الأشخاص الذين يعانون من المشكلة التي يحلها مشروعك.** ابحث في المنتديات ذات الصلة عن الأشخاص الذين يندرجون ضمن الجمهور المستهدف لمشروعك. أجب عن سؤالهم وابحث عن طريقة لبقة، عندما يكون ذلك مناسبًا، لاقتراح مشروعك كحل.
+- **اطلب التعليقات.** قدم نفسك وعملك لجمهور قد يجده مهماً ومثيراً للاهتمام. كن محدداً بشأن من تعتقد أنه سيستفيد من مشروعك. حاول إكمال الجملة التالية: ”أعتقد أن مشروعي سيساعد حقاً <span dir="rtl">X</span>، الذين يحاولون القيام بـ <span dir="rtl">Y</span>“. استمع إلى تعليقات الآخرين ورد عليها، بدلاً من مجرد الترويج لعملك.
 
-Generally speaking, focus on helping others before asking for things in return. Because anyone can easily promote a project online, there will be a lot of noise. To stand out from the crowd, give people context for who you are and not just what you want.
+بشكل عام، ركز على مساعدة الآخرين قبل أن تطلب منهم شيئًا في المقابل. نظرًا لأن أي شخص يمكنه بسهولة الترويج لمشروع ما عبر الإنترنت، فسيكون هناك الكثير من الضوضاء. لكي تبرز من بين الحشود، قدم للأشخاص سياقًا عن هويتك وليس فقط عما تريده.
 
-If nobody pays attention or responds to your initial outreach, don't get discouraged! Most project launches are an iterative process that can take months or years. If you don't get a response the first time, try a different tactic, or look for ways to add value to others' work first. Promoting and launching your project takes time and dedication.
+إذا لم يهتم أحد أو يرد على اتصالك الأولي، فلا تشعر بالإحباط! معظم عمليات إطلاق المشاريع هي عملية تكرارية يمكن أن تستغرق شهورًا أو سنوات. إذا لم تحصل على رد في المرة الأولى، فجرب تكتيك مختلف، أو ابحث عن طرق لإضافة قيمة إلى عمل الآخرين أولاً. يستغرق الترويج لمشروعك وإطلاقه وقتًا وتفانيًا.
 
-## Go where your project's audience is (offline)
+## اذهب إلى حيث يتواجد جمهور مشروعك (خارج الإنترنت)
 
-![Public speaking](/assets/images/finding-users/public_speaking.jpg)
+![الخطابة](/assets/images/finding-users/public_speaking.jpg)
 
-Offline events are a popular way to promote new projects to audiences. They're a great way to reach an engaged audience and build deeper human connections, especially if you are interested in reaching developers.
+تعد الفعاليات غير المتصلة بالإنترنت طريقة شائعة للترويج للمشاريع الجديدة للجمهور. فهي طريقة رائعة للوصول إلى جمهور متفاعل وبناء علاقات إنسانية أعمق، خاصة إذا كنت مهتمًا بالوصول إلى المطورين.
 
-If you're [new to public speaking](https://speaking.io/), start by finding a local meetup that's related to the language or ecosystem of your project.
+إذا كنت [جديد في مجال الخطابة ](https://speaking.io/), ابدأ بالبحث عن لقاء محلي يتعلق بلغة أو نظام مشروعك.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
-  I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+  كنت متوترة جدًا بشأن الذهاب إلى <span dir="rtl">PyCon</span>. كنت سألقي محاضرة، ولم أكن أعرف سوى شخصين هناك، وكنت سأبقى لمدة أسبوع كامل. (...) لكن لم يكن عليّ أن أقلق. كان <span dir="rtl">PyCon</span> رائعًا للغاية! (...) كان الجميع ودودين ومتفتحين للغاية، لدرجة أنني نادرًا ما وجدت وقتًا لا أتحدث فيه مع الناس!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["كيف تعلمت التوقف عن القلق وحب<span dir="rtl">PyCon</span>"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
-If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
+إذا لم يسبق لك التحدث في أي مناسبة من قبل، فمن الطبيعي أن تشعر بالتوتر! تذكر أن جمهورك موجود هناك لأنه يرغب حقًا في الاستماع إلى ما ستقوله عن عملك.
 
-As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
+عند كتابة خطابك، ركز على ما سيجده جمهورك مثيرًا للاهتمام وذا قيمة. استخدم لغة ودية وميسّرة. ابتسم، تنفس، واستمتع.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
-  When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+  عندما تبدأ في كتابة خطابك، بغض النظر عن موضوعه، قد يكون من المفيد أن تنظر إلى خطابك على أنه قصة ترويها للناس.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["كيفية إعداد وكتابة خطاب في مؤتمر تقني"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
-When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
+عندما تشعر أنك مستعد، فكر في التحدث في مؤتمر لترويج مشروعك. يمكن أن تساعدك المؤتمرات في الوصول إلى المزيد من الأشخاص، وأحيانًا من جميع أنحاء العالم.
 
-Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
+ابحث عن المؤتمرات التي تخص لغتك أو نظامك البيئي. قبل أن ترسل محاضرتك، ابحث عن المؤتمر لتكييف محاضرتك مع الحضور وزيادة فرص قبولك للتحدث في المؤتمر. غالبًا ما يمكنك التعرف على جمهورك من خلال الاطلاع على المتحدثين في المؤتمر.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
-  I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+  كتبت رسالة لطيفة جدًا إلى القائمين على مؤتمر <span dir="rtl">JSConf</span> ورجوتهم أن يمنحوني فرصة لتقديم عرضي في مؤتمر <span dir="rtl">JSConf EU</span>. (...) كنت خائفة جدًا من تقديم هذا العمل الذي كنت أعمل عليه لمدة ستة أشهر. (...) طوال الوقت كنت أفكر، يا إلهي. ماذا أفعل هنا؟
   <p markdown="1" class="pquote-credit">
-— @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+— @ry, [”تاريخ <span dir="rtl">Node.js</span>“ (فيديو)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
 </aside>
 
-## Build a reputation
+## بناء سمعة
 
-In addition to the strategies outlined above, the best way to invite people to share and contribute to your project is to share and contribute to their projects.
+بالإضافة إلى الاستراتيجيات الموضحة أعلاه، فإن أفضل طريقة لدعوة الأشخاص للمشاركة والمساهمة في مشروعك هي المشاركة والمساهمة في مشاريعهم.
 
-Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
+إن مساعدة المبتدئين ومشاركة الموارد وتقديم مساهمات مدروسة لمشاريع الآخرين سيساعدك على بناء سمعة إيجابية. كونك عضوًا نشطًا في مجتمع المصادر المفتوحة سيساعد الناس على فهم سياق عملك ويجعلهم أكثر اهتمامًا بمشروعك ومشاركته. يمكن أن يؤدي تطوير العلاقات مع مشاريع المصادر المفتوحة الأخرى إلى شراكات رسمية.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
-  The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+  السبب الوحيد الذي يجعل <span dir="rtl">urllib3</span> أكثر مكتبات <span dir="rtl">Python</span> الخارجية شيوعًا اليوم هو أنها جزء من الطلبات.
   <p markdown="1" class="pquote-credit">
-— @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
+— @shazow, ["كيف تجعل مشروعك مفتوح المصدر ناجحًا"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
 </aside>
 
-It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
+ليس من المبكر أو المتأخر أبدًا أن تبدأ في بناء سمعتك. حتى لو كنت قد أطلقت مشروعك الخاص بالفعل، فاستمر في البحث عن طرق لمساعدة الآخرين.
 
-There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
+لا توجد حلول سريعة لبناء جمهور. اكتساب ثقة واحترام الآخرين يستغرق وقتًا، وبناء سمعتك لا ينتهي أبدًا.
 
-## Keep at it!
+## استمر في ذلك!
 
-It may take a long time before people notice your open source project. That's okay! Some of the most popular projects today took years to reach high levels of activity. Focus on building relationships instead of hoping that your project will spontaneously gain popularity. Be patient, and keep sharing your work with those who appreciate it.
+قد يستغرق الأمر وقتًا طويلاً قبل أن يلاحظ الناس مشروعك مفتوح المصدر. لا بأس بذلك! فقد استغرقت بعض المشاريع الأكثر شهرة اليوم سنوات عديدة حتى وصلت إلى مستويات عالية من النشاط. ركز على بناء العلاقات بدلاً من الأمل في أن يكتسب مشروعك شعبية تلقائيًا. كن صبورًا، واستمر في مشاركة عملك مع أولئك الذين يقدرونه.
+
+</div>
