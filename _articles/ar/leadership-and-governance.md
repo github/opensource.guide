@@ -1,7 +1,7 @@
 ---
 lang: ar
-title: Leadership and Governance
-description: Growing open source projects can benefit from formal rules for making decisions.
+title: القيادة والحوكمة
+description: المشاريع مفتوحة المصدر التي تتوسع مع الوقت قد تستفيد كثيرًا من وجود قواعد واضحة ومنظمة تساعدها في اتخاذ القرارات.
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -10,147 +10,172 @@ related:
   - metrics
 ---
 
-## Understanding governance for your growing project
+## فهم آلية الحوكمة في مشروعك المتنامي
 
-Your project is growing, people are engaged, and you're committed to keeping this thing going. At this stage, you may be wondering how to incorporate regular project contributors into your workflow, whether it's giving someone commit access or resolving community debates. If you have questions, we've got answers.
+مشروعك بدأ يكبر، والمشاركون فيه صاروا أكثر تفاعلًا، وأنت مصمم على استمراره وتطوره. في هذه المرحلة، قد تتساءل كيف يمكن دمج المساهمين الدائمين في سير عمل المشروع — سواء من خلال منحهم صلاحية التعديل المباشر على الكود، أو إيجاد طريقة لحل الخلافات والنقاشات داخل المجتمع.
+وإذا كانت لديك تساؤلات حول ذلك، فستجد هنا الإجابات التي تحتاجها.
 
-## What are examples of formal roles used in open source projects?
+## ما هي أمثلة الأدوار الرسمية في المشاريع مفتوحة المصدر؟
 
-Many projects follow a similar structure for contributor roles and recognition.
+كثير من المشاريع تتبع هيكلًا متشابهًا في تحديد أدوار المساهمين وطريقة تقديرهم.
 
-What these roles actually mean, though, is entirely up to you. Here are a few types of roles you may recognize:
+لكن المعنى الحقيقي لكل دور يعتمد بالكامل على ما تراه مناسبًا لمشروعك.
+وفيما يلي بعض أنواع الأدوار التي قد تكون مألوفة لك:
 
-* **Maintainer**
-* **Contributor**
-* **Committer**
+* **المشرف _( القائم على المشروع )_**
+* **المساهم**
+* **المصرّح له بالتحديث**
 
-**For some projects, "maintainers"** are the only people in a project with commit access. In other projects, they're simply the people who are listed in the README as maintainers.
+**في بعض المشاريع**, يكون **"المشرفون"** هم الأشخاص الوحيدون الذين يملكون صلاحية التعديل المباشر على الكود.
+أما في مشاريع أخرى، فقد يُذكر اسمهم فقط في ملف الـ README على أنهم المشرفون.
 
-A maintainer doesn't necessarily have to be someone who writes code for your project. It could be someone who's done a lot of work evangelizing your project, or written documentation that made the project more accessible to others. Regardless of what they do day-to-day, a maintainer is probably someone who feels responsibility over the direction of the project and is committed to improving it.
+ولا يشترط أن يكون المشرف شخصًا يكتب الكود بنفسه.
+قد يكون شخصًا ساهم في نشر المشروع والتعريف به، أو كتب توثيقًا جعل استخدامه أسهل للآخرين.
+وبغض النظر عن طبيعة عمله اليومية، فالمشرف عادة هو شخص يشعر بالمسؤولية تجاه اتجاه المشروع، ومخلص في تطويره وتحسينه باستمرار.
 
-**A "contributor" could be anyone** who comments on an issue or pull request, people who add value to the project (whether it's triaging issues, writing code, or organizing events), or anybody with a merged pull request (perhaps the narrowest definition of a contributor).
+**"المساهم" يمكن أن يكون أي شخص** يشارك بالتعليق على مشكلة أو طلب دمج (Pull Request)، أو أي فرد يضيف قيمة حقيقية للمشروع — سواء من خلال فرز المشكلات وتنظيمها، أو كتابة الأكواد، أو حتى تنظيم الفعاليات الخاصة بالمجتمع.
+وفي بعض المشاريع، يُعتبر المساهم ببساطة أي شخص تم قبول إحدى مساهماته ودمجها في المستودع، وهي ربما أضيق تعريف ممكن للمساهم.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
+  \[For Node.js,\] كل شخص يشارك بالتعليق على مشكلة أو يقدّم كودًا يصبح عضوًا في مجتمع المشروع.
+مجرد تواجده ومشاركته يعني أنه انتقل من كونه مجرد مستخدم إلى كونه مساهم فعلي في المشروع.
   <p markdown="1" class="pquote-credit">
-— @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
+— @mikeal, ["مشاريع مفتوحة المصدر السليمة"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
 </aside>
 
-**The term "committer"** might be used to distinguish commit access, which is a specific type of responsibility, from other forms of contribution.
+**مصطلح "المصرّح له بالتحديث"** قد يُستخدم للتمييز بين الأشخاص الذين يمتلكون صلاحية تعديل الكود مباشرة — وهي مسؤولية محددة — وبين المساهمين الآخرين الذين يقدّمون دعمًا أو مساهمات بطرق مختلفة.
 
-While you can define your project roles any way you'd like, [consider using broader definitions](../how-to-contribute/#what-it-means-to-contribute) to encourage more forms of contribution. You can use leadership roles to formally recognize people who have made outstanding contributions to your project, regardless of their technical skill.
+رغم أنه بإمكانك تحديد أدوار المشروع بالطريقة التي تناسبك, [فكر في استخدام تعريفات أوسع للأدوار أو المسؤوليات](../how-to-contribute/#what-it-means-to-contribute) لتشجيع المزيد من أشكال المساهمة. كما يمكنك استخدام أدوار القيادة للاعتراف رسميًا بالأشخاص الذين قدموا مساهمات بارزة في مشروعك، بغض النظر عن مهاراتهم التقنية.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-  You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
+ "قد يعرفني البعض على أنني "مخترع Django… لكن في الواقع، أنا الشخص الذي تم توظيفه للعمل على المشروع بعد مرور عام على إنشائه. (…)
+يعتقد الناس أن نجاحي يرجع إلى مهاراتي البرمجية… لكن في الحقيقة، أنا مبرمج متوسط المستوى على أفضل تقدير.
   <p markdown="1" class="pquote-credit">
-— @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
+— @jacobian, ["الكلمة الافتتاحية لمؤتمر PyCon 2015" (فيديو)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
 </aside>
 
-## How do I formalize these leadership roles?
+## كيف يمكنني جعل هذه الأدوار القيادية رسمية؟
 
-Formalizing your leadership roles helps people feel ownership and tells other community members who to look to for help.
+إضفاء الطابع الرسمي على أدوار القيادة يساعد المشاركين على الشعور بالمسؤولية والانتماء، ويُوضح لأعضاء المجتمع الآخرين من يمكنهم اللجوء إليه للحصول على المساعدة.
 
-For a smaller project, designating leaders can be as simple as adding their names to your README or a CONTRIBUTORS text file.
+في المشاريع الصغيرة، قد يكون تحديد القادة أمرًا بسيطًا مثل إضافة أسمائهم إلى ملف README أو إلى ملف CONTRIBUTORS.
 
-For a bigger project, if you have a website, create a team page or list your project leaders there. For example, [Postgres](https://github.com/postgres/postgres/) has a [comprehensive team page](https://www.postgresql.org/community/contributors/) with short profiles for each contributor.
+في المشاريع الأكبر، إذا كان لديك موقع إلكتروني، يمكنك إنشاء صفحة للفريق أو إدراج أسماء قادة المشروع هناك. على سبيل المثال:, [Postgres](https://github.com/postgres/postgres/) لديها [صفحة فريق شاملة](https://www.postgresql.org/community/contributors/) مع ملفات تعريف مختصرة لكل مساهم
 
-If your project has a very active contributor community, you might form a "core team" of maintainers, or even subcommittees of people who take ownership of different issue areas (for example, security, issue triaging, or community conduct). Let people self-organize and volunteer for the roles they're most excited about, rather than assigning them.
+إذا كان مشروعك يضم مجتمع مساهمين نشط جدًا، يمكنك تشكيل “فريق أساسي” من المشرفين، أو حتى لجان فرعية لأشخاص يتحملون مسؤولية مجالات مختلفة من المشروع (على سبيل المثال، الأمن، فرز المشكلات، أو سلوك المجتمع).
+اترك المجال للأشخاص لتنظيم أنفسهم والتطوع للأدوار التي يشعرون بالحماس تجاهها، بدلًا من تعيينها لهم مباشرة.
 
 <aside markdown="1" class="pquote">
-  \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+  \[نحن\] ندعم الفريق الأساسي بعدة “فرق فرعية”. يركّز كل فريق فرعي على مجال محدد على سبيل المثال، تصميم اللغة أو المكتبات. (…) ولتأمين التنسيق العام والحفاظ على رؤية قوية ومتسقة للمشروع ككل، يقود كل فريق فرعي عضو من الفريق الأساسي.
   <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
+— ["حوكمة مشروع Rust عبر RFC "](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
 </aside>
 
-Leadership teams may want to create a designated channel (like on IRC) or meet regularly to discuss the project (like on Gitter or Google Hangout). You can even make those meetings public so other people can listen. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), for example, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
+د ترغب فرق القيادة في إنشاء قناة مخصصة (مثل IRC) أو عقد اجتماعات منتظمة لمناقشة المشروع (مثل Gitter أو Google Hangout). يمكنك حتى جعل هذه الاجتماعات عامة ليستمع إليها الآخرون. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), على سبيل المثال, [يستضيف ساعات مكتبية أسبوعية](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
-Once you've established leadership roles, don't forget to document how people can attain them! Establish a clear process for how someone can become a maintainer or join a subcommittee in your project, and write it into your GOVERNANCE.md.
+بمجرد أن تحدد أدوار القيادة، لا تنسَ توثيق كيفية الوصول إليها! ضع عملية واضحة لكيفية أن يصبح الشخص مشرفًا (maintainer) أو ينضم إلى لجنة فرعية (subcommittee) في مشروعك، واكتب ذلك في ملف GOVERNANCE.md.
 
-Tools like [Vossibility](https://github.com/icecrime/vossibility-stack) can help you publicly track who is (or isn't) making contributions to the project. Documenting this information avoids the community perception that maintainers are a clique that makes its decisions privately.
+أدوات مثل [Vossibility](https://github.com/icecrime/vossibility-stack) يمكن أن تساعدك في تتبع من يساهم أو لا يساهم في المشروع بشكل عام. توثيق هذه المعلومات يمنع انطباع المجتمع بأن المشرفين هم مجموعة مغلقة تتخذ قراراتها بشكل خاص.
 
-Finally, if your project is on GitHub, consider moving your project from your personal account to an Organization and adding at least one backup admin. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) make it easier to manage permissions and multiple repositories and protect your project's legacy through [shared ownership](../building-community/#share-ownership-of-your-project).
+أخيرًا، إذا كان مشروعك موجودًا على GitHub، فكر في نقل المشروع من حسابك الشخصي إلى منظمة (Organization) وإضافة على الأقل مشرف احتياطي واحد. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/)  تجعل إدارة الصلاحيات والمستودعات المتعددة أسهل، وتحمي إرث مشروعك من خلال [الملكية المشتركة](../building-community/#share-ownership-of-your-project).
 
-## When should I give someone commit access?
+## متى يجب أن أمنح شخصًا صلاحية التعديل (commit access)؟
 
-Some people think you should give commit access to everybody who makes a contribution. Doing so could encourage more people to feel ownership of your project.
+يعتقد بعض الأشخاص أنه يجب منح صلاحية التعديل لكل من يقدم مساهمة. القيام بذلك قد يشجع المزيد من الناس على الشعور بالانتماء لمسؤولية المشروع.
 
-On the other hand, especially for bigger, more complex projects, you may want to only give commit access to people who have demonstrated their commitment. There's no one right way of doing it - do what makes you most comfortable!
+ن ناحية أخرى، وخاصة في المشاريع الكبيرة والمعقدة، قد ترغب في منح صلاحية التعديل فقط للأشخاص الذين أثبتوا التزامهم بالمشروع.
+لا توجد طريقة صحيحة واحدة لذلك – افعل ما يجعلك أكثر راحة وثقة!
 
-If your project is on GitHub, you can use [protected branches](https://help.github.com/articles/about-protected-branches/) to manage who can push to a particular branch, and under which circumstances.
+إذا كان مشروعك موجودًا على GitHub، يمكنك استخدام [الفروع المحمية](https://help.github.com/articles/about-protected-branches/) لإدارة من يمكنه رفع التعديلات إلى فرع معين، وتحديد الظروف التي يُسمح فيها بذلك.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-  Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
+  كلما أرسل لك شخص طلب دمج ، امنحه صلاحية التعديل في مشروعك. قد يبدو هذا في البداية غريبًا جدًا، لكن استخدام هذه الاستراتيجية سيمكنك من إطلاق القوة الحقيقية لـ GitHub. (...)
+بمجرد أن يحصل الأشخاص على صلاحية التعديل، لن يقلقوا بعد ذلك من احتمال عدم دمج تعديلاتهم... مما يدفعهم لبذل جهد أكبر في عملهم.
   <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
+— @felixge, ["حيلة طلب الدمج"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
 </aside>
 
-## What are some of the common governance structures for open source projects?
+## ما هي بعض الهياكل الحوكمة الشائعة للمشاريع مفتوحة المصدر؟
 
-There are three common governance structures associated with open source projects.
+هناك ثلاث هياكل حوكمة شائعة مرتبطة بالمشاريع مفتوحة المصدر.
 
-* **BDFL:** BDFL stands for "Benevolent Dictator for Life". Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. [Python](https://github.com/python) is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
+* **BDFL:** BDFL اختصار لعبارة "المستبد الخيّر مدى الحياة". في هذا الهيكل، يكون لشخص واحد (عادة مؤلف المشروع الأصلي) الكلمة الأخيرة في جميع القرارات الكبرى للمشروع. [بايثون](https://github.com/python) يُعد مثال Python كلاسيكيًا على هذا الهيكل.
+غالبًا ما تكون المشاريع الصغيرة BDFL بشكل افتراضي، نظرًا لوجود مشرف واحد أو مشرفين فقط.
+كما أن المشروع الذي نشأ داخل شركة قد يندرج أيضًا تحت فئة BDFL.
 
-* **Meritocracy:** **(Note: the term "meritocracy" carries negative connotations for some communities and has a [complex social and political history](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Under a meritocracy, active project contributors (those who demonstrate "merit") are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the [Apache Foundation](https://www.apache.org/); [all Apache projects](https://www.apache.org/index.html#projects-list) are meritocracies. Contributions can only be made by individuals representing themselves, not by a company.
+* **الحوكمة على أساس الجدارة:** **(ملاحظة: مصطلح "meritocracy" يحمل دلالات سلبية لدى بعض المجتمعات وله [تاريخ اجتماعي وسياسي معقد](http://geekfeminism.wikia.com/wiki/Meritocracy).)** في هيكل الحوكمة على أساس الجدارة (Meritocracy)، يُمنح المساهمون النشطون في المشروع (أي الذين يظهرون "جدارتهم") دورًا رسميًا في اتخاذ القرارات.
+عادةً ما تُتخذ القرارات بناءً على إجماع التصويت البحت.
+تم تطوير مفهوم الحوكمة على أساس الجدارة بواسطة[مؤسسة Apache](https://www.apache.org/); [جميع مشاريع Apache](https://www.apache.org/index.html#projects-list)  تتبع نموذج الحوكمة على أساس الجدارة. ويمكن تقديم المساهمات فقط من قبل أفراد يمثلون أنفسهم، وليس من قبل أي شركة.
 
-* **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
 
-Which one should you use? It's up to you! Every model has advantages and trade-offs. And although they may seem quite different at first, all three models have more in common than they seem. If you're interested in adopting one of these models, check out these templates:
+* **Liberal contribution:** في نموذج Liberal contribution، يُعترف بالأشخاص الذين يقومون بأكبر قدر من العمل على أنهم الأكثر تأثيرًا، لكن هذا الاعتراف يعتمد على العمل الحالي وليس على المساهمات التاريخية.
+تُتخذ القرارات الكبرى في المشروع بناءً على عملية البحث عن التوافق (مناقشة القضايا الكبرى) بدلاً من التصويت البحت، مع السعي لإشراك أكبر عدد ممكن من وجهات نظر المجتمع.
+من الأمثلة الشهيرة على المشاريع التي تستخدم نموذج Liberal contribution: [Node.js](https://foundation.nodejs.org/) and [Rust](https://www.rust-lang.org/).
+
+أي نموذج يجب أن تستخدمه؟ القرار يعود إليك! كل نموذج له مميزاته وتحدياته.
+وعلى الرغم من أن هذه النماذج قد تبدو مختلفة تمامًا في البداية، إلا أن كلها تشترك في كثير من النقاط أكثر مما يبدو.
+إذا كنت مهتمًا بتبني أحد هذه النماذج، يمكنك الاطلاع على هذه القوالب:
 
 * [BDFL model template](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [Meritocracy model template](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
 * [Node.js's liberal contribution policy](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
-## Do I need governance docs when I launch my project?
+## هل أحتاج إلى مستندات حوكمة عند إطلاق مشروعي؟
 
-There is no right time to write down your project's governance, but it's much easier to define once you've seen your community dynamics play out. The best (and hardest) part about open source governance is that it is shaped by the community!
+لا يوجد وقت محدد صحيح لتوثيق حوكمة مشروعك، لكن سيكون من الأسهل كثيرًا تحديدها بعد أن ترى ديناميكيات المجتمع الخاص بك تتبلور.
+أفضل جزء (وأصعبه) في حوكمة المشاريع مفتوحة المصدر هو أنها تتشكل بواسطة المجتمع نفسه!
 
-Some early documentation will inevitably contribute to your project's governance, however, so start writing down what you can. For example, you can define clear expectations for behavior, or how your contributor process works, even at your project's launch.
+مع ذلك، فإن أي توثيق مبكر سيساهم حتمًا في حوكمة مشروعك، لذا ابدأ بكتابة ما يمكنك كتابته. على سبيل المثال، يمكنك وضع توقعات واضحة للسلوك، أو توضيح كيفية عمل عملية المساهمة، حتى عند إطلاق المشروع.
 
-If you're part of a company launching an open source project, it's worth having an internal discussion before launch about how your company expects to maintain and make decisions about the project moving forward. You may also want to publicly explain anything particular to how your company will (or won't!) be involved with the project.
+إذا كنت جزءًا من شركة تطلق مشروعًا مفتوح المصدر، فمن المفيد إجراء نقاش داخلي قبل الإطلاق حول كيفية توقع الشركة لإدارة المشروع واتخاذ القرارات المتعلقة به مستقبلًا.
+قد ترغب أيضًا في توضيح أي أمور خاصة بكيفية مشاركة الشركة (أو عدم مشاركتها!) مع المشروع بشكل عام للجمهور.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-  We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
+  نحن نخصص فرقًا صغيرة لإدارة المشاريع على GitHub، وهم فعليًا يعملون على هذه المشاريع في Facebook.
+على سبيل المثال، مشروع React يُدار بواسطة مهندس من فريق React.
   <p markdown="1" class="pquote-credit">
-— @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
+— @caabernathy, ["نظرة من الداخل على المشاريع مفتوحة المصدر في Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
 </aside>
 
-## What happens if corporate employees start submitting contributions?
+## ماذا يحدث إذا بدأ موظفو الشركات بتقديم مساهمات؟
 
-Successful open source projects get used by many people and companies, and some companies may eventually have revenue streams eventually tied to the project. For example, a company may use the project's code as one component in a commercial service offering.
+المشاريع مفتوحة المصدر الناجحة يتم استخدامها من قبل الكثير من الأشخاص والشركات، وبعض الشركات قد ترتبط إيراداتها مستقبلًا بالمشروع. على سبيل المثال، قد تستخدم شركة ما كود المشروع كجزء من خدمة تجارية تقدمها.
 
-As the project gets more widely used, people who have expertise in it become more in-demand - you may be one of them! - and will sometimes get paid for work they do in the project.
+مع ازدياد استخدام المشروع، يصبح الأشخاص الذين لديهم خبرة فيه أكثر طلبًا – وربما تكون واحدًا منهم! – وأحيانًا يتم دفع أجر لهم مقابل العمل الذي يقومون به في المشروع.
 
-It's important to treat commercial activity as normal and as just another source of development energy. Paid developers shouldn't get special treatment over unpaid ones, of course; each contribution must be evaluated on its technical merits. However, people should feel comfortable engaging in commercial activity, and feel comfortable stating their use cases when arguing in favor of a particular enhancement or feature.
+من المهم التعامل مع النشاط التجاري باعتباره أمرًا طبيعيًا ومجرد مصدر إضافي للطاقة التطويرية. بالطبع، لا ينبغي إعطاء المطورين المدفوع لهم معاملة خاصة مقارنة بالمطورين غير المدفوعين؛ يجب تقييم كل مساهمة على أساس قيمتها التقنية. ومع ذلك، يجب أن يشعر الناس بالراحة عند الانخراط في النشاط التجاري، وأن يكونوا قادرين على توضيح حالات استخدامهم عند الدفاع عن تحسين أو ميزة معينة.
 
-"Commercial" is completely compatible with "open source". "Commercial" just means there is money involved somewhere - that the software is used in commerce, which is increasingly likely as a project gains adoption. (When open source software is used as part of a non-open-source product, the overall product is still "proprietary" software, though, like open source, it might be used for commercial or non-commercial purposes.)
+مصطلح "تجاري" متوافق تمامًا مع "مفتوح المصدر". "تجاري" يعني ببساطة أن هناك مالًا متورطًا في مكان ما – أي أن البرنامج يُستخدم في التجارة، وهذا يصبح أكثر احتمالًا مع زيادة اعتماد المشروع. (وعندما يُستخدم برنامج مفتوح المصدر كجزء من منتج غير مفتوح المصدر، يظل المنتج الكلي برنامجًا مملوكًا، ولكنه، مثل البرمجيات مفتوحة المصدر، قد يُستخدم لأغراض تجارية أو غير تجارية).
 
-Like anyone else, commercially-motivated developers gain influence in the project through the quality and quantity of their contributions. Obviously, a developer who is paid for her time may be able to do more than someone who is not paid, but that's okay: payment is just one of many possible factors that could affect how much someone does. Keep your project discussions focused on the contributions, not on the external factors that enable people to make those contributions.
+مثل أي شخص آخر، يكسب المطورون الذين لديهم دوافع تجارية تأثيرًا في المشروع من خلال جودة وكمية مساهماتهم. من الواضح أن المطور الذي يتلقى أجرًا عن وقته قد يكون قادرًا على القيام بالمزيد مقارنة بشخص لا يتلقى أجرًا، لكن هذا طبيعي: الأجر هو مجرد أحد العوامل العديدة التي قد تؤثر على حجم مساهمة الشخص. ركّز مناقشات مشروعك على المساهمات نفسها، وليس على العوامل الخارجية التي تمكّن الأشخاص من تقديم هذه المساهمات.
 
-## Do I need a legal entity to support my project?
+## هل أحتاج إلى كيان قانوني لدعم مشروعي؟
 
-You don't need a legal entity to support your open source project unless you're handling money.
+لا تحتاج إلى إنشاء كيان قانوني لدعم مشروعك مفتوح المصدر، إلا إذا كنت تتعامل مع أموال.
 
-For example, if you want to create a commercial business, you'll want to set up a C Corp or LLC (if you're based in the US). If you're just doing contract work related to your open source project, you can accept money as a sole proprietor, or set up an LLC (if you're based in the US).
+على سبيل المثال، إذا كنت ترغب في إنشاء عمل تجاري، فستحتاج إلى تأسيس شركة مساهمة (C Corp) أو شركة ذات مسؤولية محدودة (LLC) إذا كنت في الولايات المتحدة.
+أما إذا كنت تقوم بأعمال تعاقدية مرتبطة بمشروعك مفتوح المصدر، فيمكنك قبول الأموال بصفتك مالكًا فرديًا، أو تأسيس LLC (إذا كنت في الولايات المتحدة).
 
-If you want to accept donations for your open source project, you can set up a donation button (using PayPal or Stripe, for example), but the money won't be tax-deductible unless you are a qualifying nonprofit (a 501c3, if you're in the US).
+وإذا رغبت في قبول التبرعات لمشروعك مفتوح المصدر، يمكنك إنشاء زر تبرع (باستخدام PayPal أو Stripe، على سبيل المثال)، لكن هذه الأموال لن تكون قابلة للخصم الضريبي إلا إذا كنت منظمة غير ربحية مؤهلة (مثل 501c3 إذا كنت في الولايات المتحدة).
 
-Many projects don't wish to go through the trouble of setting up a nonprofit, so they find a nonprofit fiscal sponsor instead. A fiscal sponsor accepts donations on your behalf, usually in exchange for a percentage of the donation. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) are examples of organizations that serve as fiscal sponsors for open source projects.
+كثير من المشاريع لا ترغب في تحمل عناء إنشاء منظمة غير ربحية، لذلك يلجأون إلى راعي مالي غير ربحي بدلاً من ذلك. يقوم الراعي المالي بقبول التبرعات نيابة عنك، وعادةً مقابل نسبة معينة من قيمة التبرع. [مؤسسة المحافظة على حرية البرمجيات](https://sfconservancy.org/), [مؤسسة Apache](https://www.apache.org/), [مؤسسة Eclipse](https://www.eclipse.org/org/), [مؤسسة Linux](https://www.linuxfoundation.org/projects) و [Open Collective](https://opencollective.com/opensource) هي أمثلة على مؤسسات تعمل كـ رعاة ماليين للمشاريع مفتوحة المصدر.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-  Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
+  هدفنا هو توفير بنية تحتية يمكن للمجتمعات استخدامها لتكون مكتفية ذاتيًا، مما يخلق بيئة يستفيد منها الجميع — سواء كانوا مساهمين، داعمين، أو رعاة — بشكل ملموس.
   <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
+— @piamancini, ["تجاوز إطار العمل الخيري"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
 </aside>
 
-If your project is closely associated with a certain language or ecosystem, there may also be a related software foundation you can work with. For example, the [Python Software Foundation](https://www.python.org/psf/) helps support [PyPI](https://pypi.org/), the Python package manager, and the [Node.js Foundation](https://foundation.nodejs.org/) helps support [Express.js](https://expressjs.com/), a Node-based framework.
+إذا كان مشروعك مرتبطًا ارتباطًا وثيقًا بلغة برمجة معينة أو بيئة معينة، فقد يكون هناك أيضًا مؤسسة برمجيات ذات صلة يمكنك العمل معها. على سبيل المثال، الـ [مؤسسة Python للبرمجيات](https://www.python.org/psf/) يساعد في دعم [PyPI](https://pypi.org/), مدير الحزم الخاص بـ Python، و [Node.js Foundation](https://foundation.nodejs.org/) يساعد في دعم [Express.js](https://expressjs.com/), إطار عمل قائم على Node
+Footer
