@@ -1,7 +1,7 @@
 ---
 lang: ar
 title: القيادة والحوكمة
-description: المشاريع مفتوحة المصدر التي تتوسع مع الوقت قد تستفيد كثيرًا من وجود قواعد واضحة ومنظمة تساعدها في اتخاذ القرارات.
+description: المشاريع مفتوحة المصدر التي تتوسع مع الوقت قد تستفيد كثيرًا من وجود قواعد واضحة ومنظمة تساعدها في اتخاذ القرارات
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -9,6 +9,7 @@ related:
   - best-practices
   - metrics
 ---
+<div dir="rtl" markdown="1">
 
 ## فهم آلية الحوكمة في مشروعك المتنامي
 
@@ -179,3 +180,5 @@ related:
 
 إذا كان مشروعك مرتبطًا ارتباطًا وثيقًا بلغة برمجة معينة أو بيئة معينة، فقد يكون هناك أيضًا مؤسسة برمجيات ذات صلة يمكنك العمل معها. على سبيل المثال، الـ [مؤسسة Python للبرمجيات](https://www.python.org/psf/) يساعد في دعم [PyPI](https://pypi.org/), مدير الحزم الخاص بـ Python، و [Node.js Foundation](https://foundation.nodejs.org/) يساعد في دعم [Express.js](https://expressjs.com/), إطار عمل قائم على Node
 Footer
+
+</div>

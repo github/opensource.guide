@@ -1,7 +1,7 @@
 ---
 lang: ar
 title: أفضل الممارسات للمحافظين
-description: تسهيل حياتك كمحافظ على مشروع مفتوح المصدر، من توثيق العمليات إلى الاستفادة من مجتمعك.
+description: تسهيل حياتك كمحافظ على مشروع مفتوح المصدر، من توثيق العمليات إلى الاستفادة من مجتمعك
 class: best-practices
 order: 5
 image: /assets/images/cards/best-practices.png
