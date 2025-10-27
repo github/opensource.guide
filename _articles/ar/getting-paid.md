@@ -1,7 +1,7 @@
 ---
 lang: ar
 title: الحصول على أجر مقابل العمل مفتوح المصدر
-description: استمر على عملك في المصدر المفتوح من خلال الحصول على الدعم المالي مقابل وقتك أو مشروعك.
+description: استمر على عملك في المصدر المفتوح من خلال الحصول على الدعم المالي مقابل وقتك أو مشروعك
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png

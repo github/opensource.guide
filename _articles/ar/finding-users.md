@@ -1,7 +1,7 @@
 ---
 lang: ar
 title: العثور على مستخدمين لمشروعك
-description: ساعد مشروعك مفتوح المصدر على النمو من خلال إتاحته للمستخدمين السعداء.
+description: ساعد مشروعك مفتوح المصدر على النمو من خلال إتاحته للمستخدمين السعداء
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
