@@ -1,0 +1,22 @@
+// mixins.scss
+
+// Center items with flexbox
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// Apply smooth transition
+@mixin transition($property: all) {
+  transition: $property $transition-speed ease-in-out;
+}
+
+// Responsive breakpoint
+@mixin respond($breakpoint) {
+  @if $breakpoint == mobile {
+    @media (max-width: 600px) { @content; }
+  } @else if $breakpoint == tablet {
+    @media (max-width: 900px) { @content; }
+  }
+}

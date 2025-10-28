@@ -1,0 +1,27 @@
+// layout.scss
+
+@import 'variables';
+@import 'mixins';
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section {
+  padding: $spacing-unit * 4 0;
+}
+
+.grid {
+  display: grid;
+  gap: $spacing-unit * 2;
+
+  @include respond(tablet) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @include respond(mobile) {
+    grid-template-columns: 1fr;
+  }
+}
