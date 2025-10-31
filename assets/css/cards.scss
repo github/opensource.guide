@@ -1,0 +1,30 @@
+// cards.scss
+
+@import 'variables';
+@import 'mixins';
+
+.card {
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  padding: $spacing-unit * 2;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+  @include transition();
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  }
+
+  .card-title {
+    font-family: $heading-font;
+    font-size: 1.2rem;
+    margin-bottom: $spacing-unit;
+    color: $primary-color;
+  }
+
+  .card-content {
+    color: $text-color;
+    font-size: 0.95rem;
+  }
+}
