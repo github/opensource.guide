@@ -50,7 +50,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  اكتشفت أنني كنت أتحمّل أكثر مما ينبغي، وأؤدي مهامّ عدة أشخاص، كما هو شائع في مشاريع  <span dir='ltr'  markdown="1">FOSS (Free and Open Source Software)</span>.
+  اكتشفت أنني كنت أتحمّل أكثر مما ينبغي، وأؤدي مهامّ عدة أشخاص، كما هو شائع في مشاريع FOSS.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>,  مشرف <span dir='ltr'  markdown="1">(maintainer)</span> على مشروع <span dir='ltr'  markdown="1">Termux</span> متحدثًا عن الأسباب التي تؤدي إلى الإرهاق في عمله.
   </p>
