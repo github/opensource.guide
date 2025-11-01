@@ -1,0 +1,32 @@
+ar:
+  locale_name: العربية
+  nav:
+    about: عن المشروع
+    contribute: ساهِم
+  index:
+    lead: البرمجيات مفتوحة المصدر يطورها أشخاص مثلك تمامًا، تعلّم كيف تطلِق مشروعَك وتُنمّيه
+    opensourcefriday: إنه يوم الجمعة، خصّص بضع ساعات للمساهمة في البرمجيات التي تستخدمها وتحبها
+  article:
+    table_of_contents: قائمة المحتويات
+    back_to_all_guides: رجوع للأدلة
+    related_guides: أدلة ذات صلة
+  footer:
+    contribute:
+      heading: ساهِم
+      description: هل تريد تقديم اقتراح؟ هذا المحتوى مفتوح المصدر. ساعدنا على تحسينه
+      button: ساهِم
+    subscribe:
+      heading: ابقَ على تواصل
+      description: "GitHubكُن أول من يطّلِع على أحدث نصائح وموارد"
+      label: البريد الإلكتروني
+      button: اشترِك
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] with [love] by [github] and [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: friends
+
