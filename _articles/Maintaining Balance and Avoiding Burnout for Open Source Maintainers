@@ -1,0 +1,70 @@
+# Maintaining Balance for Open Source Maintainers
+
+**Summary:**  
+This guide provides tips for self-care and avoiding burnout as a maintainer, based on experiences from the Maintainer Community.
+
+---
+
+## Key Concepts
+
+1. **Personal Ecology** – maintaining balance, pacing, and efficiency to sustain energy over time.  
+2. **Burnout Signs** – chronic stress, loss of motivation, inability to focus, reduced empathy.  
+3. **Motivation Awareness** – understanding what energizes you to prioritize your work effectively.
+
+---
+
+## Common Causes of Burnout
+
+- **Lack of positive feedback** – Users often only report issues, not successes.  
+- **Taking on too much** – Saying “yes” to every task leads to overwhelm.  
+- **Working alone** – Isolation can increase stress.  
+- **Insufficient time/resources** – Especially for volunteer maintainers.  
+- **Conflicting demands** – Between personal goals, employers, or community expectations.
+
+---
+
+## Tips for Self-Care and Avoiding Burnout
+
+### 1. Identify Your Motivations
+Reflect on what energizes you in open source work. Examples:
+- Positive feedback from users
+- Collaborating with community
+- Enjoyment of coding and problem-solving
+
+### 2. Reflect on Stress Triggers
+Track what makes you feel burned out, such as lack of feedback, overcommitment, isolation, or conflicting demands.
+
+### 3. Watch for Signs of Burnout
+Ask yourself:
+- Can I maintain this pace for 10 weeks? 10 months? 10 years?  
+- Use tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) or wearables to track stress and sleep.
+
+### 4. Sustain Yourself and Your Community
+- **Lean on the community** – delegate tasks, engage contributors, connect with peer groups like the [Maintainer Community](http://maintainers.github.com/).  
+- **Explore funding** – GitHub Sponsors, accelerators, grants.  
+- **Use tools** – GitHub Actions, Copilot for automating repetitive tasks.  
+- **Rest and recharge** – hobbies, sleep, time off, and setting GitHub status.  
+- **Set boundaries** – clearly communicate availability, priorities, and expectations.
+
+---
+
+## Additional Resources
+
+- [Maintainer Community](http://maintainers.github.com/)
+- [The Social Contract of Open Source](https://snarky.ca/the-social-contract-of-open-source/)
+- [Uncurled](https://daniel.haxx.se/uncurled/)
+- [SustainOSS](https://sustainoss.org/)
+- [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
+- [Saying No](https://mikemcquaid.com/saying-no/)
+
+---
+
+## Contributors
+
+Many thanks to all maintainers who shared their experiences and tips!  
+Written by [@abbycabs](https://github.com/abbycabs) with contributions from:  
+[@agnostic-apollo](https://github.com/agnostic-apollo), [@gabek](https://github.com/gabek), [@danielroe](https://github.com/danielroe), [@mikemcquaid](https://github.com/mikemcquaid), [@thisisnic](https://github.com/thisisnic), and many others.
+
+---
+
+**Labels (optional):** `guide`, `community`, `self-care`, `burnout`
