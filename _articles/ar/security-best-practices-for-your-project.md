@@ -1,84 +1,91 @@
 ---
 lang: ar
 untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+title: أفضل ممارسات الأمان لمشروعك
+description: عزز مستقبل مشروعك من خلال بناء الثقة من خلال الممارسات الأمان الأساسية — من MFA و مسح الكود الى الادارة الأمنة للتبعيات  وإعداد تقارير الثغرات الأمنية الخاصة.
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+<div dir="rtl" markdown="1">
+بغض النظر عن الأخطاء والميزات الجديدة، فإن طول عمر المشروع لا يتوقف فقط على فائدته ولكن أيضًا على الثقة التي يكتسبها من مستخدميه.من الضروري جدا  اتخاذ تدابير أمنية قوية للحفاظ على هذه الثقة حية. فيما يلي بعض الإجراءات المهمة التي يمكنك اتخاذها لتحسين أمان مشروعك بشكل كبير.
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## تأكد من أن جميع المساهمين أصحاب الامتيازات قد قاموا بتمكين المصادقة متعددة العوامل (MFA)
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### .ممثل  خبيث يتمكن من انتحال شخصية مساهم ذو امتيازات في مشروعك، سوف يتسبب في أضرار كارثية>>
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+بمجرد حصوله على حق الوصول المميز، يمكن لهذا الفاعل تعديل الكود الخاص بك لجعله يقوم بإجراءات غير مرغوب فيها (على سبيل المثال، تعدين العملة المشفرة),أو يمكنه نشر البرامج الضارة على البنية التحتية لمستخدميك،أو يمكنه الوصول إلى ملفات الكود علىGithub  لاستخراج الملكية الفكرية والبيانات الحساسة، بما في ذلك مفاتيح الوصول إلى خدمات أخرى. 
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+MFA توفر طبقة اضافية من الأمان ضد سؤقة الحساب. عندما تفعل يجب أن تسجل الدخول باسم مستخدمك وكلمة المرور بالاضافة الى شكل أخر من المصادقة أنت فقط تعرفه أو تستطيع الوصول اليه.
 
-## Secure your code as part of your development workflow
+## قم بتأمين الكود الخاص بك كجزء من سير عمل التطوير الخاص بك
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### يعد إصلاح الثغرات الأمنية في كودك أرخص عند اكتشافها في وقت مبكر من العملية مقارنةً بوقت لاحق، عند استخدامها في production.
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+استخدم أداة اختبار أمان التطبيق الثابت (SAST) للكشف عن الثغرات الأمنية في الكود الخاص بك. تعمل هذه الأدوات على مستوى الكود ولا تحتاج إلى بيئة تنفيذ، وبالتالي يمكن تنفيذها في وقت مبكر من العملية، ويمكن دمجها بسلاسة في سير عمل التطوير المعتاد لديك، أثناء البناء أو أثناء مراحل مراجعة الكود.
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+إنه مثل قيام خبير ماهر بإلقاء نظرة على ملف كودك ، مما يساعد في العثور على الثغرات الأمنية الشائعة التي قد تكون مختبئة على مرأى من الجميع أثناء البرمجة.
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+كيف تختار أداة SAST
+تأكد من التعليمات: بعض الأدوات مجانية للمشاريع مفتوحة المصدر. على سبيل المثال Github CodeQl, SemGrep.
+تأكد من تغطيتها للغاتك البرمجة.
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+* اختر واحدا يتكامل بسهولة مع الأدوات التي تستخدمها بالفعل, ومع عمليتك الحالية. على  سبيل المثال , من ألأفضل أن تكون التنبيهات متاحة كجزء من عملية وأداة مراحعة كودك الحالي بدلا من الانتقال الى أداة أحرى لرؤيتها.
+* احذر من الإيجابيات الكاذبة! أنت لا تريد أن تبطئك الأداة دون سبب!
+* تحقق من الميزات: بعض الأدوات قوية جدًا ويمكنها أن تتبع التلوث (taint tracking).
+* مثل : Github Codeql ,بعضها يقترح اصلاحات مقترحة من الAi,بعضها يجعل كتابة استعلامات مخصصة (custom queries) مثل : SemGrep.  
 
-## Don't share your secrets
+## لا تشارك أسرارك
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### بيانات حساسة مثل API keys,tokens, passwords قد تذهب بالخطأ في بعض الأحيان الى Github repository.
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+تخيل هذا السيناريو : أنت المسؤول عن مشروع مفتوح المصدر مشهور مع مساهمين مطورين من جميع أنحاء العالم .
+في يوم ما, يضع مساهم بدون معرفة مفاتيح الApi لخدمة من خارج المشروع(third party service) في Github repository.بعد بضعة أيام شخص يجد هذه المفاتيح ويستخدمها للوصول للخدمة بدون اذن. يتم اختراق الخدمة، ويواجه مساهمو مشروعك فترة توقف، وتتضرر سمعة مشروعك.بصفتك المسؤول عن المشروع أنت الأن أمام مهام مرهقة لاسترجاع المفاتيح المخترقة,التحقق من الأفعال السيئة والضارة الذي قد يكون ارتكبها هذا المهاجم بهذه المفاتيح, تنبيه المستخدمين المتأثرين والقيام ببعض الاصلاحات.
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+لمنع حوادث كهذه,حلول "secret scanning" موجودة لتساعد للكشف المبكر لأسرار كهذه في كودك. بعض الأدات ك Github Secret Scanning و  Trufflehog تتستطيع أن تمنعك من وضع هذه الأشياء على remote branches في المقام الأول, وبعض الأدوات ستزيل هذه الأسرار بشكل تلقائي لك.
 
-## Check and update your dependencies
+## تحقق وحدث الDependencies 
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+### Dependencies في مشروعك ممكن أن تحتوي على ثغرات قد تخترقه. القيام بتحديث الDependencies يدويا باليد ستكون مهمة مستهلكة للوقت.
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+تخيل هذا: مشروع مبني على أساس قوي لمكتبة مستخدمة على نطاق واسع , لاحقا المكتبة تواجه مشكلة أمنية كبيرة.لكن الناس الذين بنوا المشروع باستخدامها لا يعرفون عن هذه المشكلة. تُترك بيانات المستخدم الحساسة مكشوفة عندما يستغل المهاجم هذا الضعف، فينقض عليها للاستيلاء عليها. هذا ليس مثالا نظريا انما ما حدث تماما في  في 2017.لقد فشلوا في تحديث Apache Struts dependeny الخاص بهم بعد اشعارهم عن وجود ثغرة في الخادم.لقد تم استغلال هذه الثغرة، وأثرت عملية الاختراق الشهيرة لشركة Equifax على بيانات 144 مليون مستخدم.  
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+لمنع سيناريوهات كهذه, أدوات تحليل تكوين البرمجيات (SCA) مثل  Dependabot,Renvate تتحقق بشكل تلقائي من Dependencies الخاصة بك لأكثر الثغرات انتشارا في قواعد البيانات العامة مثل NVD,the Github Advisory Database ثم تنشأ pull requests لتحديثهم لأخر نسخ. مواكبة أخر التحديثات لل Dependencies الخاصة بمشروعك تحميه وتمنعه من المخاطر المحتملة.
 
-## Avoid unwanted changes with protected branches
+## تجنب تغيرات غير مرغوبة باستخدام protected branches
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### يمكن أن يؤدي الوصول الغير  المقيد لmain branch الى تغييرات عرضية التي قد تنتج ثغرات أمنية وتعطل استقرار مشروعك
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+ مساهم جديد يحصل على حق التعديل على main branch وعرضا يقوم برفع تعديلات جديدة لم تختبر بعد. ثم يتم الكشف عن خلل أمني خطير بسبب التغييرات الأخيرة. لمنع مشاكل كهذه, قواعد حماية ال branch تضمن عدم رفع أو دمج تغييرات للmain branches دون الخضوع أولاً للمراجعات واجتياز فحوصات الحالة المحددة.أنت أكثر أمانًا وأفضل مع تطبيق هذا الإجراء الإضافي، مما يضمن جودة عالية في كل مرة.
 
-## Set up an intake mechanism for vulnerability reporting
+## إنشاء آلية استقبال للإبلاغ عن نقاط الضعف
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### من الجيد أن تتيح لمستخدميك الإبلاغ عن الأخطاء بسهولة، لكن السؤال الأهم هو: عندما يكون لهذا الخطأ تأثير أمني، كيف يمكنهم الإبلاغ عنه بأمان دون أن يجعلوك هدفًا محتملاً للمتسللين الخبيثين؟
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
 
-### Security Policy
+تخيّل هذا الموقف: باحث أمني يكتشف ثغرة في مشروعك، لكنه لا يجد طريقة واضحة أو آمنة للإبلاغ عنها. في غياب عملية مخصصة لذلك، قد يقوم بإنشاء issue أو مناقشة الأمر علنًا على وسائل التواصل الاجتماعي. حتى لو كانت نواياه حسنة وقدّم إصلاحًا للمشكلة، فإن قيامه بذلك من خلال عمل pull request سيجعل الآخرين يرون الثغرة قبل أن يتم دمج الإصلاح!
+هذا الكشف العلني سيعرّض الثغرة للمهاجمين قبل أن تتاح لك فرصة معالجتها، مما قد يؤدي إلى استغلال من نوع "صفر يوم" (zero-day exploit) يستهدف مشروعك ومستخدميه.
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+### سياسة الأمان
 
-### Private Vulnerability Reporting
+لتجنب ذلك، قم بنشر سياسة أمان. تُعرّف سياسة الأمان في ملف `SECURITY.md`، وتوضح الخطوات اللازمة للإبلاغ عن المخاوف الأمنية، وتُنشئ عملية واضحة للكشف المنظم، وتحدد مسؤوليات فريق المشروع في معالجة القضايا المُبلّغ عنها. يمكن أن تكون سياسة الأمان بسيطة مثل: "يرجى عدم نشر التفاصيل في issue أو public pull request، أرسلوا لنا بريدًا إلكترونيًا خاصًا علىsecurity@example.com"، لكنها يمكن أن تتضمن أيضًا تفاصيل أخرى مثل متى يمكنهم توقع الحصول على رد منكم. أي شيء يمكن أن يُسهم في تعزيز فعالية وكفاءة عملية الكشف.
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+### الإبلاغ الخاص عن الثغرات الأمنية
 
-## Conclusion: A few steps for you, a huge improvement for your users
+في بعض المنصّات، يمكنك تبسيط وتعزيز عملية إدارة الثغرات الأمنية لديك من مرحلة الاستقبال إلى مرحلة النشر باستخدام القضايا الخاصة.في GitLab، يمكن القيام بذلك عبر Private Issues. أما فيGitHub، فيُطلق على ذلك اسم الإبلاغ الخاص عن الثغرات الأمنية Private Vulnerability Reporting PVR.تُتيح ميزة PVR للمسؤولين عن المشاريع استقبال تقارير الثغرات ومعالجتها بالكامل ضمن منصة GitHub.يقوم GitHub تلقائيًا بإنشاء نسخة خاصة(Private Fork) لكتابة الإصلاحات، بالإضافة إلى إصدار مسودة إشعار أمني (Security Advisory Draft).تبقى جميع هذه الإجراءات سرّية بالكامل حتى تقرر أنت الإفصاح عن المشكلة وإصدار الإصلاحات.
+وفي المرحلة الأخيرة، يتم نشر الإشعارات الأمنية (Security Advisories) لإبلاغ المستخدمين وحمايتهم من خلال أداة تحليل مكونات البرمجيات (SCA Tool).
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+## الخلاصة: خطوات قليلة منك، لكنها تُحدث فرقًا كبيرًا لمستخدميك.
 
-## Contributors
+قد تبدو هذه الخطوات بسيطة أو عادية بالنسبة لك، لكنها تُحدث فرقًا كبيرًا في جعل مشروعك أكثر أمانًا لمستخدميه، لأنها تُوفر حماية فعّالة ضد أكثر المشكلات شيوعًا.
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+## المساهمون
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+### جزيل الشكر لجميع المشرفين الذين شاركوا تجاربهم ونصائحهم معنا في إعداد هذا الدليل!
+
+تم كتابة هذا الدليل بواسطة [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) بمشاركة مساهمي من:
 
 [@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + many others!
+[@intrigus-lgtm](https://github.com/intrigus-lgtm) + أخرون .
+</div>
