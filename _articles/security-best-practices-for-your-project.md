@@ -54,7 +54,7 @@ To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dep
 
 ### Open source licenses come with terms and ignoring them can lead to legal and reputational risks.
 
-Using open source dependencies can speed up development, but each package includes a license that defines how it can be used, modified, or distributed. Some licenses are permissive, while others (like AGPL or SSPL) impose restrictions that may not be compatible with your project's goals or your users' needs.
+Using open source dependencies can speed up development, but each package includes a license that defines how it can be used, modified, or distributed. [Some licenses are permissive](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project), while others (like AGPL or SSPL) impose restrictions that may not be compatible with your project's goals or your users' needs.
 
 Imagine this: You add a powerful library to your project, unaware that it uses a restrictive license. Later, a company wants to adopt your project but raises concerns about license compliance. The result? You lose adoption, need to refactor code, and your project's reputation takes a hit.
 
