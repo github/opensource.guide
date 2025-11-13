@@ -96,7 +96,9 @@ If you're new to this, the [OWASP Threat Modeling Process](https://owasp.org/www
 
 Publishing a basic threat model alongside your security policy improves clarity for everyone.
 
-### Prepare a lightweight incident response process
+## Prepare a lightweight incident response process
+
+Most vulnerabilities are discovered by researchers and reported privately. But sometimes, an issue is already being exploited in the wild before it reaches you. When this happens, your downstream consumers are the ones at risk, and having a lightweight, well-defined incident response plan can make a critical difference.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ulisesgascon?s=180" class="pquote-avatar" alt="avatar">
@@ -106,22 +108,22 @@ Publishing a basic threat model alongside your security policy improves clarity 
   </p>
 </aside>
 
-Once you receive a vulnerability report, what happens next?
+Even when a vulnerability is reported privately, the next steps matter. Once you receive a vulnerability report or detect suspicious activity, what happens next?
 
-Having a basic incident response plan, even a simple checklist, helps you stay calm and act efficiently when time matters. It also shows users and researchers that you take reports seriously.
+Having a basic incident response plan, even a simple checklist, helps you stay calm and act efficiently when time matters. It also shows users and researchers that you take incidents and reports seriously.
 
 Your process doesn't have to be complex. At minimum, define:
 
-* Who reviews and triages security reports
-* How you evaluate severity and decide on mitigation
-* What steps you take to prepare a fix and publish a disclosure
-* How you notify affected users or contributors, if needed
+* Who reviews and triages security reports or alerts  
+* How severity is evaluated and how mitigation decisions are made  
+* What steps you take to prepare a fix and coordinate disclosure  
+* How you notify affected users, contributors, or downstream consumers, if needed  
 
 Coordinated disclosure works best when there's a clear plan. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
 
 For inspiration, the [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) provides a simple but effective example of an open source incident response plan.
 
-This plan can evolve as your project grows, but having a basic framework in place now can save time and reduce mistakes later.
+This plan can evolve as your project grows, but having a basic framework in place now can save time and reduce mistakes during a real incident.
 
 ## Treat security as a team effort
 
