@@ -117,7 +117,7 @@ Your process doesn't have to be complex. At minimum, define:
 * Who reviews and triages security reports or alerts  
 * How severity is evaluated and how mitigation decisions are made  
 * What steps you take to prepare a fix and coordinate disclosure  
-* How you notify affected users, contributors, or downstream consumers, if needed  
+* How you notify affected users, contributors, or downstream consumers 
 
 Coordinated disclosure works best when there's a clear plan. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
 
