@@ -98,7 +98,7 @@ Publishing a basic threat model alongside your security policy improves clarity 
 
 ## Prepare a lightweight incident response process
 
-### Having a basic incident response plan helps you stay calm and act efficiently, ensuring the safety of tour users and consumers.
+### Having a basic incident response plan helps you stay calm and act efficiently, ensuring the safety of your users and consumers.
 
 Most vulnerabilities are discovered by researchers and reported privately. But sometimes, an issue is already being exploited in the wild before it reaches you. When this happens, your downstream consumers are the ones at risk, and having a lightweight, well-defined incident response plan can make a critical difference.
 
