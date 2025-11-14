@@ -119,7 +119,7 @@ Your process doesn't have to be complex. At minimum, define:
 * What steps you take to prepare a fix and coordinate disclosure  
 * How you notify affected users, contributors, or downstream consumers 
 
-Coordinated disclosure works best when there's a clear plan. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
+An active incident, if not well managed, can erode trust in your project from your users. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
 
 For inspiration, the [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) provides a simple but effective example of an open source incident response plan.
 
