@@ -134,13 +134,13 @@ redirect_from: /zh-cn/legal/
 如果你们发布了公司的第一个开源项目，为了能通过，以上这些绰绰有余（不要担心，大多数项目不会引起重大关注）。
 长期来说，你们的法律团队可以做更多的事情，以帮助公司从开源中获得更多，并保持安全：
 
-* **员工贡献策略：**考虑制定一个公司策略，指明你们的员工如何为开源项目贡献。明确的政策将减少你们员工的迷惑，并帮助他们为公司的最佳利益向开源项目做贡献，无论是作为他们工作的一部分还是在自由时间。Rackspace的[Model IP和开源贡献策略](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)就是很好的示例。
+* **员工贡献策略：**考虑制定一个公司策略，指明你们的员工如何为开源项目贡献。明确的政策将减少你们员工的迷惑，并帮助他们为公司的最佳利益向开源项目做贡献，无论是作为他们工作的一部分还是在自由时间。Rackspace的[Model IP和开源贡献策略](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)就是很好的示例。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   放弃与补丁相关的知识产权以构建员工知识库和信誉。它表明，公司关心员工的发展，以及让员工有种被赋权和自主的感觉。所有这些好处还导致更高的士气和更好地保留员工。
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 
