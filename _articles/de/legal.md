@@ -142,7 +142,7 @@ Wenn Sie das erste Open-Source-Projekt Ihres Unternehmens veröffentlichen, ist 
 
 Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen, von seinem Engagement für Open-Source zu profitieren, und auf der sicheren Seite zu bleiben:
 
-* **Richtlinie für Beiträge von Angestellten:** Erwägen Sie die Entwicklung einer Unternehmenspolitik, die festlegt, wie Ihre Mitarbeiter\*innen zu Open-Source-Projekten beitragen. Eine klare Richtlinie verringert die Verwirrung unter Ihren Mitarbeiter\*innen und hilft ihnen dabei, Open-Source-Projekte im besten Interesse des Unternehmens zu unterstützen, sei es als Teil ihrer Arbeit oder in ihrer Freizeit. Ein gutes Beispiel von Rackspace ist deren [Model IP und Open-Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
+* **Richtlinie für Beiträge von Angestellten:** Erwägen Sie die Entwicklung einer Unternehmenspolitik, die festlegt, wie Ihre Mitarbeiter\*innen zu Open-Source-Projekten beitragen. Eine klare Richtlinie verringert die Verwirrung unter Ihren Mitarbeiter\*innen und hilft ihnen dabei, Open-Source-Projekte im besten Interesse des Unternehmens zu unterstützen, sei es als Teil ihrer Arbeit oder in ihrer Freizeit. Ein gutes Beispiel von Rackspace ist deren [Model IP und Open-Source Contribution Policy](https://ospo.co/blog/crafting-your-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
@@ -152,7 +152,7 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
   _Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention._
 
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 
