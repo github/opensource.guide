@@ -136,13 +136,13 @@ Se stai lanciando il primo progetto open source della tua azienda, quanto sopra 
 
 Nel lungo termine, il tuo team legale può fare di più per aiutare l'azienda a ottenere di più dal suo coinvolgimento open source e rimanere al sicuro:
 
-* **Regole per il contributo dei dipendenti:** Valuta la possibilità di sviluppare una politica aziendale che definisca il modo in cui i tuoi dipendenti contribuiscono ai progetti open source. Una politica chiara ridurrà la confusione tra i tuoi dipendenti e li aiuterà a contribuire a progetti open source nel migliore interesse dell'azienda, sia come parte del loro lavoro che nel loro tempo libero. Un buon esempio è [un IP modello e una politica di contributo open source](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) di Rackspace.
+* **Regole per il contributo dei dipendenti:** Valuta la possibilità di sviluppare una politica aziendale che definisca il modo in cui i tuoi dipendenti contribuiscono ai progetti open source. Una politica chiara ridurrà la confusione tra i tuoi dipendenti e li aiuterà a contribuire a progetti open source nel migliore interesse dell'azienda, sia come parte del loro lavoro che nel loro tempo libero. Un buon esempio è [un IP modello e una politica di contributo open source](https://ospo.co/blog/crafting-your-open-source-contribution-policy/) di Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Fornire proprietà intellettuale correzionale rafforza la base di conoscenze e la reputazione di un dipendente. Ciò dimostra che l'azienda ha investito nello sviluppo del dipendente e crea un senso di empowerment e autonomia. Tutti questi vantaggi portano anche a un morale più alto e a una migliore fidelizzazione dei dipendenti.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["Modello IP e politica di contributo open source"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["Modello IP e politica di contributo open source"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 

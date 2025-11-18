@@ -133,13 +133,13 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
 
 À plus long terme, votre équipe juridique peut faire davantage pour aider l'entreprise à tirer le meilleur parti de son implication dans l'open source et à rester en sécurité:
 
-* **Règles de contribution des employés :** Envisagez de développer une politique d'entreprise qui spécifie comment vos employés contribuent aux projets open source. Une politique claire réduira la confusion parmi vos employés et les aidera à contribuer à des projets open source dans le meilleur intérêt de l'entreprise, que ce soit dans le cadre de leur travail ou pendant leur temps libre. Un bon exemple est Rackspace [Modèle IP et Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
+* **Règles de contribution des employés :** Envisagez de développer une politique d'entreprise qui spécifie comment vos employés contribuent aux projets open source. Une politique claire réduira la confusion parmi vos employés et les aidera à contribuer à des projets open source dans le meilleur intérêt de l'entreprise, que ce soit dans le cadre de leur travail ou pendant leur temps libre. Un bon exemple est Rackspace [Modèle IP et Open Source Contribution Policy](https://ospo.co/blog/crafting-your-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Laisser l'adresse IP associée à un correctif crée la base de connaissances et la réputation de l'employé. Cela montre que l'entreprise est investie dans le développement de cet employé et crée un sentiment d'autonomie et d'autonomie. Tous ces avantages mènent également à un meilleur moral et à une meilleure rétention des employés.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 

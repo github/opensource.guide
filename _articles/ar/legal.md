@@ -144,13 +144,13 @@ related:
 
 على المدى الطويل، يمكن لفريقك القانوني أن يقوم بالمزيد لمساعدة الشركة على الاستفادة أكثر من مشاركتها في المصدر المفتوح، والبقاء آمنة.
 
-* **سياسات مساهمة الموظفين:** فكر في تطوير سياسة شركية تحدد كيف يساهم موظفوك في مشاريع مفتوحة المصدر. ستقلل سياسة واضحة من الالتباس بين الموظفين وتساعدهم على المساهمة في مشاريع مفتوحة المصدر بما يخدم مصلحة الشركة، سواء كجزء من وظائفهم أو في أوقات فراغهم. مثال جيد هو [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) لشركة Rackspace.
+* **سياسات مساهمة الموظفين:** فكر في تطوير سياسة شركية تحدد كيف يساهم موظفوك في مشاريع مفتوحة المصدر. ستقلل سياسة واضحة من الالتباس بين الموظفين وتساعدهم على المساهمة في مشاريع مفتوحة المصدر بما يخدم مصلحة الشركة، سواء كجزء من وظائفهم أو في أوقات فراغهم. مثال جيد هو [Model IP and Open Source Contribution Policy](https://ospo.co/blog/crafting-your-open-source-contribution-policy/) لشركة Rackspace.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   السماح بخروج الملكية الفكرية المرتبطة بإحدى الإضافات يعزز قاعدة معرفة الموظف و سمعته. كما يُظهر أن الشركة تستثمر في تطوير ذلك الموظف و يخلق شعوراً بالتمكين و الاستقلالية. كل هذه الفوائد تؤدي أيضاً إلى رفع الروح المعنوية و تحسين الاحتفاظ بالموظفين.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["سياسة نموذج الملكية الفكرية و مساهمة المصدر المفتوح "](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["سياسة نموذج الملكية الفكرية و مساهمة المصدر المفتوح "](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 
