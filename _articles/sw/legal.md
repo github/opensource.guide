@@ -136,13 +136,13 @@ Ikiwa unatoa mradi wa kwanza wa open source wa kampuni yako, mambo yaliyo hapo j
 
 Kwa muda mrefu, timu yako ya kisheria inaweza kufanya zaidi kusaidia kampuni kupata zaidi kutoka kwa ushiriki wake katika open source, na kubaki salama:
 
-* **Sera za mchango wa wafanyakazi:** Fikiria kuunda sera ya kampuni inayobainisha jinsi wafanyakazi wako wanavyoshiriki katika miradi ya open source. Sera wazi itapunguza mkanganyiko kati ya wafanyakazi wako na kuwasaidia kuchangia katika miradi ya open source kwa maslahi bora ya kampuni, iwe kama sehemu ya kazi zao au katika wakati wao wa ziada. Mfano mzuri ni [Sera ya Mfano ya IP na Mchango wa open source ya Rackspace](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
+* **Sera za mchango wa wafanyakazi:** Fikiria kuunda sera ya kampuni inayobainisha jinsi wafanyakazi wako wanavyoshiriki katika miradi ya open source. Sera wazi itapunguza mkanganyiko kati ya wafanyakazi wako na kuwasaidia kuchangia katika miradi ya open source kwa maslahi bora ya kampuni, iwe kama sehemu ya kazi zao au katika wakati wao wa ziada. Mfano mzuri ni [Sera ya Mfano ya IP na Mchango wa open source ya Rackspace](https://ospo.co/blog/crafting-your-open-source-contribution-policy/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Kuachilia IP inayohusiana na patch kunajenga msingi wa maarifa na sifa ya mfanyakazi. Inadhihirisha kwamba kampuni imewekeza katika maendeleo ya mfanyakazi huyo na inaunda hisia ya uwezeshaji na uhuru. Faida zote hizi pia zinapelekea morali ya juu na uhifadhi bora wa wafanyakazi.
   <p markdown="1" class="pquote-credit">
-— @vanl, ["Mfano wa Sera ya IP na Mchango wa open source"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["Mfano wa Sera ya IP na Mchango wa open source"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 
