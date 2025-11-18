@@ -132,13 +132,13 @@ redirect_from: /zh-tw/legal/
 如果你們發佈了公司的第一開源專案，爲了能通過，以上這些綽綽有餘（不要擔心，大多數專案不會引起重大關注）。
 長期來說，們的法律團隊可以做更多的事情，以幫助公司從開源中獲得更多，並保持安全：
 
-* **員工貢獻策略：**考慮制定一個公司策略，指明你們的員工如何爲開源專案貢獻。明確的政策將減少你們員工的迷惑，並幫助他們爲公司的最佳利益向開源專案做貢獻，無論是作爲他們工作的一部分還是在自由時間。Rackspace的[Model IP和開源貢獻策略](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)就是很好的示例。
+* **員工貢獻策略：**考慮制定一個公司策略，指明你們的員工如何爲開源專案貢獻。明確的政策將減少你們員工的迷惑，並幫助他們爲公司的最佳利益向開源專案做貢獻，無論是作爲他們工作的一部分還是在自由時間。Rackspace的[Model IP和開源貢獻策略](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)就是很好的示例。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
   放棄與補丁相關的只是產權以構建員工知識庫和信譽。它表明，公司關心員工的發展，以及讓員工有種被賦權和自主的感覺。所有這些好處還導致更高的士氣和更好地保留員工。
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 
