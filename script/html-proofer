@@ -26,6 +26,7 @@ url_ignores = [
   %r{^https://rockwoodleadership\.org/},
   %r{^https://(www\.)?npmjs\.com},
   %r{^https://(www\.)?quora\.com},
+  %r{^https?://(www\.)?medium\.com},
 ]
 
 HTMLProofer::Runner.new(
