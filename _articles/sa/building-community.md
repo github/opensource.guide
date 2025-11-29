@@ -1,17 +1,13 @@
 ---
 lang: sa
-title: समुदाय निर्माण
-class: building
-order: 6
-lang: sa
 title: "सौम्यसमुदायस्य निर्माणम्"
 description: "यः समुदायः लोकान् परियोजनस्य उपयोगे, योगदाने, च प्रचारे प्रोत्साहयति तस्य निर्माणस्य मार्गदर्शिका।"
 class: building
 order: 4
 image: /assets/images/cards/building.png
 related:
-	- best-practices
-	- coc
+  - best-practices
+  - coc
 ---
 
 ## परियोजनस्य सफलतायै व्यवथापनम्
