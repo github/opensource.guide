@@ -1,7 +1,13 @@
 ---
+  - finding
+  - best-practices
+---
+  - finding
+  - best-practices
+
 lang: sa
-title: "TRANSLATE: Open Source Metrics"
-description: "TRANSLATE: Make informed decisions to help your open source project thrive by measuring and tracking its success."
+title: "मापकानि — परियोजनस्य क्रियाशीलता-अन्वेषणम्"
+description: "परियोजनस्य सफलतायाः निर्णयेषु साहाय्याय परिमाणनं तथा अनुवर्तनं कुर्वन्तु।"
 class: metrics
 order: 9
 image: /assets/images/cards/metrics.png
@@ -10,47 +16,25 @@ related:
   - best-practices
 ---
 
-<!-- TRANSLATION TODO: Replace the English content below with Sanskrit translation. -->
+## किमर्थं मापनं आवश्यकम्
 
----
+दत्तानि यदि सम्यक् प्रकारेण प्रयोगेक्रियन्ते, तर्हि ते विकल्पान् सज्जीकर्तुं सहायतां ददन्ति। मापन-डेटा परियोजनस्य उपयोगकर्तृ व्यवहारं, लोकप्रियतां च सूचयितुं शक्नोति।
 
----
-lang: en
-title: Open Source Metrics
-description: Make informed decisions to help your open source project thrive by measuring and tracking its success.
-class: metrics
-order: 9
-image: /assets/images/cards/metrics.png
-related:
-  - finding
-  - best-practices
----
+## किम् मापयेत्
 
-## Why measure anything?
+* नयाँ विशेषतायाः प्रतिसादः
+* नव-उपयोगकर्तृभ्यः आगमन-स्रोतः
+* असाधारण-प्रयोग-प्रकरणानि यथापि समर्थनशीलानि वा न इति निर्णयः
+* परियोजनस्य लोकप्रियता परिमाणीकरणं
 
-Data, when used wisely, can help you make better decisions as an open source maintainer.
+## कुतः आरभेत्
 
-With more information, you can:
+यदा तव परियोजनस्य गतिविधिः ज्ञाता तदा त्वं उत्तमा-निर्णयानि ग्राहयितुं शक्नोषि — कत् कार्यं प्रथमं, कः सुधारः अधिक प्रभावी, कुत्र विज्ञापनं कुर्वीत इति।
 
-* Understand how users respond to a new feature
-* Figure out where new users come from
-* Identify, and decide whether to support, an outlier use case or functionality
-* Quantify your project's popularity
-* Understand how your project is used
-* Raise money through sponsorships and grants
+## साधनानि
 
-For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
+GitHub Insights, Google Analytics, तथा repository-विश्लेषण उपकरणानि उपयोगयतु। ईतानि उपकरणानि परियोजनस्य ट्राफिक्, रेफरर्-श्रेणी, तथा उपयोगकर्तृ-व्यवहारम् दर्शयन्ति।
 
-> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
+## निष्कर्षः
 
-Popularity isn't everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
-
-If you _are_ interested in understanding your project on a deeper level, read on for ways to analyze your project's activity.
-
-## Discovery
-
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
-
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
-
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
+मापनस्य परिणामान् बुद्धिपूर्वकं उपयोग्य परियोजनस्य दीर्घजीवित्वाय समुचित निर्णयान् गृह्यन्तु।

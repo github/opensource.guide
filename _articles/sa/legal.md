@@ -1,7 +1,14 @@
 ---
+  - contribute
+  - leadership
+---
+  - contribute
+  - leadership
+
+---
 lang: sa
-title: "TRANSLATE: The Legal Side of Open Source"
-description: "TRANSLATE: Everything you've ever wondered about the legal side of open source, and a few things you didn't."
+title: "मुक्तस्रोत् विधिक-पक्षः"
+description: "मुक्तस्रोत् सम्बन्धि विधिक-आवश्यकताः सरलरूपेण अवगन्तव्या:"
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
@@ -10,60 +17,24 @@ related:
   - leadership
 ---
 
-<!-- TRANSLATION TODO: Replace the English content below with Sanskrit translation. -->
+## विधिक-संदर्भस्य संक्षेपः
 
----
+यदा भवन्तः स्वस्य सर्जनात्मक-कृतिं विश्वे प्रकाशयन्ति, तदा तस्य कर्तव्येषु किञ्चन विधिक-प्रश्नाः भवन्ति। सामान्यतः मौलिककृतिः अधिकार-नियन्त्रणेन रक्षितः अस्ति; अतः इतराः स्वेच्छया तस्य उपयोगं, प्रतिलिपिं वा पर्यवस्थापनं न कुर्युः।
 
----
-lang: en
-title: The Legal Side of Open Source
-description: Everything you've ever wondered about the legal side of open source, and a few things you didn't.
-class: legal
-order: 10
-image: /assets/images/cards/legal.png
-related:
-  - contribute
-  - leadership
----
+मुक्तस्रोत् परिप्रेक्ष्ये, कर्ता इतरान् तेन उपयोगितुं इच्छति — तेन कारणेन लायसेंस् (license) निर्दिष्टुं आवश्यकम् यत् इतरैः स्पष्ट अधिकाराः प्रदातुं शक्यन्ते।
 
-## Understanding the legal implications of open source
+## योगदानस्य अधिकारः
 
-Sharing your creative work with the world can be an exciting and rewarding experience. It can also mean a bunch of legal things you didn't know you had to worry about. Thankfully, with this guide you don't have to start from scratch. (Before you dig in, be sure to read our [disclaimer](/notices/).)
+यदि परियोजनायाः पास् लायसेंस् नास्ति तर्हि योगदानानि तेषां लेखकानां स्वाम्येनाधीनानि भवन्ति; अतः तानि उपयोगितुं इतरैः स्पष्ट-सहमति आवश्यकम्।
 
-## Why do people care so much about the legal side of open source?
+## गीथब् सार्वजनिकः कृतः इति तत्तु लायसेंस् न भवति
 
-Glad you asked! When you make a creative work (such as writing, graphics, or code), that work is under exclusive copyright by default. That is, the law assumes that as the author of your work, you have a say in what others can do with it.
+गीथब् मध्ये रिपोजिटरी सार्वजनिकं कृतम् इति लायसेंस्-प्रदानं न भूयात्। सार्वजनिकता केवलं दर्शयति, परंतु अनुमति-प्रदानं न करóति। इति कारणेन, यद् भवतः परियोजनं इतरैः उपयोगितुं इच्छसि तर्हि सम्यक् मुक्तलायसेंस् स्थापितुं युक्तम्।
 
-In general, that means nobody else can use, copy, distribute, or modify your work without being at risk of take-downs, shake-downs, or litigation.
+## शीघ्र-निर्णयानि (TL;DR)
 
-Open source is an unusual circumstance, however, because the author expects that others will use, modify, and share the work. But because the legal default is still exclusive copyright, you need to explicitly give these permissions with a license.
+* सामान्य-लायसेंसाः: MIT, Apache 2.0, GPLv3 इत्यादयः प्रचलिताः।
+* लायसेंस्-निर्धारणेन परियोजना उपयोगस्य शर्ताः स्पष्टाः भवन्ति।
+* नव-परियोजनस्य आरम्भे लायसेंस् स्थापयितु शुश्रुषा उत्तमा।
 
-These rules also apply when someone contributes to your project. Without a license or other agreement in place, any contributions are exclusively owned by their authors. That means nobody -- not even you -- can use, copy, distribute, or modify their contributions.
-
-Finally, your project may have dependencies with license requirements that you weren't aware of. Your project's community, or your employer's policies, may also require your project to use specific open source licenses. We'll cover these situations below.
-
-## Are public GitHub projects open source?
-
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
-
-![Create repository](/assets/images/legal/repo-create-name.png)
-
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
-
-If you want others to use, distribute, modify, or contribute back to your project, you need to include an open source license. For example, someone cannot legally use any part of your GitHub project in their code, even if it's public, unless you explicitly give them the right to do so.
-
-## Just give me the TL;DR on what I need to protect my project.
-
-You're in luck, because today, open source licenses are standardized and easy to use. You can copy-paste an existing license directly into your project.
-
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) are [popular open source licenses](https://innovationgraph.github.com/global-metrics/licenses), but there are other options to choose from. You can find the full text of these licenses, and instructions on how to use them, on [choosealicense.com](https://choosealicense.com/).
-
-When you create a new project on GitHub, you'll be [asked to add a license](https://help.github.com/articles/open-source-licensing/).
-
-## Are public GitHub projects open source?
-
-When you [create a new project](https://help.github.com/articles/creating-a-new-repository/) on GitHub, you have the option to make the repository **private** or **public**.
-
-![Create repository](/assets/images/legal/repo-create-name.png)
-
-**Making your GitHub project public is not the same as licensing your project.** Public projects are covered by [GitHub's Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), which allows others to view and fork your project, but your work otherwise comes with no permissions.
+यदि आवश्यकं, विधिक-सलाहकारेण परिशीलनं अपि कर्तव्यम्।
