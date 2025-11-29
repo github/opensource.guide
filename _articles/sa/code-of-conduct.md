@@ -1,7 +1,7 @@
 ---
 lang: sa
-title: "TRANSLATE: Your Code of Conduct"
-description: "TRANSLATE: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct."
+title: "आचारसंहिताः"
+description: "समुचित आचारविधयः स्वीक्रियते चेत् समुदायस्य स्वस्थं तथा रचनात्मकं आचरणं प्रसरीकर्तुं शक्यते।"
 class: coc
 order: 8
 image: /assets/images/cards/coc.png
@@ -10,119 +10,61 @@ related:
   - leadership
 ---
 
-<!-- TRANSLATION TODO: Replace the English content below with Sanskrit translation. -->
+## किमर्थं आचारसंहितां योजयेत्?
+
+आचारसंहिता इति एकः दस्तावेयः यः परियोजनस्य सहभागिभ्यः अपेक्षितं आचरणम् निर्दिशति। आचारसंहितां स्वीक्रियित्वा तद् पालनं च कृत्वा भवन्तु समुदायस्य मध्ये सकारात्मकं सामाजिकपरिसरं सृष्टुं शक्यते।
+
+आचारसंहिताः केवलं सहभागिभ्यः पुनर्य न रक्षन्ति, किन्तु परियोजना-परिचालकस्य अपि सुरक्षा वर्धयन्ति। यदि भवतः परियोजनम् परिचालयति, अनुत्पादकमन्येषां दृष्टिकोनाः दीर्घे कालाद् आपदां दातुं शक्नुवन्ति।
+
+आचारसंहिता भवतः समुदायस्य स्वस्थम्, रचनात्मकम् आचरणं प्रवर्तयितुं शक्तिम् ददाति। पूर्वसंग्रहेण नीति-स्पष्टता भवति यत् भवतः वा अन्येषां परियोजना-कार्ये क्लान्तिः न जायेत्, तथा यदि कश्चन अपर्यायं कृते तर्हि तस्मात् शीघ्रं कृत्यं स्वीकरोति।
+
+## आचारसंहितायाः संस्थापनम्
+
+यथाशक्ति शीघ्रं आचारसंहितां स्थापयतु — आदर्शतः यदा प्रथमं परियोजनं निर्माति।
+
+आपेक्ष्याः व्याख्यायै अपि, आचारसंहिता निम्नान् विषयान् निर्दिशति:
+
+* कुत्र आचारसंहिता प्रावर्तते (केवलं इश्यू तथा पुल-रिक्वेस्ट् मध्ये वा समुदाय-कार्यक्रमेषु अपि?)
+* केषां प्रति आचारसंहिता लागू भवति (समुदायस्य सदस्याः वा परिचालकाः, प्रायोजकाः च कथम्?)
+* यदि कश्चन आचारसंहितां उल्लङ्घयति तर्हि का प्रक्रिया अस्ति
+* कोऽपि कथं उल्लङ्घनानि प्रतिवेदयेत्
+
+यत्र शक्यं तत्र पूर्व-प्रतिमानान् (prior art) अनुगच्छतु। [Contributor Covenant](https://contributor-covenant.org/) इत्यादि बहुषु मुक्तस्रोतपरियोजनासु उपयुक्ता आचारसंहिता अस्ति।
+
+परियोजनस्य मूलरूपे `CODE_OF_CONDUCT` नामकं दस्ता‍वेज् स्थापयित्वा तस्य सङ्ग्रहणं `CONTRIBUTING` वा `README` मध्ये लिङ्क् कृत्वा दृश्यं करोतु।
+
+## आचारसंहितायाः प्रवर्तन-नीतिः निर्धारितु
+
+आचारसंहितायाः पालनं कथं करिष्यते इति पूर्वमेव स्पष्टं करोतु। एषा प्रक्रिया आवश्यकम् अस्ति यतः:
+
+* यदा कार्यं आवश्यकं तदा त्वं गम्भीरः असि इति प्रदर्शनं भवति।
+* समुदायः अधिकं निश्चिन्तः भवति यत् प्रतिवेदनानि सम्यक् परीक्षणेन समीकृतानि भवन्ति।
+* समिक्षा-प्रक्रिया न्यायपूर्णा च पारदर्शकः इति आश्वासनं ददाति।
+
+लघु वा गोपनीयपथेन (उदाहरणार्थ ईमेल्) रिपोर्ट् गन्तुम् मार्गं दत्तुम् युक्तम्, तथा कथं रिपोर्ट् प्राप्तः अस्ति तद् स्पष्टं कर्तव्यम्।
+
+## आचारसंहितायाः प्रवर्तनम्
+
+यदा कदाचित् कश्चन आचारसंहितायाः उल्लङ्घनं कथयति तदा तस्य समाधानाय विभिन्नाः उपायाः सन्ति।
+
+### परिस्तिथि-विश्लेषणं कुर्व
+
+प्रत्येकस्य समुदायस्य सदस्यस्य वाच्यं महत्वपूर्णम् इव गृह्णीयात्। यदा कश्चन उल्लङ्घनस्य प्रतिवेदनं प्राप्तम्, तर्हि तत्र सम्यक् अनुसन्धानं करोतु। तेन समुदाये भवतः निर्णये विश्वासः वर्धते।
+
+### यथोचितं कर्म करोतु
+
+परिस्थितिः अवलोक्य यथोचितानि निर्णयानि गृह्यन्ते — सार्वजनिकतया चेत् सूचितं, निजतया चेत् समुपदेशनं, वा आवश्यकतया तात्कालिक-निषेधः।
+
+यदि विस्मरणीयम् वा पुनरावृत्तं व्यवहारः आसीत् तर्हि अधिकं प्रबलानि उपायाः (अल्पकालिक-प्रतिबन्धः, दीर्घकालिक-प्रतिबन्धः) अपि ग्रह्यन्ते।
+
+## परिचालकस्य उत्तरदायित्वम्
+
+आचारसंहिता केवलं कागदं न भवेत् — तस्य पालनम् सुनिश्चितं करणीयम्। परिचालकः आचारसंहितायाः नियमाः स्थापयति तथा तान् समाननियमेन साधयितुं उत्तरदायित्वं वहति।
+
+यदि प्रतिवेदनं यथा उल्लङ्घनम् न स्यात् इति निर्णेतुं तर्हि स्पष्टं प्रत्युत्तरं दत्त्वा कारणम् सूचयतु।
+
+## यत् वाञ्छसि तत् आचरणं प्रोत्साहयतु
+
+यदि परियोजना विरूपं वा नास्वीकृतं इति दृश्यते तर्हि योगदानकर्तॄणाम् दूर्यम् भवति। अतः स्वागतकरं वातावरणं स्थापयित्वा समुदायस्य वृद्ध्यर्थं प्रयत्नः कुर्यात्।
 
 ---
-
----
-lang: en
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
-class: coc
-order: 8
-image: /assets/images/cards/coc.png
-related:
-  - building
-  - leadership
----
-
-## Why do I need a code of conduct?
-
-A code of conduct is a document that establishes expectations for behavior for your project's participants. Adopting, and enforcing, a code of conduct can help create a positive social atmosphere for your community.
-
-Codes of conduct help protect not just your participants, but yourself. If you maintain a project, you may find that unproductive attitudes from other participants can make you feel drained or unhappy about your work over time.
-
-A code of conduct empowers you to facilitate healthy, constructive community behavior. Being proactive reduces the likelihood that you, or others, will become fatigued with your project, and helps you take action when someone does something you don't agree with.
-
-## Establishing a code of conduct
-
-Try to establish a code of conduct as early as possible: ideally, when you first create your project.
-
-In addition to communicating your expectations, a code of conduct describes the following:
-
-* Where the code of conduct takes effect _(only on issues and pull requests, or community activities like events?)_
-* Whom the code of conduct applies to _(community members and maintainers, but what about sponsors?)_
-* What happens if someone violates the code of conduct
-* How someone can report violations
-
-Wherever you can, use prior art. The [Contributor Covenant](https://contributor-covenant.org/) is a drop-in code of conduct that is used by over 40,000 open source projects, including Kubernetes, Rails, and Swift.
-
-The [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Citizen Code of Conduct](https://web.archive.org/web/20200330154000/http://citizencodeofconduct.org/) are also two good code of conduct examples.
-
-Place a CODE_OF_CONDUCT file in your project's root directory, and make it visible to your community by linking it from your CONTRIBUTING or README file.
-
-## Deciding how you'll enforce your code of conduct
-
-<aside markdown="1" class="pquote">
-  A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
-  <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
-  </p>
-</aside>
-
-You should explain how your code of conduct will be enforced **_before_** a violation occurs. There are several reasons to do so:
-
-* It demonstrates that you are serious about taking action when it's needed.
-
-* Your community will feel more reassured that complaints actually get reviewed.
-
-* You'll reassure your community that the review process is fair and transparent, should they ever find themselves investigated for a violation.
-
-You should give people a private way (such as an email address) to report a code of conduct violation and explain who receives that report. It could be a maintainer, a group of maintainers, or a code of conduct working group.
-
-Don't forget that someone might want to report a violation about a person who receives those reports. In this case, give them an option to report violations to someone else. For example, @ctb and @mr-c [explain on their project](https://github.com/dib-lab/khmer/blob/HEAD/CODE_OF_CONDUCT.rst), [khmer](https://github.com/dib-lab/khmer):
-
-> Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by emailing **khmer-project@idyll.org** which only goes to C. Titus Brown and Michael R. Crusoe. To report an issue involving either of them please email **Judi Brown Clarke, Ph.D.** the Diversity Director at the BEACON Center for the Study of Evolution in Action, an NSF Center for Science and Technology.*
-
-For inspiration, check out Django's [enforcement manual](https://www.djangoproject.com/conduct/enforcement-manual/) (though you may not need something this comprehensive, depending on the size of your project).
-
-## Enforcing your code of conduct
-
-Sometimes, despite your best efforts, somebody will do something that violates this code. There are several ways to address negative or harmful behavior when it comes up.
-
-### Gather information about the situation
-
-Treat each community member's voice as important as your own. If you receive a report that someone violated the code of conduct, take it seriously and investigate the matter, even if it does not match your own experience with that person. Doing so signals to your community that you value their perspective and trust their judgment.
-
-The community member in question may be a repeat offender who consistently makes others feel uncomfortable, or they may have only said or done something once. Both can be grounds for taking action, depending on context.
-
-Before you respond, give yourself time to understand what happened. Read through the person's past comments and conversations to better understand who they are and why they might have acted in such a way. Try to gather perspectives other than your own about this person and their behavior.
-
-<aside markdown="1" class="pquote">
-  Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
-  <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
-  </p>
-</aside>
-
-### Take appropriate action
-
-After gathering and processing sufficient information, you'll need to decide what to do. As you consider your next steps, remember that your goal as a moderator is to foster a safe, respectful, and collaborative environment. Consider not only how to deal with the situation in question, but how your response will affect the rest of your community's behavior and expectations moving forward.
-
-When somebody reports a code of conduct violation, it is your, not their, job to handle it. Sometimes, the reporter is disclosing information at great risk to their career, reputation, or physical safety. Forcing them to confront their harasser could put the reporter in a compromising position. You should handle direct communication with the person in question, unless the reporter explicitly requests otherwise.
-
-There are a few ways you might respond to a code of conduct violation:
-
-* **Give the person in question a public warning** and explain how their behavior negatively impacted others, preferably in the channel where it occurred. Where possible, public communication conveys to the rest of the community that you take the code of conduct seriously. Be kind, but firm in your communication.
-
-* **Privately reach out to the person** in question to explain how their behavior negatively impacted others. You may want to use a private communication channel if the situation involves sensitive personal information. If you communicate with someone privately, it's a good idea to CC those who first reported the situation, so they know you took action. Ask the reporting person for consent before CCing them.
-
-Sometimes, a resolution cannot be reached. The person in question may become aggressive or hostile when confronted or does not change their behavior. In this situation, you may want to consider taking stronger action. For example:
-
-* **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
-
-* **Permanently ban** the person from the project
-
-Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
-
-## Your responsibilities as a maintainer
-
-A code of conduct is not a law that is enforced arbitrarily. You are the enforcer of the code of conduct and it's your responsibility to follow the rules that the code of conduct establishes.
-
-As a maintainer you establish the guidelines for your community and enforce those guidelines according to the rules set forth in your code of conduct. This means taking any report of a code of conduct violation seriously. The reporter is owed a thorough and fair review of their complaint. If you determine that the behavior that they reported is not a violation, communicate that clearly to them and explain why you're not going to take action on it. What they do with that is up to them: tolerate the behavior that they had an issue with, or stop participating in the community.
-
-In the end, as a maintainer, you set and enforce the standards for acceptable behavior. You have the ability to shape the community values of the project, and participants expect you to enforce those values in a fair and even-handed way.
-
-## Encourage the behavior you want to see in the world 🌎
-
-When a project seems hostile or unwelcoming, even if it's just one person whose behavior is tolerated by others, you risk losing many more contributors, some of whom you may never even meet. It's not always easy to adopt or enforce a code of conduct, but fostering a welcoming environment will help your community grow.

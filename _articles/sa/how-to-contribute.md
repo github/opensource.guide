@@ -10,86 +10,49 @@ related:
   - building
 ---
 
-<!-- TRANSLATION TODO: Replace the English content below with Sanskrit translation. -->
+title: "योगदानं कथं कुर्यात्"
+description: "यदि त्वं मुक्तस्रोत् योगदानं कर्तुं इच्छसि तर्हि एषा मार्गदर्शिका प्रथम-पठकेभ्यः अनुभवीषु पर्यन्तम् उपयोगी भवति।"
+
+## किं कारणेन योगदानं कुर्याम्?
+
+मुक्तस्रोत् योगदानं क्रियते चेत् शिक्षणं, शिक्षयन्, अनुभव-संग्रहश्च साध्यते। अनेकानि कारणानि सन्ति यत् जनाः योगदानं कुर्वन्ति।
+
+### यत् तव उपयोगे सॉफ्टवेअरस्य सुधारय
+
+बहूनि योगदानकर्तारः स्वस्य उपयोगे यः सॉफ़्टवेअरः अस्ति तस्मै प्रारम्भं कुर्वन्ति। यदि त्वं किञ्चन दोषं गृहीत्वा स्वयमेव सुधारयितुं शक्नोषि तर्हि तस्य प्रतिपुष्टिं समुदायं लभेत्।
+
+### विद्यमानकौशलं वर्धय
+
+लेखनम्, डिजाइनम्, परीक्षणम्, वा मिलन-व्यवस्था — सर्वत्र तुम्हारे प्रयत्नः उपयोगी भवति। मुक्तस्रोत् परियोजनासु तवानुभवः वर्धते।
+
+### समानरुचीनां सह मण्डलम् प्राप्तु
+
+सुसम्बद्धाः समुदायाः दीर्घकालं लोकान् आकर्षयन्ति। सम्मेलनानि वा अनुष्ठान-समये जनैः सह संवादः मित्रतां जन्मयति।
+
+### मार्गदर्शकान् विमर्शय
+
+अन्यैः सह कार्यं कृत्वा तव कार्यपद्धतिं स्पष्टं कर्तुं शक्यते, तथा शिक्षणं तथा शिक्षयितुं अवसरः भवति।
+
+### सार्वजनिकप्रतीकानि निर्माय प्रतिष्ठां वर्धय
+
+यत् त्वद् मुक्तस्रोत् कार्यं सार्वजनिकम् अस्ति तर्हि तद् भवतः क्षमतानां प्रदर्शने उदाहरणानि दधाति।
+
+### मानवीयकौशलान् अधिगच्छ
+
+परियोजनायाम् नेतृत्वं व्यवस्थापनञ्च अभ्यासेन लभ्यते।
+
+## योगदानस्य अर्थः
+
+यदि भवान् नवयोगदानकर्तृ अस्ति तर्हि आरम्भतः मार्गदर्शिका अपेक्ष्यते — किम् परियोजना उचितम्? किम् जनाः अपेक्षन्ते?
+
+### अनिवार्यं न कोड् एव
+
+योगदानस्य कारणम् केवलं कोड् नास्ति। दस्तावेजनम्, डिजाइनः, परीक्षाः, अनुवादः — एते सर्वे योगदानस्य भागाः।
+
+### कार्यक्रमान् आयोजनं करोति
+
+* कार्यशाला वा Meetup आयोजनं कुर्व
+* यदि परियोजनस्य सम्मेलनं अस्ति तर्हि तस्य आयोजनं साहाय्यं कुरु
+* समुदायस्य सदस्यान् सम्मेलन-प्रस्तावानि दातुम् मार्गदर्शय
 
 ---
-
----
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and veterans.
-class: contribute
-order: 1
-image: /assets/images/cards/contribute.png
-related:
-  - beginners
-  - building
----
-
-## Why contribute to open source?
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
-  <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
-  </p>
-</aside>
-
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
-
-Why do people contribute to open source? Plenty of reasons!
-
-### Improve software you rely on
-
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
-
-### Improve existing skills
-
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
-
-### Meet people who are interested in similar things
-
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
-
-### Find mentors and teach others
-
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
-
-### Build public artifacts that help you grow a reputation (and a career)
-
-By definition, all of your open source work is public, which means you get free examples to take anywhere as a demonstration of what you can do.
-
-### Learn people skills
-
-Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
-
-### It's empowering to be able to make changes, even small ones
-
-You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
-
-## What it means to contribute
-
-If you're a new open source contributor, the process can be intimidating. How do you find the right project? What if you don't know how to code? What if something goes wrong?
-
-Not to worry! There are all sorts of ways to get involved with an open source project, and a few tips will help you get the most out of your experience.
-
-### You don't have to contribute code
-
-A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-  I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
-  <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
-  </p>
-</aside>
-
-Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
-
-### Do you like planning events?
-
-* Organize workshops or meetups about the project, [like @fzamperin did for NodeSchool](https://github.com/nodeschool/organizers/issues/406)
-* Organize the project's conference (if they have one)
-* Help community members find the right conferences and submit proposals for speaking

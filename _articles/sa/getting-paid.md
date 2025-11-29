@@ -10,56 +10,31 @@ related:
   - leadership
 ---
 
-<!-- TRANSLATION TODO: Replace the English content below with Sanskrit translation. -->
+title: "परियोजनकार्ये वित्तलभः"
+description: "यदा भवतः मुक्तस्रोत् योगदानं वित्तसमर्थनं लभते तदा तव समयस्य स्थिरतां निर्वाहितुम् शक्यते।"
+
+## कतिपयजनाः वित्तसमर्थनं किमर्थम् अन्विष्यन्ति
+
+अनेकं मुक्तस्रोत् कार्यं स्वैच्छिकरूपेण भवति। कतिचित् व्यक्तयः परिपाल्यतः परियोजने दोषं दृश्यन्ते चेत् तस्य शीघ्र-समाधानं दातुम् इच्छन्ति, अथवा अवकाशकाले परियोजन-संस्पर्शे आनन्दं अनुभवन्ति।
+
+किचनैषां वित्तसमर्थनम् न स्वीकर्तु: इति कारणानि अपि सन्ति — उदा., कश्चन पूर्णकालिकं कर्म कुर्वन् यः स्वयमेव वित्त-आश्रितः अस्ति।
+
+यस्यापि कारणेन, यदि परियोजनस्य सम्यक् सञ्चालनार्थं वित्तयोजना अपेक्षितम् अस्ति तर्हि वित्तलाभः योगदानदातुः परियोजनस्य दीर्घजीवित्वे साहाय्य करिष्यति।
+
+## परिचालनस्य भारस्य विचारः
+
+लोकप्रियानि परियोजनानि राखयितुं बहुगुणं समयं अपि आवश्यकम् — येषां व्यवस्थापनं सप्ताहे १०-२० घटिकाः व्यतीते इति सामान्यम्। अनेन कारणेन स्थिरं वित्तसमर्थनं प्राप्यते तदा परिचालकानां उत्तरदायित्वं सुगमम् भवति।
+
+## विकल्पाः
+
+वित्तसमर्थनस्य विकल्पाः — दानम्, प्रायोजकता, ग्रान्ट्, अथवा व्यावसायिक-समर्थनम् इत्यादयः। परियोजनस्य प्रकृत्या यत् उपयुक्तम् तद् विकल्पम् चिन्तयतु।
+
+## पारदर्शिता तथा अपेक्षाः
+
+यदि वित्तलाभः स्वीक्रियते तर्हि स्पष्टं विवरणं दत्तव्यम् कथं धनं उपयोग्यते तथा वित्त-हितम् कः गृह्णाति इति। एतत् समुदायस्य विश्वासम् आरभ्यते।
+
+## निषेधात्मक चिन्ताः
+
+कदाचित् दान-स्वीकृतिः योगदानकर्तॄणां उत्साहे परिवर्तनं करोति; अतः समुदायस्य अपेक्षाः तथा दान-नीतिः स्पष्टतया लिखिताः भवन्तु।
 
 ---
-
----
-lang: en
-title: Getting Paid for Open Source Work
-description: Sustain your work in open source by getting financial support for your time or your project.
-class: getting-paid
-order: 7
-image: /assets/images/cards/getting-paid.png
-related:
-  - best-practices
-  - leadership
----
-
-## Why some people seek financial support
-
-Much of the work of open source is voluntary. For example, someone might come across a bug in a project they use and submit a quick fix, or they might enjoy tinkering with an open source project in their spare time.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
-  <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
-  </p>
-</aside>
-
-There are many reasons why a person would not want to be paid for their open source work.
-
-* **They may already have a full-time job that they love,** which enables them to contribute to open source in their spare time.
-* **They enjoy thinking of open source as a hobby** or creative escape and don't want to feel financially obligated to work on their projects.
-* **They get other benefits from contributing to open source,** such as building their reputation or portfolio, learning a new skill, or feeling closer to a community.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
-  <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
-  </p>
-</aside>
-
-For others, especially when contributions are ongoing or require significant time, getting paid to contribute to open source is the only way they can participate, either because the project requires it, or for personal reasons.
-
-Maintaining popular projects can be a significant responsibility, taking up 10 or 20 hours per week instead of a few hours per month.
-
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
-  <p markdown="1" class="pquote-credit">
-— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
-  </p>
-</aside>
