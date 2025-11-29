@@ -1,12 +1,4 @@
 ---
-  - beginners
-  - building
----
-
-<!-- TRANSLATION TODO: Replace the English content below with Sanskrit translation. -->
-
----
-
 lang: sa
 title: "परियोजनस्य उपयोगकर्तॄणाम् अन्वेषणम्"
 description: "तव मुक्तस्रोत् परियोजनायाः सुखेन उपयोगकर्तॄणाम् समागमनस्य मार्गाः।"
