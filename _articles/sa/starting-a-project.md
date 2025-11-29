@@ -1,7 +1,7 @@
 ---
 lang: sa
-title: "TRANSLATE: Starting a Project"
-description: "TRANSLATE: A short guide for starting an open source project — pick a problem, pick collaborators, and ship something people will use."
+title: "परियोजनारम्भः"
+description: "मुक्तस्रोत परियोजनम् आरम्भाय लघु मार्गदर्शिका — समस्या चिन्व, सहकर्मिणः चयनय, उपयोगाय योग्यं किञ्च प्रकाशितु।"
 class: starting
 order: 2
 image: /assets/images/cards/starting-a-project.png
@@ -10,42 +10,28 @@ related:
   - building
 ---
 
-<!-- TRANSLATION TODO: Replace the English content below with Sanskrit translation. -->
+## किमर्थं परियोजनम् आरभेतुम्?
 
----
+किं कारणेन भवतः परियोजनम् आरभेतुम्? कदाचित् भवतः दृष्टे कश्चन समस्या अस्ति यत् अन्येऽपि समाधानं न दत्तवन्तः; कदाचित् स्वकिञ्चित् अनुशोभनार्थं वा अभ्यासार्थं परियोजनं आरभेतुम् इच्छसि; अथवा तव कार्यस्य प्रदर्शनेषु कोऽपि सन्दर्भार्थं किञ्च निर्माणं कर्तुम् इच्छसि। यत् कारणं भवेत्, परियोजनारम्भः ज्ञानं लभितुं च समुदायस्य योगदानं पालयितुं सुखप्रदः मार्गः अस्ति।
 
----
-lang: en
-title: Starting a Project
-description: A short guide for starting an open source project — pick a problem, pick collaborators, and ship something people will use.
-class: starting
-order: 2
-image: /assets/images/cards/starting-a-project.png
-related:
-  - best-practices
-  - building
----
+## त्वया चिन्तनीया समस्या चिन्व
 
-## Why start a project?
+यदि त्वं समस्यायाः विषये चित्तं न दास्यसि तर्हि अन्येऽपि न दास्यन्ति। तस्यर्थम् त्वया रोचकं वा उपयोगकरं इति मन्यते तादृशं समस्या चिन्व। उत्तमानि परियोजनानि ते सन्ति यानि तन्मध्ये लेखकस्य वा उपयोगकर्तारः कृत्येषु साहाय्यं कुर्वन्ति।
 
-Why would you start an open source project? Maybe you saw a problem that no existing project solved; maybe you want to scratch an itch; maybe you want to build something for your resume. Whatever the reason, starting a project is a rewarding way to learn and contribute.
+## लघु तथा केन्द्रितं रक्षतु
 
-## Pick a problem you care about
+लघु-क्षेत्रे लक्षितं परियोजनं आरभ्य तस्य सफलस्य सम्भावना वर्धते। न्यूनतमं कार्यक्षमं रूपम् (MVP) निर्माता चानन्तरम् प्रवर्तय; तेन शीघ्रं उपयोगकर्तॄणां च योगदानकर्तॄणां आगमनं सम्भवति। स्पष्टं सीमितं लक्ष्यं स्थापयितुं प्रयत्नं कुरु।
 
-If you don't care about the problem, chances are others won't either. Pick something you find interesting and useful. The best projects solve problems that matter to their authors and users.
+## सहकर्मिणः अन्वेषयतु
 
-## Keep it small and focused
+मुक्तस्रोतपरियोजनाः सामान्यतया अन्यानां सहयोगेन वृध्दिं याति। प्रारम्भिककार्ये मित्राणाम् वा सहकर्मिणाम् पृच्छतु यत् सहायतां दास्यन्ति। प्रारम्भिकयोगदानकर्तारः दस्तावेजनम्, परीक्षणम्, प्रचारः च कर्तुं शक्नुवन्ति।
 
-Starting with a small, well-scoped project increases your chance of success. Build a minimum viable product (MVP) and iterate from there. It's easier to attract users and contributors when your project solves a small, clear problem.
+## यत् लोकैः उपयोग्यं भवति तत् प्रकाशयतु
 
-## Find collaborators
+मूल्यं प्रदातुम् केन्द्रं कुर्व। यदि भवतः परियोजनं कस्यापि कर्म कृत्वा सुलभतया सिद्ध्यति अथवा कश्चन समस्या निराकुर्यात्, तर्हि उपयोगकर्तृभः तं अनुकरणीयं मन्यन्ते। परियोजनस्य स्पष्टं दस्तावेजनं दत्तव्यम्, उदाहरणानि प्रदातव्यानि, आरम्भस्य मार्गदर्शिका च सुकरं कृत्वा प्रदातव्या।
 
-Open source projects benefit from having other people involved. Consider asking friends or colleagues to help you with the initial work. Early contributors can help with documentation, testing, and spreading the word about your project.
+## नित्यम् संवर्धय
 
-## Ship something people will use
+प्रतिक्रिया सङ्ग्रहय, पुनरावृत्तिं कुर्व, च उपयोगकर्तॄणां अपेक्षायाम् प्रत्युत्तरं दातुं सज्जः भव। व्यावहारिकपद्धत्या सानुकूल्यं कृत्वा नियमितं सुधाराः प्रकाशयेत् यत् परियोजनस्य ग्रহণशीलता वर्धयति।
 
-Focus on delivering value. If your project helps people accomplish a task or solves a problem, users will appreciate it. Document your project clearly, provide examples, and make it easy to get started.
-
-## Keep improving
-
-Collect feedback, iterate, and be responsive to users. Being pragmatic and shipping regular improvements will help your project gain traction.
+यदि इच्छसि, अन्यानि `sa` लेखान् अहं अपि संस्कृते अनुवादितुं आरभेयं।
