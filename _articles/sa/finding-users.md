@@ -8,6 +8,7 @@ image: /assets/images/cards/finding.png
 related:
   - beginners
   - building
+
 ---
 
 ## प्रचारस्य आरम्भः
