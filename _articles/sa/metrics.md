@@ -1,10 +1,4 @@
 ---
-  - finding
-  - best-practices
----
-  - finding
-  - best-practices
-
 lang: sa
 title: "मापकानि — परियोजनस्य क्रियाशीलता-अन्वेषणम्"
 description: "परियोजनस्य सफलतायाः निर्णयेषु साहाय्याय परिमाणनं तथा अनुवर्तनं कुर्वन्तु।"

@@ -1,11 +1,4 @@
 ---
-  - contribute
-  - leadership
----
-  - contribute
-  - leadership
-
----
 lang: sa
 title: "मुक्तस्रोत् विधिक-पक्षः"
 description: "मुक्तस्रोत् सम्बन्धि विधिक-आवश्यकताः सरलरूपेण अवगन्तव्या:"
