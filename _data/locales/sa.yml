@@ -1,0 +1,33 @@
+# Sanskrit locale file — values copied from `en.yml` as placeholders.
+# Please replace English strings with Sanskrit translations where appropriate.
+sa:
+  locale_name: "संस्कृतम्"
+  nav:
+    about: "परिचयः"
+    contribute: "योगदानम्"
+  index:
+    lead: "मुक्त-स्रोत् सॉफ्टवेअर् तव इव व्यक्तिभिः निर्मितम् अस्ति। परियोजनम् आरम्भयितुं तथा विकासयितुं शिक्षस्व।"
+    opensourcefriday: "शुक्रवासरः अस्ति! कतिपयः घण्टाः दत्वा त्वम् प्रयोगेषु योगदानं कुरु।"
+  article:
+    table_of_contents: "अनुक्रमणिका"
+    back_to_all_guides: "सर्व मार्गदर्शिकानाम् प्रति"
+    related_guides: "सम्बद्ध मार्गदर्शिकाः"
+  footer:
+    contribute:
+      heading: "योगदानम्"
+      description: "किं तव सुझावः अस्ति? एषा सामग्री मुक्त-स्रोत् अस्ति। अस्मान् सुधारयितुं साहाय्यं कुर्व।"
+      button: "योगदानम्"
+    subscribe:
+      heading: "संपर्के भव"
+      description: "GitHub इत्यस्य नवीनतम् मुक्तस्रोत्-संदेशानाम् विषये प्रथमज्ञः भव।"
+      label: "ईमेल्"
+      button: "सदस्यत्वं"
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] सह [love] द्वारा [github] तथा [friends]"
+      # Label for code octicon
+      code_label: "कोड्"
+      # Label for love octicon
+      love_label: "स्नेह"
+      # Label for the contributors link
+      friends_label: "मित्राणि"
