@@ -249,7 +249,7 @@ redirect_from: /zh-cn/how-to-contribute/
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-  人们提交的频繁吗？ (在 GitHub，可以在顶栏里点击"commits"来展现。）
+  人们提交的频繁吗？ （在 GitHub，可以在顶栏里点击"commits"来展现。）
   </label>
 </div>
 
@@ -286,7 +286,7 @@ redirect_from: /zh-cn/how-to-contribute/
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    有没有关闭的issue？ (在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的 issue。)
+    有没有关闭的issue？ （在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的 issue。）
   </label>
 </div>
 
@@ -323,7 +323,7 @@ redirect_from: /zh-cn/how-to-contribute/
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
-    最近有多少 PR 合并？ (在 GitHub, 点击 PR 页面的 "closed" 的标签页来查看已经关闭的标签页。)
+    最近有多少 PR 合并？ （在 GitHub, 点击 PR 页面的 "closed" 的标签页来查看已经关闭的标签页。）
   </label>
 </div>
 
@@ -463,14 +463,14 @@ redirect_from: /zh-cn/how-to-contribute/
 
 在下面的情形时，请你务必使用PR：
 
-* 提交补丁 (例如，纠正拼写错误、损坏的链接、或者是其它较明显的错误）
+* 提交补丁 （例如，纠正拼写错误、损坏的链接、或者是其它较明显的错误）
 * 开始一项别人请求的任务，或者是过去在 issue 中早就讨论过的
 
 一个 PR 并不代表着工作已经完成。它通常是尽早的开启一个 PR，是为了其他人可以观看或者给作者反馈意见。只需要在子标题标记为"WIP"（正在进行中）。作者可以在后面添加很多评论。
 
 如果说项目是托管在 GitHub 上的，以下是我们总结出的提交 PR 的建议：
 
-* **[Fork 代码仓库](https://guides.github.com/activities/forking/)** 并克隆到本地，在本地的仓库配置"上游"为远端仓库。这样你可以在提交你的 PR 时保持和"上游"同步，会减少很多解决冲突的时间。(更多关于同步的说明，请参考[这里](https://help.github.com/articles/syncing-a-fork/).)
+* **[Fork 代码仓库](https://guides.github.com/activities/forking/)** 并克隆到本地，在本地的仓库配置"上游"为远端仓库。这样你可以在提交你的 PR 时保持和"上游"同步，会减少很多解决冲突的时间。（更多关于同步的说明，请参考[这里](https://help.github.com/articles/syncing-a-fork/).）
 * **[创建一个分支](https://guides.github.com/introduction/flow/)** 用于自己编辑。
 * **参考任何相关的issue** 或者在你的 PR 中支持文档(比如. "Closes #37.")
 * **包含之前和之后的快照** 如果你的改动是包含了不同的 HTML/CSS。在你的 PR 中加入相应的图片。
@@ -511,7 +511,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 太棒了！你已经成功地完成了一次开源贡献！
 
-## 你做到了!
+## 你做到了！
 
 你刚刚完成了自己的第一次开源贡献，接下来，你可能打算寻找另外的方法来做贡献，希望本文给你提供了灵感去实践。即使你的贡献没有被采纳，也请对帮助过你的维护者表示感谢！
 

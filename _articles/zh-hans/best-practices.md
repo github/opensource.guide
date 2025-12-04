@@ -35,7 +35,7 @@ redirect_from: /zh-cn/best-practices/
 
 有一个明确的，用文档表达清晰的愿景，能保证项目的走向不会跑偏，同时也能保障因为其他的贡献者增加的奇怪的需求而使项目变质。
 
-比如，@lord 发现项目有一个明确的愿景能够帮助他决定哪个 PR 值得花时间。作为一个维护者的新手，他甚至还后悔当他接到第一个关于 [slate](https://github.com/lord/slate)) PR 的时候没有坚持项目本身的原则。
+比如，@lord 发现项目有一个明确的愿景能够帮助他决定哪个 PR 值得花时间。作为一个维护者的新手，他甚至还后悔当他接到第一个关于 [slate](https://github.com/lord/slate) PR 的时候没有坚持项目本身的原则。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
