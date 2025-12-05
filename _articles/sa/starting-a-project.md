@@ -2,7 +2,7 @@
 lang: sa
 title: "परियोजनारम्भः"
 description: "मुक्तस्रोत परियोजनम् आरम्भाय लघु मार्गदर्शिका — समस्या चिन्व, सहकर्मिणः चयनय, उपयोगाय योग्यं किञ्च प्रकाशितु।"
-class: starting
+class: beginners
 order: 2
 image: /assets/images/cards/starting-a-project.png
 related:
