@@ -37,8 +37,12 @@
     {% if page.layout != 'index' %}
     <div class="float-sm-left pl-3 breadcrumb">
       <p class="my-0 py-3 py-sm-4 text-gray">
-        {% if page.lang != 'en' %}
-        <a href="/{{ page.lang }}/" class="text-gray">{{ site.title }}</a>
+        {% assign lang_url = '/' | append: page.lang | append: '/' %}
+        {% assign lang_index = site.pages | where: "url", lang_url %}
+        {% if page.lang != 'en' and lang_index.size > 0 %}
+        <a href="{{ lang_url }}" class="text-gray">{{ site.title }}</a>
+        {% elsif page.lang != 'en' %}
+        <a href="{{ '/' | relative_url }}" class="text-gray">{{ site.title }}</a>
         {% else %}
         <a href="/" class="text-gray">{{ site.title }}</a>
         {% endif %}
