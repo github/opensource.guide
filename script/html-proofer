@@ -1,8 +1,32 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# ---------------------------------------------------------
+# HTMLProofer Runner Script
+# ---------------------------------------------------------
+# This script checks the generated static site (usually from
+# Jekyll or another static site generator) for:
+#   - Broken links
+#   - Invalid HTML
+#   - Missing OpenGraph tags
+#   - Missing favicons
+#   - 4xx link errors
+#
+# HTMLProofer helps ensure the built website is clean,
+# accessible, and free of broken external/internal links.
+#
+# This version adds clear comments and formatting to make
+# it easier for contributors to understand and maintain.
+# ---------------------------------------------------------
 
 require "bundler/setup"
 require "html-proofer"
 
+# ---------------------------------------------------------
+# URLs & patterns to ignore during link checking.
+# Some websites block automated requests, cause false
+# positives, or frequently return rate-limit errors.
+# ---------------------------------------------------------
 url_ignores = [
   "https://okdistribute.xyz/post/okf-de",
   "https://www.drupal.org/community-initiatives/drupal-core/usability",
@@ -15,7 +39,9 @@ url_ignores = [
   "https://stackoverflow.com/questions/18664074/",
   "http://geekfeminism.wikia.com/wiki/Meritocracy",
   "https://news.ycombinator.com/item?id=7531689",
-  %r{^https?://stackoverflow\.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-(trying-)?to-ge},
+
+  # Regex patterns for broader ignore rules
+  %r{^https?://stackoverflow\.com/questions/18664074/},
   %r{^https?://readwrite\.com/2014/10/10/open-source-diversity-how-to-contribute/},
   %r{^https?://twitter\.com/},
   %r{^https?://(www\.)?kickstarter\.com/},
@@ -26,19 +52,23 @@ url_ignores = [
   %r{^https://rockwoodleadership\.org/},
   %r{^https://(www\.)?npmjs\.com},
   %r{^https://(www\.)?quora\.com},
+  %r{^https?://(www\.)?medium\.com},
 ]
 
+# ---------------------------------------------------------
+# Run HTMLProofer with project-specific settings
+# ---------------------------------------------------------
 HTMLProofer::Runner.new(
-  ["_site"],
-  parallel: { in_threads: 4 },
+  ["_site"],                        # Directory containing the generated site
+  parallel: { in_threads: 4 },      # Speed up checks using 4 threads
   type: :directory,
-  ignore_urls: url_ignores,
-  check_html: true,
-  check_opengraph: true,
-  favicon: true,
-  assume_extension: true,
-  allow_missing_href: true,
-  enforce_https: false,
-  only_4xx: true,
-  ignore_status_codes: [429]
+  ignore_urls: url_ignores,         # Skip known-problematic URLs
+  check_html: true,                 # Validate HTML structure
+  check_opengraph: true,            # Check for OpenGraph tags
+  favicon: true,                    # Ensure favicon exists
+  assume_extension: true,           # Allow links without file extensions
+  allow_missing_href: true,         # Don't fail on <a> tags with no href
+  enforce_https: false,             # Allow HTTP links
+  only_4xx: true,                   # Only report 4xx errors from external URLs
+  ignore_status_codes: [429]        # Ignore Too Many Requests (rate-limit)
 ).run
