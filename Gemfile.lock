@@ -336,7 +336,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
-    uri (0.13.2)
+    uri (0.13.3)
     webrick (1.8.2)
     yell (2.2.2)
     zeitwerk (2.7.3)
