@@ -1,84 +1,84 @@
 ---
 lang: hi
-untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+untranslated: false
+title: आपके प्रोजेक्ट के लिए सुरक्षा सर्वोत्तम अभ्यास
+description: एमएफए और कोड स्कैनिंग से लेकर सुरक्षित निर्भरता प्रबंधन और निजी भेद्यता रिपोर्टिंग तक आवश्यक सुरक्षा प्रथाओं के माध्यम से विश्वास बनाकर अपने प्रोजेक्ट के भविष्य को मजबूत करें।
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+बग और नई सुविधाओं के अलावा, किसी प्रोजेक्ट की दीर्घायु न केवल इसकी उपयोगिता पर निर्भर करती है, बल्कि इसके उपयोगकर्ताओं से मिले विश्वास पर भी निर्भर करती है। इस विश्वास को जीवित रखने के लिए मजबूत सुरक्षा उपाय महत्वपूर्ण हैं। यहाँ कुछ महत्वपूर्ण कार्य दिए गए हैं जो आप अपने प्रोजेक्ट की सुरक्षा में काफी सुधार करने के लिए कर सकते हैं।
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## सुनिश्चित करें कि सभी विशेषाधिकार प्राप्त योगदानकर्ताओं ने मल्टी-फैक्टर ऑथेंटिकेशन (MFA) सक्षम किया है
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### एक दुर्भावनापूर्ण अभिनेता जो आपके प्रोजेक्ट के एक विशेषाधिकार प्राप्त योगदानकर्ता का प्रतिरूपण करने में सफल हो जाता है, वह विनाशकारी क्षति पहुंचाएगा।
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+एक बार जब वे विशेषाधिकार प्राप्त पहुंच प्राप्त कर लेते हैं, तो यह अभिनेता आपके कोड को संशोधित कर सकता है ताकि वह अवांछित कार्य कर सके (जैसे कि क्रिप्टोकरेंसी खनन), या आपके उपयोगकर्ताओं के बुनियादी ढांचे में मैलवेयर वितरित कर सकता है, या निजी कोड रिपॉजिटरी तक पहुंच सकता है ताकि बौद्धिक संपदा और संवेदनशील डेटा, जिसमें अन्य सेवाओं के क्रेडेंशियल्स शामिल हैं, को बाहर निकाल सके।
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+MFA खाता हस्तांतरण के खिलाफ सुरक्षा की एक अतिरिक्त परत प्रदान करता है। एक बार सक्षम होने पर, आपको अपने उपयोगकर्ता नाम और पासवर्ड से लॉग इन करना होगा और प्रमाणीकरण का एक अन्य रूप प्रदान करना होगा जो केवल आप जानते हैं या जिस तक आपकी पहुंच है।
 
-## Secure your code as part of your development workflow
+## अपने विकास वर्कफ़्लो के हिस्से के रूप में अपने कोड को सुरक्षित करें
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### आपके कोड में सुरक्षा कमजोरियों को प्रक्रिया में जल्दी पता चलने पर ठीक करना सस्ता है, बाद में उत्पादन में उपयोग किए जाने की तुलना में।
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+अपने कोड में सुरक्षा कमजोरियों का पता लगाने के लिए एक स्थैतिक अनुप्रयोग सुरक्षा परीक्षण (SAST) उपकरण का उपयोग करें। ये उपकरण कोड स्तर पर काम कर रहे हैं और एक निष्पादन वातावरण की आवश्यकता नहीं है, और इसलिए प्रक्रिया में जल्दी निष्पादित किए जा सकते हैं, और निर्माण या कोड समीक्षा चरणों के दौरान आपके सामान्य विकास वर्कफ़्लो में सहजता से एकीकृत किए जा सकते हैं।
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+यह ऐसा है जैसे कि एक कुशल विशेषज्ञ आपके कोड रिपॉजिटरी को देख रहा हो, जो आपको सामान्य सुरक्षा कमजोरियों को खोजने में मदद कर रहा है जो आपके कोड करते समय सादे दृष्टि में छिपी हो सकती हैं।
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+अपना SAST उपकरण कैसे चुनें?
+लाइसेंस जांचें: कुछ उपकरण ओपन सोर्स प्रोजेक्ट्स के लिए मुफ्त हैं। उदाहरण के लिए GitHub CodeQL या SemGrep।
+अपनी भाषा(ओं) के लिए कवरेज जांचें
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+* एक ऐसा चुनें जो आसानी से उन उपकरणों के साथ एकीकृत हो जाए जो आप पहले से उपयोग करते हैं, अपनी मौजूदा प्रक्रिया के साथ। उदाहरण के लिए, यह बेहतर है यदि अलर्ट आपकी मौजूदा कोड समीक्षा प्रक्रिया और उपकरण के हिस्से के रूप में उपलब्ध हैं, बजाय इसके कि उन्हें देखने के लिए किसी अन्य उपकरण पर जाएं।
+* झूठी सकारात्मकता से सावधान रहें! आप नहीं चाहते कि उपकरण आपको बिना किसी कारण के धीमा कर दे!
+* सुविधाएं जांचें: कुछ उपकरण बहुत शक्तिशाली हैं और दूषित ट्रैकिंग कर सकते हैं (उदाहरण: GitHub CodeQL), कुछ एआई-जनित फिक्स सुझाव प्रस्तावित करते हैं, कुछ कस्टम क्वेरी लिखना आसान बनाते हैं (उदाहरण: SemGrep)।
 
-## Don't share your secrets
+## अपने रहस्य साझा न करें
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### संवेदनशील डेटा, जैसे कि एपीआई कुंजी, टोकन और पासवर्ड, कभी-कभी गलती से आपके रिपॉजिटरी में कमिट हो सकते हैं।
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+इस परिदृश्य की कल्पना करें: आप एक लोकप्रिय ओपन-सोर्स प्रोजेक्ट के मेंटेनर हैं जिसमें दुनिया भर के डेवलपर्स का योगदान है। एक दिन, एक योगदानकर्ता अनजाने में रिपॉजिटरी में किसी तृतीय-पक्ष सेवा की कुछ एपीआई कुंजियाँ कमिट कर देता है। कुछ दिनों बाद, कोई इन कुंजियों को ढूंढ लेता है और बिना अनुमति के सेवा में प्रवेश पाने के लिए उनका उपयोग करता है। सेवा समझौता हो जाती है, आपके प्रोजेक्ट के उपयोगकर्ताओं को डाउनटाइम का अनुभव होता है, और आपके प्रोजेक्ट की प्रतिष्ठा को झटका लगता है। मेंटेनर के रूप में, अब आप समझौता किए गए रहस्यों को रद्द करने, जांचने कि हमलावर इस रहस्य के साथ क्या दुर्भावनापूर्ण कार्य कर सकता था, प्रभावित उपयोगकर्ताओं को सूचित करने और सुधार लागू करने के कठिन कार्यों का सामना कर रहे हैं।
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+ऐसी घटनाओं को रोकने के लिए, "सीक्रेट स्कैनिंग" समाधान मौजूद हैं जो आपको अपने कोड में उन रहस्यों का पता लगाने में मदद करते हैं। GitHub Secret Scanning और Truffle Security द्वारा Trufflehog जैसे कुछ उपकरण आपको उन्हें दूरस्थ शाखाओं में धकेलने से पहले ही रोक सकते हैं, और कुछ उपकरण स्वचालित रूप से आपके लिए कुछ रहस्यों को रद्द कर देंगे।
 
-## Check and update your dependencies
+## अपनी निर्भरताएँ जांचें और अपडेट करें
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+### आपके प्रोजेक्ट में निर्भरताओं में कमजोरियाँ हो सकती हैं जो आपके प्रोजेक्ट की सुरक्षा से समझौता करती हैं। मैन्युअल रूप से निर्भरताओं को अद्यतन रखना एक समय लेने वाला कार्य हो सकता है।
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+इसकी कल्पना करें: एक व्यापक रूप से उपयोग की जाने वाली लाइब्रेरी की मजबूत नींव पर बना एक प्रोजेक्ट। लाइब्रेरी को बाद में एक बड़ी सुरक्षा समस्या मिलती है, लेकिन इसका उपयोग करके एप्लिकेशन बनाने वाले लोगों को इसके बारे में पता नहीं होता है। संवेदनशील उपयोगकर्ता डेटा उजागर हो जाता है जब एक हमलावर इस कमजोरी का फायदा उठाता है, उसे हड़पने के लिए आता है। यह कोई सैद्धांतिक मामला नहीं है। यही वास्तव में 2017 में Equifax के साथ हुआ था: एक गंभीर कमजोरी का पता चलने के बाद अधिसूचना के बाद उन्होंने अपनी Apache Struts निर्भरता को अपडेट करने में विफल रहे। इसका शोषण किया गया, और कुख्यात Equifax उल्लंघन ने 144 मिलियन उपयोगकर्ताओं के डेटा को प्रभावित किया।
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+ऐसी परिस्थितियों को रोकने के लिए, सॉफ़्टवेयर संरचना विश्लेषण (SCA) उपकरण जैसे Dependabot और Renovate स्वचालित रूप से आपकी निर्भरताओं की सार्वजनिक डेटाबेस जैसे NVD या GitHub Advisory Database में प्रकाशित ज्ञात कमजोरियों के लिए जाँच करते हैं, और फिर उन्हें सुरक्षित संस्करणों में अपडेट करने के लिए पुल अनुरोध बनाते हैं। नवीनतम सुरक्षित निर्भरता संस्करणों के साथ अद्यतन रहने से आपका प्रोजेक्ट संभावित जोखिमों से सुरक्षित रहता है।
 
-## Avoid unwanted changes with protected branches
+## संरक्षित शाखाओं के साथ अवांछित परिवर्तनों से बचें
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### आपकी मुख्य शाखाओं तक असीमित पहुंच आकस्मिक या दुर्भावनापूर्ण परिवर्तनों का कारण बन सकती है जो कमजोरियों को पेश कर सकती हैं या आपके प्रोजेक्ट की स्थिरता को बाधित कर सकती हैं।
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+एक नया योगदानकर्ता मुख्य शाखा में लेखन पहुंच प्राप्त करता है और गलती से ऐसे परिवर्तन धकेल देता है जिनका परीक्षण नहीं किया गया है। एक भयानक सुरक्षा दोष तब उजागर होता है, नवीनतम परिवर्तनों के कारण। ऐसी समस्याओं को रोकने के लिए, शाखा सुरक्षा नियम सुनिश्चित करते हैं कि समीक्षा किए बिना और निर्दिष्ट स्थिति जांचों को पास किए बिना महत्वपूर्ण शाखाओं में परिवर्तन नहीं धकेले या मर्ज नहीं किए जा सकते। आप इस अतिरिक्त उपाय के साथ सुरक्षित और बेहतर हैं, हर बार शीर्ष-स्तरीय गुणवत्ता की गारंटी देते हैं।
 
-## Set up an intake mechanism for vulnerability reporting
+## भेद्यता रिपोर्टिंग के लिए एक इंटेक तंत्र स्थापित करें
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### यह एक अच्छा अभ्यास है कि आप अपने उपयोगकर्ताओं के लिए बग रिपोर्ट करना आसान बना दें, लेकिन बड़ा सवाल यह है: जब इस बग का सुरक्षा प्रभाव होता है, तो वे आपको दुर्भावनापूर्ण हैकर्स के लिए निशाना बनाए बिना आपको उन्हें सुरक्षित रूप से कैसे रिपोर्ट कर सकते हैं?
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+इसकी कल्पना करें: एक सुरक्षा शोधकर्ता आपके प्रोजेक्ट में एक भेद्यता की खोज करता है लेकिन इसे रिपोर्ट करने का कोई स्पष्ट या सुरक्षित तरीका नहीं ढूंढता है। एक निर्दिष्ट प्रक्रिया के बिना, वे एक सार्वजनिक मुद्दा बना सकते हैं या इसे सोशल मीडिया पर खुले तौर पर चर्चा कर सकते हैं। भले ही वे अच्छे इरादों वाले हों और एक फिक्स की पेशकश करें, यदि वे इसे सार्वजनिक पुल अनुरोध के साथ करते हैं, तो दूसरे इसे मर्ज होने से पहले देख लेंगे! यह सार्वजनिक खुलासा आपके पास इसे संबोधित करने का मौका मिलने से पहले ही दुर्भावनापूर्ण अभिनेताओं के लिए भेद्यता को उजागर कर देगा, जिससे संभावित रूप से एक जीरो-डे एक्सप्लॉइट हो सकता है, आपके प्रोजेक्ट और इसके उपयोगकर्ताओं पर हमला कर सकता है।
 
-### Security Policy
+### सुरक्षा नीति
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+इससे बचने के लिए, एक सुरक्षा नीति प्रकाशित करें। एक `SECURITY.md` फ़ाइल में परिभाषित एक सुरक्षा नीति, सुरक्षा चिंताओं की रिपोर्ट करने के लिए कदमों का विवरण देती है, समन्वित खुलासे के लिए एक पारदर्शी प्रक्रिया बनाती है, और रिपोर्ट किए गए मुद्दों को संबोधित करने के लिए प्रोजेक्ट टीम की जिम्मेदारियों की स्थापना करती है। यह सुरक्षा नीति "कृपया सार्वजनिक मुद्दे या PR में विवरण प्रकाशित न करें, हमें security@example.com पर एक निजी ईमेल भेजें" जितनी सरल हो सकती है, लेकिन इसमें अन्य विवरण भी शामिल हो सकते हैं जैसे कि उन्हें आपसे उत्तर कब प्राप्त होने की उम्मीद करनी चाहिए। कुछ भी जो खुलासे प्रक्रिया की प्रभावशीलता और दक्षता में मदद कर सकता है।
 
-### Private Vulnerability Reporting
+### निजी भेद्यता रिपोर्टिंग
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+कुछ प्लेटफॉर्म पर, आप निजी मुद्दों के साथ, इंटेक से प्रसारण तक, अपनी भेद्यता प्रबंधन प्रक्रिया को सुव्यवस्थित और मजबूत कर सकते हैं। GitLab पर, यह निजी मुद्दों के साथ किया जा सकता है। GitHub पर, इसे निजी भेद्यता रिपोर्टिंग (PVR) कहा जाता है। PVR मेंटेनर्स को GitHub प्लेटफॉर्म के भीतर ही भेद्यता रिपोर्ट प्राप्त करने और उन्हें संबोधित करने में सक्षम बनाता है। GitHub स्वचालित रूप से फिक्स लिखने के लिए एक निजी फोर्क और एक ड्राफ्ट सुरक्षा सलाहकार बनाएगा। यह सब गोपनीय रहता है जब तक आप मुद्दों का खुलासा करने और फिक्स जारी करने का निर्णय नहीं लेते। लूप को बंद करने के लिए, सुरक्षा सलाहकार प्रकाशित किए जाएंगे, और उनके SCA उपकरण के माध्यम से आपके सभी उपयोगकर्ताओं को सूचित और सुरक्षित करेंगे।
 
-## Conclusion: A few steps for you, a huge improvement for your users
+## निष्कर्ष: आपके लिए कुछ कदम, आपके उपयोगकर्ताओं के लिए एक बड़ा सुधार
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+ये कुछ कदम आपको आसान या बुनियादी लग सकते हैं, लेकिन वे आपके प्रोजेक्ट को इसके उपयोगकर्ताओं के लिए अधिक सुरक्षित बनाने में एक लंबा रास्ता तय करते हैं, क्योंकि वे सबसे आम मुद्दों के खिलाफ सुरक्षा प्रदान करेंगे।
 
-## Contributors
+## योगदानकर्ता
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+### इस मार्गदर्शिका के लिए हमारे साथ अपने अनुभव और युक्तियाँ साझा करने वाले सभी मेंटेनर्स को बहुत-बहुत धन्यवाद!
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+यह मार्गदर्शिका [@nanzggits](https://github.com/nanzggits) और [@xcorail](https://github.com/xcorail) द्वारा लिखी गई थी जिसमें योगदान दिया गया:
 
 [@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + many others!
+[@intrigus-lgtm](https://github.com/intrigus-lgtm) + कई अन्य!
