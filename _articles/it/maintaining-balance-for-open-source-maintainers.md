@@ -1,6 +1,5 @@
 ---
 lang: it
-untranslated: true
 title: Mantenere l'equilibrio per i sostenitori dell'open source
 description: Suggerimenti per la cura di sé ed evitare il burnout come caregiver.
 class: balance

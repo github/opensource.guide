@@ -1,6 +1,5 @@
 ---
 lang: it
-untranslated: true
 title: Le migliori pratiche di sicurezza per il tuo progetto
 description: Rafforza il futuro del tuo progetto creando fiducia attraverso pratiche di sicurezza essenziali, dall'MFA e dalla scansione del codice alla gestione sicura delle dipendenze e alla segnalazione di vulnerabilità private.
 class: security-best-practices

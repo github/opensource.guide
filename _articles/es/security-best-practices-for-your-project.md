@@ -1,6 +1,5 @@
 ---
 lang: es
-untranslated: true
 title: Buenas prácticas de seguridad para tu proyecto
 description: Fortalece el futuro de tu proyecto generando confianza mediante prácticas esenciales de seguridad — desde la autenticación multifactor (MFA) y el análisis de código hasta la gestión segura de dependencias y la notificación privada de vulnerabilidades.
 class: security-best-practices

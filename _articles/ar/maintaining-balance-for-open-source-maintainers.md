@@ -1,6 +1,5 @@
 ---
 lang: ar
-untranslated: true
 title: الحفاظ على التوازن لمشرفي المشاريع مفتوحة المصدر
 description: نصائح للعناية الذاتية وتجنب الإرهاق كمشرف
 class: balance
