@@ -80,6 +80,7 @@ MFA खाता हस्तांतरण के खिलाफ सुरक
 
 यह मार्गदर्शिका [@nanzggits](https://github.com/nanzggits) और [@xcorail](https://github.com/xcorail) द्वारा लिखी गई थी जिसमें योगदान दिया गया:
 
-[@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + कई अन्य!
+- [@JLLeitschuh](https://github.com/JLLeitschuh)
+- [@intrigus-lgtm](https://github.com/intrigus-lgtm) + कई अन्य!
+
 
