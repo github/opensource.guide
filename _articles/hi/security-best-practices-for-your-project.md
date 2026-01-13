@@ -82,5 +82,3 @@ MFA खाता हस्तांतरण के खिलाफ सुरक
 
 - [@JLLeitschuh](https://github.com/JLLeitschuh)
 - [@intrigus-lgtm](https://github.com/intrigus-lgtm) + कई अन्य!
-
-
