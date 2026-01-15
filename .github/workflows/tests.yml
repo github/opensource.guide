@@ -13,11 +13,11 @@ jobs:
       - name: Set up Git repository
         uses: actions/checkout@v6.0.1
       - name: Set up Ruby
-        uses: ruby/setup-ruby@4c24fa5ec04b2e79eb40571b1cee2a0d2b705771 # v1
+        uses: ruby/setup-ruby@708024e6c902387ab41de36e1669e43b5ee7085e # v1
         with:
           bundler-cache: true
       - name: Set up Node
-        uses: actions/setup-node@v6.1.0
+        uses: actions/setup-node@v6.2.0
       - name: Bootstrap
         run: script/bootstrap
         env:
