@@ -1,6 +1,5 @@
 ---
 lang: ru
-untranslated: true
 title: Поддержание баланса для мейнтейнеров в Open Source
 description: Советы по заботе о себе и предотвращению выгорания в работе мейнтейнера.
 class: balance

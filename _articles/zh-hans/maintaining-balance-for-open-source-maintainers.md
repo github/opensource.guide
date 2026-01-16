@@ -1,6 +1,5 @@
 ---
 lang: zh-hans
-untranslated: true
 title: 保持开源维护者的平衡
 description: 作为维护者的自我护理和避免倦怠的技巧。
 class: balance

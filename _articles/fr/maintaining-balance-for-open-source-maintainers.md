@@ -1,6 +1,5 @@
 ---
 lang: fr
-untranslated: true
 title: Maintenir l'équilibre chez les Mainteneurs de code Open Source
 description: Conseils d'écologie personnelle et commen éviter le burnout en tant que mainteneur.
 class: balance
