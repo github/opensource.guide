@@ -15,6 +15,13 @@ related:
 If you maintain an open source project that a lot of people use, you may have noticed you're coding less and responding to issues more.
 
 In the early stages of a project, you're experimenting with new ideas and making decisions based on what you want. As your project increases in popularity, you'll find yourself working with your users and contributors more.
+> **Note for beginners:**  
+> A maintainer is not just someone who writes code.  
+> Maintainers also review issues, respond to contributors, manage releases,
+> and make decisions about the direction of the project.
+>
+> As a project grows, these responsibilities often take more time than coding itself.
+
 
 Maintaining a project requires more than code. These tasks are often unexpected, but they're just as important to a growing project. We've gathered a few ways to make your life easier, from documenting processes to leveraging your community.
 
