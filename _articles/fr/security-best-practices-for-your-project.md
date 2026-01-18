@@ -50,13 +50,27 @@ Picture this: a project built on the sturdy foundation of a widely-used library.
 
 To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
 
+## Understand and manage open source license risks
+
+### Open source licenses come with terms and ignoring them can lead to legal and reputational risks.
+
+Using open source dependencies can speed up development, but each package includes a license that defines how it can be used, modified, or distributed. [Some licenses are permissive](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project), while others (like AGPL or SSPL) impose restrictions that may not be compatible with your project's goals or your users' needs.
+
+Imagine this: You add a powerful library to your project, unaware that it uses a restrictive license. Later, a company wants to adopt your project but raises concerns about license compliance. The result? You lose adoption, need to refactor code, and your project's reputation takes a hit.
+
+To avoid these pitfalls, consider including automated license checks as part of your development workflow. These checks can help identify incompatible licenses early in the process, preventing problematic dependencies from being introduced into your project.
+
+Another powerful approach is generating a Software Bill of Materials (SBOM). An SBOM lists all components and their metadata (including licenses) in a standardized format. It offers clear visibility into your software supply chain and helps surface licensing risks proactively.
+
+Just like security vulnerabilities, license issues are easier to fix when discovered early. Automating this process keeps your project healthy and safe.
+
 ## Avoid unwanted changes with protected branches
 
 ### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
 
 A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
 
-## Set up an intake mechanism for vulnerability reporting
+## Make it easy (and safe) to report security issues
 
 ### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
 
@@ -70,9 +84,70 @@ To avoid this, publish a security policy. A security policy, defined in a `SECUR
 
 On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
 
+### Define your threat model to help users and researchers understand scope
+
+Before security researchers can report issues effectively, they need to understand what risks are in scope. A lightweight threat model can help define your project's boundaries, expected behavior, and assumptions.
+
+A threat model doesn't need to be complex. Even a simple document outlining what your project does, what it trusts, and how it could be misused goes a long way. It also helps you, as a maintainer, think through potential pitfalls and inherited risks from upstream dependencies.
+
+A great example is the [Node.js threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model), which clearly defines what is and isn't considered a vulnerability in the project's context.
+
+If you're new to this, the [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process) offers a helpful introduction to build your own.
+
+Publishing a basic threat model alongside your security policy improves clarity for everyone.
+
+## Prepare a lightweight incident response process
+
+### Having a basic incident response plan helps you stay calm and act efficiently, ensuring the safety of your users and consumers.
+
+Most vulnerabilities are discovered by researchers and reported privately. But sometimes, an issue is already being exploited in the wild before it reaches you. When this happens, your downstream consumers are the ones at risk, and having a lightweight, well-defined incident response plan can make a critical difference.
+
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/ulisesgascon?s=180" class="pquote-avatar" alt="avatar">
+  A vulnerability is basically a flaw, a security misconfiguration or a weak point in our system that can be exploited by third parties to behave in unintended ways.
+  <p markdown="1" class="pquote-credit">
+— [@UlisesGascon](https://github.com/ulisesgascon), ["What is a Vulnerability and What's Not? Making Sense of Node.js and Express Threat Models"](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
+  </p>
+</aside>
+
+Even when a vulnerability is reported privately, the next steps matter. Once you receive a vulnerability report or detect suspicious activity, what happens next?
+
+Having a basic incident response plan, even a simple checklist, helps you stay calm and act efficiently when time matters. It also shows users and researchers that you take incidents and reports seriously.
+
+Your process doesn't have to be complex. At minimum, define:
+
+* Who reviews and triages security reports or alerts  
+* How severity is evaluated and how mitigation decisions are made  
+* What steps you take to prepare a fix and coordinate disclosure  
+* How you notify affected users, contributors, or downstream consumers 
+
+An active incident, if not well managed, can erode trust in your project from your users. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
+
+For inspiration, the [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) provides a simple but effective example of an open source incident response plan.
+
+This plan can evolve as your project grows, but having a basic framework in place now can save time and reduce mistakes during a real incident.
+
+## Treat security as a team effort
+
+### Security isn't a solo responsibility. It works best when shared across your project's community.
+
+While tools and policies are essential, a strong security posture comes from how your team and contributors work together. Building a culture of shared responsibility helps your project identify, triage, and respond to vulnerabilities faster and more effectively.
+
+Here are a few ways to make security a team sport:
+
+* **Assign clear roles**: Know who handles vulnerability reports, who reviews dependency updates, and who approves security patches.
+* **Limit access using the principle of least privilege**: Only give write or admin access to those who truly need it and review permissions regularly.
+* **Invest in education**: Encourage contributors to learn about secure coding practices, common vulnerability types, and how to use your tools (like SAST or secret scanning).
+* **Foster diversity and collaboration**: A heterogeneous team brings a wider set of experiences, threat awareness, and creative problem-solving skills. It also helps uncover risks others might overlook.
+* **Engage upstream and downstream**: Your dependencies can affect your security and your project affects others. Participate in coordinated disclosure with upstream maintainers, and keep downstream users informed when vulnerabilities are fixed.
+
+Security is an ongoing process, not a one-time setup. By involving your community, encouraging secure practices, and supporting each other, you build a stronger, more resilient project and a safer ecosystem for everyone.
+
 ## Conclusion: A few steps for you, a huge improvement for your users
 
 These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+
+Security isn't static. Revisit your processes from time to time as your project grows, so do your responsibilities and your attack surface.
 
 ## Contributors
 
@@ -80,5 +155,4 @@ These few steps might seem easy or basic to you, but they go a long way to make 
 
 This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
 
-[@JLLeitschuh](https://github.com/JLLeitschuh)
-[@intrigus-lgtm](https://github.com/intrigus-lgtm) + many others!
+[@JLLeitschuh](https://github.com/JLLeitschuh), [@intrigus-lgtm](https://github.com/intrigus-lgtm), [@UlisesGascon](https://github.com/ulisesgascon) + many others!
