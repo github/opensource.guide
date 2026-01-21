@@ -1,6 +1,5 @@
 ---
 lang: es
-untranslated: true
 title: Mantener el equilibrio para los contribuidores de código abierto
 description: Consejos para el autocuidado y evitar el agotamiento como contribuidor.
 class: balance

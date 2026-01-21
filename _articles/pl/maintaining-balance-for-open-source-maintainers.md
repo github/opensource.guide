@@ -1,6 +1,5 @@
 ---
 lang: pl
-untranslated: true
 title: Utrzymanie równowagi dla opiekunów Open Source
 description: Wskazówki dotyczące dbania o siebie i unikania wypalenia jako opiekun.
 class: balance

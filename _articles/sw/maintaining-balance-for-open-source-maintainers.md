@@ -1,6 +1,5 @@
 ---
 lang: sw
-untranslated: true
 title: Kudumisha Mizani kwa Watunzaji wa Open Source
 description: Vidokezo vya kujitunza na kuepuka uchovu kama mtunzaji.
 class: balance

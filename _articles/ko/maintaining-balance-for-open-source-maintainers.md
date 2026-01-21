@@ -1,6 +1,5 @@
 ---
 lang: ko
-untranslated: true
 title: 오픈 소스 메인테이너를 위한 균형 유지
 description: 메인테이너를 위한 자기 관리 및 번아웃 방지 팁
 class: balance

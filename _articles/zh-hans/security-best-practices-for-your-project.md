@@ -1,6 +1,5 @@
 ---
 lang: zh-hans
-untranslated: true
 title: 项目安全最佳实践
 description: 从多因素认证和代码扫描，到安全的依赖管理和私人漏洞报告，通过这些必要安全实践建立信任，为项目长远发展保驾护航。
 class: security-best-practices

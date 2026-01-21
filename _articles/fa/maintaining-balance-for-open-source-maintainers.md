@@ -1,6 +1,5 @@
 ---
 lang: fa
-untranslated: true
 title: حفظ تعادل برای نگهدارندگان پروژه‌های متن‌باز
 description: نکاتی برای مراقبت از خود و جلوگیری از فرسودگی به عنوان یک نگهدارنده
 class: balance
