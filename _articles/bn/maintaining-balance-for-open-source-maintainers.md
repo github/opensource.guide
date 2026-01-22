@@ -1,8 +1,8 @@
 ---
 lang: bn
-untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+untranslated: false
+title: ওপেন সোর্স রক্ষণাবেক্ষণকারীদের জন্য ভারসাম্য বজায় রাখা
+description: একজন রক্ষণাবেক্ষণকারী হিসেবে নিজের যত্ন নেওয়ার এবং বার্নআউট এড়ানোর জন্য টিপস।
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
