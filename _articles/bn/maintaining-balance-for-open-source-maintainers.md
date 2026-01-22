@@ -199,4 +199,5 @@ This guide was written by [@abbycabs](https://github.com/abbycabs) with contribu
 [@thisisnic](https://github.com/thisisnic)
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
-[@waldyrious](https://github.com/waldyrious) + আরও অনেকে!
+[@waldyrious](https://github.com/waldyrious)
+[@STANTHEGR8](https://github.com/STANTHEGR8) + আরও অনেকে!
