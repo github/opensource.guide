@@ -67,214 +67,218 @@ related:
 
 [Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules), and [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) এগুলো হচ্ছে রক্ষণাবেক্ষণকারী এবং অবদানকারীদের জন্য মৌলিক নিয়ম সহ কিছু প্রকল্পের উদাহরণ।
 
-### Keep communication public
+## যোগাযোগ সর্বজনীন রাখুন
 
-Don't forget to document your interactions, too. Wherever you can, keep communication about your project public. If somebody tries to contact you privately to discuss a feature request or support need, politely direct them to a public communication channel, such as a mailing list or issue tracker.
+আপনার কথোপকথনগুলোও নথিভুক্ত করতে ভুলবেন না। যতটা সম্ভব, প্রকল্প-সংক্রান্ত সব যোগাযোগ প্রকাশ্যে রাখুন। কেউ যদি ব্যক্তিগতভাবে ফিচার অনুরোধ বা সাহায্যের জন্য যোগাযোগ করে, তাহলে বিনয়ের সঙ্গে তাকে পাবলিক প্ল্যাটফর্মে (যেমন ইস্যু ট্র্যাকার বা মেইলিং লিস্টে) আসতে বলুন।
 
-If you meet with other maintainers, or make a major decision in private, document these conversations in public, even if it's just posting your notes.
+রক্ষণাবেক্ষণকারীদের সঙ্গে কোনো গুরুত্বপূর্ণ সিদ্ধান্ত যদি ব্যক্তিগতভাবে নেন, তাহলে সেটার সারসংক্ষেপ প্রকাশ্যে লিখে রাখুন।
 
-That way, anybody who joins your community will have access to the same information as someone who's been there for years.
+এতে নতুন কেউ কমিউনিটিতে যোগ দিলেও পুরোনো সদস্যদের মতো একই তথ্য পাবে।
 
-## Learning to say no
+## "না" বলতে শেখা
 
-You've written things down. Ideally, everybody would read your documentation, but in reality, you'll have to remind others that this knowledge exists.
+আপনি সবকিছু লিখে রেখেছেন। তবুও সবাই যে সেটা পড়বে—এমনটা বাস্তবে হয় না। তাই মাঝে মাঝে অন্যদের মনে করিয়ে দিতে হবে।
 
-Having everything written down, however, helps depersonalize situations when you do need to enforce your rules.
+লিখিত নিয়ম থাকলে, "না" বলা ব্যক্তিগত আক্রমণ মনে হয় না।
 
-Saying no isn't fun, but _"Your contribution doesn't match this project's criteria"_ feels less personal than _"I don't like your contribution"_.
+"আপনার অবদান এই প্রকল্পের লক্ষ্য অনুযায়ী নয়" 
+এটা বলা অনেক সহজ—  
+"আমি আপনার অবদান পছন্দ করিনি" বলার চেয়ে।
 
-Saying no applies to many situations you'll come across as a maintainer: feature requests that don't fit the scope, someone derailing a discussion, doing unnecessary work for others.
+একজন মেইনটেইনার (maintainer) হিসেবে আপনি এমন অনেক পরিস্থিতির সম্মুখীন হবেন যেখানে **'না' বলাটা জরুরি**। যেমন: এমন কোনো ফিচারের অনুরোধ যা প্রকল্পের পরিধির বাইরে, কেউ যখন মূল আলোচনা থেকে বিচ্যুত হয়ে অপ্রাসঙ্গিক কথা বলে, অথবা অন্যদের জন্য অপ্রয়োজনীয় কাজ করা।
 
-### Keep the conversation friendly
+### কথোপকথন বন্ধুত্বপূর্ণ রাখুন
 
-One of the most important places you'll practice saying no is on your issue and pull request queue. As a project maintainer, you'll inevitably receive suggestions that you don't want to accept.
+আপনার সমস্যাটির উপর "না" বলার অনুশীলন করার সবচেয়ে গুরুত্বপূর্ণ জায়গাগুলির মধ্যে একটি হল অনুরোধের সারি টানা। একজন প্রকল্প রক্ষণাবেক্ষণকারী হিসাবে, আপনি অনিবার্যভাবে এমন পরামর্শ পাবেন যা আপনি গ্রহণ করতে চান না।
 
-Maybe the contribution changes your project's scope or doesn't match your vision. Maybe the idea is good, but the implementation is poor.
+হয়তো অবদান আপনার প্রকল্পের পরিধি পরিবর্তন করে অথবা আপনার দৃষ্টিভঙ্গির সাথে মেলে না। হয়তো ধারণাটি ভালো, কিন্তু বাস্তবায়ন দুর্বল।
 
-Regardless of the reason, it is possible to tactfully handle contributions that don't meet your project's standards.
+কারণ যাই হোক না কেন, আপনার প্রকল্পের মান পূরণ করে না এমন অবদানগুলিকে কৌশলে পরিচালনা করা সম্ভব।
 
-If you receive a contribution you don't want to accept, your first reaction might be to ignore it or pretend you didn't see it. Doing so could hurt the other person's feelings and even demotivate other potential contributors in your community.
+যদি আপনি এমন কোনও অবদান পান যা আপনি গ্রহণ করতে চান না, তাহলে আপনার প্রথম প্রতিক্রিয়া হতে পারে তা উপেক্ষা করা অথবা ভান করা যে আপনি এটি দেখেননি। এটি করলে অন্য ব্যক্তির অনুভূতিতে আঘাত লাগতে পারে এবং এমনকি আপনার সম্প্রদায়ের অন্যান্য সম্ভাব্য অবদানকারীদেরও হতাশ করতে পারে।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  The key to handling support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
+বৃহৎ আকারের ওপেন সোর্স প্রকল্পগুলির জন্য সহায়তা পরিচালনার মূল চাবিকাঠি হল সমস্যাগুলিকে চলমান রাখা। সমস্যাগুলি স্থগিত রাখা এড়াতে চেষ্টা করুন। আপনি যদি একজন iOS ডেভেলপার হন তবে আপনি জানেন যে রাডার জমা দেওয়া কতটা হতাশাজনক হতে পারে। আপনি হয়তো 2 বছর পরে আবার শুনতে পাবেন, এবং iOS এর সর্বশেষ সংস্করণটি দিয়ে আবার চেষ্টা করতে বলা হবে।
   <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+— @KrauseFx, ["ওপেন সোর্স কমিউনিটি স্কেলিং"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
 </aside>
 
-Don't leave an unwanted contribution open because you feel guilty or want to be nice. Over time, your unanswered issues and PRs will make working on your project feel that much more stressful and intimidating.
+অপরাধবোধ বা ভালো হতে চাও বলে অবাঞ্ছিত অবদান খোলা রাখবেন না। সময়ের সাথে সাথে, আপনার উত্তর না দেওয়া সমস্যা এবং জনসংযোগ আপনার প্রকল্পে কাজ করাকে আরও বেশি চাপপূর্ণ এবং ভীতিকর করে তুলবে।
 
-It's better to immediately close the contributions you know you don't want to accept. If your project already suffers from a large backlog, @steveklabnik has suggestions for [how to triage issues efficiently](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+যেসব অবদান আপনি গ্রহণ করতে চান না তা অবিলম্বে বন্ধ করে দেওয়া ভালো। যদি আপনার প্রকল্প ইতিমধ্যেই একটি বড় ধরনের ব্যাকলগের কারণে ভুগছে, তাহলে @steveklabnik-এর কাছে [সমস্যাগুলি দক্ষতার সাথে কীভাবে সমাধান করা যায়](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) তার পরামর্শ আছে ।
 
-Secondly, ignoring contributions sends a negative signal to your community. Contributing to a project can be intimidating, especially if it's someone's first time. Even if you don't accept their contribution, acknowledge the person behind it and thank them for their interest. It's a big compliment!
+দ্বিতীয়ত, অবদান উপেক্ষা করা আপনার সম্প্রদায়ের কাছে একটি নেতিবাচক সংকেত পাঠায়। কোনও প্রকল্পে অবদান রাখা ভীতিকর হতে পারে, বিশেষ করে যদি এটি কারও প্রথমবারের মতো হয়। এমনকি যদি আপনি তাদের অবদান গ্রহণ না করেন, তবুও এর পিছনে থাকা ব্যক্তিকে স্বীকৃতি দিন এবং তাদের আগ্রহের জন্য তাদের ধন্যবাদ জানান। এটি একটি বড় প্রশংসা!
 
-If you don't want to accept a contribution:
+যদি আপনি কোন অবদান গ্রহণ করতে না চান:
 
-* **Thank them** for their contribution
-* **Explain why it doesn't fit** into the scope of the project, and offer clear suggestions for improvement, if you're able. Be kind, but firm.
-* **Link to relevant documentation**, if you have it. If you notice repeated requests for things you don't want to accept, add them into your documentation to avoid repeating yourself.
-* **Close the request**
+* তাদের অবদানের জন্য **ধন্যবাদ।**
+* কেন এটি প্রকল্পের আওতায় **আসে না তা ব্যাখ্যা করুন এবং যদি পারেন, তাহলে উন্নতির জন্য স্পষ্ট পরামর্শ দিন। সদয় হোন, কিন্তু দৃঢ় থাকুন।**
+* **প্রাসঙ্গিক ডকুমেন্টেশনের লিঙ্ক** , যদি আপনার কাছে থাকে। যদি আপনি এমন জিনিসের জন্য বারবার অনুরোধ লক্ষ্য করেন যা আপনি গ্রহণ করতে চান না, তাহলে পুনরাবৃত্তি এড়াতে সেগুলি আপনার ডকুমেন্টেশনে যোগ করুন।
+* **অনুরোধটি বন্ধ করুন**
 
-You shouldn't need more than 1-2 sentences to respond. For example, when a user of [celery](https://github.com/celery/celery/) reported a Windows-related error, @berkerpeksag [responded with](https://github.com/celery/celery/issues/3383):
+উত্তর দিতে ১-২ বাক্যের বেশি বাক্য ব্যবহার করা উচিত নয়। উদাহরণস্বরূপ, যখন [সেলেরির](https://github.com/celery/celery/) একজন ব্যবহারকারী উইন্ডোজ-সম্পর্কিত ত্রুটির কথা জানান, তখন @berkerpeksag নিম্নলিখিত বাক্য [ব্যবহার করে উত্তর দেন](https://github.com/celery/celery/issues/3383) :
 
 ![Celery screenshot](/assets/images/best-practices/celery.png)
 
-If the thought of saying no terrifies you, you're not alone. As @jessfraz [put it](https://blog.jessfraz.com/post/the-art-of-closing/):
+যদি না বলার চিন্তা তোমাকে ভয় পায়, তাহলে তুমি একা নও। @jessfraz যেমনটি [বলেছেন](https://blog.jessfraz.com/post/the-art-of-closing/) :
 
-> I've talked to maintainers from several different open source projects, Mesos, Kubernetes, Chromium, and they all agree one of the hardest parts of being a maintainer is saying "No" to patches you don't want.
+> আমি মেসোস, কুবারনেটস, ক্রোমিয়াম, এই ধরণের বিভিন্ন ওপেন সোর্স প্রকল্পের রক্ষণাবেক্ষণকারীদের সাথে কথা বলেছি এবং তারা সকলেই একমত যে রক্ষণাবেক্ষণকারী হওয়ার সবচেয়ে কঠিন অংশগুলির মধ্যে একটি হল আপনি যে প্যাচগুলি চান না সেগুলিকে "না" বলা।
 
-Don't feel guilty about not wanting to accept someone's contribution. The first rule of open source, [according to](https://twitter.com/solomonstre/status/715277134978113536) @shykes: _"No is temporary, yes is forever."_ While empathizing with another person's enthusiasm is a good thing, rejecting a contribution is not the same as rejecting the person behind it.
+কারো অবদান গ্রহণ করতে না চাওয়ার জন্য দোষী বোধ করো না। @shykes [এর মতে , ওপেন সোর্সের প্রথম নিয়ম হল:](https://twitter.com/solomonstre/status/715277134978113536) _"না সাময়িক, হ্যাঁ চিরকাল।"_ অন্য ব্যক্তির উৎসাহের প্রতি সহানুভূতিশীল হওয়া ভালো, তবে অবদান প্রত্যাখ্যান করা এবং এর পেছনের ব্যক্তিকে প্রত্যাখ্যান করা একই কথা নয়।
 
-Ultimately, if a contribution isn't good enough, you're under no obligation to accept it. Be kind and responsive when people contribute to your project, but only accept changes that you truly believe will make your project better. The more often you practice saying no, the easier it becomes. Promise.
+পরিশেষে, যদি কোন অবদান যথেষ্ট ভালো না হয়, তাহলে তা গ্রহণ করার জন্য আপনার কোন বাধ্যবাধকতা নেই। আপনার প্রকল্পে যখন লোকেরা অবদান রাখে তখন সদয় এবং প্রতিক্রিয়াশীল হোন, তবে কেবল সেই পরিবর্তনগুলি গ্রহণ করুন যা আপনি সত্যিই বিশ্বাস করেন যে আপনার প্রকল্পকে আরও ভালো করে তুলবে। আপনি যত বেশি না বলার অভ্যাস করবেন, ততই এটি সহজ হয়ে উঠবে। প্রতিশ্রুতি দিন।
 
-### Be proactive
+### সক্রিয় থাকুন
 
-To reduce the volume of unwanted contributions in the first place, explain your project's process for submitting and accepting contributions in your contributing guide.
+প্রথমেই অবাঞ্ছিত অবদানের পরিমাণ কমাতে, আপনার অবদান নির্দেশিকায় আপনার প্রকল্পের অবদান জমা দেওয়া এবং গ্রহণের প্রক্রিয়া ব্যাখ্যা করুন।
 
-If you're receiving too many low-quality contributions, require that contributors do a bit of work beforehand, for example:
+যদি আপনি খুব বেশি নিম্নমানের অবদান পান, তাহলে অবদানকারীদের আগে থেকে কিছু কাজ করতে বলুন, উদাহরণস্বরূপ:
 
-* Fill out an issue or PR template/checklist
-* Open an issue before submitting a PR
+* একটি ইস্যু বা জনসংযোগ টেমপ্লেট/চেকলিস্ট পূরণ করুন
+* পিআর জমা দেওয়ার আগে একটি সমস্যা খুলুন
 
-If they don't follow your rules, close the issue immediately and point to your documentation.
+যদি তারা আপনার নিয়ম না মানে, তাহলে অবিলম্বে সমস্যাটি বন্ধ করুন এবং আপনার ডকুমেন্টেশনের দিকে নির্দেশ করুন।
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+যদিও এই পদ্ধতিটি প্রথমে অপ্রীতিকর মনে হতে পারে, তবুও সক্রিয় থাকা আসলে উভয় পক্ষের জন্যই ভালো। এটি এমন সম্ভাবনা কমায় যে কেউ আপনার অনেক সময় নষ্ট করা কাজের বিনিময়ে এমন একটি পুল রিকোয়েস্টে ফেলবে যা আপনি গ্রহণ করবেন না। এবং এটি আপনার কাজের চাপ পরিচালনা করা সহজ করে তোলে।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
+আদর্শভাবে, তাদের ব্যাখ্যা করুন এবং একটি CONTRIBUTING.md ফাইলে কীভাবে তারা ভবিষ্যতে কাজ শুরু করার আগে কী গ্রহণ করা হবে বা কী গ্রহণ করা হবে না সে সম্পর্কে আরও ভাল ইঙ্গিত পেতে পারে।
   <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+— @MikeMcQuaid, ["দয়া করে পুল রিকোয়েস্ট বন্ধ করুন"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
 </aside>
 
-Sometimes, when you say no, your potential contributor may get upset or criticize your decision. If their behavior becomes hostile, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
+কখনও কখনও, যখন আপনি না বলেন, তখন আপনার সম্ভাব্য অবদানকারী বিরক্ত হতে পারেন বা আপনার সিদ্ধান্তের সমালোচনা করতে পারেন। যদি তাদের আচরণ প্রতিকূল হয়ে ওঠে, তাহলে [পরিস্থিতি শান্ত করার জন্য পদক্ষেপ নিন](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) অথবা এমনকি যদি তারা গঠনমূলকভাবে সহযোগিতা করতে ইচ্ছুক না হয়, তাহলে তাদের আপনার সম্প্রদায় থেকে সরিয়ে দিন।
 
-### Embrace mentorship
+### পরামর্শ গ্রহণ করুন
 
-Maybe someone in your community regularly submits contributions that don't meet your project's standards. It can be frustrating for both parties to repeatedly go through rejections.
+হয়তো আপনার কমিউনিটির কেউ নিয়মিত এমন অবদান জমা দেন যা আপনার প্রকল্পের মান পূরণ করে না। বারবার প্রত্যাখ্যানের সম্মুখীন হওয়া উভয় পক্ষের জন্যই হতাশাজনক হতে পারে।
 
-If you see that someone is enthusiastic about your project, but needs a bit of polish, be patient. Explain clearly in each situation why their contributions don't meet the expectations of the project. Try pointing them to an easier or less ambiguous task, like an issue marked _"good first issue,"_ to get their feet wet. If you have time, consider mentoring them through their first contribution, or find someone else in your community who might be willing to mentor them.
+যদি দেখেন যে কেউ আপনার প্রকল্প সম্পর্কে উৎসাহী, কিন্তু একটু মসৃণতার প্রয়োজন, তাহলে ধৈর্য ধরুন। প্রতিটি পরিস্থিতিতে স্পষ্টভাবে ব্যাখ্যা করুন কেন তাদের অবদান প্রকল্পের প্রত্যাশা পূরণ করে না। তাদের পা ভিজিয়ে দেওয়ার জন্য _"ভালো প্রথম সমস্যা"_ হিসাবে চিহ্নিত একটি সমস্যা, যেমন একটি সহজ বা কম অস্পষ্ট কাজের দিকে তাদের নির্দেশ করার চেষ্টা করুন । যদি আপনার সময় থাকে, তাহলে তাদের প্রথম অবদানের মাধ্যমে তাদের পরামর্শ দেওয়ার কথা বিবেচনা করুন, অথবা আপনার সম্প্রদায়ের অন্য কাউকে খুঁজে বের করুন যিনি তাদের পরামর্শ দিতে ইচ্ছুক হতে পারেন।
 
-## Leverage your community
+## আপনার সম্প্রদায়কে কাজে লাগান
 
-You don't have to do everything yourself. Your project's community exists for a reason! Even if you don't yet have an active contributor community, if you have a lot of users, put them to work.
+আপনাকে সবকিছু নিজে করতে হবে না। আপনার প্রকল্পের সম্প্রদায়টি একটি কারণে বিদ্যমান! এমনকি যদি আপনার এখনও একটি সক্রিয় অবদানকারী সম্প্রদায় না থাকে, যদি আপনার অনেক ব্যবহারকারী থাকে, তাহলে তাদের কাজে লাগান।
 
-### Share the workload
+### কাজের চাপ ভাগ করে নিন
 
-If you're looking for others to pitch in, start by asking around.
+যদি আপনি অন্যদের সাহায্য করার জন্য খুঁজছেন, তাহলে আশেপাশে জিজ্ঞাসা করে শুরু করুন।
 
-One way to gain new contributors is to explicitly [label issues that are simple enough for beginners to tackle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub will then surface these issues in various places on the platform, increasing their visibility.
+নতুন অবদানকারীদের আকর্ষণ করার একটি উপায় হল [এমন সমস্যাগুলিকে স্পষ্টভাবে লেবেল করা যা নতুনদের জন্য যথেষ্ট সহজ](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels) । এরপর GitHub প্ল্যাটফর্মের বিভিন্ন স্থানে এই সমস্যাগুলি তুলে ধরবে, যার ফলে তাদের দৃশ্যমানতা বৃদ্ধি পাবে।
 
-When you see new contributors making repeated contributions, recognize their work by offering more responsibility. Document how others can grow into leadership roles if they wish.
+যখন আপনি নতুন অবদানকারীদের বারবার অবদান রাখতে দেখেন, তখন আরও দায়িত্ব প্রদানের মাধ্যমে তাদের কাজকে স্বীকৃতি দিন। অন্যরা কীভাবে ইচ্ছা করলে নেতৃত্বের ভূমিকায় পরিণত হতে পারে তা নথিভুক্ত করুন।
 
-Encouraging others to [share ownership of the project](../building-community/#share-ownership-of-your-project) can greatly reduce your own workload, as @lmccart discovered on her project, [p5.js](https://github.com/processing/p5.js).
+অন্যদেরকে [প্রকল্পের মালিকানা ভাগাভাগি](https://opensource.guide/building-community/#share-ownership-of-your-project) করতে উৎসাহিত করলে আপনার নিজের কাজের চাপ অনেকাংশে কমতে পারে, যেমন @lmccart তার প্রকল্প, [p5.js-](https://github.com/processing/p5.js) এ আবিষ্কার করেছেন।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbour.
+ আমি বলছিলাম, "হ্যাঁ, যে কেউ জড়িত হতে পারে, আপনার কোডিংয়ে খুব বেশি দক্ষতা থাকতে হবে না [...]।" আমরা [একটি ইভেন্টে] আসার জন্য লোকেদের সাইন আপ করতে বলেছিলাম এবং তখনই আমি সত্যিই ভাবছিলাম: এটা কি সত্যি, আমি যা বলছিলাম? ৪০ জন লোক আসবে, এবং এটা এমন নয় যে আমি তাদের প্রত্যেকের সাথে বসতে পারব... কিন্তু লোকেরা একত্রিত হয়েছিল, এবং এটি ঠিক কাজ করেছিল। একজন ব্যক্তি এটি পাওয়ার সাথে সাথেই, তারা তাদের প্রতিবেশীকে শেখাতে পারত।
   <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
+—  @lmccart, ["ওপেন সোর্স” বলতে আসলে কী বোঝায়? p5.js সংস্করণ"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
 </aside>
 
-If you need to step away from your project, either on hiatus or permanently, there's no shame in asking someone else to take over for you.
+যদি আপনার প্রকল্প থেকে সরে যেতে হয়, হয় বিরতিতে অথবা স্থায়ীভাবে, তাহলে অন্য কাউকে আপনার দায়িত্ব নিতে বলার মধ্যে কোনও লজ্জার কিছু নেই।
 
-If other people are enthusiastic about its direction, give them commit access or formally hand over control to someone else. If someone forked your project and is actively maintaining it elsewhere, consider linking to the fork from your original project. It's great that so many people want your project to live on!
+যদি অন্যরা এর নির্দেশনা সম্পর্কে উৎসাহী হয়, তাহলে তাদের অনুমতি দিন অথবা আনুষ্ঠানিকভাবে অন্য কারো কাছে নিয়ন্ত্রণ হস্তান্তর করুন। যদি কেউ আপনার প্রকল্পটি তৈরি করে এবং অন্য কোথাও সক্রিয়ভাবে এটি রক্ষণাবেক্ষণ করে, তাহলে আপনার মূল প্রকল্পের ফর্কের সাথে লিঙ্ক করার কথা বিবেচনা করুন। এটা খুবই ভালো যে এত মানুষ আপনার প্রকল্পটি টিকে থাকতে চায়!
 
-@progrium [found that](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) documenting the vision for his project, [Dokku](https://github.com/dokku/dokku), helped those goals live on even after he stepped away from the project:
+@progrium [দেখেছেন যে তার প্রকল্প,](https://web.archive.org/web/20151204215958/https://progrium.com/blog/2015/12/04/leadership-guilt-and-pull-requests/) [ডোক্কুর](https://github.com/dokku/dokku) জন্য দৃষ্টিভঙ্গি নথিভুক্ত করা , প্রকল্প থেকে সরে আসার পরেও সেই লক্ষ্যগুলিকে বাঁচিয়ে রাখতে সাহায্য করেছে:
 
-> I wrote a wiki page describing what I wanted and why I wanted it. For some reason it came as a surprise to me that the maintainers started moving the project in that direction! Did it happen exactly how I'd do it? Not always. But it still brought the project closer to what I wrote down.
+> আমি একটি উইকি পাতা লিখেছিলাম যেখানে আমি কী চাই এবং কেন চাই তা বর্ণনা করা হয়েছিল। কোনও কারণে, রক্ষণাবেক্ষণকারীরা প্রকল্পটি সেই দিকে নিয়ে যেতে শুরু করায় আমার অবাক লেগেছিল! আমি যেভাবে এটি করেছি ঠিক সেভাবেই কি এটি ঘটেছিল? সবসময় নয়। কিন্তু তবুও এটি প্রকল্পটিকে আমি যা লিখেছিলাম তার কাছাকাছি নিয়ে এসেছিল।
 
-### Let others build the solutions they need
+### অন্যদের তাদের প্রয়োজনীয় সমাধান তৈরি করতে দিন
 
-If a potential contributor has a different opinion on what your project should do, you may want to gently encourage them to work on their own fork.
+যদি আপনার প্রকল্পের কাজ সম্পর্কে কোনও সম্ভাব্য অবদানকারীর ভিন্ন মতামত থাকে, তাহলে আপনি তাদের নিজস্ব কৌশল অবলম্বন করতে উৎসাহিত করতে পারেন।
 
-Forking a project doesn't have to be a bad thing. Being able to copy and modify projects is one of the best things about open source. Encouraging your community members to work on their own fork can provide the creative outlet they need, without conflicting with your project's vision.
+কোনও প্রকল্প তৈরি করা খারাপ কিছু হতে পারে না। প্রকল্পগুলি অনুলিপি এবং সংশোধন করতে সক্ষম হওয়া ওপেন সোর্সের সেরা দিকগুলির মধ্যে একটি। আপনার সম্প্রদায়ের সদস্যদের তাদের নিজস্ব ফোর্কের উপর কাজ করতে উৎসাহিত করা তাদের প্রয়োজনীয় সৃজনশীল আউটলেট সরবরাহ করতে পারে, আপনার প্রকল্পের দৃষ্টিভঙ্গির সাথে সাংঘর্ষিক না হয়ে।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
+আমি ৮০% ব্যবহারের ক্ষেত্রেই কাজ করি। যদি আপনি ইউনিকর্নদের একজন হন, তাহলে দয়া করে আমার কাজটি কাজে লাগান। আমি বিরক্ত হব না! আমার পাবলিক প্রকল্পগুলি প্রায় সবসময়ই সবচেয়ে সাধারণ সমস্যাগুলি সমাধান করার জন্য তৈরি করা হয়; আমি আমার কাজকে ফাঁকা করে বা প্রসারিত করে আরও গভীরে যাওয়ার চেষ্টা করি।
   <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+— @geerlingguy, ["কেন আমি জনসংযোগ বন্ধ করি"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
 </aside>
 
-The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
+একই কথা প্রযোজ্য সেই ব্যবহারকারীর ক্ষেত্রেও যারা সত্যিই এমন একটি সমাধান চান যা তৈরি করার জন্য আপনার কাছে ব্যান্ডউইথ নেই। API এবং কাস্টমাইজেশন হুক অফার করলে অন্যরা সরাসরি উৎস পরিবর্তন না করেই তাদের নিজস্ব চাহিদা পূরণ করতে পারে। @orta [দেখেছেন যে](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) CocoaPods-এর জন্য উৎসাহিত প্লাগইনগুলি "কিছু আকর্ষণীয় ধারণা" তৈরি করেছে:
 
-> It's almost inevitable that once a project becomes big, maintainers have to become a lot more conservative about how they introduce new code. You become good at saying "no", but a lot of people have legitimate needs. So, instead you end up converting your tool into a platform.
+> এটা প্রায় অনিবার্য যে একবার কোনও প্রকল্প বড় হয়ে গেলে, রক্ষণাবেক্ষণকারীদের নতুন কোড কীভাবে প্রবর্তন করা হবে সে সম্পর্কে অনেক বেশি রক্ষণশীল হতে হবে। আপনি "না" বলতে পারদর্শী হয়ে উঠবেন, কিন্তু অনেকেরই বৈধ চাহিদা থাকে। তাই, পরিবর্তে আপনি আপনার টুলটিকে একটি প্ল্যাটফর্মে রূপান্তরিত করতে বাধ্য হবেন।
 
-## Bring in the robots
+## রোবটগুলো আনুন
 
-Just as there are tasks that other people can help you with, there are also tasks that no human should ever have to do. Robots are your friend. Use them to make your life as a maintainer easier.
+ঠিক যেমন কিছু কাজ আছে যা অন্যরা আপনাকে সাহায্য করতে পারে, তেমনি এমন কিছু কাজও আছে যা কোনও মানুষের কখনও করা উচিত নয়। রোবট আপনার বন্ধু। রক্ষণাবেক্ষণকারী হিসেবে আপনার জীবনকে সহজ করতে এগুলি ব্যবহার করুন।
 
-### Require tests and other checks to improve the quality of your code
+### আপনার কোডের মান উন্নত করার জন্য পরীক্ষা এবং অন্যান্য চেকের প্রয়োজন।
 
-One of the most important ways you can automate your project is by adding tests.
+আপনার প্রকল্পটি স্বয়ংক্রিয় করার সবচেয়ে গুরুত্বপূর্ণ উপায়গুলির মধ্যে একটি হল পরীক্ষা যোগ করা।
 
-Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
+পরীক্ষাগুলি অবদানকারীদের আত্মবিশ্বাসী বোধ করতে সাহায্য করে যে তারা কোনও কিছু ভাঙবে না। এগুলি আপনার জন্য অবদানগুলি পর্যালোচনা করা এবং দ্রুত গ্রহণ করা সহজ করে তোলে। আপনি যত বেশি প্রতিক্রিয়াশীল হবেন, আপনার সম্প্রদায় তত বেশি জড়িত হতে পারবে।
 
-Set up automatic tests that will run on all incoming contributions, and ensure that your tests can easily be run locally by contributors. Require that all code contributions pass your tests before they can be submitted. You'll help set a minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) on GitHub can help ensure no change gets merged without your tests passing.
+সমস্ত আগত অবদানের উপর স্বয়ংক্রিয় পরীক্ষা সেট আপ করুন এবং নিশ্চিত করুন যে আপনার পরীক্ষাগুলি স্থানীয়ভাবে অবদানকারীদের দ্বারা সহজেই চালানো যেতে পারে। জমা দেওয়ার আগে সমস্ত কোড অবদানগুলিকে আপনার পরীক্ষায় উত্তীর্ণ হতে হবে। আপনি সমস্ত জমা দেওয়ার জন্য মানের একটি ন্যূনতম মান নির্ধারণ করতে সহায়তা করবেন। GitHub-এ [প্রয়োজনীয় স্থিতি পরীক্ষা](https://help.github.com/articles/about-required-status-checks/) নিশ্চিত করতে সাহায্য করতে পারে যে আপনার পরীক্ষাগুলি পাস না করে কোনও পরিবর্তন একত্রিত না হয়।
 
-If you add tests, make sure to explain how they work in your CONTRIBUTING file.
+যদি আপনি পরীক্ষা যোগ করেন, তাহলে আপনার CONTRIBUTING ফাইলে সেগুলি কীভাবে কাজ করে তা ব্যাখ্যা করতে ভুলবেন না।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
+  আমি বিশ্বাস করি যে সকল কোডের উপর মানুষ কাজ করে তার জন্য পরীক্ষা অপরিহার্য। যদি কোডটি সম্পূর্ণ এবং নিখুঁতভাবে সঠিক হত, তাহলে এতে পরিবর্তনের প্রয়োজন হত না - আমরা কেবল তখনই কোড লিখি যখন কিছু ভুল হয়, তা সে "এটি ক্র্যাশ" হোক বা "এটিতে অমুক-অমুক বৈশিষ্ট্যের অভাব রয়েছে"। এবং আপনি যে পরিবর্তনই করুন না কেন, আপনার ভুলক্রমে প্রবর্তিত যেকোনো রিগ্রেশন ধরার জন্য পরীক্ষাগুলি অপরিহার্য।
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["রাস্টের কমিউনিটি অটোমেশন"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
-### Use tools to automate basic maintenance tasks
+### মৌলিক রক্ষণাবেক্ষণের কাজগুলি স্বয়ংক্রিয় করতে সরঞ্জামগুলি ব্যবহার করুন
 
 The good news about maintaining a popular project is that other maintainers have probably faced similar issues and built a solution for them.
 
-There are a [variety of tools available](https://github.com/showcases/tools-for-open-source) to help automate some aspects of maintenance work. A few examples:
+একটি জনপ্রিয় প্রকল্প রক্ষণাবেক্ষণের বিষয়ে সুসংবাদ হল যে অন্যান্য রক্ষণাবেক্ষণকারীরা সম্ভবত একই ধরণের সমস্যার সম্মুখীন হয়েছেন এবং তাদের জন্য একটি সমাধান তৈরি করেছেন।
 
-* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
-* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
-* [Danger](https://github.com/danger/danger) helps automate code review
-* [no-response](https://github.com/probot/no-response) closes issues where the author hasn't responded to a request for more information
-* [dependabot](https://github.com/dependabot) checks your dependency files every day for outdated requirements and opens individual pull requests for any it finds
+[রক্ষণাবেক্ষণ কাজের কিছু দিক স্বয়ংক্রিয় করতে সাহায্য করার জন্য বিভিন্ন ধরণের সরঞ্জাম উপলব্ধ](https://github.com/showcases/tools-for-open-source) রয়েছে । কয়েকটি উদাহরণ:
 
-For bug reports and other common contributions, GitHub has [Issue Templates and Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates), which you can create to streamline the communication you receive. @TalAter made a [Choose Your Own Adventure guide](https://www.talater.com/open-source-templates/#/) to help you write your issue and PR templates.
+* [semantic-release](https://github.com/semantic-release/semantic-release) আপনার রিলিজগুলিকে স্বয়ংক্রিয় করে তোলে
+* [mention-bot](https://github.com/facebook/mention-bot) পুল রিকোয়েস্টের জন্য সম্ভাব্য পর্যালোচকদের উল্লেখ করেছে
+* [Danger](https://github.com/danger/danger) কোড পর্যালোচনা স্বয়ংক্রিয় করতে সাহায্য করে
+* [no-response](https://github.com/probot/no-response) - সেই সমস্যাগুলি বন্ধ করে দেয় যেখানে লেখক আরও তথ্যের জন্য অনুরোধের জবাব দেননি
+* [dependabot](https://github.com/dependabot) আপনার নির্ভরতা ফাইলগুলি প্রতিদিন পুরানো প্রয়োজনীয়তার জন্য পরীক্ষা করে এবং যে কোনওটির জন্য পৃথক পুল অনুরোধ খোলে।
 
-To manage your email notifications, you can set up [email filters](https://github.com/blog/2203-email-updates-about-your-own-activity) to organize by priority.
+বাগ রিপোর্ট এবং অন্যান্য সাধারণ অবদানের জন্য, GitHub-এ [Issue Templates এবং Pull Request Templates](https://github.com/blog/2111-issue-and-pull-request-templates) রয়েছে , যা আপনি আপনার প্রাপ্ত যোগাযোগকে সহজতর করার জন্য তৈরি করতে পারেন। @TalAter আপনার সমস্যা এবং PR টেমপ্লেট লিখতে সাহায্য করার জন্য একটি [Choose Your Own Adventure নির্দেশিকা তৈরি করেছে।](https://www.talater.com/open-source-templates/#/)
 
-If you want to get a little more advanced, style guides and linters can standardize project contributions and make them easier to review and accept.
+আপনার ইমেল বিজ্ঞপ্তিগুলি পরিচালনা করতে, আপনি অগ্রাধিকার অনুসারে সংগঠিত করার জন্য [ইমেল ফিল্টার সেট আপ করতে পারেন।](https://github.com/blog/2203-email-updates-about-your-own-activity)
 
-However, if your standards are too complicated, they can increase the barriers to contribution. Make sure you're only adding enough rules to make everyone's lives easier.
+আপনি যদি আরও একটু উন্নত হতে চান, তাহলে স্টাইল গাইড এবং লিন্টারগুলি প্রকল্পের অবদানগুলিকে মানসম্মত করতে পারে এবং সেগুলি পর্যালোচনা এবং গ্রহণ করা সহজ করে তুলতে পারে।
 
-If you're not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. For example, what does the contribution process look like for other Node modules? Using similar tools and approaches will also make your process more familiar to your target contributors.
+তবে, যদি আপনার মানদণ্ডগুলি খুব জটিল হয়, তাহলে অবদানের ক্ষেত্রে বাধাগুলি আরও বাড়িয়ে তুলতে পারে। নিশ্চিত করুন যে আপনি কেবলমাত্র পর্যাপ্ত নিয়ম যুক্ত করছেন যাতে প্রত্যেকের জীবন সহজ হয়।
 
-## It's okay to hit pause
+যদি আপনি নিশ্চিত না হন যে কোন টুলগুলি ব্যবহার করবেন, তাহলে অন্যান্য জনপ্রিয় প্রকল্পগুলি কী করে, বিশেষ করে আপনার ইকোসিস্টেমের মধ্যে সেগুলি দেখুন। উদাহরণস্বরূপ, অন্যান্য নোড মডিউলগুলির জন্য অবদান প্রক্রিয়াটি কেমন দেখায়? অনুরূপ টুল এবং পদ্ধতি ব্যবহার করলে আপনার প্রক্রিয়াটি আপনার লক্ষ্য অবদানকারীদের কাছে আরও পরিচিত হবে।
 
-Open source work once brought you joy. Maybe now it's starting to make you feel avoidant or guilty.
+## বিরতি দেওয়া ঠিক আছে
 
-Perhaps you're feeling overwhelmed or a growing sense of dread when you think about your projects. And meanwhile, the issues and pull requests pile up.
+ওপেন সোর্স কাজ একসময় আপনাকে আনন্দ দিত। হয়তো এখন এটি আপনাকে এড়িয়ে চলা বা অপরাধবোধ করা শুরু করেছে।
 
-Burnout is a real and pervasive issue in open source work, especially among maintainers. As a maintainer, your happiness is a non-negotiable requirement for the survival of any open source project.
+হয়তো তুমি যখন তোমার প্রকল্পগুলো নিয়ে ভাবো, তখন তুমি অভিভূত বোধ করো অথবা ভয়ের অনুভূতি ক্রমশ বাড়ছে। আর এরই মধ্যে, সমস্যা এবং পুল রিকোয়েস্টের স্তূপ জমতে থাকে।
 
-Although it should go without saying, take a break! You shouldn't have to wait until you feel burned out to take a vacation. @brettcannon, a Python core developer, decided to take [a month-long vacation](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/) after 14 years of volunteer OSS work.
+ওপেন সোর্স কাজের ক্ষেত্রে, বিশেষ করে রক্ষণাবেক্ষণকারীদের মধ্যে, বার্নআউট একটি বাস্তব এবং ব্যাপক সমস্যা। একজন রক্ষণাবেক্ষণকারী হিসেবে, যেকোনো ওপেন সোর্স প্রকল্পের টিকে থাকার জন্য আপনার সুখ একটি অ-আলোচনাযোগ্য প্রয়োজনীয়তা।
 
-Just like any other type of work, taking regular breaks will keep you refreshed, happy, and excited about your work.
+যদিও এটা বলাই বাহুল্য, একটু বিরতি নাও! ছুটি কাটানোর জন্য ক্লান্ত বোধ না করা পর্যন্ত অপেক্ষা করা উচিত নয়। @brettcannon, একজন পাইথন কোর ডেভেলপার, ১৪ বছর স্বেচ্ছাসেবক OSS কাজের পর [এক মাসব্যাপী ছুটি নেওয়ার সিদ্ধান্ত নিয়েছেন।](https://snarky.ca/why-i-took-october-off-from-oss-volunteering/)
+
+অন্য যেকোনো কাজের মতোই, নিয়মিত বিরতি আপনাকে সতেজ, খুশি এবং আপনার কাজের ব্যাপারে উত্তেজিত রাখবে।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
+ WP-CLI বজায় রাখার ক্ষেত্রে, আমি আবিষ্কার করেছি যে প্রথমে নিজেকে খুশি করতে হবে এবং আমার সম্পৃক্ততার স্পষ্ট সীমা নির্ধারণ করতে হবে। আমার স্বাভাবিক কাজের সময়সূচীর অংশ হিসেবে আমি যে সর্বোত্তম ভারসাম্য খুঁজে পেয়েছি তা হল সপ্তাহে ২-৫ ঘন্টা। এটি আমার সম্পৃক্ততাকে আবেগপূর্ণ রাখে এবং খুব বেশি কাজের প্রতি আকাঙ্ক্ষা থেকে বিরত রাখে। যেহেতু আমি যে বিষয়গুলিতে কাজ করছি সেগুলিকে আমি অগ্রাধিকার দিই, তাই আমি যা সবচেয়ে গুরুত্বপূর্ণ বলে মনে করি সেগুলিতে নিয়মিত অগ্রগতি করতে পারি।
   <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+— @danielbachhuber, ["আমার সমবেদনা, আপনি এখন একটি জনপ্রিয় ওপেন সোর্স প্রকল্পের রক্ষণাবেক্ষণকারী"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
 </aside>
 
-Sometimes, it can be hard to take a break from open source work when it feels like everybody needs you. People may even try to make you feel guilty for stepping away.
+কখনও কখনও, যখন মনে হয় সকলের আপনার প্রয়োজন, তখন ওপেন সোর্স কাজ থেকে বিরতি নেওয়া কঠিন হতে পারে। এমনকি লোকেরা আপনাকে দূরে সরে যাওয়ার জন্য দোষী বোধ করানোর চেষ্টা করতে পারে।
 
-Do your best to find support for your users and community while you're away from a project. If you can't find the support you need, take a break anyway. Be sure to communicate when you're not available, so people aren't confused by your lack of responsiveness.
+কোনও প্রকল্প থেকে দূরে থাকাকালীন আপনার ব্যবহারকারী এবং সম্প্রদায়ের জন্য সহায়তা খুঁজে বের করার জন্য যথাসাধ্য চেষ্টা করুন। যদি আপনি আপনার প্রয়োজনীয় সহায়তা খুঁজে না পান, তবে তবুও বিরতি নিন। যখন আপনি উপলব্ধ থাকবেন না তখন যোগাযোগ করতে ভুলবেন না, যাতে আপনার প্রতিক্রিয়াশীলতার অভাবের কারণে লোকেরা বিভ্রান্ত না হয়।
 
-Taking breaks applies to more than just vacations, too. If you don't want to do open source work on weekends, or during work hours, communicate those expectations to others, so they know not to bother you.
+বিরতি নেওয়া কেবল ছুটির সময়ের জন্যই প্রযোজ্য নয়। যদি আপনি সপ্তাহান্তে বা কাজের সময়ে ওপেন সোর্স কাজ করতে না চান, তাহলে সেই প্রত্যাশাগুলো অন্যদের কাছে পৌঁছে দিন, যাতে তারা আপনাকে বিরক্ত না করে।
 
-## Take care of yourself first!
+## আগে নিজের যত্ন নাও!
 
-Maintaining a popular project requires different skills than the earlier stages of growth, but it's no less rewarding. As a maintainer, you'll practice leadership and personal skills on a level that few people get to experience. While it's not always easy to manage, setting clear boundaries and only taking on what you're comfortable with will help you stay happy, refreshed, and productive.
+একটি জনপ্রিয় প্রকল্প রক্ষণাবেক্ষণের জন্য বৃদ্ধির প্রাথমিক পর্যায়ের তুলনায় ভিন্ন দক্ষতার প্রয়োজন হয়, তবে এটি কম ফলপ্রসূ নয়। একজন রক্ষণাবেক্ষণকারী হিসেবে, আপনি নেতৃত্ব এবং ব্যক্তিগত দক্ষতা এমন পর্যায়ে অনুশীলন করবেন যা খুব কম লোকই অনুভব করতে পারে। যদিও এটি পরিচালনা করা সবসময় সহজ নয়, স্পষ্ট সীমানা নির্ধারণ করা এবং আপনি যা নিয়ে স্বাচ্ছন্দ্য বোধ করেন কেবল তা গ্রহণ করা আপনাকে সুখী, সতেজ এবং উৎপাদনশীল থাকতে সাহায্য করবে।
