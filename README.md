@@ -1,7 +1,60 @@
 # Open Source Guides
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
-Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.
+---
+
+## 🧠 Network Architecture Overview
+
+This repository also serves as an educational reference for understanding
+how large open-source projects are maintained and collaborated on using
+distributed version control and asynchronous workflows.
+
+Although this project is primarily documentation-focused, the contribution
+process itself demonstrates important concepts in **networked and
+collaborative systems**.
+
+### Contribution Architecture Model
+- **Fork-based development model**.
+- Contributors do not modify the main repository directly.
+- Changes are made in personal forks and submitted via Pull Requests.
+- Repository maintainers review, discuss, and merge changes asynchronously.
+
+### Collaboration Flow
+1. A contributor forks the repository.
+2. Changes are made in the fork (e.g., documentation improvements).
+3. The contributor creates a Pull Request to the main repository.
+4. Maintainers review the changes and provide feedback.
+5. Approved changes are merged into the main branch.
+
+### Networking Characteristics
+- Asynchronous and non-blocking collaboration.
+- Distributed version control using Git.
+- Event-driven workflow via Pull Requests, reviews, and CI checks.
+- Scales efficiently with a large number of contributors.
+
+---
+
+## 🎓 Educational Purpose
+
+This repository is well-suited for **learning and teaching purposes**, especially for:
+- Open-source collaboration workflows.
+- Asynchronous contribution models.
+- Distributed systems and version control.
+- Practical experience with Pull Requests and code reviews.
+
+These concepts are closely related to topics in **Computer Networks**,
+**Network Programming**, and **Distributed Systems** courses.
+
+## 🧩 Contribution Model Diagram (Simplified)
+```
+Contributor A --->
+Contributor B ---> GitHub Pull Requests ---> Main Repository
+Contributor C ---> (Asynchronous) (Maintainers)
+
+```
+
+This diagram illustrates how multiple contributors can work independently
+and asynchronously while maintaining project stability and quality.
 
 ## Background
 Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is that we felt that there weren't enough resources for people creating open-source projects.
