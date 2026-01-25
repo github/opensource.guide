@@ -80,3 +80,7 @@ chmod +x script/server
 Discussions about the Open Source Guides take place on this repository's [Pull Requests](https://github.com/github/opensource.guide/pulls) section. Anybody is welcome to join these conversations.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.
+
+
+
+
