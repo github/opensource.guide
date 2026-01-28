@@ -17,7 +17,7 @@
         {% if page.lang and site.data.locales.size > 1 %}
         <li class="d-inline-block">
           <div class="p-3">
-            <select id="language" class="form-select">
+            <select id="language" class="form-select" aria-label="Language">
               {% assign locales = site.data.locales | sort %}
               {% for locale in locales %}
               {% assign lang = locale[0] %}
