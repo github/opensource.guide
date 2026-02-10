@@ -139,7 +139,7 @@ If you're receiving too many low-quality contributions, require that contributor
 
 If they don't follow your rules, close the issue immediately and point to your documentation.
 
-While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put in many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
+While this approach may feel unkind at first, being proactive is actually good for both parties. It reduces the chance that someone will put many wasted hours of work into a pull request that you aren't going to accept. And it makes your workload easier to manage.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
