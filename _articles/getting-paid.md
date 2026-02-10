@@ -64,7 +64,7 @@ If you're looking for financial support, there are two paths to consider. You ca
 
 Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project helps attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
 
 If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
 
@@ -136,7 +136,7 @@ Some software foundations and companies offer grants for open source work. Somet
 * **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
 * The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
 * **[FLOSS/fund](https://floss.fund/)** is a dedicated fund to provide no-strings attached financial support to FOSS projects globally.
-* The **[Github Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/)** is a program designed to financially and programmatically improve security and sustainability of open source projects.
+* The **[GitHub Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/)** is a program designed to financially and programmatically improve security and sustainability of open source projects.
 
 For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
 
@@ -176,4 +176,4 @@ Does the funder have any requirements around disbursal? For example, you may nee
 
 ## Experiment and don't give up
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases requires you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.

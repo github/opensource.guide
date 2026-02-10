@@ -189,7 +189,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said:, _"Ask not what your country can do for you - ask what you can do for your country."_
+If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
