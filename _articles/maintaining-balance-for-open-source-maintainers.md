@@ -28,7 +28,7 @@ By embracing the concept of personal ecology, maintainers can proactively avoid 
 
 ### Identify your motivations for working in open source
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+Take time to reflect on what parts of open source maintenance energize you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
 
 ### Reflect on what causes you to get out of balance and stressed out
 
@@ -128,13 +128,13 @@ This will look different for each maintainer, and will change depending on your 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
+ I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in the evening.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm." This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
