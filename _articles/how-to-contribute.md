@@ -14,7 +14,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Working on [freenode] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
 — [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
@@ -26,7 +26,7 @@ Why do people contribute to open source? Plenty of reasons!
 
 ### Improve software you rely on
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Lots of open source contributors start by being users of software they contribute to. When you find a bug in open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
 
 ### Improve existing skills
 
@@ -34,7 +34,7 @@ Whether it's coding, user interface design, graphic design, writing, or organizi
 
 ### Meet people who are interested in similar things
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late-night online chats about burritos.
 
 ### Find mentors and teach others
 
@@ -48,7 +48,7 @@ By definition, all of your open source work is public, which means you get free 
 
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
-### It's empowering to be able to make changes, even small ones
+### It’s empowering to make changes, even small ones
 
 You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
@@ -95,7 +95,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -390,7 +390,7 @@ Whether you're a one-time contributor or trying to join a community, working wit
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  [As a new contributor,] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
