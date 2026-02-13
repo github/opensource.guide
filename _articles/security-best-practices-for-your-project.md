@@ -12,7 +12,7 @@ Bugs and new features aside, a project's longevity hinges not only on its useful
 
 ## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### A malicious actor who manages to impersonate a privileged contributor to your project will cause catastrophic damages.
 
 Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
 
@@ -147,7 +147,7 @@ Security is an ongoing process, not a one-time setup. By involving your communit
 
 These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
 
-Security isn't static. Revisit your processes from time to time as your project grows, so do your responsibilities and your attack surface.
+Security isn't static. Revisit your processes from time to time. As your project grows, so do your responsibilities and your attack surface.
 
 ## Contributors
 

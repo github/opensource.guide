@@ -40,7 +40,7 @@ related:
 
 * **التبني والاقتباس:** يمكن لأي شخص استخدام مشاريع المصادر المفتوحة لأي غرض تقريبًا. يمكن للناس حتى استخدامها لبناء أشياء أخرى. [WordPress](https://github.com/WordPress)، على سبيل المثال، بدأ كـ fork لمشروع موجود يسمى [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **الشفافية:** يمكن لأي شخص فحص مشروع مفتوح المصدر بحثًا عن أخطاء أو تناقضات. الشفافية مهمة للحكومات مثل [بلغاريا](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) أو [الولايات المتحدة](https://www.cio.gov/2016/08/11/peoples-code.html)، والصناعات المنظمة مثل البنوك أو الرعاية الصحية، وبرامج الأمان مثل [<span dir='ltr' markdown="1">Let's Encrypt</span>](https://github.com/letsencrypt).
+* **الشفافية:** يمكن لأي شخص فحص مشروع مفتوح المصدر بحثًا عن أخطاء أو تناقضات. الشفافية مهمة للحكومات مثل [بلغاريا](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) أو [الولايات المتحدة](https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-and-innovation-through-reusable-and-open-source-software/)، والصناعات المنظمة مثل البنوك أو الرعاية الصحية، وبرامج الأمان مثل [<span dir='ltr' markdown="1">Let's Encrypt</span>](https://github.com/letsencrypt).
 
 المصادر المفتوحة ليست للبرمجيات فقط. يمكنك فتح مصدر كل شيء من مجموعات البيانات إلى الكتب. راجع [GitHub Explore](https://github.com/explore) للأفكار حول ما يمكنك فتح مصدره.
 

@@ -39,7 +39,7 @@ _Free_ na _libre_ zinarejelea uhuru, [sio bei](#je-open-source-inamaanisha-bila-
 
 * **Kupitishwa na kubadilisha:** Miradi ya open source inaweza kutumika na mtu yeyote kwa karibu kusudi lolote. Watu wanaweza hata kuitumia kujenga mambo mengine. [WordPress](https://github.com/WordPress), kwa mfano, ilianza kama fork ya mradi uliopo uitwao [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Uwazi:** Mtu yeyote anaweza kukagua mradi wa open source kwa makosa au kutokuelewana. Uwazi ni muhimu kwa serikali kama [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) au [Marekani](https://www.cio.gov/2016/08/11/peoples-code.html), sekta zilizo chini ya udhibiti kama benki au huduma za afya, na programu za usalama kama [Let's Encrypt](https://github.com/letsencrypt).
+* **Uwazi:** Mtu yeyote anaweza kukagua mradi wa open source kwa makosa au kutokuelewana. Uwazi ni muhimu kwa serikali kama [Bulgaria](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) au [Marekani](https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-and-innovation-through-reusable-and-open-source-software/), sekta zilizo chini ya udhibiti kama benki au huduma za afya, na programu za usalama kama [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source si kwa programu tu, pia unaweza kufungua kila kitu kutoka kwa seti za data hadi vitabu. Angalia [GitHub Explore](https://github.com/explore) kwa mawazo kuhusu nini kingine unaweza kufungua.
 

@@ -1,158 +1,157 @@
 ---
 lang: ko
-untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+title: 프로젝트를 위한 보안 모범 사례
+description: MFA, 코드 스캐닝, 안전한 의존성 관리, 비공개 취약점 신고까지 — 필수적인 보안 실천을 통해 신뢰를 구축하고 프로젝트의 미래를 강화하세요.
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+버그 수정과 새로운 기능도 중요하지만, 프로젝트의 장기적인 지속 가능성은 유용성뿐만 아니라 사용자로부터 얻는 신뢰에 달려 있습니다. 이 신뢰를 유지하기 위해서는 강력한 보안 조치가 중요합니다. 아래는 프로젝트의 보안 수준을 크게 향상시킬 수 있는 중요한 실천 사항들입니다.
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## 권한 있는 모든 기여자가 다중 요소 인증(MFA)을 활성화했는지 확인하세요
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### 프로젝트의 권한 있는 기여자를 사칭하는 공격자가 발생하면 치명적인 피해를 초래할 수 있습니다.
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+공격자가 권한을 획득하면, 코드에 원치 않는 동작(예: 암호화폐 채굴)을 추가하거나 사용자 인프라에 악성코드를 배포할 수 있으며, 비공개 코드 저장소에 접근해 지적 재산과 민감한 데이터(다른 서비스의 자격 증명 포함)를 탈취할 수도 있습니다.
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+MFA는 계정 탈취를 방지하기 위한 추가적인 보안 계층을 제공합니다. MFA를 활성화하면 사용자 이름과 비밀번호로 로그인한 뒤, 본인만 알고 있거나 접근할 수 있는 또 다른 인증 수단을 함께 제공해야 합니다.
 
-## Secure your code as part of your development workflow
+## 개발 워크플로우의 일부로 코드 보안을 확보하세요
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### 코드의 보안 취약점은 운영 환경에서 사용되기 시작한 뒤보다, 과정 초기에 발견했을 때 수정 비용이 훨씬 적게 듭니다.
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+정적 애플리케이션 보안 테스트(SAST) 도구를 사용하면 코드 내 보안 취약점을 탐지할 수 있습니다. 이러한 도구는 코드 수준에서 동작하며 실행 환경이 필요 없기 때문에, 과정 초기에 실행할 수 있고 빌드 단계나 코드 리뷰 단계 등 평소 개발 워크플로우에 자연스럽게 통합할 수 있습니다.
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+이는 마치 숙련된 전문가가 코드 저장소를 훑어보며, 코딩하는 동안 눈앞에 그대로 있는데도 놓치기 쉬운 일반적인 보안 취약점을 찾아주는 것과 같습니다.
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+어떤 SAST 도구를 선택해야 할까요?
+라이선스 확인: 일부 도구는 오픈 소스 프로젝트에 무료로 제공됩니다. 예를 들어 GitHub CodeQL이나 SemGrep이 있습니다.
+사용 언어에 대한 지원 범위를 확인하세요.
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+* 이미 사용 중인 도구와 기존 프로세스에 쉽게 통합되는 것을 선택하세요. 예를 들어, 경고를 확인하기 위해 다른 도구로 이동하기보다, 기존 코드 리뷰 프로세스/도구의 일부로 경고를 확인할 수 있는 편이 더 좋습니다.
+* 거짓 양성(False Positive)에 주의하세요! 도구가 아무 이유 없이 작업 속도를 늦추게 하고 싶지는 않으시겠죠!
+* 이런 기능들도 확인해보세요: 일부 도구는 매우 강력해 오염 추적(예: GitHub CodeQL)을 수행할 수 있고, 일부는 AI가 생성한 수정안을 제안하며, 일부는 커스텀 쿼리를 더 쉽게 작성할 수 있게 해줍니다(예: SemGrep).
 
-## Don't share your secrets
+## 비밀 정보를 공유하지 마세요
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### API 키, 토큰, 비밀번호와 같은 민감한 정보는 종종 실수로 저장소에 커밋될 수 있습니다.
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+다음 상황을 상상해 보세요. 전 세계 개발자들이 기여하는 인기 오픈 소스 프로젝트의 메인테이너인 당신의 프로젝트에, 한 기여자가 제3자 서비스의 API 키를 인지하지 못한 채 커밋합니다. 며칠 뒤 누군가 이 키를 발견해 무단으로 서비스를 사용합니다. 서비스는 침해되고, 프로젝트 사용자들은 장애를 겪으며, 프로젝트의 평판은 큰 타격을 받습니다. 메인테이너로서 당신은 노출된 비밀 정보를 폐기하고, 공격자가 이 비밀 정보를 통해 어떤 악의적인 행동을 할 수 있었는지 조사하고, 영향을 받은 사용자에게 알리고, 수정 조치를 구현해야 하는 상황에 직면하게 됩니다.
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+이러한 사고를 방지하기 위해 코드 내 비밀 정보를 탐지하는 "시크릿 스캐닝(secret scanning)" 솔루션이 존재합니다. GitHub Secret Scanning이나 Truffle Security의 Trufflehog 같은 도구는 비밀 정보가 원격 브랜치로 푸시되기 전에 이를 차단할 수 있으며, 일부 도구는 노출된 비밀 정보를 자동으로 폐기해 주기도 합니다.
 
-## Check and update your dependencies
+## 의존성을 점검하고 업데이트하세요
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+### 프로젝트의 의존성에는 프로젝트 보안을 훼손할 수 있는 취약점이 포함될 수 있습니다. 의존성을 수동으로 최신 상태로 유지하는 일은 많은 시간이 드는 작업일 수 있습니다.
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+이런 상황을 생각해 보세요. 널리 사용되는 라이브러리를 튼튼한 기반으로 삼아 구축된 프로젝트가 있습니다. 이후 해당 라이브러리에서 큰 보안 문제가 발견되었지만, 이를 사용해 애플리케이션을 만든 사람들은 이를 알지 못합니다. 공격자는 이 약점을 악용해 민감한 사용자 데이터를 그대로 노출된 상태로 만들어, 그 틈을 타 데이터를 가져갑니다. 이는 가상의 이야기가 아닙니다. 2017년 Equifax에서 정확히 이런 일이 벌어졌습니다. Equifax는 심각한 취약점이 발견되었다는 통지를 받은 뒤에도 Apache Struts 의존성을 업데이트하지 않았습니다. 그 취약점은 악용되었고, 악명 높은 Equifax 침해 사고로 1억 4,400만 명 사용자 데이터가 영향을 받았습니다.
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+이러한 상황을 방지하기 위해 Dependabot과 Renovate 같은 소프트웨어 구성 분석(SCA) 도구는 NVD나 GitHub Advisory Database 같은 공개 데이터베이스에 게시된 알려진 취약점을 기준으로 의존성을 자동 점검하고, 안전한 버전으로 업데이트하는 풀 리퀘스트를 생성합니다. 최신의 안전한 의존성 버전을 유지하는 것은 프로젝트를 잠재적 위험으로부터 보호합니다.
 
-## Understand and manage open source license risks
+## 오픈 소스 라이선스 위험을 이해하고 관리하세요
 
-### Open source licenses come with terms and ignoring them can lead to legal and reputational risks.
+### 오픈 소스 라이선스에는 조건이 있으며, 이를 무시하면 법적·평판상의 위험으로 이어질 수 있습니다.
 
-Using open source dependencies can speed up development, but each package includes a license that defines how it can be used, modified, or distributed. [Some licenses are permissive](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project), while others (like AGPL or SSPL) impose restrictions that may not be compatible with your project's goals or your users' needs.
+오픈 소스 의존성을 사용하면 개발 속도를 높일 수 있지만, 각 패키지에는 사용, 수정, 배포 방식을 규정하는 라이선스가 포함되어 있습니다. [일부 라이선스는 허용적(permissive)](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)인 반면, AGPL이나 SSPL처럼 프로젝트의 목표나 사용자 요구와 호환되지 않을 수 있는 제한을 부과하는 라이선스도 있습니다.
 
-Imagine this: You add a powerful library to your project, unaware that it uses a restrictive license. Later, a company wants to adopt your project but raises concerns about license compliance. The result? You lose adoption, need to refactor code, and your project's reputation takes a hit.
+이런 상황을 상상해 보세요. 강력한 라이브러리를 프로젝트에 추가했지만, 해당 라이브러리가 제한적인 라이선스를 사용한다는 사실을 알지 못했습니다. 이후 한 기업이 프로젝트 도입을 원하지만 라이선스 준수에 대한 우려를 제기합니다. 결과적으로 도입이 무산되고, 코드를 리팩터링해야 하며, 프로젝트의 평판도 타격을 입습니다.
 
-To avoid these pitfalls, consider including automated license checks as part of your development workflow. These checks can help identify incompatible licenses early in the process, preventing problematic dependencies from being introduced into your project.
+이러한 함정을 피하기 위해 개발 워크플로우의 일부로 자동화된 라이선스 검사를 포함하는 것을 고려해 보세요. 이러한 검사는 과정 초기에 호환되지 않는 라이선스를 식별해, 문제가 되는 의존성이 프로젝트에 도입되는 일을 방지할 수 있습니다.
 
-Another powerful approach is generating a Software Bill of Materials (SBOM). An SBOM lists all components and their metadata (including licenses) in a standardized format. It offers clear visibility into your software supply chain and helps surface licensing risks proactively.
+또 다른 강력한 접근 방식은 소프트웨어 자재 명세서(SBOM)를 생성하는 것입니다. SBOM은 모든 구성 요소와 그 메타데이터(라이선스 포함)를 표준화된 형식으로 나열합니다. 이를 통해 소프트웨어 공급망을 명확히 가시화하고, 라이선스 위험을 선제적으로 드러내는 데 도움이 됩니다.
 
-Just like security vulnerabilities, license issues are easier to fix when discovered early. Automating this process keeps your project healthy and safe.
+보안 취약점과 마찬가지로, 라이선스 문제도 과정 초기에 발견할수록 수정이 쉽습니다. 이 과정을 자동화하면 프로젝트를 건강하고 안전하게 유지할 수 있습니다.
 
-## Avoid unwanted changes with protected branches
+## 보호된 브랜치를 사용해 원치 않는 변경을 방지하세요
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### 메인 브랜치에 대한 무제한 접근은 실수 또는 악의적인 변경으로 이어져 보안 취약점을 도입하거나 프로젝트의 안정성을 해칠 수 있습니다.
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+새로운 기여자가 메인 브랜치에 쓰기 권한을 얻은 뒤, 테스트되지 않은 변경 사항을 실수로 푸시했다고 가정해 보세요. 그러면 최신 변경 사항 때문에 심각한 보안 결함이 드러날 수도 있습니다. 이러한 문제를 방지하기 위해 브랜치 보호 규칙은 리뷰를 거치고 지정된 상태 검사를 통과하기 전에는 중요한 브랜치로 변경 사항이 푸시되거나 병합되지 않도록 보장합니다. 이 추가 조치를 마련해 두면 훨씬 더 안전하며, 매번 최상의 품질을 보장할 수 있습니다.
 
-## Make it easy (and safe) to report security issues
+## 보안 이슈를 쉽고(그리고 안전하게) 신고할 수 있도록 하세요
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### 사용자가 버그를 쉽게 신고할 수 있도록 하는 것은 좋은 관행이지만, 큰 질문은 이것입니다: 이 버그가 보안에 영향을 미칠 때, 악의적인 해커들에게 표적이 되지 않으면서 사용자가 어떻게 안전하게 신고할 수 있을까요?
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+보안 연구원이 프로젝트에서 취약점을 발견했지만 이를 신고할 명확하거나 안전한 방법을 찾지 못하는 상황을 떠올려 보세요. 지정된 프로세스가 없다면, 공개 이슈를 만들거나 소셜 미디어에서 공개적으로 논의할 수도 있습니다. 선의로 수정안을 제시하더라도, 공개 풀 리퀘스트로 올리면 병합되기 전에 다른 사람들이 이를 보게 됩니다! 이런 공개는 당신이 대응할 기회를 갖기 전에 취약점을 악의적인 행위자에게 노출시키며, 잠재적으로 제로데이 익스플로잇으로 이어져 프로젝트와 사용자에게 공격이 발생할 수 있습니다.
 
-### Security Policy
+### 보안 정책(Security Policy)
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+이를 피하려면 보안 정책을 게시하세요. `SECURITY.md` 파일에 정의되는 보안 정책은 보안 우려 사항을 신고하는 단계, 조율된 공개(coordinated disclosure)를 위한 투명한 프로세스, 그리고 보고된 이슈를 처리하기 위한 프로젝트 팀의 책임을 상세히 설명합니다. 이 보안 정책은 "공개 이슈나 PR에 상세 내용을 게시하지 말고 security@example.com으로 비공개 이메일을 보내주세요"처럼 간단할 수도 있지만, 언제쯤 답변을 받을 수 있는지 등 다른 세부 정보를 포함할 수도 있습니다. 공개 과정의 효과성과 효율성을 높이는 데 도움이 되는 내용이라면 무엇이든 좋습니다.
 
-### Private Vulnerability Reporting
+### 비공개 취약점 신고(Private Vulnerability Reporting)
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+일부 플랫폼에서는 비공개 이슈를 통해 접수에서 공개까지, 취약점 관리 프로세스를 간소화하고 강화할 수 있습니다. GitLab에서는 비공개 이슈로 이를 할 수 있습니다. GitHub에서는 이를 비공개 취약점 신고(PVR)라고 부릅니다. PVR을 사용하면 메인테이너는 GitHub 플랫폼 내에서 취약점 신고를 접수하고 대응할 수 있습니다. GitHub는 자동으로 수정 작업을 작성할 수 있는 비공개 포크와, 초안 보안 권고문을 생성합니다. 이 모든 것은 당신이 이슈를 공개하고 수정 사항을 릴리스하기로 결정할 때까지 기밀로 유지됩니다. 마무리로 보안 권고문이 게시되어, SCA 도구를 통해 모든 사용자를 알리고 보호하게 됩니다.
 
-### Define your threat model to help users and researchers understand scope
+### 범위를 이해할 수 있도록 위협 모델을 정의해 두세요
 
-Before security researchers can report issues effectively, they need to understand what risks are in scope. A lightweight threat model can help define your project's boundaries, expected behavior, and assumptions.
+보안 연구원이 이슈를 효과적으로 보고하려면, 어떤 위험이 범위에 포함되는지 이해해야 합니다. 가벼운 위협 모델은 프로젝트의 경계, 예상 동작, 그리고 가정 사항을 정의하는 데 도움이 됩니다.
 
-A threat model doesn't need to be complex. Even a simple document outlining what your project does, what it trusts, and how it could be misused goes a long way. It also helps you, as a maintainer, think through potential pitfalls and inherited risks from upstream dependencies.
+위협 모델은 복잡할 필요가 없습니다. 프로젝트가 무엇을 하는지, 무엇을 신뢰하는지, 그리고 어떻게 오용될 수 있는지를 간단히 문서로 정리하는 것만으로도 큰 도움이 됩니다. 또한 메인테이너로서 잠재적인 함정과 상위 의존성으로부터 상속되는 위험을 생각해 보는 데도 도움이 됩니다.
 
-A great example is the [Node.js threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model), which clearly defines what is and isn't considered a vulnerability in the project's context.
+좋은 예시는 [Node.js 위협 모델](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model)로, 프로젝트 맥락에서 무엇이 취약점으로 간주되고 무엇이 아닌지를 명확히 정의합니다.
 
-If you're new to this, the [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process) offers a helpful introduction to build your own.
+처음이라면, [OWASP 위협 모델링 프로세스](https://owasp.org/www-community/Threat_Modeling_Process)가 자체 위협 모델을 구축하는 데 유용한 소개 자료가 될 것입니다.
 
-Publishing a basic threat model alongside your security policy improves clarity for everyone.
+보안 정책과 함께 기본적인 위협 모델을 게시하면 모두에게 더 명확해집니다.
 
-## Prepare a lightweight incident response process
+## 간단한 사고 대응 프로세스를 준비하세요
 
-### Having a basic incident response plan helps you stay calm and act efficiently, ensuring the safety of your users and consumers.
+### 기본적인 사고 대응 계획을 갖고 있으면 침착하게 효율적으로 대응할 수 있어, 사용자와 소비자의 안전을 보장할 수 있습니다.
 
-Most vulnerabilities are discovered by researchers and reported privately. But sometimes, an issue is already being exploited in the wild before it reaches you. When this happens, your downstream consumers are the ones at risk, and having a lightweight, well-defined incident response plan can make a critical difference.
+대부분의 취약점은 연구자에 의해 발견되어 비공개로 보고됩니다. 하지만 때로는 문제가 당신에게 도달하기 전에 이미 실제 환경에서 악용되고 있을 수도 있습니다. 이런 일이 발생하면 위험에 노출되는 것은 하위 소비자들이며, 가볍고 잘 정의된 사고 대응 계획을 갖고 있는 것은 결정적인 차이를 만들 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ulisesgascon?s=180" class="pquote-avatar" alt="avatar">
-  A vulnerability is basically a flaw, a security misconfiguration or a weak point in our system that can be exploited by third parties to behave in unintended ways.
+  취약점이란 기본적으로 시스템의 결함, 보안 설정 오류, 또는 제3자가 의도하지 않은 방식으로 악용할 수 있는 약점을 의미합니다.
   <p markdown="1" class="pquote-credit">
 — [@UlisesGascon](https://github.com/ulisesgascon), ["What is a Vulnerability and What's Not? Making Sense of Node.js and Express Threat Models"](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
   </p>
 </aside>
 
-Even when a vulnerability is reported privately, the next steps matter. Once you receive a vulnerability report or detect suspicious activity, what happens next?
+취약점이 비공개로 보고되었더라도, 그 다음 단계가 중요합니다. 취약점 보고를 받거나 의심스러운 활동을 감지했을 때, 그 다음에는 무엇이 일어날까요?
 
-Having a basic incident response plan, even a simple checklist, helps you stay calm and act efficiently when time matters. It also shows users and researchers that you take incidents and reports seriously.
+기본적인 사고 대응 계획은, 심지어 간단한 체크리스트만으로도, 시간이 중요한 순간에 침착하고 효율적으로 대응하는 데 도움이 됩니다. 또한 사용자와 연구원에게 사고와 보고를 진지하게 다루고 있다는 점을 보여줍니다.
 
-Your process doesn't have to be complex. At minimum, define:
+프로세스는 복잡할 필요가 없습니다. 최소한 다음을 정의하세요:
 
-* Who reviews and triages security reports or alerts  
-* How severity is evaluated and how mitigation decisions are made  
-* What steps you take to prepare a fix and coordinate disclosure  
-* How you notify affected users, contributors, or downstream consumers 
+* 보안 보고나 경고를 검토하고 분류하는 주체
+* 심각도를 어떻게 평가하고, 완화 조치 결정을 어떻게 내리는지
+* 수정 사항을 준비하고 공개를 조율하기 위해 어떤 단계를 밟는지
+* 영향을 받은 사용자, 기여자, 하위 소비자에게 어떻게 알리는지
 
-An active incident, if not well managed, can erode trust in your project from your users. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
+적절히 관리되지 않은 진행 중 사고는 사용자들로부터 프로젝트에 대한 신뢰를 약화시킬 수 있습니다. 이를 `SECURITY.md` 파일에 게시(또는 링크)하면 기대치를 설정하고 신뢰를 구축하는 데 도움이 됩니다.
 
-For inspiration, the [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) provides a simple but effective example of an open source incident response plan.
+참고 자료로, [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md)는 간단하지만 효과적인 오픈 소스 사고 대응 계획의 예시를 제공합니다.
 
-This plan can evolve as your project grows, but having a basic framework in place now can save time and reduce mistakes during a real incident.
+이 계획은 프로젝트가 성장함에 따라 발전할 수 있지만, 지금 기본적인 프레임워크를 마련해 두는 것만으로도 실제 사고가 발생했을 때 시간을 절약하고 실수를 줄일 수 있습니다.
 
-## Treat security as a team effort
+## 보안을 팀의 노력으로 다루세요
 
-### Security isn't a solo responsibility. It works best when shared across your project's community.
+### 보안은 혼자서 책임질 일이 아닙니다. 프로젝트 커뮤니티 전체가 함께할 때 가장 잘 작동합니다.
 
-While tools and policies are essential, a strong security posture comes from how your team and contributors work together. Building a culture of shared responsibility helps your project identify, triage, and respond to vulnerabilities faster and more effectively.
+도구와 정책이 필수적이긴 하지만, 강력한 보안 태세는 팀과 기여자들이 어떻게 함께 일하느냐에서 나옵니다. 공동 책임의 문화를 구축하면 취약점을 더 빠르고 효과적으로 식별하고, 분류하고, 대응할 수 있습니다.
 
-Here are a few ways to make security a team sport:
+보안을 팀 스포츠로 만들 수 있는 몇 가지 방법은 다음과 같습니다.
 
-* **Assign clear roles**: Know who handles vulnerability reports, who reviews dependency updates, and who approves security patches.
-* **Limit access using the principle of least privilege**: Only give write or admin access to those who truly need it and review permissions regularly.
-* **Invest in education**: Encourage contributors to learn about secure coding practices, common vulnerability types, and how to use your tools (like SAST or secret scanning).
-* **Foster diversity and collaboration**: A heterogeneous team brings a wider set of experiences, threat awareness, and creative problem-solving skills. It also helps uncover risks others might overlook.
-* **Engage upstream and downstream**: Your dependencies can affect your security and your project affects others. Participate in coordinated disclosure with upstream maintainers, and keep downstream users informed when vulnerabilities are fixed.
+* **명확한 역할을 지정하세요**: 누가 취약점 신고를 처리하는지, 누가 의존성 업데이트를 검토하는지, 누가 보안 패치를 승인하는지 파악하세요.
+* **최소 권한 원칙으로 접근을 제한하세요**: 정말로 필요한 사람에게만 쓰기 또는 관리자 권한을 부여하고, 권한을 정기적으로 검토하세요.
+* **교육에 투자하세요**: 기여자들이 안전한 코딩 관행, 일반적인 취약점 유형, 그리고 SAST나 시크릿 스캐닝 같은 도구를 사용하는 방법을 학습하도록 장려하세요.
+* **다양성과 협업을 장려하세요**: 이질적인 팀은 더 넓은 경험, 위협 인식, 창의적인 문제 해결 능력을 제공합니다. 또한 다른 사람들이 놓칠 수 있는 위험을 발견하는 데 도움이 됩니다.
+* **상·하위 생태계와 연결하세요**: 의존성은 보안에 영향을 주고, 프로젝트는 다른 이들에게 영향을 줍니다. 상위 메인테이너와 조율된 공개에 참여하고, 취약점이 수정되면 하위 사용자에게 알리세요.
 
-Security is an ongoing process, not a one-time setup. By involving your community, encouraging secure practices, and supporting each other, you build a stronger, more resilient project and a safer ecosystem for everyone.
+보안은 일회성 설정이 아니라 지속적인 과정입니다. 커뮤니티를 참여시키고, 안전한 관행을 장려하며, 서로를 지원함으로써 더 강력하고 회복력 있는 프로젝트와 모두에게 더 안전한 생태계를 구축할 수 있습니다.
 
-## Conclusion: A few steps for you, a huge improvement for your users
+## 결론: 당신에게는 몇 가지 작은 실천, 사용자에게는 큰 개선
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+이러한 단계들은 단순하거나 기본적으로 보일 수 있지만, 가장 흔한 문제로부터 보호를 제공하기 때문에 사용자에게 더 안전한 프로젝트를 제공하는 데 큰 도움이 됩니다.
 
-Security isn't static. Revisit your processes from time to time as your project grows, so do your responsibilities and your attack surface.
+보안은 정적인 것이 아닙니다. 프로젝트가 성장함에 따라 프로세스도, 책임도, 공격 표면도 함께 커집니다. 때때로 프로세스를 다시 점검하세요.
 
-## Contributors
+## 기여자
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+### 이 가이드를 위해 경험과 팁을 공유해 주신 모든 메인테이너 여러분께 감사드립니다!
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+이 가이드는 [@nanzggits](https://github.com/nanzggits)와 [@xcorail](https://github.com/xcorail)이 작성했으며, 다음 분들의 기여가 있었습니다.
 
-[@JLLeitschuh](https://github.com/JLLeitschuh), [@intrigus-lgtm](https://github.com/intrigus-lgtm), [@UlisesGascon](https://github.com/ulisesgascon) + many others!
+[@JLLeitschuh](https://github.com/JLLeitschuh), [@intrigus-lgtm](https://github.com/intrigus-lgtm), [@UlisesGascon](https://github.com/ulisesgascon) + 이외의 다른 많은 사람들!
