@@ -1,168 +1,155 @@
 ---
 lang: bn
-untranslated: true
-title: Maintaining Balance for Open Source Maintainers
-description: Tips for self-care and avoiding burnout as a maintainer.
+untranslated: false
+title: ওপেন সোর্স রক্ষণাবেক্ষণকারীদের জন্য ভারসাম্য বজায় রাখা
+description: একজন রক্ষণাবেক্ষণকারী হিসেবে নিজের যত্ন নেওয়ার এবং বার্নআউট এড়ানোর জন্য টিপস।
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run.
+একটি ওপেন সোর্স প্রকল্পের জনপ্রিয়তা বৃদ্ধির সাথে সাথে, দীর্ঘমেয়াদে সতেজ এবং উৎপাদনশীল থাকার জন্য ভারসাম্য বজায় রাখতে স্পষ্ট সীমানা নির্ধারণ করা গুরুত্বপূর্ণ হয়ে ওঠে।
 
-To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
+রক্ষণাবেক্ষণকারীদের অভিজ্ঞতা এবং ভারসাম্য খুঁজে বের করার কৌশল সম্পর্কে অন্তর্দৃষ্টি পেতে, আমরা [রক্ষণাবেক্ষণকারী সম্প্রদায়ের](http://maintainers.github.com/) ৪০ জন সদস্যের সাথে একটি কর্মশালা পরিচালনা করেছি , যেখানে আমরা ওপেন সোর্সে বার্নআউটের সাথে তাদের প্রত্যক্ষ অভিজ্ঞতা এবং তাদের কাজে ভারসাম্য বজায় রাখতে সাহায্য করেছে এমন অনুশীলনগুলি থেকে শিখতে পেরেছি। এখানেই ব্যক্তিগত বাস্তুবিদ্যার ধারণাটি কার্যকর হয়।
 
-So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse/2025-01/foundation/en#129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
+তাহলে, ব্যক্তিগত বাস্তুবিদ্যা কী? [রকউড লিডারশিপ ইনস্টিটিউটের বর্ণনা](https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism) অনুসারে , এর মধ্যে রয়েছে " **আমাদের শক্তি সারা জীবন ধরে ধরে রাখার জন্য ভারসাম্য, গতি এবং দক্ষতা বজায় রাখা ।" এটি আমাদের কথোপকথনকে কাঠামোবদ্ধ করে, রক্ষণাবেক্ষণকারীদের তাদের কর্ম এবং অবদানকে সময়ের সাথে সাথে বিকশিত হওয়া একটি বৃহত্তর বাস্তুতন্ত্রের অংশ হিসাবে স্বীকৃতি দিতে সাহায্য করে।** [WHO দ্বারা সংজ্ঞায়িত](https://icd.who.int/browse/2025-01/foundation/en#129180281) দীর্ঘস্থায়ী কর্মক্ষেত্রের চাপের ফলে সৃষ্ট একটি সিন্ড্রোম, বার্নআউট, রক্ষণাবেক্ষণকারীদের মধ্যে অস্বাভাবিক নয়। এর ফলে প্রায়শই প্রেরণা হ্রাস পায়, মনোযোগ দিতে অক্ষমতা হয় এবং আপনার সাথে কাজ করা অবদানকারী এবং সম্প্রদায়ের প্রতি সহানুভূতির অভাব দেখা দেয়।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
-  I was unable to focus or start on a task. I had a lack of empathy for users.
+ আমি কোনও কাজে মনোযোগ দিতে বা শুরু করতে পারছিলাম না। ব্যবহারকারীদের প্রতি আমার সহানুভূতির অভাব ছিল।
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
+<a href="https://github.com/gabek">— [@gabek](https://github.com/gabek)</a>, Owncast লাইভ স্ট্রিমিং সার্ভারের রক্ষণাবেক্ষণকারী, তার ওপেন সোর্স কাজের উপর বার্নআউটের প্রভাব সম্পর্কে
   </p>
 </aside>
 
-By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
+ব্যক্তিগত বাস্তুতন্ত্রের ধারণাটি গ্রহণ করে, রক্ষণাবেক্ষণকারীরা সক্রিয়ভাবে বার্নআউট এড়াতে পারেন, নিজের যত্নকে অগ্রাধিকার দিতে পারেন এবং তাদের সর্বোত্তম কাজ করার জন্য ভারসাম্যের অনুভূতি বজায় রাখতে পারেন।
 
-## Tips for Self-Care and Avoiding Burnout as a Maintainer:
+## রক্ষণাবেক্ষণকারী হিসেবে নিজের যত্ন নেওয়ার এবং বার্নআউট এড়ানোর জন্য টিপস:
 
-### Identify your motivations for working in open source
+### ওপেন সোর্সে কাজ করার জন্য আপনার অনুপ্রেরণাগুলি চিহ্নিত করুন।
 
-Take time to reflect on what parts of open source maintenance energizes you. Understanding your motivations can help you prioritize the work in a way that keeps you engaged and ready for new challenges. Whether it's the positive feedback from users, the joy of collaborating and socializing with the community, or the satisfaction of diving into the code, recognizing your motivations can help guide your focus.
+ওপেন সোর্স রক্ষণাবেক্ষণের কোন কোন অংশ আপনাকে উজ্জীবিত করে তা নিয়ে চিন্তা করার জন্য সময় নিন। আপনার অনুপ্রেরণাগুলি বোঝা আপনাকে এমনভাবে কাজকে অগ্রাধিকার দিতে সাহায্য করতে পারে যা আপনাকে নিযুক্ত রাখে এবং নতুন চ্যালেঞ্জের জন্য প্রস্তুত রাখে। ব্যবহারকারীদের কাছ থেকে ইতিবাচক প্রতিক্রিয়া, সম্প্রদায়ের সাথে সহযোগিতা এবং সামাজিকীকরণের আনন্দ, অথবা কোডে ডুব দেওয়ার সন্তুষ্টি, আপনার অনুপ্রেরণাগুলি স্বীকৃতি দেওয়া আপনার ফোকাসকে নির্দেশিত করতে সহায়তা করতে পারে।
 
-### Reflect on what causes you to get out of balance and stressed out
+### [](https://opensource.guide/maintaining-balance-for-open-source-maintainers/#reflect-on-what-causes-you-to-get-out-of-balance-and-stressed-out)আপনার ভারসাম্য নষ্ট হওয়ার এবং চাপের কারণ কী তা নিয়ে ভাবুন।
 
-It's important to understand what causes us to get burned out. Here are a few common themes we saw among open source maintainers:
+আমাদের কেন ক্লান্তি আসে তা বোঝা গুরুত্বপূর্ণ। ওপেন সোর্স রক্ষণাবেক্ষণকারীদের মধ্যে আমরা যে কয়েকটি সাধারণ বিষয় দেখেছি তা এখানে দেওয়া হল:
 
-* **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
+* **ইতিবাচক প্রতিক্রিয়ার অভাব:** ব্যবহারকারীরা অভিযোগ করলে যোগাযোগ করার সম্ভাবনা অনেক বেশি। সবকিছু ঠিকঠাক থাকলে, তারা চুপ করে থাকে। ইতিবাচক প্রতিক্রিয়া ছাড়াই সমস্যার ক্রমবর্ধমান তালিকা দেখা হতাশাজনক হতে পারে, যেখানে আপনার অবদান কীভাবে পরিবর্তন আনছে তা দেখানো হচ্ছে।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
-  Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
-  <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
-  </p>
-</aside>
+  মাঝে মাঝে মনে হয় যেন শূন্যে চিৎকার করছি এবং আমি দেখতে পাই যে প্রতিক্রিয়াটি আমাকে সত্যিই উজ্জীবিত করে। আমাদের অনেক খুশি কিন্তু শান্ত ব্যবহারকারী আছে।
 
-* **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
+— [@thisisnic](https://github.com/thisisnic) , অ্যাপাচি অ্যারোর রক্ষণাবেক্ষণকারী
+
+* **"না" বলা:** একটি ওপেন সোর্স প্রকল্পে আপনার যতটা দায়িত্ব নেওয়া উচিত তার চেয়ে বেশি দায়িত্ব নেওয়া সহজ হতে পারে। তা ব্যবহারকারী, অবদানকারী বা অন্যান্য রক্ষণাবেক্ষণকারীর কাছ থেকে হোক না কেন - আমরা সবসময় তাদের প্রত্যাশা পূরণ করতে পারি না।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
-  I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
-  <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
-  </p>
-</aside>
+আমি দেখতে পেলাম যে আমি একাধিক কাজ করছি এবং একাধিক ব্যক্তির কাজ করতে হচ্ছে, যেমনটি সাধারণত FOSS-এ করা হয়।
 
-* **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
+ — [@agnostic-apollo](https://github.com/agnostic-apollo) , টার্মাক্সের রক্ষণাবেক্ষণকারী, তাদের কাজে বার্নআউটের কারণ সম্পর্কে
+
+* **একা কাজ করা:** একজন রক্ষণাবেক্ষণকারী হওয়া অবিশ্বাস্যভাবে একাকী হতে পারে। এমনকি যদি আপনি একদল রক্ষণাবেক্ষণকারীর সাথে কাজ করেন, তবুও গত কয়েক বছর ধরে বিতরণ করা দলগুলিকে সরাসরি আহ্বান করা কঠিন ছিল।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
- Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
-  <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
-  </p>
+ বিশেষ করে কোভিড এবং বাড়ি থেকে কাজ করার কারণে কারো সাথে দেখা করা বা কারো সাথে কথা বলা কঠিন হয়ে পড়েছে।
+
+[@gabek](https://github.com/gabek) , Owncast লাইভ স্ট্রিমিং সার্ভারের রক্ষণাবেক্ষণকারী, তার ওপেন সোর্স কাজের উপর বার্নআউটের প্রভাব সম্পর্কে
+
+* **পর্যাপ্ত সময় বা সম্পদের অভাব:** এটি বিশেষ করে স্বেচ্ছাসেবক রক্ষণাবেক্ষণকারীদের জন্য সত্য যাদের একটি প্রকল্পে কাজ করার জন্য তাদের অবসর সময় ত্যাগ করতে হয়।
+
+(আমি আরও আর্থিক সহায়তা চাই), যাতে আমি আমার সঞ্চয় নষ্ট না করে এবং পরে এর ক্ষতিপূরণ পেতে অনেক চুক্তি করতে হবে জেনে ওপেন সোর্স কাজে মনোনিবেশ করতে পারি।
+
+— ওপেন সোর্স রক্ষণাবেক্ষণকারী
+
+* **পরস্পরবিরোধী দাবি:** ওপেন সোর্স বিভিন্ন উদ্দেশ্যপ্রণোদিত গোষ্ঠীতে পরিপূর্ণ, যা নেভিগেট করা কঠিন হতে পারে। যদি আপনাকে ওপেন সোর্স করার জন্য অর্থ প্রদান করা হয়, তাহলে আপনার নিয়োগকর্তার স্বার্থ কখনও কখনও সম্প্রদায়ের সাথে বিরোধপূর্ণ হতে পারে।
+
+পেইড ওপেন সোর্স ব্যবহার করে, নিয়োগকর্তার মনোযোগ এবং সম্প্রদায়ের জন্য কী সেরা তার মধ্যে দ্বন্দ্ব দেখা দেয়।
+
+— ওপেন সোর্স রক্ষণাবেক্ষণকারী
+
+### বার্নআউটের লক্ষণগুলির জন্য সতর্ক থাকুন
+
+তুমি কি ১০ সপ্তাহ, ১০ মাস, ১০ বছর ধরে তোমার গতি ধরে রাখতে পারবে?
+
+[@shaunagm-](https://github.com/shaunagm) এর [বার্নআউট চেকলিস্টের](https://governingopen.com/resources/signs-of-burnout-checklist.html) মতো টুল রয়েছে যা আপনাকে আপনার বর্তমান গতি সম্পর্কে চিন্তা করতে এবং আপনি কোন সমন্বয় করতে পারেন কিনা তা দেখতে সাহায্য করতে পারে। কিছু রক্ষণাবেক্ষণকারী ঘুমের মান এবং হৃদস্পন্দনের পরিবর্তনশীলতার মতো মেট্রিক্স (উভয়ই মানসিক চাপের সাথে যুক্ত) ট্র্যাক করার জন্য পরিধেয় প্রযুক্তিও ব্যবহার করে।[](https://github.com/shaunagm)
+
+আমি ভালো পরিধেয় জিনিসপত্রে বিশ্বাসী। এর পেছনের বিজ্ঞানের সাহায্যে, আপনি বুঝতে পারবেন কীভাবে আপনি আরও ভালো করতে পারতেন এবং কীভাবে আপনি যা করতে চান তার সর্বোত্তম অবস্থায় পৌঁছাতে পারতেন।
+
+— ওপেন সোর্স রক্ষণাবেক্ষণকারী
+
 </aside>
 
-* **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
+### নিজেকে এবং আপনার সম্প্রদায়কে টিকিয়ে রাখার জন্য আপনার কী প্রয়োজন?
 
-<aside markdown="1" class="pquote">
-  [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
-  <p markdown="1" class="pquote-credit">
-— open source maintainer
-  </p>
-</aside>
+প্রতিটি রক্ষণাবেক্ষণকারীর জন্য এটি আলাদা দেখাবে এবং আপনার জীবনের পর্যায় এবং অন্যান্য বাহ্যিক কারণের উপর নির্ভর করে এটি পরিবর্তিত হবে। তবে এখানে কয়েকটি বিষয় আমরা শুনেছি:
 
-* **Conflicting demands:** Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
-
-<aside markdown="1" class="pquote">
-  With paid open source, conflict between employer's focus and what's best for the community
-  <p markdown="1" class="pquote-credit">
-— open source maintainer
-  </p>
-</aside>
-
-### Watch out for signs of burnout
-
-Can you keep up your pace for 10 weeks? 10 months? 10 years?
-
-There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
-
-<aside markdown="1" class="pquote">
- I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
-  <p markdown="1" class="pquote-credit">
-— open source maintainer
-  </p>
-</aside>
-
-### What would you need to continue sustaining yourself and your community?
-
-This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
-
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning.
-
-  You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
-
-* **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
+* **সম্প্রদায়ের উপর নির্ভর করুন:** প্রতিনিধিদল এবং অবদানকারীদের খুঁজে বের করা কাজের চাপ কমাতে পারে। একটি প্রকল্পের জন্য একাধিক যোগাযোগের পয়েন্ট থাকা আপনাকে চিন্তা না করে বিরতি নিতে সাহায্য করতে পারে। অন্যান্য রক্ষণাবেক্ষণকারী এবং বৃহত্তর সম্প্রদায়ের সাথে সংযোগ স্থাপন করুন - [রক্ষণাবেক্ষণকারী সম্প্রদায়ের](http://maintainers.github.com/) মতো গোষ্ঠীতে । এটি সহকর্মীদের সহায়তা এবং শেখার জন্য একটি দুর্দান্ত উৎস হতে পারে।
+    
+    আপনি ব্যবহারকারী সম্প্রদায়ের সাথে যুক্ত হওয়ার উপায়গুলিও খুঁজতে পারেন, যাতে আপনি নিয়মিত প্রতিক্রিয়া শুনতে পারেন এবং আপনার ওপেন সোর্স কাজের প্রভাব বুঝতে পারেন।
+    
+* **তহবিল অন্বেষণ করুন:** আপনি পিৎজা থেকে কিছু অর্থ খুঁজছেন, অথবা পূর্ণ-সময়ের ওপেন সোর্স হিসেবে কাজ করার চেষ্টা করছেন, সাহায্য করার জন্য অনেক রিসোর্স আছে! প্রথম পদক্ষেপ হিসেবে, অন্যদের আপনার ওপেন সোর্স কাজের স্পনসর করার অনুমতি দেওয়ার জন্য [GitHub Sponsors](https://github.com/sponsors) চালু করার কথা বিবেচনা করুন । আপনি যদি পূর্ণ-সময়ের কাজ শুরু করার কথা ভাবছেন, তাহলে [GitHub Accelerator](http://accelerator.github.com/) এর পরবর্তী রাউন্ডের জন্য আবেদন করুন ।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
- I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
+কিছুদিন আগে আমি একটি পডকাস্টে ছিলাম এবং আমরা ওপেন সোর্স রক্ষণাবেক্ষণ এবং স্থায়িত্ব নিয়ে কথা বলছিলাম। আমি দেখতে পেলাম যে গিটহাবে আমার কাজকে সমর্থনকারী অল্প সংখ্যক লোকও আমাকে দ্রুত সিদ্ধান্ত নিতে সাহায্য করেছে যে আমি কোনও গেমের সামনে বসে থাকব না বরং ওপেন সোর্সে ছোট কাজ করব।
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
+— <a href="https://github.com/mansona">[@মানসোনা](https://github.com/mansona)</a>, এমবারজেএস-এর রক্ষণাবেক্ষণকারী
   </p>
 </aside>
 
-* **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
+* **টুল ব্যবহার করুন:** জাগতিক কাজগুলি স্বয়ংক্রিয় করতে এবং আরও অর্থপূর্ণ অবদানের জন্য আপনার সময় খালি করতে [GitHub Copilot](https://github.com/features/copilot/) এবং [GitHub Actions এর](https://github.com/features/actions) মতো টুলগুলি অন্বেষণ করুন ।
+[বিরক্তিকর কাজের জন্য কোপাইলট](https://github.com/features/copilot/) ব্যবহার করুন - মজার কাজ করুন
+
+— ওপেন সোর্স রক্ষণাবেক্ষণকারী
 
 <aside markdown="1" class="pquote">
- Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
-  <p markdown="1" class="pquote-credit">
-— open source maintainer
   </p>
 </aside>
 
-* **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
-
-  If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
+* **বিশ্রাম এবং রিচার্জ:** ওপেন সোর্সের বাইরে আপনার শখ এবং আগ্রহের জন্য সময় বের করুন। বিশ্রাম এবং পুনরুজ্জীবিত হওয়ার জন্য সপ্তাহান্তে ছুটি নিন - এবং আপনার উপলব্ধতা প্রতিফলিত করার জন্য আপনার [GitHub স্ট্যাটাস](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) সেট করুন ! একটি ভালো রাতের ঘুম দীর্ঘমেয়াদী আপনার প্রচেষ্টা বজায় রাখার ক্ষমতায় একটি বড় পরিবর্তন আনতে পারে।
+    
+    যদি আপনার প্রকল্পের কিছু দিক বিশেষভাবে উপভোগ্য মনে হয়, তাহলে আপনার কাজকে এমনভাবে সাজানোর চেষ্টা করুন যাতে আপনি সারা দিন ধরে এটি অনুভব করতে পারেন।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
- I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
+ সন্ধ্যায় কাজ বন্ধ করার চেষ্টা করার চেয়ে দিনের মাঝামাঝি সময়ে 'সৃজনশীলতার মুহূর্তগুলি' ছড়িয়ে দেওয়ার সুযোগ আমি বেশি খুঁজে পাচ্ছি।
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
+— <a href="https://github.com/danielroe">@danielroe</a>, Nuxt-এর রক্ষণাবেক্ষণকারী
   </p>
 </aside>
 
-* **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
+* **সীমা নির্ধারণ করুন:** আপনি প্রতিটি অনুরোধে হ্যাঁ বলতে পারবেন না। এটি বলা এত সহজ হতে পারে, "আমি এখনই এটি করতে পারছি না এবং ভবিষ্যতে আমার কোনও পরিকল্পনা নেই," অথবা README-তে আপনার আগ্রহের বিষয়গুলি তালিকাভুক্ত করা। উদাহরণস্বরূপ, আপনি বলতে পারেন: "আমি কেবল সেইসব PR একত্রিত করি যেখানে স্পষ্টভাবে কারণগুলি তালিকাভুক্ত থাকে কেন সেগুলি তৈরি করা হয়েছিল," অথবা, "আমি কেবল বিকল্প বৃহস্পতিবার 6-7 টা থেকে 7 টা পর্যন্ত সমস্যাগুলি পর্যালোচনা করি।" এটি অন্যদের জন্য প্রত্যাশা নির্ধারণ করে এবং আপনার সময়ের উপর অবদানকারী বা ব্যবহারকারীদের চাহিদা কমাতে সাহায্য করার জন্য আপনাকে অন্য সময়ে নির্দেশ করার জন্য কিছু দেয়।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
+এই অক্ষগুলিতে অন্যদের অর্থপূর্ণভাবে বিশ্বাস করার জন্য, আপনি এমন কেউ হতে পারবেন না যিনি প্রতিটি অনুরোধে হ্যাঁ বলেন। এটি করার মাধ্যমে, আপনি পেশাগত বা ব্যক্তিগতভাবে কোনও সীমানা বজায় রাখবেন না এবং একজন নির্ভরযোগ্য সহকর্মীও হবেন না।
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
+— <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, [Saying No](https://mikemcquaid.com/saying-no/) তে Homebrew-এর রক্ষণাবেক্ষণকারী
   </p>
 </aside>
 
-Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+বিষাক্ত আচরণ এবং নেতিবাচক মিথস্ক্রিয়া বন্ধ করার ক্ষেত্রে দৃঢ় হতে শিখুন। যে বিষয়গুলিতে আপনার আগ্রহ নেই, সেগুলিতে শক্তি না দেওয়া ঠিক আছে।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
-My software is gratis, but my time and attention is not.
+আমার সফটওয়্যারটি বিনামূল্যে, কিন্তু আমার সময় এবং মনোযোগ বিনামূল্যে নয়।
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
+— <a href="https://github.com/IvanSanchez">@[ইভান সানচেজ](https://github.com/IvanSanchez)</a>, লিফলেটের রক্ষণাবেক্ষণকারী
   </p>
 </aside>
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
-It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.
+এটা কোন গোপন বিষয় নয় যে ওপেন সোর্স রক্ষণাবেক্ষণের কিছু অন্ধকার দিক রয়েছে, এবং এর মধ্যে একটি হল মাঝে মাঝে বেশ অকৃতজ্ঞ, অধিকারী বা সরাসরি বিষাক্ত লোকদের সাথে যোগাযোগ করতে হয়। একটি প্রকল্পের জনপ্রিয়তা বাড়ার সাথে সাথে এই ধরণের মিথস্ক্রিয়ার ফ্রিকোয়েন্সিও বৃদ্ধি পায়, যা রক্ষণাবেক্ষণকারীদের কাঁধে বোঝা বাড়ায় এবং সম্ভবত রক্ষণাবেক্ষণকারীদের বার্নআউটের জন্য একটি গুরুত্বপূর্ণ ঝুঁকির কারণ হয়ে ওঠে।
   <p markdown="1" class="pquote-credit">
-— <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
+— <a href="https://github.com/foosel">@foosel</a>, [বিষাক্ত মানুষের সাথে কীভাবে মোকাবিলা করবেন সে](https://www.youtube.com/watch?v=7lIpP3GEyXs) সম্পর্কে অক্টোপ্রিন্টের রক্ষণাবেক্ষণকারী
   </p>
 </aside>
 
-Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
+মনে রাখবেন, ব্যক্তিগত বাস্তুতন্ত্র একটি চলমান অনুশীলন যা আপনার ওপেন সোর্স যাত্রায় অগ্রগতির সাথে সাথে বিকশিত হবে। স্ব-যত্নকে অগ্রাধিকার দিয়ে এবং ভারসাম্যের অনুভূতি বজায় রেখে, আপনি কার্যকরভাবে এবং টেকসইভাবে ওপেন সোর্স সম্প্রদায়ে অবদান রাখতে পারেন, দীর্ঘমেয়াদে আপনার মঙ্গল এবং আপনার প্রকল্পগুলির সাফল্য উভয়ই নিশ্চিত করতে পারেন।
 
 ## Additional Resources
 
@@ -175,11 +162,11 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 * [Saying No](https://mikemcquaid.com/saying-no/)
 * Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) series
 
-## Contributors
+## অবদানকারীরা
 
-Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+এই নির্দেশিকার জন্য আমাদের সাথে তাদের অভিজ্ঞতা এবং টিপস ভাগ করে নেওয়া সমস্ত রক্ষণাবেক্ষণকারীকে অনেক ধন্যবাদ!
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from:
+এই নির্দেশিকাটি [@abbycabs](https://github.com/abbycabs) লিখেছেন এবং এর অবদান:
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
@@ -216,4 +203,6 @@ This guide was written by [@abbycabs](https://github.com/abbycabs) with contribu
 [@thisisnic](https://github.com/thisisnic)
 [@tudoramariei](https://github.com/tudoramariei)
 [@UlisesGascon](https://github.com/UlisesGascon)
-[@waldyrious](https://github.com/waldyrious) + many others!
+[@waldyrious](https://github.com/waldyrious) + আরও অনেকে!
+বাংলায় অনুবাদ করেছেন:
+[@STANTHEGR8](https://github.com/STANTHEGR8)
