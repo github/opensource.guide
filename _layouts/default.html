@@ -1,19 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang }}">
-{% include head.html %}
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  {% include head.html %}
 
-<body>
-  <main>
-    <div id="content">
-      {{ content }}
-    </div>
-  </main>
+  <body>
+    <a class="skip-to-content" href="#content">Skip to content</a>
+    <header role="banner">
+      {% comment %} navigation is included by pages that need it (index layout includes nav.html) {% endcomment %}
+    </header>
 
-  <script src="https://cdn.usefathom.com/script.js" data-site="BFHXUQHJ" defer></script>
-  <script src='{{ "/assets/js/index.js" | relative_url }}'></script>
-  <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-  <script
-    type="text/javascript">(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
-</body>
+    <main id="content" role="main">
+      <div class="site-wrapper container-lg p-responsive mx-auto">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer role="contentinfo">
+      {% include footer.html %}
+    </footer>
+
+    <script src="https://cdn.usefathom.com/script.js" data-site="BFHXUQHJ" defer></script>
+    <script src='{{ "/assets/js/index.js" | relative_url }}' defer></script>
+    <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js" defer></script>
+    <script type="text/javascript">(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+  </body>
 
 </html>
