@@ -223,7 +223,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Πιστεύω ότι οι δοκιμές είναι απαραίτητες για όλο τον κώδικα που δουλεύουν οι άνθρωποι. Αν ο κώδικας ήταν πλήρως και απόλυτα σωστός, δεν θα χρειαζόταν αλλαγές - γράφουμε κώδικα μόνο όταν κάτι είναι λάθος, είτε αυτό σημαίνει ότι "Καταρρέει" είτε ότι "Του λείπει το τάδε χαρακτηριστικό". Και ανεξαρτήτως των αλλαγών που κάνετε, οι δοκιμές είναι απαραίτητες για να πιάνετε τυχόν παλινδρομήσεις που μπορεί να εισαγάγετε κατά λάθος.
   <p markdown="1" class="pquote-credit">
-- @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+- @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20260216092149/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

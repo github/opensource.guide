@@ -221,7 +221,7 @@ Jika Anda menambahkan pengujian, pastikan untuk menjelaskan bagaimana mereka bek
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahwa pengujian otomatis sangat diperlukan untuk semua kode yang dikerjakan orang-orang.  Jika kode tersebut benar, maka tidak diperlukan perubahan - kita hanya menuliskan kode apabila terjadi kesalahan, apakah "crash" atau "kurang fitur". Tanpa memperhatikan perubahan yang Anda lakukan, pengujian otomatis sangatlah penting untuk menangkap regresi kesalahan yang mungkin Anda timbulkan.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20260216092149/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

@@ -224,7 +224,7 @@ You shouldn't need more than 1-2 sentences to respond. For example, when a user 
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   मेरा मानना ​​है कि उन सभी कोड के लिए परीक्षण आवश्यक हैं जिन पर लोग काम करते हैं। यदि कोड पूरी तरह से और पूरी तरह से सही था, तो इसमें बदलाव की आवश्यकता नहीं होगी - हम केवल तभी कोड लिखते हैं जब कुछ गलत होता है, चाहे वह "यह क्रैश हो जाता है" या "इसमें ऐसी और ऐसी सुविधा का अभाव है"। और चाहे आप जो भी बदलाव कर रहे हों, आपके द्वारा गलती से पेश किए गए किसी भी प्रतिगमन को पकड़ने के लिए परीक्षण आवश्यक हैं।
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust का सामुदायिक स्वचालन"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust का सामुदायिक स्वचालन"](https://web.archive.org/web/20260216092149/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

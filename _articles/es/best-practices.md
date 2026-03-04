@@ -222,7 +222,7 @@ Si agregas testing, aseg&uacute;rate de explicar c&oacute;mo funcionan en su arc
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Creo que las pruebas son necesarias para todo c&oacute;digo en el que la gente trabaja. Si el c&oacute;digo era totalmente y perfectamente correcto, no necesitar&iacute;a cambios - s&oacute;lo escribimos c&oacute;digo cuando algo est&aacute; mal, ya sea "Se bloquea" o "Falta tal o cual caracter&iacute;stica". Independientemente de los cambios que est&eacute;s haciendo, las pruebas son esenciales para capturar cualquier regresi&oacute;n que pueda introducir accidentalmente.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Automatizaci&oacute;n de la comunidad de Rust"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Automatizaci&oacute;n de la comunidad de Rust"](https://web.archive.org/web/20260216092149/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

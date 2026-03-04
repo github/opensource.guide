@@ -222,7 +222,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Мисля, че тестването е необходимо за целия код, върху който хората работят. Ако кодът беше напълно и перфектно правилен, нямаше да има нужда от промени - ние пишем код само когато нещо е правилно. грешно, или "Той се срива", или "Тази или онази функция липсва". Каквито и промени да правите, тестването е от съществено значение за улавяне на всякакви регресии, които може случайно да въведете.
   <p markdown="1" class="pquote-credit">
-— @edunham, [Общностна автоматизация на Rust"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, [Общностна автоматизация на Rust"](https://web.archive.org/web/20260216092149/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

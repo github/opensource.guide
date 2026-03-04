@@ -223,7 +223,7 @@ Sekiranya anda menambahkan ujian, pastikan untuk menerangkan bagaimana ia berfun
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahawa ujian diperlukan untuk semua kod yang diusahakan oleh orang lain. Sekiranya kodnya betul dan betul, ia tidak memerlukan perubahan - kami hanya menulis kod apabila ada yang tidak kena, sama ada "Ia rosak" atau "Tidak mempunyai ciri seperti itu". Dan tanpa mengira perubahan yang anda buat, ujian sangat penting untuk mengatasi kemunduran yang mungkin anda buat secara tidak sengaja.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20260216092149/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

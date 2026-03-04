@@ -221,7 +221,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   私は人々が実装するあらゆるコードに対してテストが必要だと思っています。もしコードが完全に正しいのであれば、変更の必要はありませんが、 私達がコードを書くときは何かがおかしいときです、それは「クラッシュする」であったり「これこれの機能が足りない」といったようなケースです。どんな変更をしようとしているのであれ、テストは誤ってバグを入れ込んでしまう事を防ぐために非常に重要です。
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20260216092149/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

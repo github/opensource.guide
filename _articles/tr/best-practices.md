@@ -223,7 +223,7 @@ Testler eklerseniz, CONTRIBUTING dosyanızda nasıl çalıştıklarını açıkl
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   İnsanların üzerinde çalıştığı tüm kodlar için testlerin gerekli olduğuna inanıyorum. Kod tamamen ve tamamen doğru olsaydı, değişikliğe ihtiyaç duymazdı - değişikliklerin yapılması gerektiğine - yalnızca bir şey yanlış olduğunda, "Çöktüğünde" ya da "Böyle ve böyle bir özellikten yoksun" olduğunda kod yazarız. Yaptığınız değişikliklerden bağımsız olarak, testler yanlışlıkla verebileceğiniz herhangi bir zararı yakalamak için gereklidir.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust'un Topluluk Otomasyonu"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust'un Topluluk Otomasyonu"](https://web.archive.org/web/20260216092149/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
