@@ -105,7 +105,7 @@ Jika Anda menerima kontribusi yang tidak Anda inginkan, reaksi pertama Anda mung
 
 Jangan biarkan kontribusi yang tidak diinginkan tetap terbuka karena Anda merasa bersalah atau ingin bersikap baik. Pada akhirnya, masalah yang tidak terjawab dan PR akan membuat pekerjaan proyek Anda menjadi lebih berat dan mengintimidasi Anda.
 
-Akan lebih baik untuk langsung menutup kontribusi yang Anda tahu tidak akan diterima. Jika proyek Anda mengalami hambatan yang besar, @steveklabnik memiliki saran untuk [mengatasi laporan masalah secara efisien](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Akan lebih baik untuk langsung menutup kontribusi yang Anda tahu tidak akan diterima. Jika proyek Anda mengalami hambatan yang besar, @steveklabnik memiliki saran untuk [mengatasi laporan masalah secara efisien](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Kedua, mengabaikan kontribusi akan mengirimkan sinyal negatif pada komunitas Anda. Berkontribusi pada sebuah proyek bisa jadi menakutkan, apalagi untuk pertama kalinya bagi orang lain. Meskipun Anda tidak menerima kontribusi mereka, akui hasil pekerjaan mereka dan ucapkan terima kasih atas minat mereka. Itu adalah sebuah pujian yang besar!
 

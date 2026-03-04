@@ -104,7 +104,7 @@ Si recibes una contribuci&oacute;n que no deseas aceptar, tu primera reacci&oacu
 
 No dejes abierta una contribuci&oacute;n no deseada porque te sientas culpable o quieras ser amable. Con el tiempo, tus issues sin respuesta y PRs har&aacute; que trabajar en tu proyecto se sienta mucho m&aacute;s estresante e intimidante.
 
-Es mejor cerrar de inmediato las contribuciones que sabes que no quieres aceptar. Si tu proyecto ya sufre de un gran backlog o lista de funcionalidades a implementar, @steveklabnik tiene sugerencias para [c&oacute;mo elegir issues de manera eficiente](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Es mejor cerrar de inmediato las contribuciones que sabes que no quieres aceptar. Si tu proyecto ya sufre de un gran backlog o lista de funcionalidades a implementar, @steveklabnik tiene sugerencias para [c&oacute;mo elegir issues de manera eficiente](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 En segundo lugar, ignorar las contribuciones env&iacute;a una se&ntilde;al negativa a tu comunidad. Contribuir a un proyecto puede ser intimidante, especialmente si es la primera vez de alguien. Incluso si no aceptas su contribuci&oacute;n, reconocer a la persona detr&aacute;s de ella y agradecerles por su inter&eacute;s. ¡Es un gran cumplido!
 

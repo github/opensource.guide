@@ -104,7 +104,7 @@ Se ricevi un messaggio che non vuoi accettare, la tua prima reazione potrebbe es
 
 Non lasciare aperto un contributo non richiesto perché ti senti in colpa o vuoi essere gentile. Nel corso del tempo, le tue domande senza risposta e le tue PR diventeranno ridondanti. Ciò renderà il lavoro sul tuo progetto molto più stressante e imbarazzante.
 
-È meglio chiudere immediatamente i contributi che sai di non voler accettare. Se il tuo progetto soffre già di un ampio arretrato o di un elenco di funzionalità da implementare, @steveklabnik ha suggerimenti su [come selezionare le domande in modo efficace](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+È meglio chiudere immediatamente i contributi che sai di non voler accettare. Se il tuo progetto soffre già di un ampio arretrato o di un elenco di funzionalità da implementare, @steveklabnik ha suggerimenti su [come selezionare le domande in modo efficace](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 In secondo luogo, ignorare i contributi invia un segnale negativo alla tua comunità. Contribuire a un progetto può essere intimidatorio, soprattutto se è la prima volta per qualcuno. Anche se non accetti il ​​loro contributo, congratulati con la persona che sta dietro al progetto e ringraziala per il suo interesse. È un grande complimento!
 

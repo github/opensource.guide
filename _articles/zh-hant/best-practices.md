@@ -102,7 +102,7 @@ redirect_from: /zh-tw/best-practices/
 
 別因爲自己感到內疚或者想做一個好人就把你不想接受的貢獻繼續保留。隨著時間的流逝，這些你沒有回答的issue和PR會讓你覺得很不爽。
 
-更好的方式是馬上關掉你不想接受的貢獻。如果你的專案已經飽受積壓的issue的折磨，@steveklabnik 可以給你點建議，[如何高效率的解決issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
+更好的方式是馬上關掉你不想接受的貢獻。如果你的專案已經飽受積壓的issue的折磨，@steveklabnik 可以給你點建議，[如何高效率的解決issue](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener)。
 
 第二點，忽略別人的貢獻等於是在社群傳遞了一個負面的信號。讓人感覺提交一個貢獻是蠻恐懼的事情，尤其是對於剛加入的新手來說。即使你不接受他們的貢獻，告訴他們爲什麼然後致謝。這會讓人覺得更舒服。
 

@@ -105,7 +105,7 @@ Si vous recevez une contribution que vous ne voulez pas accepter, votre premièr
 
 Ne laissez pas une contribution indésirable ouverte parce que vous avez un sentiment de culpabilité ou que vous voulez être gentil. Au fil du temps, vos issues sans réponse et les PRs rendront le travail sur votre projet beaucoup plus stressant et intimidant.
 
-Il est préférable de fermer immédiatement les contributions que vous ne voulez pas accepter. Si votre projet souffre déjà d'un important retard, @steveklabnik propose des suggestions pour [comment trier efficacement les issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Il est préférable de fermer immédiatement les contributions que vous ne voulez pas accepter. Si votre projet souffre déjà d'un important retard, @steveklabnik propose des suggestions pour [comment trier efficacement les issues](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Deuxièmement, ignorer les contributions envoie un signal négatif à votre communauté. Contribuer à un projet peut être intimidant, surtout s'il s'agit de la première fois. Même si vous n'acceptez pas leur contribution, remerciez la personne derrière et remerciez-la de son intérêt. C'est un gros compliment!
 

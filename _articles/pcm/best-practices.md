@@ -89,7 +89,7 @@ If you come across one contribution wey you no wan accept, your first reaction f
 
 No just allow one contribution wey you no want dey open because you dey feel bad or you dey try to dey nice. As time dey go, the issues and PRs wey you never answer go make your project come dey feel like say e too stress you and dey intimidate you.
 
-E better make you quick-close contributions wey you sabi say you no wan accept am. If your project don already gather plenti matter wey never resolve, @steveklabnik get some advice on [how to quickly arrange the issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) so e go dey efficient.
+E better make you quick-close contributions wey you sabi say you no wan accept am. If your project don already gather plenti matter wey never resolve, @steveklabnik get some advice on [how to quickly arrange the issues](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener) so e go dey efficient.
 
 If you no wan accept one contribution:
 

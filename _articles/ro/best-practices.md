@@ -119,7 +119,7 @@ Dacă primești o contribuție pe care nu vrei să o accepți, prima ta reacție
 
 Nu lăsa o contribuție nedorită deschisă pentru că te simți vinovat sau dorești să fii drăguț. În timp, problemele la care nu s-a răspuns și PR-urile vor face lucrul pe proiectul tău să se simtă cu foarte mult mai stresant și mai intimidant.
 
-Este mai bine să închizi imediat contribuțiile pe care știi că nu vrei să le accepți. Dacă proiectul tău suferă deja de restanțe mari, @steveklabnik are sugestii pentru [cum să triezi problemele eficient](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Este mai bine să închizi imediat contribuțiile pe care știi că nu vrei să le accepți. Dacă proiectul tău suferă deja de restanțe mari, @steveklabnik are sugestii pentru [cum să triezi problemele eficient](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 În al doilea rând, ignorarea contribuțiilor trimite un semnal negativ către comunitatea ta. A contribui la un proiect poate fi intimidant, în special pentru prima dată. Chiar dacă nu accepți contribuția, consideră persoana din spatele ei și mulțumește-i pentru interes. Este un mare compliment!
 

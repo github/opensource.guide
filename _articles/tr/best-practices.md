@@ -105,7 +105,7 @@ Kabul etmek istemediğiniz bir katkı alırsanız, ilk tepkiniz bunu görmezden 
 
 Kendinizi suçlu hissettiğiniz için veya iyi davranmak istediğiniz için, istenmeyen bir katkıyı açık bırakmayın. Zaman içinde, cevaplanmayan sorunlar ve birleştirme istekleri projeniz üzerinde çalışmayı çok daha stresli ve korkutucu hissettirecektir.
 
-Kabul etmek istemediğinizi bildiğiniz katkıları derhal kapatmak daha iyidir. Projeniz zaten büyük bir birikimden etkilenmişse, @steveklabnik, [sorunların verimli bir şekilde nasıl sıralanacağı](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) konusunda verdiği önerilere bakabilirsiniz.
+Kabul etmek istemediğinizi bildiğiniz katkıları derhal kapatmak daha iyidir. Projeniz zaten büyük bir birikimden etkilenmişse, @steveklabnik, [sorunların verimli bir şekilde nasıl sıralanacağı](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener) konusunda verdiği önerilere bakabilirsiniz.
 
 İkincisi, katkıları görmezden gelmek, topluluğunuz için olumsuz bir sinyal gönderir. Bir projeye katkıda bulunmak, özellikle birinin ilk defa olması durumunda korkutucu olabilir. Katkısını kabul etmeseniz bile, arkasındaki kişiyi kabul edin ve ilgileri için teşekkür ederiz. Onlar için bu büyük bir iltifat olur!
 

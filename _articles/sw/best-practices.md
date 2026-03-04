@@ -105,7 +105,7 @@ Ikiwa unapokea mchango usiotaka kukubali, majibu yako ya kwanza yanaweza kuwa ku
 
 Usiache mchango usiotakikana wazi kwa sababu unajisikia hatia au unataka kuwa wa huruma. Kadri muda unavyopita, masuala yako na PRs zisizojibiwa zitafanya kufanya kazi kwenye mradi wako kuwa ngumu zaidi na ya kutisha.
 
-Ni bora kufunga mara moja michango unayojua hutaki kukubali. Ikiwa mradi wako tayari unakabiliwa na msongamano mkubwa, @steveklabnik ana mapendekezo ya [jinsi ya kupangilia masuala kwa ufanisi](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Ni bora kufunga mara moja michango unayojua hutaki kukubali. Ikiwa mradi wako tayari unakabiliwa na msongamano mkubwa, @steveklabnik ana mapendekezo ya [jinsi ya kupangilia masuala kwa ufanisi](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Pili, kupuuza michango kunaonyesha ishara mbaya kwa jamii yako. Kuchangia kwenye mradi kunaweza kutisha, hasa ikiwa ni mara ya kwanza ya mtu. Hata kama hutaki kukubali mchango wao, tambua mtu anayehusika na kuwashukuru kwa nia yao. Ni sifa kubwa!
 

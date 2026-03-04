@@ -106,7 +106,7 @@ Jeśli otrzymasz wkład, którego nie chcesz zaakceptować, pierwszą reakcją m
 
 Nie zostawiaj niechcianego wkładu otwartego, ponieważ czujesz się winny lub chcesz być miły. Z czasem Twoje problemy i PR bez odpowiedzi sprawią, że praca nad projektem będzie o wiele bardziej stresująca i zastraszająca.
 
-Lepiej natychmiast zamknąć wpisy, o których wiesz, że nie chcesz ich akceptować. Jeśli twój projekt ma już duże zaległości, @steveklabnik ma sugestie dotyczące [jak skutecznie segregować problemy](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Lepiej natychmiast zamknąć wpisy, o których wiesz, że nie chcesz ich akceptować. Jeśli twój projekt ma już duże zaległości, @steveklabnik ma sugestie dotyczące [jak skutecznie segregować problemy](https://web.archive.org/web/20241208014624/https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Po drugie, ignorowanie wkładów wysyła negatywny sygnał do społeczności. Wkład w projekt może być zastraszający, szczególnie jeśli jest to pierwszy raz. Nawet jeśli nie zaakceptujesz ich wkładu, potwierdź osobę, która za tym stoi i podziękuj jej za zainteresowanie. To wielki komplement!
 
