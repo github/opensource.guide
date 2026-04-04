@@ -269,7 +269,7 @@ Dacă adaugi teste, asigură-te că explici cum funcționează în fișierul tă
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

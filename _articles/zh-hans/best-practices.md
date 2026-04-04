@@ -217,7 +217,7 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   我相信测试对所有的代码都是需要的。如果代码被完整的覆盖了测试，以后就不需要改了。我们只需要在代码崩溃或者需要某个功能的添加代码。不管你在修改什么，测试对于检查那些你可能不小心制造的问题都是必须的。
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust 社区的自动化"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust 社区的自动化"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

@@ -227,7 +227,7 @@ related:
   أنا أؤمن بأن tests ضرورية لكل code يعمل عليه الناس. فلو كان code صحيحًا وكاملًا تمامًا، لما احتاج إلى أي تعديل – نحن نكتب code فقط عندما يكون هناك خلل، سواء كان سببًا في It crashes أو لغياب ميزة معينة .
   وبغض النظر عن التغييرات، تظل tests أساسية لاكتشاف أي regressions قد تدخلها عن طريق الخطأ
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

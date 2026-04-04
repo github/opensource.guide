@@ -262,7 +262,7 @@ Il n'est pas nécessaire d'écrire un guide de style pour votre projet lorsque v
 
 ## Votre checklist de pr&eacute;-lancement
 
-Prêt à lancer votre projet open source ? Voici une checklist pour vous aider. Toutes les cases sont cochées ? Vous êtes prêt à vous lancer ! [Cliquez sur "Publier"] (https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) et donnez vous une tape dans le dos.
+Prêt à lancer votre projet open source ? Voici une checklist pour vous aider. Toutes les cases sont cochées ? Vous êtes prêt à vous lancer ! [Cliquez sur "Publier"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) et donnez vous une tape dans le dos.
 
 **Documentation**
 

@@ -215,7 +215,7 @@ Salah satu cara terpenting untuk mengautomasikan projek anda adalah dengan menam
 
 Ujian membantu penyumbang merasa yakin bahawa mereka tidak akan merosakkan apa-apa. Mereka juga memudahkan anda menyemak dan menerima sumbangan dengan cepat. Semakin responsif anda, semakin aktif komuniti anda.
 
-Sediakan ujian automatik yang akan dijalankan pada semua sumbangan yang masuk, dan pastikan ujian anda dapat dijalankan dengan mudah secara tempatan oleh penyumbang. Wajibkan semua sumbangan kod lulus ujian anda sebelum dapat dihantar. Anda akan membantu menetapkan standard kualiti minimum untuk semua penyerahan. [Pemeriksaan status yang diperlukan] (<https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging>) di GitHub dapat membantu memastikan tiada perubahan digabungkan tanpa ujian anda lulus.
+Sediakan ujian automatik yang akan dijalankan pada semua sumbangan yang masuk, dan pastikan ujian anda dapat dijalankan dengan mudah secara tempatan oleh penyumbang. Wajibkan semua sumbangan kod lulus ujian anda sebelum dapat dihantar. Anda akan membantu menetapkan standard kualiti minimum untuk semua penyerahan. [Pemeriksaan status yang diperlukan](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) di GitHub dapat membantu memastikan tiada perubahan digabungkan tanpa ujian anda lulus.
 
 Sekiranya anda menambahkan ujian, pastikan untuk menerangkan bagaimana ia berfungsi dalam fail CONTRIBUTING anda.
 
@@ -223,7 +223,7 @@ Sekiranya anda menambahkan ujian, pastikan untuk menerangkan bagaimana ia berfun
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahawa ujian diperlukan untuk semua kod yang diusahakan oleh orang lain. Sekiranya kodnya betul dan betul, ia tidak memerlukan perubahan - kami hanya menulis kod apabila ada yang tidak kena, sama ada "Ia rosak" atau "Tidak mempunyai ciri seperti itu". Dan tanpa mengira perubahan yang anda buat, ujian sangat penting untuk mengatasi kemunduran yang mungkin anda buat secara tidak sengaja.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 
