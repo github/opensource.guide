@@ -435,7 +435,7 @@ Ha nem találod meg a felvetést sehol, akkor mehetsz tovább. Ha a projekt a Gi
 
 Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet benyújtanál, ellenőrizd a projektben való részvételről szóló dokumentációt (ezt gyakran a CONTRIBUTING vagy a README tartalmazza), mert lehetséges, hogy mellékelned kell valamilyen specifikus információt is. Például, a projekt kérheti azt, hogy egy űrlapot tölts ki, vagy megkövetelheti a teszteket.
 
-Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvetést tartalmazó jegyet, ahol a kérdéseket meg lehet vitatni, mielőtt még nekikezdenél. Hasznos, ha egy darabig csak nyomon követed a projektet és a közösséget (a GitHub-on, [klikkents a "Watch" linkre](https://help.github.com/articles/watching-repositories/) hogy értesítést kapj az összes beszélgetésről), hogy megismerd a tagjait, mielőtt olyan munkát végeznél benne, amit nem fogadnak el.
+Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvetést tartalmazó jegyet, ahol a kérdéseket meg lehet vitatni, mielőtt még nekikezdenél. Hasznos, ha egy darabig csak nyomon követed a projektet és a közösséget (a GitHub-on, [klikkents a "Watch" linkre](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) hogy értesítést kapj az összes beszélgetésről), hogy megismerd a tagjait, mielőtt olyan munkát végeznél benne, amit nem fogadnak el.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -470,7 +470,7 @@ A beolvasztási kérelem nem feltétlen jelent befejezett munkát. Gyakran jobb 
 
 Ha a projekt a GitHub-on van, akkor a következőképpen kell beolvasztási kérelmet benyújtani:
 
-* **[Ágaztasd (fork) el a kód tározót](https://guides.github.com/activities/forking/)** és klónozd le magadhoz lokálisan. A lokális másolatodat kapcsold az eredeti tárolóhoz (original "upstream") egy _remote_ hozzáadásával. Frissítsd minél gyakrabban a változásokat az "upstream"-ről, hogy naprakész maradj. Így beolvasztás esetén kisebb eséllyel lesz ütközés a kódok összefésülésekor. (Részletes instrukciókat [itt találsz](https://help.github.com/articles/syncing-a-fork/).)
+* **[Ágaztasd (fork) el a kód tározót](https://guides.github.com/activities/forking/)** és klónozd le magadhoz lokálisan. A lokális másolatodat kapcsold az eredeti tárolóhoz (original "upstream") egy _remote_ hozzáadásával. Frissítsd minél gyakrabban a változásokat az "upstream"-ről, hogy naprakész maradj. Így beolvasztás esetén kisebb eséllyel lesz ütközés a kódok összefésülésekor. (Részletes instrukciókat [itt találsz](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Hozz létre egy új ágat (branch)](https://guides.github.com/introduction/flow/)** a módosításaidhoz.
 * **Hivatkozz meg bármilyen releváns hibajegyet** vagy a dokumentációt a beolvasztási kérelmedben (például, "Closes #37.")
 * **Adj hozzá a kérelmedhez "előtte" és "utána" képernyőképeket** ha HTML/CSS változás történt. Húzd be a képeket a beolvasztási kérelembe.

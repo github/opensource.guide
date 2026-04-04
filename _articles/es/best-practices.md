@@ -214,7 +214,7 @@ Una de las maneras m&aacute;s importantes de automatizar tu proyecto es realizan
 El testing ayuda a los contribuyentes a sentirse seguros de que no romper&aacute;n nada. Tambi&eacute;n facilitan la revisi&oacute;n y aceptaci&oacute;n de contribuciones r&aacute;pidamente. Cuanto m&aacute;s receptivo seas, m&aacute;s comprometida podr&aacute; ser tu comunidad.
 
 Configura los tests autom&aacute;ticos que se ejecutar&aacute;n en todas las contribuciones entrantes y aseg&uacute;rate de que puedan ser ejecutados localmente por los contribuyentes. Requiere que todas las contribuciones de c&oacute;digo pasen por los tests antes de que puedan ser enviadas. Ayudar&aacute; a establecer un est&aacute;ndar m&iacute;nimo de calidad para todas las solicitudes.
-[Chequeos de estado requerido](https://help.github.com/articles/about-required-status-checks/) en GitHub pueden ayudar a asegurar que ning&uacute;n cambio se fusione sin pasar primero por los tests.
+[Chequeos de estado requerido](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) en GitHub pueden ayudar a asegurar que ning&uacute;n cambio se fusione sin pasar primero por los tests.
 
 Si agregas testing, aseg&uacute;rate de explicar c&oacute;mo funcionan en su archivo CONTRIBUTING.
 

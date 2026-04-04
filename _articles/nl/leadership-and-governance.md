@@ -79,7 +79,7 @@ Als u eenmaal leiderschapsrollen heeft vastgesteld, vergeet dan niet te document
 
 Tools zoals [Vossibility](https://github.com/icecrime/vossibility-stack) kunnen je helpen om publiekelijk bij te houden wie (of niet) bijdraagt ​​aan het project. Door deze informatie te documenteren, wordt de perceptie van de gemeenschap vermeden dat beheerders een kliek zijn die privé beslissingen neemt.
 
-Ten slotte, als uw project op GitHub staat, overweeg dan om uw project van uw persoonlijke account naar een organisatie te verplaatsen en ten minste één back-upbeheerder toe te voegen. [GitHub Organisations](https://help.github.com/articles/creating-a-new-organization-account/) maken het gemakkelijker om machtigingen en meerdere opslagplaatsen te beheren en de nalatenschap van je project te beschermen via [gedeeld eigendom](../building-community/#deel-het-eigendom-van-uw-project).
+Ten slotte, als uw project op GitHub staat, overweeg dan om uw project van uw persoonlijke account naar een organisatie te verplaatsen en ten minste één back-upbeheerder toe te voegen. [GitHub Organisations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) maken het gemakkelijker om machtigingen en meerdere opslagplaatsen te beheren en de nalatenschap van je project te beschermen via [gedeeld eigendom](../building-community/#deel-het-eigendom-van-uw-project).
 
 ## Wanneer moet ik iemand commit-toegang geven?
 
@@ -87,7 +87,7 @@ Sommige mensen vinden dat je commitment moet geven aan iedereen die een bijdrage
 
 Aan de andere kant, vooral voor grotere, meer complexe projecten, wil je misschien alleen commitment geven aan mensen die hun betrokkenheid hebben getoond. Er is niet één goede manier om het te doen - doe wat je het prettigst vindt!
 
-Als je project op GitHub staat, kun je [beschermde branches](https://help.github.com/articles/about-protected-branches/) gebruiken om te beheren wie naar een bepaalde branch kan pushen, en onder welke omstandigheden.
+Als je project op GitHub staat, kun je [beschermde branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) gebruiken om te beheren wie naar een bepaalde branch kan pushen, en onder welke omstandigheden.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

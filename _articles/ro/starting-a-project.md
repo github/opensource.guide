@@ -134,9 +134,9 @@ Nu există timpul perfect pentru a deschide sursa muncii tale. Poți deschide o 
 
 Indiferent de stadiul în care decizi să deschizi sursa proiectului, oricare proiect ar trebui să includă următoarea documentație:
 
-* [Licența de sursă deschisă](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Direcții de contribuție](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Licența de sursă deschisă](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Direcții de contribuție](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Codul de conduită](../code-of-conduct/)
 
 Ca și întreținător, aceste componente te vor ajuta să comunici așteptări, să gestionezi contribuții, și să protejezi drepturile legale ale tuturor (inclusiv ale tale). Ele cresc semnificativ șansele de a avea o experiență pozitivă.
@@ -219,7 +219,7 @@ Cu timpul, ai putea adăuga alte întrebări puse des în fișierul tău CONTRIB
 
 Pentru mai mult ajutor cu scrierea fișierului tău CONTRIBUTING, aruncă o privire la [șablonul de ghid de contribuire](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) al @nayafia sau [„How to Build a CONTRIBUTING.md”](https://mozillascience.github.io/working-open-workshop/contributing/) al @mozilla.
 
-Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai mulți oameni îl văd. Dacă [amplasezi fișierul tău CONTRIBUTING în depozitul proiectului tău](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub va lega automat către fișierul tău când un contributor creează o problemă sau deschide o cerere de pull.
+Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai mulți oameni îl văd. Dacă [amplasezi fișierul tău CONTRIBUTING în depozitul proiectului tău](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), GitHub va lega automat către fișierul tău când un contributor creează o problemă sau deschide o cerere de pull.
 
 ![Direcții de contribuire](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -306,7 +306,7 @@ Nu este necesar să scrii un ghid de stil pentru proiectul tău la început, și
 
 ## Lista ta de verificări înainte de lansare
 
-Ești pregătit să deschizi sursa proiectului tău? Iată o listă de verificare pentru a te ajuta. Bifezi toate cutiile? Ești gata să pornești! [Dă clic pe „publish”](https://help.github.com/articles/making-a-private-repository-public/) și mângâie-te pe spate.
+Ești pregătit să deschizi sursa proiectului tău? Iată o listă de verificare pentru a te ajuta. Bifezi toate cutiile? Ești gata să pornești! [Dă clic pe „publish”](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) și mângâie-te pe spate.
 
 **Documentație**
 

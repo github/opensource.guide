@@ -28,7 +28,7 @@ Ha nem alkalmazol nyílt forráskódú licencet, akkor mindenki, aki hozzájáru
 
 ## Nyílt forráskódúak a nyilvános GitHub projektek?
 
-Amikor [létrehozol egy új projektet](https://help.github.com/articles/creating-a-new-repository/) a GitHub-on, lehetőséged van megadni, hogy a projekt **private** (privát) vagy **public** (publikus) legyen.
+Amikor [létrehozol egy új projektet](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) a GitHub-on, lehetőséged van megadni, hogy a projekt **private** (privát) vagy **public** (publikus) legyen.
 
 ![Projekt létrehozása](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Szerencsés helyzetben vagy, mert manapság a nyílt forráskódú licencek szab
 
 Az [MIT](https://choosealicense.com/licenses/mit/), az [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), és a [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) a legismertebb nyílt forráskódú licencek, de vannak más lehetőségek is amikből választhatsz. Ezen licencek teljes szövegét és használatuk módját megtalálod a [choosealicense.com](https://choosealicense.com/) oldalon.
 
-Ha új projektet hozol létre a GitHub-on, meg kell adnod, hogy [milyen licencű a projekt](https://help.github.com/articles/open-source-licensing/).
+Ha új projektet hozol létre a GitHub-on, meg kell adnod, hogy [milyen licencű a projekt](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -88,7 +88,7 @@ Alternatív megoldásként, a résztvevők előzetesen (egy kiegészítő hozzá
 
 ## Szükségem van-e kiegészítő hozzájárulási megállapodásra?
 
-Valószínűleg nem. A nyílt forráskódú projektek túlnyomó többsége esetében a nyílt forráskódú licenc implicit módon tartalmazza egyaránt a bejövő (a résztvevőkről) és a kimenő (más hozzájárulók és felhasználók) licencet. Ha a projekt a GitHub-on van, akkor a GitHub Általános Szerződési Feltételei szerint a "bejövő = kimenő" elv [kifejezetten alapértelmezett](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Valószínűleg nem. A nyílt forráskódú projektek túlnyomó többsége esetében a nyílt forráskódú licenc implicit módon tartalmazza egyaránt a bejövő (a résztvevőkről) és a kimenő (más hozzájárulók és felhasználók) licencet. Ha a projekt a GitHub-on van, akkor a GitHub Általános Szerződési Feltételei szerint a "bejövő = kimenő" elv [kifejezetten alapértelmezett](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Egy kiegészítő hozzájárulási megállapodás, amelyet gyakran közreműködői licenc megállapodásnak (CLA) neveznek, adminisztratív munkát generálhat a projektgazdák számára. A projekt és a kivitelezés függvénye, hogy ez mennyi munkát jelent. Egy egyszerű megállapodás megkövetelheti, hogy a közreműködők egy kattintással megerősítsék, hogy megvan a szükséges joguk a nyílt forráskódú projekt licencének megfelelő részvételhez. Egy bonyolultabb megállapodás jogi felülvizsgálatot, és a résztvevők munkáltatójától kapott hozzájárulást is igényelhet.
 

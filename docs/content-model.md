@@ -5,8 +5,8 @@ This content was originally created and curated by GitHub, and covers topics tha
 
 For content that is specific to GitHub products, see:
 
-- [help.github.com](https://help.github.com) - gets existing users unstuck and back to work.
-- [guides.github.com](https://guides.github.com) - tutorials about a larger idea or product feature for new users.
+- [docs.github.com](https://docs.github.com) - gets existing users unstuck and back to work.
+- [skills.github.com](https://skills.github.com) - tutorials about a larger idea or product feature for new users.
 
 Everything written in the guides should fall into one of the following categories:
 

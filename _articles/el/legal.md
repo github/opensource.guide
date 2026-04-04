@@ -28,7 +28,7 @@ related:
 
 ## Είναι τα δημόσια πρότζεκτ GitHub ανοιχτού κώδικα;
 
-Όταν [δημιουργείτε ένα νέο πρότζεκτ](https://help.github.com/articles/creating-a-new-repository/) στο GitHub, έχετε την επιλογή να κάνετε το αποθετήριο **ιδιωτικό** ή **δημόσιο**.
+Όταν [δημιουργείτε ένα νέο πρότζεκτ](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) στο GitHub, έχετε την επιλογή να κάνετε το αποθετήριο **ιδιωτικό** ή **δημόσιο**.
 
 ![Δημιουργία αποθετηρίου](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ related:
 
 Οι [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) και [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) είναι οι πιο δημοφιλείς άδειες ανοιχτού κώδικα, αλλά υπάρχουν και άλλες επιλογές για να επιλέξετε. Μπορείτε να βρείτε το πλήρες κείμενο αυτών των αδειών, καθώς και οδηγίες για τον τρόπο χρήσης τους, στην ιστοσελίδα [choosealicense.com](https://choosealicense.com/).
 
-Όταν δημιουργείτε ένα νέο πρότζεκτ στο GitHub, θα σας ζητηθεί [να προσθέσετε μια άδεια](https://help.github.com/articles/open-source-licensing/).
+Όταν δημιουργείτε ένα νέο πρότζεκτ στο GitHub, θα σας ζητηθεί [να προσθέσετε μια άδεια](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -88,7 +88,7 @@ related:
 
 ## Χρειάζεται το πρότζεκτ μου μια πρόσθετη συμφωνία συνεισφοράς;
 
-Μάλλον όχι. Για τη συντριπτική πλειονότητα των πρότζεκτ ανοικτού κώδικα, μια άδεια ανοικτού κώδικα χρησιμεύει σιωπηρά τόσο ως η εισερχόμενη (από τους συνεισφέροντες) όσο και ως η εξερχόμενη (προς άλλους συνεισφέροντες και χρήστες) άδεια. Εάν το πρότζεκτ σας βρίσκεται στο GitHub, οι όροι χρήσης του GitHub καθιστούν το "inbound=outbound" τη [ρητή προεπιλογή](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Μάλλον όχι. Για τη συντριπτική πλειονότητα των πρότζεκτ ανοικτού κώδικα, μια άδεια ανοικτού κώδικα χρησιμεύει σιωπηρά τόσο ως η εισερχόμενη (από τους συνεισφέροντες) όσο και ως η εξερχόμενη (προς άλλους συνεισφέροντες και χρήστες) άδεια. Εάν το πρότζεκτ σας βρίσκεται στο GitHub, οι όροι χρήσης του GitHub καθιστούν το "inbound=outbound" τη [ρητή προεπιλογή](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Μια πρόσθετη συμφωνία συνεισφέροντος -- συχνά αποκαλούμενη Συμφωνία άδειας χρήσης συνεισφέροντος (CLA) -- μπορεί να δημιουργήσει διοικητική εργασία για τους συντηρητές του έργου. Το πόση εργασία προσθέτει μια συμφωνία εξαρτάται από το πρότζεκτ και την εφαρμογή. Μια απλή συμφωνία μπορεί να απαιτεί από τους συνεισφέροντες να επιβεβαιώνουν, με ένα κλικ, ότι έχουν τα απαραίτητα δικαιώματα για να συνεισφέρουν σύμφωνα με την άδεια χρήσης ανοικτού κώδικα του έργου. Μια πιο περίπλοκη συμφωνία μπορεί να απαιτεί νομικό έλεγχο και υπογραφή από τους εργοδότες των συνεισφερόντων.
 

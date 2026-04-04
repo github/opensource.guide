@@ -28,7 +28,7 @@ Hatimaye, mradi wako unaweza kuwa na utegemezi wenye mahitaji ya leseni ambayo h
 
 ## Je, miradi ya umma ya GitHub ni open source?
 
-Unapounda [mradi mpya](https://help.github.com/articles/creating-a-new-repository/) kwenye GitHub, una chaguo la kufanya hifadhi kuwa **binafsi** au **ya umma**.
+Unapounda [mradi mpya](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) kwenye GitHub, una chaguo la kufanya hifadhi kuwa **binafsi** au **ya umma**.
 
 ![Unda hifadhi](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Uko bahati, kwa sababu leo, leseni za open source zimekuwa za kawaida na rahisi 
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), na [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) ni [leseni maarufu za open source](https://innovationgraph.github.com/global-metrics/licenses), lakini kuna chaguzi nyingine za kuchagua. Unaweza kupata maandiko kamili ya leseni hizi, na maelekezo ya jinsi ya kuzitumia, kwenye [choosealicense.com](https://choosealicense.com/).
 
-Unapounda mradi mpya kwenye GitHub, utaulizwa kuongeza leseni [hapa](https://help.github.com/articles/open-source-licensing/).
+Unapounda mradi mpya kwenye GitHub, utaulizwa kuongeza leseni [hapa](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -90,7 +90,7 @@ Vinginevyo, unaweza kuwa na wachangiaji wakikubali mabadiliko fulani ya leseni k
 
 ## Je, mradi wangu unahitaji makubaliano ya ziada ya wachangiaji?
 
-Huenda si. Kwa sehemu kubwa ya miradi ya open source, leseni ya open source inatumika kimya kama leseni ya kuingia (kutoka kwa wachangiaji) na leseni ya kutoka (kwa wachangiaji wengine na watumiaji). Ikiwa mradi wako uko kwenye GitHub, Masharti ya Huduma ya GitHub yanafanya "kuingia=kuondoka" kuwa [wa kutumika](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Huenda si. Kwa sehemu kubwa ya miradi ya open source, leseni ya open source inatumika kimya kama leseni ya kuingia (kutoka kwa wachangiaji) na leseni ya kutoka (kwa wachangiaji wengine na watumiaji). Ikiwa mradi wako uko kwenye GitHub, Masharti ya Huduma ya GitHub yanafanya "kuingia=kuondoka" kuwa [wa kutumika](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Makubaliano ya ziada ya wachangiaji -- mara nyingi huitwa Contributor License Agreement (CLA) -- yanaweza kuunda kazi za kiutawala kwa watunzaji wa mradi. Kiasi gani kazi makubaliano yanaongeza inategemea mradi na utekelezaji. Makubaliano rahisi yanaweza kuhitaji wachangiaji kuthibitisha, kwa kubonyeza, kwamba wana haki zinazohitajika kuchangia chini ya leseni ya open source ya mradi. Makubaliano magumu zaidi yanaweza kuhitaji ukaguzi wa kisheria na idhini kutoka kwa waajiri wa wachangiaji.
 

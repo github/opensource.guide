@@ -28,11 +28,11 @@ Wreszcie, twój projekt może być zależny od wymagań licencyjnych, o których
 
 ## Czy publiczne projekty GitHub są open source?
 
-Kiedy [tworzysz nowy projekt](https://help.github.com/articles/creating-a-new-repository/) na GitHub masz opcję utworzenia repozytorium **private** lub **public**.
+Kiedy [tworzysz nowy projekt](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) na GitHub masz opcję utworzenia repozytorium **private** lub **public**.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**Upublicznienie projektu GitHub to nie to samo, co licencjonowanie projektu.** Projekty publiczne są objęte [Warunkami świadczenia usług GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-licytations-grants), który pozwala innym przeglądać i rozwidlać twój projekt, ale w przeciwnym razie twoja praca nie ma żadnych uprawnień.
+**Upublicznienie projektu GitHub to nie to samo, co licencjonowanie projektu.** Projekty publiczne są objęte [Warunkami świadczenia usług GitHub](https://docs.github.com/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), który pozwala innym przeglądać i rozwidlać twój projekt, ale w przeciwnym razie twoja praca nie ma żadnych uprawnień.
 
 Jeśli chcesz, aby inni używali, rozpowszechniali, modyfikowali lub wnieśli swój wkład z powrotem do twojego projektu, musisz dołączyć licencję typu open source. Na przykład, ktoś nie może legalnie wykorzystywać żadnej części twojego projektu GitHub w swoim kodzie, nawet jeśli jest on publiczny, chyba że wyraźnie mu to umożliwisz.
 
@@ -42,7 +42,7 @@ Masz szczęście, ponieważ dziś licencje open source są ustandaryzowane i ła
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), i [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) są najpopularniejszymi licencjami typu open source, ale istnieją inne opcje do wyboru. Możesz znaleźć pełny tekst tych licencji i instrukcje, jak z nich korzystać, na [choosealicense.com](https://choosealicense.com/).
 
-Kiedy tworzysz nowy projekt w GitHub, zostaniesz [poproszony o dodanie licencji](https://help.github.com/articles/open-source-licensing/).
+Kiedy tworzysz nowy projekt w GitHub, zostaniesz [poproszony o dodanie licencji](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -90,7 +90,7 @@ Ewentualnie możesz poprosić autorów o wcześniejsze uzgodnienie (za pośredni
 
 ## Czy mój projekt wymaga dodatkowej umowy wnoszącej wkład?
 
-Prawdopodobnie nie. W zdecydowanej większości projektów typu open source licencja typu open source domyślnie służy zarówno jako licencja przychodząca (od współpracowników), jak i wychodząca (dla innych autorów i użytkowników). Jeśli Twój projekt działa na GitHub, Warunki korzystania z usługi GitHub sprawiają, że „przychodzące = wychodzące” jest [jawnym domyślnym](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Prawdopodobnie nie. W zdecydowanej większości projektów typu open source licencja typu open source domyślnie służy zarówno jako licencja przychodząca (od współpracowników), jak i wychodząca (dla innych autorów i użytkowników). Jeśli Twój projekt działa na GitHub, Warunki korzystania z usługi GitHub sprawiają, że „przychodzące = wychodzące” jest [jawnym domyślnym](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Dodatkowa umowa współtwórcy - często zwana umową licencyjną współtwórcy (CLA) - może tworzyć prace administracyjne dla opiekunów projektów. Ile pracy dodaje umowa zależy od projektu i realizacji. Prosta umowa może wymagać, aby uczestnicy potwierdzili jednym kliknięciem, że mają prawa niezbędne do wniesienia wkładu w ramach licencji open source projektu. Bardziej skomplikowana umowa może wymagać weryfikacji prawnej i wypisania się od pracodawców współpracowników.
 

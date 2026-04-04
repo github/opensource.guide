@@ -37,7 +37,7 @@ Antes das pessoas poderem contribuir para com seu projeto, elas precisam saber q
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Se seu projeto esta hospedado no GitHub, [você pode ver](https://help.github.com/articles/about-repository-graphs/#traffic) como as pessoas navegam no seu projeto e de onde elas vêm. Na página do seu projeto, clique "Insights" e então em "Traffic". Nesta página, você pode ver:
+Se seu projeto esta hospedado no GitHub, [você pode ver](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) como as pessoas navegam no seu projeto e de onde elas vêm. Na página do seu projeto, clique "Insights" e então em "Traffic". Nesta página, você pode ver:
 
 * **Total de visualizações da página:** Informa quantas vezes seu projeto foi visualizado
 
@@ -47,7 +47,7 @@ Se seu projeto esta hospedado no GitHub, [você pode ver](https://help.github.co
 
 * **Conteudo popular:** Informa a você onde os visitantes vão em seu projeto, a exibição mostra o número de visualizações por página e quantidade de visitantes.
 
-As [GitHub stars](https://help.github.com/articles/about-stars/) também podem ajudar a fornecer uma medida básica de popularidade. Embora as GitHub stars não estejam necessariamente relacionadas a downloads e uso, elas podem dizer quantas pessoas estão percebendo seu trabalho.
+As [GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) também podem ajudar a fornecer uma medida básica de popularidade. Embora as GitHub stars não estejam necessariamente relacionadas a downloads e uso, elas podem dizer quantas pessoas estão percebendo seu trabalho.
 
 Talvez você também queira [rastrear a descoberta apartir de lugares específicos](https://opensource.com/business/16/6/pirate-metrics): por exemplo, Google PageRank, tráfego de referência do site do seu projeto ou referências de outros projetos ou sites open source.
 

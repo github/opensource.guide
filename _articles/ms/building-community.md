@@ -28,7 +28,7 @@ Mulakan dengan dokumentasi anda:
 
 * **Permudahkan seseorang untuk menggunakan projek anda.**[README yang mesra](../starting-a-project/#menulis-readme) dan contoh kod yang jelas akan memudahkan sesiapa sahaja yang memasuki projek anda untuk memulakan.
 * **Terangkan dengan jelas cara menyumbang**, menggunakan [fail CONTRIBUTING anda](../starting-a-project/#menulis-garis-panduan-penyumbang-anda) dan mengemas kini masalah anda.
-* **Isu pertama yang baik**: Untuk membantu penyumbang baru memulakan, pertimbangkan secara jelas [masalah pelabelan yang cukup mudah untuk diatasi oleh pemula](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub kemudian akan memaparkan isu-isu ini di berbagai tempat di platform, meningkatkan sumbangan berguna, dan mengurangkan geseran dari pengguna menangani masalah yang terlalu sukar untuk tahap mereka.
+* **Isu pertama yang baik**: Untuk membantu penyumbang baru memulakan, pertimbangkan secara jelas [masalah pelabelan yang cukup mudah untuk diatasi oleh pemula](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub kemudian akan memaparkan isu-isu ini di berbagai tempat di platform, meningkatkan sumbangan berguna, dan mengurangkan geseran dari pengguna menangani masalah yang terlalu sukar untuk tahap mereka.
 
 [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) menunjukkan dokumentasi yang tidak lengkap atau membingungkan adalah masalah terbesar bagi pengguna sumber terbuka. Dokumentasi yang baik mengundang orang untuk berinteraksi dengan projek anda. Akhirnya, seseorang akan membuka masalah atau menarik permintaan. Gunakan interaksi ini sebagai peluang untuk mengalihkannya ke corong.
 
@@ -167,7 +167,7 @@ Lihat apakah anda boleh mencari cara untuk berkongsi pemilikan dengan komuniti a
 
 * **Berikan akses kepada setiap penyumbang.** @felixge mendapati bahawa ini menjadikan orang [lebih teruja untuk menggilap patch mereka](https://felixge.de/2013/03/11/the-pull-request-hack.html), dan dia malah menjumpai penyelenggara baru untuk projek-projek yang belum pernah dia kerjakan sebentar lagi.
 
-* Sekiranya projek anda berada di GitHub, **pindahkan projek anda dari akaun peribadi anda ke [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** dan tambahkan sekurang-kurangnya satu pentadbir sandaran. Organisasi menjadikannya lebih mudah untuk mengerjakan projek dengan kolaborator luar.
+* Sekiranya projek anda berada di GitHub, **pindahkan projek anda dari akaun peribadi anda ke [Organization](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** dan tambahkan sekurang-kurangnya satu pentadbir sandaran. Organisasi menjadikannya lebih mudah untuk mengerjakan projek dengan kolaborator luar.
 
 Kenyataannya adalah bahawa[most projects only have](https://peerj.com/preprints/1233/)satu atau dua penyelenggara yang melakukan sebahagian besar kerja. Semakin besar projek anda, dan semakin besar komuniti anda, semakin mudah mendapatkan bantuan.
 

@@ -168,7 +168,7 @@ redirect_from: /zh-tw/building-community/
 
 * **給每個貢獻者提交的權限。**@發現這樣會使大家[越來越樂意發表他們的補丁](https://felixge.de/2013/03/11/the-pull-request-hack.html)，甚至找到人手來協助維護他已很久沒處理的專案。
 
-* 如果專案是放在 GitHub 上，那麼 **將專案從你們的個人賬號轉移到一個[組織](https://help.github.com/articles/collaborating-with-groups-in-organizations/)**，加入至少一個備份管理員。組織能讓社群與來自外界的貢獻，彼此協作的工作變得更加容易。
+* 如果專案是放在 GitHub 上，那麼 **將專案從你們的個人賬號轉移到一個[組織](https://docs.github.com/organizations/collaborating-with-groups-in-organizations)**，加入至少一個備份管理員。組織能讓社群與來自外界的貢獻，彼此協作的工作變得更加容易。
 
 事實上很多專案[只有一個或者兩個維護者](https://peerj.com/preprints/1233/)去做大部分的工作。隨著社群變得越來越大，就會有更多的人參與進來。
 

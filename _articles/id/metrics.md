@@ -37,7 +37,7 @@ Sebelum setiap orang bisa menggunakan atau berkontribusi pada proyek Anda, merek
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Jika proyek Anda berada di GitHub, [Anda dapat melihat](https://help.github.com/articles/about-repository-graphs/#traffic) berapa banyak orang yang sampai pada proyek Anda dan darimana mereka berasal. Dari halaman proyek Anda, klik "Graphs", lalu "Traffic". Pada halaman ini, Anda bisa melihat:
+Jika proyek Anda berada di GitHub, [Anda dapat melihat](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) berapa banyak orang yang sampai pada proyek Anda dan darimana mereka berasal. Dari halaman proyek Anda, klik "Graphs", lalu "Traffic". Pada halaman ini, Anda bisa melihat:
 
 * **Total pageviews:** Menginformasikan berapa banyak proyek Anda dilihat
 
@@ -47,7 +47,7 @@ Jika proyek Anda berada di GitHub, [Anda dapat melihat](https://help.github.com/
 
 * **Popular content:** Menginformasikan kemana pengunjung Anda melakuan navigasi pada proyek Anda, dilihat dari pageviews dan pengunjung unik.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) juga bisa membantu menyediakan pengukuran dasar dari popularitas. Meskipun GitHub stars tidak serta-merta mengkorelasikan pada jumlah download dan penggunaan, informasi dari GitHub stars dapat menginformasikan berapa banyak orang yang memperhatikan pekerjaan Anda.
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) juga bisa membantu menyediakan pengukuran dasar dari popularitas. Meskipun GitHub stars tidak serta-merta mengkorelasikan pada jumlah download dan penggunaan, informasi dari GitHub stars dapat menginformasikan berapa banyak orang yang memperhatikan pekerjaan Anda.
 
 Anda mungkin ingin [melacak temuan pada tempat khusus](https://opensource.com/business/16/6/pirate-metrics): misalnya, Google PageRank, trafik referensi dari halaman web proyek Anda, atau referensi dari proyek open source dan website.
 

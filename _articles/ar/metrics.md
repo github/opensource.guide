@@ -39,7 +39,7 @@ related:
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-إذا كان مشروعك مستضافًا على GitHub, [يمكنك مشاهدة](https://help.github.com/articles/about-repository-graphs/#traffic) عدد الأشخاص الذين يزورون مشروعك ومن أين يأتون. من صفحة مشروعك، انقر على "Insights"، ثم "Traffic". في هذه الصفحة، يمكنك رؤية:
+إذا كان مشروعك مستضافًا على GitHub, [يمكنك مشاهدة](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) عدد الأشخاص الذين يزورون مشروعك ومن أين يأتون. من صفحة مشروعك، انقر على "Insights"، ثم "Traffic". في هذه الصفحة، يمكنك رؤية:
 
 * **إجمالي عدد مشاهدات الصفحة:** يخبرك بعدد مرات مشاهدة مشروعك
 
@@ -49,7 +49,7 @@ related:
 
 * **المحتوى الشائع:** يخبرك أين يذهب الزوار في مشروعك، موزعًا حسب عدد مرات مشاهدة الصفحة والزوار الفريدين.
 
-[نجوم GitHub](https://help.github.com/articles/about-stars/) يمكن أن تساعد أيضًا في توفير مقياس أساسي للشهرة. على الرغم من أن نجوم GitHub لا ترتبط بالضرورة بالتنزيلات والاستخدام، إلا أنها يمكن أن تخبرك بعدد الأشخاص الذين ينتبهون إلى عملك.
+[نجوم GitHub](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) يمكن أن تساعد أيضًا في توفير مقياس أساسي للشهرة. على الرغم من أن نجوم GitHub لا ترتبط بالضرورة بالتنزيلات والاستخدام، إلا أنها يمكن أن تخبرك بعدد الأشخاص الذين ينتبهون إلى عملك.
 
 قد ترغب أيضًا في [تتبع إمكانية الاكتشاف في أماكن محددة](https://opensource.com/business/16/6/pirate-metrics): على سبيل المثال، Google PageRank، أو حركة المرور المرجعية من موقع الويب الخاص بمشروعك، أو الإحالات من مشاريع أو مواقع ويب أخرى مفتوحة المصدر.
 

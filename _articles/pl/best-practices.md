@@ -167,7 +167,7 @@ Nie musisz robić wszystkiego sam. Społeczność twojego projektu nie istnieje 
 
 Jeśli szukasz innych osób, zacznij od pytania.
 
-Jednym ze sposobów na pozyskanie nowych współpracowników jest jawne [label issues które są wystarczająco proste dla początkujących](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub wyświetli te problemy w różnych miejscach platformy, zwiększając ich widoczność.
+Jednym ze sposobów na pozyskanie nowych współpracowników jest jawne [label issues które są wystarczająco proste dla początkujących](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub wyświetli te problemy w różnych miejscach platformy, zwiększając ich widoczność.
 
 Gdy zobaczysz, że nowi współautorzy wnoszą powtarzający się wkład, rozpoznaj ich pracę, oferując większą odpowiedzialność. Udokumentuj, w jaki sposób inni mogą stać się przywódcami, jeśli chcą.
 
@@ -219,7 +219,7 @@ Jednym z najważniejszych sposobów automatyzacji projektu jest dodanie testów.
 
 Testy pomagają współpracownikom mieć pewność, że niczego nie zniszczą. Ułatwiają także szybkie przeglądanie i przyjmowanie wkładów. Im bardziej jesteś responsywny, tym bardziej zaangażowana może być twoja społeczność.
 
-Skonfiguruj automatyczne testy, które będą przeprowadzane na wszystkich przychodzących kontrybucjach, i upewnij się, że twoje testy mogą być łatwo uruchomione lokalnie przez autorów. Wymagaj, aby wszystkie elementy kodu pomyślnie przeszły testy, zanim będą mogły zostać przesłane. Pomożesz ustalić minimalny standard jakości wszystkich zgłoszeń. [Wymagane kontrole statusu](https://help.github.com/articles/about-required-status-checks/) na GitHub mogą pomóc zapewnić, że żadna zmiana nie zostanie scalona bez pozytywnego wyniku testów.
+Skonfiguruj automatyczne testy, które będą przeprowadzane na wszystkich przychodzących kontrybucjach, i upewnij się, że twoje testy mogą być łatwo uruchomione lokalnie przez autorów. Wymagaj, aby wszystkie elementy kodu pomyślnie przeszły testy, zanim będą mogły zostać przesłane. Pomożesz ustalić minimalny standard jakości wszystkich zgłoszeń. [Wymagane kontrole statusu](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) na GitHub mogą pomóc zapewnić, że żadna zmiana nie zostanie scalona bez pozytywnego wyniku testów.
 
 Jeśli dodasz testy, wyjaśnij, jak działają w pliku CONTRIBUTING.
 

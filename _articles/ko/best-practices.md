@@ -213,7 +213,7 @@ related:
 
 테스트는 기여자가 아무것도 망가트리지 않았다는 확신을 가질 수 있게 해줍니다. 여러분이 기여를 더 빨리 검토하고 적용하기에도 좋습니다. 여러분이 더 적극적으로 반응한다면 커뮤니티의 모두도 더 적극적으로 참여할 것입니다.
 
-들어오는 기여를 대상으로 자동으로 수행되는 테스트를 작성하고, 기여자들이 테스트를 로컬에서도 쉽게 수행할 수 있게 구성하세요. 모든 코드 기여는 제출되기 전에 테스트를 통과하도록 하세요. 모든 제출물에 대해 최소한의 수준을 확보할 수 있을 것입니다. GitHub의 [Required status checks](https://help.github.com/articles/about-required-status-checks/) 기능은 어떤 커밋도 테스트를 통과하지 않고서는 병합되지 않도록 도와줍니다.
+들어오는 기여를 대상으로 자동으로 수행되는 테스트를 작성하고, 기여자들이 테스트를 로컬에서도 쉽게 수행할 수 있게 구성하세요. 모든 코드 기여는 제출되기 전에 테스트를 통과하도록 하세요. 모든 제출물에 대해 최소한의 수준을 확보할 수 있을 것입니다. GitHub의 [Required status checks](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) 기능은 어떤 커밋도 테스트를 통과하지 않고서는 병합되지 않도록 도와줍니다.
 
 테스트를 추가할 때는 반드시 CONTRIBUTING 파일에 어떻게 테스트가 동작하는지 설명하세요.
 

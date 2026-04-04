@@ -165,7 +165,7 @@ Her şeyi kendiniz yapmak zorunda değilsiniz. Projenizin topluluğunun olmasın
 
 Başkalarının işe girişmesini istiyorsanız, bu dile getirerek başlayın.
 
-Yeni katılımcılar kazanmanın bir yolu da [yeni katılanlar için kolay çözülebilecek sorunları belirmektir](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub bu sorunları platform üzerindeki farklı sayfalarda göstererek farkedilebilir olmalarını sağlayacaktır.
+Yeni katılımcılar kazanmanın bir yolu da [yeni katılanlar için kolay çözülebilecek sorunları belirmektir](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub bu sorunları platform üzerindeki farklı sayfalarda göstererek farkedilebilir olmalarını sağlayacaktır.
 
 Katkıda bulunan arasında yeni olanları gördüğünüzde, çalışmalarını daha fazla sorumluluk sunarak tanıyın. İsterlerse kendilerinin de yöneticilik rolüne nasıl dönüşebileceğini belgeleyin.
 
@@ -215,7 +215,7 @@ Projenizi otomatikleştirmenin en önemli yollarından biri de testler eklemekti
 
 Testler, katkıda bulunanların hiçbir şeyi kırmayacaklarından emin olmalarına yardımcı olur. Ayrıca katkıları hızla incelemenizi ve kabul etmenizi kolaylaştırır. Ne kadar duyarlı olursanız, toplumunuz o kadar adanmış olabilir.
 
-Tüm gelen katkılarda çalışacak otomatik testler ayarlayın ve testlerinizin katılımcılar tarafından kolayca yerel olarak çalıştırılabildiğinden emin olun. Tüm kod katkılarının gönderilmeden önce testlerinizi geçmesini şart koşun. Tüm gönderiler için minimum kalite standardı belirlenmesine yardımcı olmuş olacaksınız. GitHub'daki [zorunlu durum kontrolleri](https://help.github.com/articles/about-required-status-checks/) , testleriniz geçmeden değişiklik yapılmadan birleştirilmemesini sağlayabilir.
+Tüm gelen katkılarda çalışacak otomatik testler ayarlayın ve testlerinizin katılımcılar tarafından kolayca yerel olarak çalıştırılabildiğinden emin olun. Tüm kod katkılarının gönderilmeden önce testlerinizi geçmesini şart koşun. Tüm gönderiler için minimum kalite standardı belirlenmesine yardımcı olmuş olacaksınız. GitHub'daki [zorunlu durum kontrolleri](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) , testleriniz geçmeden değişiklik yapılmadan birleştirilmemesini sağlayabilir.
 
 Testler eklerseniz, CONTRIBUTING dosyanızda nasıl çalıştıklarını açıkladığınızdan emin olun.
 

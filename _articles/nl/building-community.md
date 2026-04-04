@@ -28,7 +28,7 @@ Begin met uw documentatie:
 
 * **Maak het voor iemand gemakkelijk om uw project te gebruiken.** [Een vriendelijke README](../starting-a-project/#een-readme-schrijven) en duidelijke codevoorbeelden maken het gemakkelijker voor iedereen die op uw project belandt om aan de slag te gaan.
 * **Leg duidelijk uit hoe u kunt bijdragen**, gebruik [je CONTRIBUTING-bestand](../starting-a-project/#schrijven-van-uw-bijdrage-richtlijnen) en uw issues up-to-date houden.
-* **Goede first issues**: Overweeg expliciet om nieuwe bijdragers op weg te helpen [label issues die eenvoudig genoeg zijn voor beginners om aan te pakken](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub zal deze issues vervolgens op verschillende plaatsen op het platform aan de oppervlakte brengen, waardoor nuttige bijdragen worden verhoogd en de wrijving wordt verminderd van gebruikers die problemen aanpakken die te moeilijk zijn voor hun niveau.
+* **Goede first issues**: Overweeg expliciet om nieuwe bijdragers op weg te helpen [label issues die eenvoudig genoeg zijn voor beginners om aan te pakken](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub zal deze issues vervolgens op verschillende plaatsen op het platform aan de oppervlakte brengen, waardoor nuttige bijdragen worden verhoogd en de wrijving wordt verminderd van gebruikers die problemen aanpakken die te moeilijk zijn voor hun niveau.
 * [GitHub's Open Source-enquête 2017](http://opensourcesurvey.org/2017/) vertoonde onvolledige of verwarrende documentatie is het grootste probleem voor open source-gebruikers. Goede documentatie nodigt uit tot interactie met uw project. Uiteindelijk zal iemand een issue of pull request openen. Gebruik deze interacties als kansen om ze door de trechter te verplaatsen.
 
 * **Als iemand nieuw op uw project komt, bedank hem dan voor zijn interesse!** Er is maar één negatieve ervaring nodig om ervoor te zorgen dat iemand niet meer terug wil komen.
@@ -178,7 +178,7 @@ Kijk of je manieren kunt vinden om het eigendom zoveel mogelijk met je gemeensch
 
 * **Geef elke bijdrager toegang tot commit.** @felixge ontdekte dat dit mensen [meer enthousiast maakte om hun patches op te poetsen](https://felixge.de/2013/03/11/the-pull-request-hack.html), en hij vond zelfs nieuwe beheerders voor projecten waaraan hij al een tijdje niet had gewerkt.
 
-* Als uw project zich op GitHub bevindt, **verplaats uw project dan van uw persoonlijke account naar een [Organisatie](https://help.github.com/articles/creating-a-new-organization-account/)** en voeg minstens één back-upbeheerder toe. Organisaties maken het gemakkelijker om met externe medewerkers aan projecten te werken.
+* Als uw project zich op GitHub bevindt, **verplaats uw project dan van uw persoonlijke account naar een [Organisatie](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** en voeg minstens één back-upbeheerder toe. Organisaties maken het gemakkelijker om met externe medewerkers aan projecten te werken.
 
 De realiteit is dat bij [de meeste projecten]
 (https://peerj.com/preprints/1233/) een of twee beheerders die het meeste werk doen. Hoe groter uw project en hoe groter uw gemeenschap, hoe gemakkelijker het is om hulp te vinden.

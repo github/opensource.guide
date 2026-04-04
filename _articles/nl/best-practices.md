@@ -174,7 +174,7 @@ U hoeft niet alles zelf te doen. De gemeenschap van uw project bestaat niet voor
 
 Als je op zoek bent naar anderen om bij te praten, begin dan met rond te vragen.
 
-Een manier om nieuwe bijdragers te werven, is door expliciet [label problemen die voor beginners eenvoudig genoeg zijn om aan te pakken](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub zal deze problemen vervolgens op verschillende plaatsen op het platform aan de oppervlakte brengen, waardoor hun zichtbaarheid wordt vergroot.
+Een manier om nieuwe bijdragers te werven, is door expliciet [label problemen die voor beginners eenvoudig genoeg zijn om aan te pakken](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub zal deze problemen vervolgens op verschillende plaatsen op het platform aan de oppervlakte brengen, waardoor hun zichtbaarheid wordt vergroot.
 
 Als je ziet dat nieuwe bijdragers herhaaldelijk bijdragen leveren, erken dan hun werk door meer verantwoordelijkheid te bieden. Documenteer hoe anderen kunnen uitgroeien tot leiderschapsrollen als ze dat willen.
 
@@ -228,7 +228,7 @@ Een van de belangrijkste manieren waarop u uw project kunt automatiseren, is doo
 
 Tests helpen bijdragers het vertrouwen te hebben dat ze niets zullen breken. Ze maken het ook gemakkelijker voor u om bijdragen snel te bekijken en te accepteren. Hoe responsiever u bent, hoe meer uw gemeenschap betrokken kan zijn.
 
-Stel automatische tests in die op alle inkomende bijdragen worden uitgevoerd en zorg ervoor dat uw tests gemakkelijk lokaal door bijdragers kunnen worden uitgevoerd. Vereisen dat alle codebijdragen slagen voor uw tests voordat ze kunnen worden ingediend. Je helpt mee met het instellen van een minimale kwaliteitsnorm voor alle inzendingen. [Vereiste statuschecks](https://help.github.com/articles/about-required-status-checks/) op GitHub kan ervoor zorgen dat geen enkele wijziging wordt gemerged zonder dat uw tests slagen.
+Stel automatische tests in die op alle inkomende bijdragen worden uitgevoerd en zorg ervoor dat uw tests gemakkelijk lokaal door bijdragers kunnen worden uitgevoerd. Vereisen dat alle codebijdragen slagen voor uw tests voordat ze kunnen worden ingediend. Je helpt mee met het instellen van een minimale kwaliteitsnorm voor alle inzendingen. [Vereiste statuschecks](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) op GitHub kan ervoor zorgen dat geen enkele wijziging wordt gemerged zonder dat uw tests slagen.
 
 Als u tests toevoegt, leg dan uit hoe ze werken in uw CONTRIBUTING-bestand.
 

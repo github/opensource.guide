@@ -106,9 +106,9 @@ related:
 
 Ανεξάρτητα από το στάδιο στο οποίο θα αποφασίσετε να ανοίξετε το πρότζεκτ σας, κάθε πρότζεκτ θα πρέπει να περιλαμβάνει την ακόλουθη τεκμηρίωση:
 
-* [Άδεια χρήσης ανοικτού κώδικα](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Κανόνες για τους συνεισφέροντες](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Άδεια χρήσης ανοικτού κώδικα](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Κανόνες για τους συνεισφέροντες](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Κώδικας δεοντολογίας](../code-of-conduct/)
 
 Ως συντηρητής, αυτά τα στοιχεία θα σας βοηθήσουν να επικοινωνήσετε τις προσδοκίες, να διαχειριστείτε τις συνεισφορές και να προστατεύσετε τα νομικά δικαιώματα όλων (συμπεριλαμβανομένων των δικών σας). Αυξάνουν σημαντικά τις πιθανότητές σας να έχετε μια θετική εμπειρία.
@@ -182,7 +182,7 @@ related:
 
 Για περισσότερη βοήθεια σχετικά με τη σύνταξη του αρχείου CONTRIBUTING, δείτε το [πρότυπο οδηγού συνεισφοράς](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) του @nayafia ή το ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) του @mozilla.
 
-Συνδέστε το αρχείο CONTRIBUTING από το README, ώστε να το βλέπουν περισσότεροι άνθρωποι. Εάν [τοποθετήσετε το αρχείο CONTRIBUTING στο αποθετήριο του έργου σας](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), το GitHub θα συνδέει αυτόματα το αρχείο σας όταν ένας συνεργάτης δημιουργεί ένα ζήτημα ή ανοίγει ένα pull request.
+Συνδέστε το αρχείο CONTRIBUTING από το README, ώστε να το βλέπουν περισσότεροι άνθρωποι. Εάν [τοποθετήσετε το αρχείο CONTRIBUTING στο αποθετήριο του έργου σας](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), το GitHub θα συνδέει αυτόματα το αρχείο σας όταν ένας συνεργάτης δημιουργεί ένα ζήτημα ή ανοίγει ένα pull request.
 
 ![Οδηγίες συνεισφοράς](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -255,7 +255,7 @@ related:
 
 ## Ο κατάλογος ελέγχου πριν από την έναρξη
 
-Είστε έτοιμοι να ανοίξετε το πρότζεκτ σας; Ακολουθεί ένας κατάλογος ελέγχου για να σας βοηθήσει. Έχετε τσεκάρει όλα τα κουτάκια; Είστε έτοιμοι να ξεκινήσετε! [Κάντε κλικ στο "publish"](https://help.github.com/articles/making-a-private-repository-public/) και χτυπήστε τον εαυτό σας στην πλάτη.
+Είστε έτοιμοι να ανοίξετε το πρότζεκτ σας; Ακολουθεί ένας κατάλογος ελέγχου για να σας βοηθήσει. Έχετε τσεκάρει όλα τα κουτάκια; Είστε έτοιμοι να ξεκινήσετε! [Κάντε κλικ στο "publish"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) και χτυπήστε τον εαυτό σας στην πλάτη.
 
 **Έγγραφα**
 

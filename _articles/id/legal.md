@@ -28,7 +28,7 @@ Akhirnya, proyek Anda mungkin memiliki ketergantungan dengan kebutuhan lisensi y
 
 ## Apakah proyek publik GitHub open source?
 
-Ketika Anda [membuat proyek baru](https://help.github.com/articles/creating-a-new-repository/) pada GitHub, Anda memiliki opsi untuk membuat repositori **private** atau **public**.
+Ketika Anda [membuat proyek baru](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) pada GitHub, Anda memiliki opsi untuk membuat repositori **private** atau **public**.
 
 ![create repository](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Anda beruntung, karena saat ini lisensi open source sudah terstandarisasi dan mu
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), dan [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) adalah lisensi open source yang paling populer, tetapi terdapat opsi lain yang dapat Anda pilih. Anda bisa menemukan teks lengkap dari lisensi tersebut, termasuk instruksi bagaimana menggunakannya pada [choosealicense.com](https://choosealicense.com/).
 
-Ketika Anda menciptakan proyek baru pada GitHub, Anda akan [diminta untuk menambahkan lisensi](https://help.github.com/articles/open-source-licensing/).
+Ketika Anda menciptakan proyek baru pada GitHub, Anda akan [diminta untuk menambahkan lisensi](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -88,7 +88,7 @@ Alternatif lain, Anda bisa mendapatkan persetujuan kontributor di awal (melalui 
 
 ## Apakah proyek saya membutuhkan perjanjian kontributor tambahan?
 
-Kemungkinan tidak. Untuk sebagian besar proyek open source, lisensi open source secara implisit berfungsi sebagai lisensi inbound (dari kontributor) dan outbound (bagi kontributor dan pengguna lainnya). Jika proyek Anda berada pada GitHub, Perjanjian Layanan GitHub membuat aturan "inbound=outbound" [default secara eksplisit](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Kemungkinan tidak. Untuk sebagian besar proyek open source, lisensi open source secara implisit berfungsi sebagai lisensi inbound (dari kontributor) dan outbound (bagi kontributor dan pengguna lainnya). Jika proyek Anda berada pada GitHub, Perjanjian Layanan GitHub membuat aturan "inbound=outbound" [default secara eksplisit](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Sebuah perjanjian kontributor tambahan -- seringkali disebut Contributor License Agreement (CLA) -- bisa menimbulkan pekerjaan administratif tambahan bagi pengelola proyek. Seberapa banyak pekerjaan tersebut tergantung dari proyek dan implementasinya. Sebuah perjanjian yang sederhana mungkin meminta kontributor untuk melakukan konfirmasi dengan satu klik, bahwa mereka memiliki hak yang cukup untuk berkontribusi dibawah lisensi open source. Perjanjian yang lebih kompleks mungkin membutuhkan review hukum dan tanda tangan dari perusahaan yang memperkerjakan kontributor tersebut.
 

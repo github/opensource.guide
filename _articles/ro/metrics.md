@@ -39,7 +39,7 @@ Dacă _ești_ interesat în înțelegerea proiectului tău la un nivel mai profu
 
 ![Grafic de trafic](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Dacă proiectul tău este găzduit pe GitHub, [poți vizualiza](https://help.github.com/articles/about-repository-graphs/#traffic) câți oameni ajung la proiectul tău și de unde vin ei. Din pagina proiectului tău, fă clic pe „Insights”, apoi „Traffic”. Pe această pagină, poți vedea:
+Dacă proiectul tău este găzduit pe GitHub, [poți vizualiza](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) câți oameni ajung la proiectul tău și de unde vin ei. Din pagina proiectului tău, fă clic pe „Insights”, apoi „Traffic”. Pe această pagină, poți vedea:
 
 * **Vizualizări totale ale paginii:** Îți spune de câte ori a fost văzut proiectul tău
 
@@ -49,7 +49,7 @@ Dacă proiectul tău este găzduit pe GitHub, [poți vizualiza](https://help.git
 
 * **Conținut popular:** Îți spune unde merg vizitatorii în proiectul tău, defalcat în funcție de vizualizările de pagini și vizitatori unici.
 
-[Stelele GitHub](https://help.github.com/articles/about-stars/) pot, de asemenea, furniza o măsură de bază a popularității. În timp ce stelele GitHub nu sunt neapărat corelate cu descărcările și utilizarea, ele îți pot spune cât de mulți oameni îți iau la cunoștință munca.
+[Stelele GitHub](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) pot, de asemenea, furniza o măsură de bază a popularității. În timp ce stelele GitHub nu sunt neapărat corelate cu descărcările și utilizarea, ele îți pot spune cât de mulți oameni îți iau la cunoștință munca.
 
 Poate ai dori de asemenea să [urmărești abilitatea de a fi descoperit în locuri specifice](https://opensource.com/business/16/6/pirate-metrics): de exemplu, Google PageRank, trafic trimis din site-ul web al proiectului tău, sau trimiteri de la alte proiecte cu sursă deschisă sau site-uri web.
 

@@ -73,7 +73,7 @@ Setelah anda menentukan peranan kepemimpinan, jangan lupa untuk mendokumentasika
 
 Alatan seperti [Vossibility](https://github.com/icecrime/vossibility-stack) dapat membantu anda mengesan secara terbuka siapa (atau tidak) yang menyumbang kepada projek tersebut. Mendokumentasikan maklumat ini mengelakkan persepsi masyarakat bahawa penyelenggara adalah klise yang membuat keputusannya secara tertutup.
 
-Akhirnya, jika projek anda berada di GitHub, pertimbangkan untuk memindahkan projek anda dari akaun peribadi anda ke Organisasi dan tambahkan sekurang-kurangnya satu pentadbir sandaran. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/)mempermudah untuk menguruskan kebenaran dan beberapa repositori dan melindungi warisan projek anda melalui [pemilikan bersama](../building-community/#kongsi-pemilikan-projek-anda).
+Akhirnya, jika projek anda berada di GitHub, pertimbangkan untuk memindahkan projek anda dari akaun peribadi anda ke Organisasi dan tambahkan sekurang-kurangnya satu pentadbir sandaran. [GitHub Organizations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)mempermudah untuk menguruskan kebenaran dan beberapa repositori dan melindungi warisan projek anda melalui [pemilikan bersama](../building-community/#kongsi-pemilikan-projek-anda).
 
 ## Bilakah saya harus memberikan akses kepada seseorang?
 
@@ -81,7 +81,7 @@ Sebilangan orang berpendapat bahawa anda harus memberikan akses kepada semua ora
 
 Sebaliknya, terutamanya untuk projek yang lebih besar dan lebih kompleks, anda mungkin hanya ingin memberikan akses kepada orang yang telah menunjukkan komitmen mereka. Tidak ada cara yang betul untuk melakukannya - lakukan perkara yang membuat anda paling selesa!
 
-Sekiranya projek anda berada di GitHub, anda boleh menggunakannya [protected branches](https://help.github.com/articles/about-protected-branches/) untuk menguruskan siapa yang boleh mendorong ke cabang tertentu, dan dalam keadaan apa.
+Sekiranya projek anda berada di GitHub, anda boleh menggunakannya [protected branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) untuk menguruskan siapa yang boleh mendorong ke cabang tertentu, dan dalam keadaan apa.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

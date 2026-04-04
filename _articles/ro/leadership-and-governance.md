@@ -94,7 +94,7 @@ Odată ce ai stabilit roluri de conducere, nu uita să documentezi modul în car
 
 Unelte cum ar fi [Vossibility](https://github.com/icecrime/vossibility-stack) pot să te ajute să urmărești în mod public cine face (sau nu) contribuții la proiect. Documentarea acestor informații evită percepția comunității că întreținătorii sunt o clică ce își ia deciziile în privat.
 
-În cele din urmă, dacă proiectul tău este pe GitHub, consideră mutarea proiectului tău din contul personal într-o organizație și adăugarea a cel puțin unui administrator de rezervă. [Organizațiile GitHub](https://help.github.com/articles/creating-a-new-organization-account/) ușurează gestionarea permisiunilor și multiplelor depozite și protejează moștenirea proiectului tău prin [proprietate comună](../building-community/#împarte-proprietatea-proiectului-tău).
+În cele din urmă, dacă proiectul tău este pe GitHub, consideră mutarea proiectului tău din contul personal într-o organizație și adăugarea a cel puțin unui administrator de rezervă. [Organizațiile GitHub](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) ușurează gestionarea permisiunilor și multiplelor depozite și protejează moștenirea proiectului tău prin [proprietate comună](../building-community/#împarte-proprietatea-proiectului-tău).
 
 ## Când ar trebui să dau cuiva acces de commit?
 
@@ -102,7 +102,7 @@ Unii oameni gândesc că ar trebui să dea acces de commit la oricine face o con
 
 Pe de altă parte, în special pentru proiectele mai mari, mai complexe, ai putea vrea să dai acces de commit doar oamenilor care și-au demonstrat angajamentul. Nu există o singură cale corectă de a face aceasta - fă ce te face cel mai confortabil!
 
-Dacă proiectul tău este pe GitHub, poți folosi [ramuri protejate](https://help.github.com/articles/about-protected-branches/) pentru a gestiona cine poate face push spre o anumită ramură, și în care circumstanțe.
+Dacă proiectul tău este pe GitHub, poți folosi [ramuri protejate](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) pentru a gestiona cine poate face push spre o anumită ramură, și în care circumstanțe.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

@@ -106,9 +106,9 @@ In generale, dovresti aprire il tuo progetto quando ti senti a tuo agio con gli 
 
 Non importa in quale fase decidi di aprire il tuo progetto, ogni progetto deve includere la seguente documentazione:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Open source license](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Contributing guidelines](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Code of conduct](../code-of-conduct/)
 
 In qualità di sostenitore, questi componenti ti aiuteranno a comunicare le aspettative, a gestire i contributi e a proteggere i diritti legali di tutti (inclusi i tuoi). Aumentano notevolmente le tue possibilità di un'esperienza positiva.
@@ -181,7 +181,7 @@ Nel tempo, potresti aggiungere altre domande frequenti al tuo file CONTRIBUTING.
 
 Per ulteriore assistenza nella scrittura del file CONTRIBUTING, consulta @nayafia [modello guida per la collaborazione](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) o @mozilla ["Come creare CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Collega il tuo file CONTRIBUTE dal tuo README in modo che più persone possano vederlo. Se [posiziona il file CONTRIBUTING nel repository del tuo progetto](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub si collegherà automaticamente al tuo file quando un collaboratore crea un problema o apre una richiesta pull.
+Collega il tuo file CONTRIBUTE dal tuo README in modo che più persone possano vederlo. Se [posiziona il file CONTRIBUTING nel repository del tuo progetto](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), GitHub si collegherà automaticamente al tuo file quando un collaboratore crea un problema o apre una richiesta pull.
 
 ![Linee guida per i contributi](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -254,7 +254,7 @@ Non è necessario scrivere una guida di stile per il tuo progetto quando hai app
 
 ## La tua lista di controllo pre-lancio
 
-Pronto per aprire il tuo progetto? Ecco una lista di controllo per aiutarti. Seleziona tutte le caselle? Sei pronto per andare! [Fai clic su "pubblica"](https://help.github.com/articles/making-a-private-repository-public/) e datti una pacca sulla spalla.
+Pronto per aprire il tuo progetto? Ecco una lista di controllo per aiutarti. Seleziona tutte le caselle? Sei pronto per andare! [Fai clic su "pubblica"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) e datti una pacca sulla spalla.
 
 **Documentazione**
 

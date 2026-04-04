@@ -28,7 +28,7 @@ Anza na nyaraka zako:
 
 * **Fanya iwe rahisi kwa mtu kutumia mradi wako.** [README ya kirafiki](../starting-a-project/#kuandika-readme) na mifano wazi ya msimbo itafanya iwe rahisi kwa yeyote anayekuja kwenye mradi wako kuanza.
 * **Eleza wazi jinsi ya kuchangia**, ukitumia [faili yako ya CONTRIBUTING](../starting-a-project/#kuandika-miongozo-yako-ya-kuchangia) na kuweka masuala yako kuwa ya kisasa.
-* **Masuala mazuri ya kwanza**: Ili kuwasaidia wachangiaji wapya kuanza, fikiria wazi [kuyapachika masuala ambayo ni rahisi vya kutosha kwa waanzilishi kushughulikia](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub kisha itawasilisha masuala haya katika maeneo mbalimbali kwenye jukwaa, itakayoongeza michango yenye manufaa, na kupunguza vikwazo kutoka kwa watumiaji wanaoshughulikia masuala ambayo ni magumu sana kwa kiwango chao.
+* **Masuala mazuri ya kwanza**: Ili kuwasaidia wachangiaji wapya kuanza, fikiria wazi [kuyapachika masuala ambayo ni rahisi vya kutosha kwa waanzilishi kushughulikia](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub kisha itawasilisha masuala haya katika maeneo mbalimbali kwenye jukwaa, itakayoongeza michango yenye manufaa, na kupunguza vikwazo kutoka kwa watumiaji wanaoshughulikia masuala ambayo ni magumu sana kwa kiwango chao.
 
 [Utafiti wa Open Source wa GitHub wa 2017](http://opensourcesurvey.org/2017/) ulionyesha kuwa nyaraka zisizokamilika au zenye kuchanganya ni tatizo kubwa kwa watumiaji wa open source. Nyaraka nzuri zinawakaribisha watu kuingiliana na mradi wako. Hatimaye, mtu atafungua suala au ombi la kuvuta. Tumia mwingiliano haya kama fursa za kuwahamisha chini ya mchoro.
 
@@ -167,7 +167,7 @@ Angalia ikiwa unaweza kupata njia za kushiriki umiliki na jamii yako kadri iweze
 
 * **Wape kila mchango ruhusa ya kuingia.** @felixge alipata kuwa hii ilifanya watu [kuwa na shauku zaidi ya kusafisha patches zao](https://felixge.de/2013/03/11/the-pull-request-hack.html), na hata alipata watunzaji wapya kwa miradi ambayo hakuwa amefanya kazi nayo kwa muda.
 
-* Ikiwa mradi wako uko GitHub, **hamasisha mradi wako kutoka kwenye akaunti yako binafsi hadi [Shirika](https://help.github.com/articles/creating-a-new-organization-account/)** na ongeza angalau mtunzaji mmoja wa akiba. Mashirika yanafanya iwe rahisi kufanya kazi kwenye miradi na washirikishi wa nje.
+* Ikiwa mradi wako uko GitHub, **hamasisha mradi wako kutoka kwenye akaunti yako binafsi hadi [Shirika](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** na ongeza angalau mtunzaji mmoja wa akiba. Mashirika yanafanya iwe rahisi kufanya kazi kwenye miradi na washirikishi wa nje.
 
 Ukweli ni kwamba [miradi mingi ina](https://peerj.com/preprints/1233/) watunzaji mmoja au wawili tu wanaofanya kazi nyingi. Kadri mradi wako unavyokuwa, na kadri jamii yako inavyokuwa kubwa, ndivyo itakuwa rahisi kupata msaada.
 

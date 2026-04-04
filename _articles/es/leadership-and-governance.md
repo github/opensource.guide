@@ -73,7 +73,7 @@ Una vez que haya establecido roles de liderazgo, ¡no olvides documentar c&oacut
 
 Herramientas como [Vossibility](https://github.com/icecrime/vossibility-stack) puede ayudarte a hacer un seguimiento p&uacute;blico de qui&eacute;n (o no) est&aacute; haciendo contribuciones al proyecto. Documentar esta informaci&oacute;n evita la percepci&oacute;n de la comunidad de que los mantenedores son un grupo que toma sus decisiones en privado.
 
-Por &uacute;ltimo, si su proyecto est&aacute; en GitHub, considere la posibilidad de mover su proyecto de su cuenta personal a una organizaci&oacute;n y agregar al menos un administrador de copias de seguridad. [Las organizaciones GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitan la administraci&oacute;n de permisos y m&uacute;ltiples repositorios y protegen el legado de su proyecto mediante [la propiedad compartida](../building-community/#comparte-la-propiedad-de-tu-proyecto).
+Por &uacute;ltimo, si su proyecto est&aacute; en GitHub, considere la posibilidad de mover su proyecto de su cuenta personal a una organizaci&oacute;n y agregar al menos un administrador de copias de seguridad. [Las organizaciones GitHub](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) facilitan la administraci&oacute;n de permisos y m&uacute;ltiples repositorios y protegen el legado de su proyecto mediante [la propiedad compartida](../building-community/#comparte-la-propiedad-de-tu-proyecto).
 
 ## &iquest;Cu&aacute;ndo le puedo dar acceso a hacer commits a alguien?
 
@@ -81,7 +81,7 @@ Algunas personas piensan que debe dar acceso de commits a todos los que hacen un
 
 Por otro lado, especialmente para proyectos m&aacute;s grandes y complejos, es posible que desee dar s&oacute;lo el acceso de commit a las personas que han demostrado su compromiso. No hay una manera correcta de hacerlo - ¡Haz lo que te parezca m&aacute;s c&oacute;modo!
 
-Si tu proyecto est&aacute; en GitHub, pod&eacute;s utilizar [ramas protegidas](https://help.github.com/articles/about-protected-branches/) para administrar qui&eacute;n puede enviar a una rama en particular y bajo qu&eacute; circunstancias.
+Si tu proyecto est&aacute; en GitHub, pod&eacute;s utilizar [ramas protegidas](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) para administrar qui&eacute;n puede enviar a una rama en particular y bajo qu&eacute; circunstancias.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

@@ -73,7 +73,7 @@ related:
 
 [Vossibility](https://github.com/icecrime/vossibility-stack) のようなツールは、プロジェクトに対するコントリビュートを誰がやっているのか（やっていないのか）を公にトラッキングするのに役立ちます。こういった情報をドキュメント化することで、メンテナーは非公開の場で意思決定を行う派閥を作っているとコミュニティから認識されることを避けることができます。
 
-最後に、プロジェクトが GitHub 上にあるのであれば、プロジェクトを個人アカウントから Organization に移し、少なくとも一人の管理者をバックアップとして追加することを検討しましょう。 [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) を使うことで、権限や複数のリポジトリを管理し、[所有権を共有することで](../building-community/#プロジェクトの所有権を共有しよう)プロジェクトの資産を守ることがやりやすくなります。
+最後に、プロジェクトが GitHub 上にあるのであれば、プロジェクトを個人アカウントから Organization に移し、少なくとも一人の管理者をバックアップとして追加することを検討しましょう。 [GitHub Organizations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) を使うことで、権限や複数のリポジトリを管理し、[所有権を共有することで](../building-community/#プロジェクトの所有権を共有しよう)プロジェクトの資産を守ることがやりやすくなります。
 
 ## いつ他の人にコミット権限を与えるべきだろうか？
 
@@ -81,7 +81,7 @@ related:
 
 その一方で、大きく複雑なプロジェクトでは、プロジェクトに対して熱心に献身している人のみにコミット権限を与えたいと思うかもしれません。唯一の正解はありません - あなたが最も良いと思うことをやりましょう。
 
-もしプロジェクトが GitHub 上にあるのであれば、 [protected branches](https://help.github.com/articles/about-protected-branches/) を使うことで、どういった状況で誰が特定のブランチに push できるのかを管理することができます。
+もしプロジェクトが GitHub 上にあるのであれば、 [protected branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) を使うことで、どういった状況で誰が特定のブランチに push できるのかを管理することができます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

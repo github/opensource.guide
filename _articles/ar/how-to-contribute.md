@@ -456,7 +456,7 @@ related:
 
 قبل أن تفتح issue أو pull request، تحقق من مستندات المساهمة في المشروع (عادةً ملف يسمى CONTRIBUTING، أو في README)، لتعرف ما إذا كنت بحاجة لتضمين أي شيء محدد. على سبيل المثال، قد يطلبون منك اتباع قالب معين، أو يشترطون أن تستخدم الاختبارات.
 
-إذا كنت تريد تقديم مساهمة كبيرة، افتح issue للسؤال قبل البدء بالعمل عليها. من المفيد متابعة المشروع لفترة (على GitHub، [يمكنك الضغط على "Watch"](https://help.github.com/articles/watching-repositories/) لتصلك إشعارات بكل النقاشات)، والتعرف على أعضاء المجتمع، قبل القيام بعمل قد لا يتم قبوله.
+إذا كنت تريد تقديم مساهمة كبيرة، افتح issue للسؤال قبل البدء بالعمل عليها. من المفيد متابعة المشروع لفترة (على GitHub، [يمكنك الضغط على "Watch"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) لتصلك إشعارات بكل النقاشات)، والتعرف على أعضاء المجتمع، قبل القيام بعمل قد لا يتم قبوله.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -491,7 +491,7 @@ related:
 
 إذا كان المشروع موجودًا على GitHub، فإليك كيفية تقديم (Pull Request):
 
-* **[قم بعمل Fork للمستودع](https://guides.github.com/activities/forking/)** ونسخه إلى جهازك محليًا (clone). اربط نسختك المحلية بالمستودع الأصلي "upstream" عن طريق إضافته كـ remote. قم بسحب التحديثات من "upstream" بشكل دوري لتبقى محدثًا، حتى تقل احتمالية حدوث تعارضات (merge conflicts) عند تقديم طلب السحب (pull request). (راجع التعليمات التفصيلية [هنا](https://help.github.com/articles/syncing-a-fork/).)
+* **[قم بعمل Fork للمستودع](https://guides.github.com/activities/forking/)** ونسخه إلى جهازك محليًا (clone). اربط نسختك المحلية بالمستودع الأصلي "upstream" عن طريق إضافته كـ remote. قم بسحب التحديثات من "upstream" بشكل دوري لتبقى محدثًا، حتى تقل احتمالية حدوث تعارضات (merge conflicts) عند تقديم طلب السحب (pull request). (راجع التعليمات التفصيلية [هنا](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[قم بإنشاء فرع (branch)](https://guides.github.com/introduction/flow/)** لإجراء تعديلاتك.
 * **قم بالإشارة إلى أي Issues** ذات صلة أو مستندات داعمة في طلب (PR) الخاص بك (على سبيل المثال: "Closes #37.").
 * **أضف لقطات شاشة قبل وبعد** إذا كانت تغييراتك تتضمن فروقات في HTML/CSS. اسحب الصور وأفلتها داخل محتوى طلب (pull request) الخاص بك.

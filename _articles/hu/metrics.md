@@ -37,7 +37,7 @@ Mielőtt bárki elkezdené használni a projektedet, vagy részt venne benne, tu
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Ha a munkád a GitHub-on van, [akkor láthatod](https://help.github.com/articles/about-repository-graphs/#traffic) hogy hány ember járt az oldaladon, és hogy honnan érkeztek. A projekt oldaláról, válaszd ki az "Insights", majd a "Traffic" funkciót. Ezen az oldalon a következőket láthatod:
+Ha a munkád a GitHub-on van, [akkor láthatod](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) hogy hány ember járt az oldaladon, és hogy honnan érkeztek. A projekt oldaláról, válaszd ki az "Insights", majd a "Traffic" funkciót. Ezen az oldalon a következőket láthatod:
 
 * **Views:** Megadja, hogy hányszor nézték meg a projekt oldalát.
 
@@ -47,7 +47,7 @@ Ha a munkád a GitHub-on van, [akkor láthatod](https://help.github.com/articles
 
 * **Popular content:** Megadja, hogy a projekted mely részére kíváncsiak a látogatók, lebontva oldalakra és látogatókra.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) szintén segíthet a népszerűség mérésében. Bár a _GitHub stars_ nem szükségszerűen van kapcsolatban azzal, hogy hányan töltötték le vagy használták a projektet, mégis alkalmas arra, hogy mérje azt, hogy mennyi ember érdeklődését keltette fel a munkád.
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) szintén segíthet a népszerűség mérésében. Bár a _GitHub stars_ nem szükségszerűen van kapcsolatban azzal, hogy hányan töltötték le vagy használták a projektet, mégis alkalmas arra, hogy mérje azt, hogy mennyi ember érdeklődését keltette fel a munkád.
 
 Érdemes lehet [egyéb helyeken is nyomon követni az elérhetőséget](https://opensource.com/business/16/6/pirate-metrics): például, Google PageRank, hivatkozások a projekt oldaladról vagy hivatkozások más nyílt forráskódú oldalról, vagy weboldalról.
 

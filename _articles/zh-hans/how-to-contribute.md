@@ -435,7 +435,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 在你创建 issue 和 PR 之前，请检查项目的贡献者文档（文件名通常叫做 CONTRIBUTING，或者就直接包含在README中），找一些你需要的较具体的东西，例如，他们会要求你遵循某个模版，或者是要求你使用某个测试。
 
-如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个 issue。Watch 这个项目是很有帮助的（在 GitHub，[点击 "Watch"](https://help.github.com/articles/watching-repositories/)，所有的对话都会通知你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
+如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个 issue。Watch 这个项目是很有帮助的（在 GitHub，[点击 "Watch"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)，所有的对话都会通知你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -470,7 +470,7 @@ redirect_from: /zh-cn/how-to-contribute/
 
 如果说项目是托管在 GitHub 上的，以下是我们总结出的提交 PR 的建议：
 
-* **[Fork 代码仓库](https://guides.github.com/activities/forking/)** 并克隆到本地，在本地的仓库配置"上游"为远端仓库。这样你可以在提交你的 PR 时保持和"上游"同步，会减少很多解决冲突的时间。（更多关于同步的说明，请参考[这里](https://help.github.com/articles/syncing-a-fork/).）
+* **[Fork 代码仓库](https://guides.github.com/activities/forking/)** 并克隆到本地，在本地的仓库配置"上游"为远端仓库。这样你可以在提交你的 PR 时保持和"上游"同步，会减少很多解决冲突的时间。（更多关于同步的说明，请参考[这里](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).）
 * **[创建一个分支](https://guides.github.com/introduction/flow/)** 用于自己编辑。
 * **参考任何相关的issue** 或者在你的 PR 中支持文档(比如. "Closes #37.")
 * **包含之前和之后的快照** 如果你的改动是包含了不同的 HTML/CSS。在你的 PR 中加入相应的图片。

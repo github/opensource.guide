@@ -115,9 +115,9 @@ Over het algemeen moet u uw project openen als u zich op uw gemak voelt als ande
 
 Ongeacht in welke fase u besluit uw project te openen, elk project moet de volgende documentatie bevatten:
 
-* [Open source-licentie](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Richtlijnen voor het bijdragen](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Open source-licentie](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Richtlijnen voor het bijdragen](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Gedragscode](../code-of-conduct/)
 
 Als open source-onderhouder helpen deze componenten u bij het communiceren van verwachtingen, het beheren van bijdragen en het beschermen van ieders wettelijke rechten (inclusief die van uzelf). Ze vergroten uw kansen op een positieve ervaring aanzienlijk.
@@ -194,7 +194,7 @@ Na verloop van tijd kunt u andere veelgestelde vragen aan uw CONTRIBUTING-bestan
 
 Voor meer hulp bij het schrijven van je CONTRIBUTING-bestand, ga je naar @nayafia's [sjabloon voor bijdrage gids](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) of @mozilla's ["Bouw een CONTRIBUTING.md workshop"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link naar uw BIJDRAGEN-bestand vanuit uw README, zodat meer mensen het kunnen zien. Als je [het CONTRIBUTING-bestand in de repository van je project plaatst](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), zal GitHub automatisch naar je bestand linken wanneer een bijdrager een issue maakt of opent een pull-verzoek.
+Link naar uw BIJDRAGEN-bestand vanuit uw README, zodat meer mensen het kunnen zien. Als je [het CONTRIBUTING-bestand in de repository van je project plaatst](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), zal GitHub automatisch naar je bestand linken wanneer een bijdrager een issue maakt of opent een pull-verzoek.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -273,7 +273,7 @@ Het is niet nodig om een stijlgids voor je project te schrijven als je net begin
 
 ## Uw checklist vóór de lancering
 
-Klaar om uw project te openen? Hier is een checklist om te helpen. Alle vakjes aanvinken? Je bent klaar om te gaan! [Klik op "publiceren"](https://help.github.com/articles/making-a-private-repository-public/) en geef jezelf een schouderklopje.
+Klaar om uw project te openen? Hier is een checklist om te helpen. Alle vakjes aanvinken? Je bent klaar om te gaan! [Klik op "publiceren"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) en geef jezelf een schouderklopje.
 
 **Documentatie**
 

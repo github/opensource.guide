@@ -254,7 +254,7 @@ Una dintre cele mai importante căi prin care poți să-ți automatizezi proiect
 
 Testele îi fac pe contributori să se simtă încrezători că ei nu strică nimic. Ele de asemenea îți ușurează analizarea și acceptarea rapidă a contribuțiilor. Cu cât ești mai receptiv, cu atât comunitatea ta poate fi mai angajată.
 
-Configurează teste automate care vor rula pe toate contribuțiile ce vin, și asigură-te că testele pot fi ușor rulate local de contributori. Cere ca toate contribuțiile să treacă testele tale înainte de a putea fi trimise. Vei ajuta la stabilirea unui standard minim de calitate pentru toate trimiterile. [Cererile de verificare de stare](https://help.github.com/articles/about-required-status-checks/) pe GitHub pot asigura că nicio schimbare nu este îmbinată fără să treacă testele tale.
+Configurează teste automate care vor rula pe toate contribuțiile ce vin, și asigură-te că testele pot fi ușor rulate local de contributori. Cere ca toate contribuțiile să treacă testele tale înainte de a putea fi trimise. Vei ajuta la stabilirea unui standard minim de calitate pentru toate trimiterile. [Cererile de verificare de stare](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) pe GitHub pot asigura că nicio schimbare nu este îmbinată fără să treacă testele tale.
 
 Dacă adaugi teste, asigură-te că explici cum funcționează în fișierul tău CONTRIBUTING.
 

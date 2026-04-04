@@ -28,7 +28,7 @@ Kezd a dokumentációkkal:
 
 * **Tedd egyszerűvé, hogy valaki könnyen használhassa a projektedet!** [Egy barátságos README](../starting-a-project/#readme-írása) és tiszta kód példák mindenkit hozzásegítenek ahhoz, hogy könnyen el tudjanak indulni.
 * **Tisztán és érthetően magyarázd el, hogy hogyan lehet hozzájárulni**, használd a [CONTRIBUTING fájlodat](../starting-a-project/#részvételi-irányelvek-leírása) és a hibajelzéseket tartsd naprakészen.
-* **Good first issues**: Az új hozzájárulókat segíti az, ha egyértelműen [jelezve van címkével az issue, amely kezdőknek ajánlott](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). A GitHub kiemeli ezeket az issue-kat, és ezzel segíti a hasznos hozzájárulásokat úgy, hogy a hozzájáruló szintjének megfelelő hibát ajánl megoldásra.
+* **Good first issues**: Az új hozzájárulókat segíti az, ha egyértelműen [jelezve van címkével az issue, amely kezdőknek ajánlott](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). A GitHub kiemeli ezeket az issue-kat, és ezzel segíti a hasznos hozzájárulásokat úgy, hogy a hozzájáruló szintjének megfelelő hibát ajánl megoldásra.
 
 [A GitHub 2017. évi nyílt forráskódú felmérése](http://opensourcesurvey.org/2017/) azt mutatta ki, hogy a félkész és zavaros dokumentáció a legnagyobb probléma a felhasználók számára. A jó dokumentáció beszippantja az embereket a projektbe: egyszer csak valaki nyit egy hibajelzést, vagy beküld egy beolvasztási kérelmet. Használd ki ezeket a lehetőségeket, hogy az emberek tovább mozogjanak lefelé a _résztvevői tölcséren_.
 
@@ -167,7 +167,7 @@ Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mérték
 
 * **Minden közreműködő kapjon commit jogot.** @felixge szerint az emberek [sokkal aprólékosabban kidolgozzák a hozzájárulásukat](https://felixge.de/2013/03/11/the-pull-request-hack.html), és még több karbantartót lehet bevonni, akik esetleg korábban passzívak voltak.
 
-* Ha a projekted a GitHub-on van, **akkor mozgasd a projektet át a személyes fiókod alól a [Szervezeti Fiók](https://help.github.com/articles/creating-a-new-organization-account/)** alá és adj hozzá legalább egy admint még biztonság esetére. Az Szervezeti Fiók alkalmasabb külső résztvevők bevonására.
+* Ha a projekted a GitHub-on van, **akkor mozgasd a projektet át a személyes fiókod alól a [Szervezeti Fiók](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** alá és adj hozzá legalább egy admint még biztonság esetére. Az Szervezeti Fiók alkalmasabb külső résztvevők bevonására.
 
 A valóságban [a legtöbb projektnek](https://peerj.com/preprints/1233/) csak egy, két karbantartója van. Minél nagyobb a projekted, és a közösséged, annál könnyebb segítséget találni.
 

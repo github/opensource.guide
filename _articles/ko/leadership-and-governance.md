@@ -73,7 +73,7 @@ related:
 
 누가 프로젝트에 기여하고 누가 그렇지 않은지 공개적으로 파악하는 데 [Vossibility](https://github.com/icecrime/vossibility-stack) 같은 툴이 도움을 줍니다. 이런 정보를 문서화하면 관리자들이 불공평한 결정을 내린다는 인식을 피할 수 있습니다.
 
-마지막으로, 여러분의 프로젝트가 GitHub에서 진행되고 있다면 프로젝트를 여러분의 개인 계정에서 조직 계정으로 이동하는 것을 고려해 보세요. [조직 계정](https://help.github.com/articles/creating-a-new-organization-account/) 기능이 여러 저장소의 권한 관리, [공동 소유](../building-community/#프로젝트를-공동으로-소유하세요)를 통한 프로젝트 정책 보호를 쉽게 만들어 줍니다.
+마지막으로, 여러분의 프로젝트가 GitHub에서 진행되고 있다면 프로젝트를 여러분의 개인 계정에서 조직 계정으로 이동하는 것을 고려해 보세요. [조직 계정](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) 기능이 여러 저장소의 권한 관리, [공동 소유](../building-community/#프로젝트를-공동으로-소유하세요)를 통한 프로젝트 정책 보호를 쉽게 만들어 줍니다.
 
 ## 커밋 권한은 언제 부여해야 하나요?
 
@@ -81,7 +81,7 @@ related:
 
 반면, 특히 크고 복잡한 프로젝트에서는 노력을 보인 사람들에게만 커밋 권한을 부여할 수도 있습니다. 정해진 방법은 없습니다. 가장 편한 방법을 선택하세요!
 
-여러분의 프로젝트가 GitHub에서 진행되고 있다면 [보호 브랜치](https://help.github.com/articles/about-protected-branches/) 기능을 사용해 누가 어떠한 상황에 특정 브랜치에 푸시할 수 있는지 지정할 수 있습니다.
+여러분의 프로젝트가 GitHub에서 진행되고 있다면 [보호 브랜치](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) 기능을 사용해 누가 어떠한 상황에 특정 브랜치에 푸시할 수 있는지 지정할 수 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

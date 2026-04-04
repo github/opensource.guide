@@ -37,7 +37,7 @@ Before anybody can use or contribute back to your project, they need to know it 
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
+If your project is hosted on GitHub, [you can view](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) how many people land on your project and where they come from. From your project's page, click "Insights", then "Traffic". On this page, you can see:
 
 * **Total page views:** Tells you how many times your project was viewed
 
@@ -47,7 +47,7 @@ If your project is hosted on GitHub, [you can view](https://help.github.com/arti
 
 * **Popular content:** Tells you where visitors go on your project, broken down by page views and unique visitors.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) can also help provide a baseline measure of popularity. While GitHub stars don't necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
 
 You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project's website, or referrals from other open source projects or websites.
 

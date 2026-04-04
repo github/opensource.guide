@@ -106,9 +106,9 @@ Genel olarak konuşursak, başkalarının işinizi görmesini ve işiniz hakkın
 
 Projenizi hangi aşamada açmaya karar verirseniz verin, her proje aşağıdaki belgeleri içermelidir:
 
-* [Açık kaynak lisansı](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Katkıda bulunma kuralları](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Açık kaynak lisansı](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Katkıda bulunma kuralları](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Davranış kuralları](../code-of-conduct/)
 
 Bir geliştirici olarak, bu bileşenler beklentileri iletmenize, katkıları yönetmenize ve herkesin yasal haklarını (kendi haklarınız dahil) korumanıza yardımcı olur. Olumlu bir deneyim yaşama şansınızı önemli ölçüde artırırlar.
@@ -184,7 +184,7 @@ Zamanla, CONTRIBUTING dosyanıza sıkça sorulan diğer soruları ekleyebilirsin
 
 CONTRIBUTING dosyanızı yazarken daha fazla yardım için @nayafia'nın [katkıda bulunma rehber şablonuna](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) veya @mozilla'nın ["Bir CONTRIBUTING.md Nasıl Oluşturulur"](https://mozillascience.github.io/working-open-workshop/contributing/) makalesine bakabilirsiniz.
 
-README'nizden CONTRIBUTING dosyanıza bağlantı verin, böylece daha çok insan görsün. [CONTRIBUTING dosyasını projenizin deposuna yerleştirirseniz](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), bir katılımcı bir sorun oluşturduğunda veya bir PR açtığında GitHub otomatik olarak dosyanıza bağlanır.
+README'nizden CONTRIBUTING dosyanıza bağlantı verin, böylece daha çok insan görsün. [CONTRIBUTING dosyasını projenizin deposuna yerleştirirseniz](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), bir katılımcı bir sorun oluşturduğunda veya bir PR açtığında GitHub otomatik olarak dosyanıza bağlanır.
 
 ### Davranış kural listesi oluşturmak
 
@@ -255,7 +255,7 @@ Kelimeleri nasıl yazdığınızın ötesinde, kodlama stiliniz de projenizin ma
 
 ## Lansman öncesi kontrol listeniz
 
-Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol listesi. Tüm kutuları işaretleyin? Projeye açmaya hazırsın! ["publish"](https://help.github.com/articles/making-a-private-repository-public/) düğmesine basın ve arkanıza yaslanın.
+Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol listesi. Tüm kutuları işaretleyin? Projeye açmaya hazırsın! ["publish"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) düğmesine basın ve arkanıza yaslanın.
 
 **Belgeler**
 

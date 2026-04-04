@@ -73,7 +73,7 @@ Liderlik rolleri belirledikten sonra, insanların onlara nasıl ulaşabileceğin
 
 [Vossibility](https://github.com/icecrime/vossibility-stack) gibi araçlar, projeye kimin katkı sağladığını (ya da yapmadığını) izlemenize yardımcı olabilir. Bu bilginin belgelenmesi, topluluk sahiplerinin, kararlarını özel olarak veren bir klik olduğuna inanmalarını engeller.
 
-Son olarak, projeniz GitHub'daysa, projenizi kişisel hesabınızdan bir organizasyon hesabına taşımayı ve en az bir yedek yönetici eklemeyi düşünün. [GitHub Organizasyonları](https://help.github.com/articles/creating-a-new-organization-account/) izinleri ve çoklu depoları yönetmeyi kolaylaştırır ve projenizin mirasını [ortak mülkiyet](../building-community/#projenizi-paylaşın) yoluyla korur.
+Son olarak, projeniz GitHub'daysa, projenizi kişisel hesabınızdan bir organizasyon hesabına taşımayı ve en az bir yedek yönetici eklemeyi düşünün. [GitHub Organizasyonları](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) izinleri ve çoklu depoları yönetmeyi kolaylaştırır ve projenizin mirasını [ortak mülkiyet](../building-community/#projenizi-paylaşın) yoluyla korur.
 
 ## Ne zaman birine commit izni vermeliyim?
 
@@ -81,7 +81,7 @@ Bazı insanlar katkıda bulunan herkese commit yetkisi vermeniz gerektiğini dü
 
 Öte yandan, özellikle daha büyük, daha karmaşık projeler için, yalnızca kendilerini kanıtlayan kişilere commit hakkı vermek isteyebilirsiniz. Bunu yapmanın doğru bir yolu yok - sizi en rahat ettiren şeyi yapın!
 
-Projeniz GitHub'daysa, belirli bir dala kimin ve hangi şartlar altında kod gönderebileceğini yönetmek için [korumalı dalları](https://help.github.com/articles/about-protected-branches/) kullanabilirsiniz.
+Projeniz GitHub'daysa, belirli bir dala kimin ve hangi şartlar altında kod gönderebileceğini yönetmek için [korumalı dalları](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) kullanabilirsiniz.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

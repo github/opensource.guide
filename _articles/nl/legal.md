@@ -28,7 +28,7 @@ Ten slotte kan uw project afhankelijkheden hebben met licentievereisten waarvan 
 
 ## Zijn openbare GitHub-projecten open source?
 
-Wanneer je [een nieuw project maakt](https://help.github.com/articles/creating-a-new-repository/) op GitHub, heb je de optie om de repository **privé** of **openbaar te maken**.
+Wanneer je [een nieuw project maakt](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) op GitHub, heb je de optie om de repository **privé** of **openbaar te maken**.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Je hebt geluk, want tegenwoordig zijn open source-licenties gestandaardiseerd en
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) en [GPLv3](https://choicealicense.com/licenses/gpl-3.0/) zijn de meest populaire open source-licenties, maar er zijn andere opties om uit te kiezen. U kunt de volledige tekst van deze licenties en instructies voor het gebruik ervan vinden op [choosealicense.com](https://choosealicense.com/).
 
-Wanneer u een nieuw project op GitHub maakt, wordt u [gevraagd om een licentie toe te voegen](https://help.github.com/articles/open-source-licensing/).
+Wanneer u een nieuw project op GitHub maakt, wordt u [gevraagd om een licentie toe te voegen](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -91,7 +91,7 @@ Als alternatief kunt u bijdragers van tevoren laten instemmen (via een aanvullen
 
 ## Heeft mijn project een aanvullende contribuantenovereenkomst nodig?
 
-Waarschijnlijk niet. Voor de overgrote meerderheid van open source-projecten dient een open source-licentie impliciet als zowel de inkomende (van bijdragers) als uitgaande (naar andere bijdragers en gebruikers) licentie. Als uw project zich op GitHub bevindt, maken de Servicevoorwaarden van GitHub "inbound = outbound" tot de [expliciete standaard](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Waarschijnlijk niet. Voor de overgrote meerderheid van open source-projecten dient een open source-licentie impliciet als zowel de inkomende (van bijdragers) als uitgaande (naar andere bijdragers en gebruikers) licentie. Als uw project zich op GitHub bevindt, maken de Servicevoorwaarden van GitHub "inbound = outbound" tot de [expliciete standaard](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Een aanvullende bijdragersovereenkomst -- vaak een bijdragerslicentieovereenkomst (CLA) genoemd -- kan administratief werk creëren voor projectbeheerders. Hoeveel werk een overeenkomst toevoegt, hangt af van het project en de uitvoering. Een eenvoudige overeenkomst kan vereisen dat bijdragers met een klik bevestigen dat ze de benodigde rechten hebben om bij te dragen onder de open source-licentie van het project. Een meer gecompliceerde overeenkomst vereist mogelijk juridische beoordeling en goedkeuring door de werkgevers van contribuanten.
 

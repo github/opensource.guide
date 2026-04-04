@@ -38,7 +38,7 @@ redirect_from: /zh-tw/metrics/
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-如果你的專案是託管在GitHub, 你可以[訪問](https://help.github.com/articles/about-repository-graphs/#traffic) 獲取諸如多少人訪問過你的專案，他們從哪裏得知的之類的資訊。在你的專案主頁，點擊"Graphs", 然後"Traffic"。在這個頁面，你可以看到:
+如果你的專案是託管在GitHub, 你可以[訪問](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) 獲取諸如多少人訪問過你的專案，他們從哪裏得知的之類的資訊。在你的專案主頁，點擊"Graphs", 然後"Traffic"。在這個頁面，你可以看到:
 
 * **總瀏覽量:** 專案被查看了多少次
 
@@ -48,7 +48,7 @@ redirect_from: /zh-tw/metrics/
 
 * **受歡迎的內容:** 訪問者都查看了你專案的那些內容，按照頁面訪問量和獨立訪客數。
 
-[GitHub stars](https://help.github.com/articles/about-stars/) 可以提供一個基本的衡量流行度的標準。然而GitHub 點贊數並不和下載量、使用量直接掛鉤，但是他可以告訴你有多少人在關注你的專案。
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) 可以提供一個基本的衡量流行度的標準。然而GitHub 點贊數並不和下載量、使用量直接掛鉤，但是他可以告訴你有多少人在關注你的專案。
 
 你也許想要[在特定的地方跟蹤可發現的內容](https://opensource.com/business/16/6/pirate-metrics): 舉個例子，Google PageRank，會跟蹤來自你專案網站的流量，或者跟蹤來自其他開源專案或者網站的流量。
 

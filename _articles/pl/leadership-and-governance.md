@@ -77,7 +77,7 @@ Po ustaleniu ról przywódczych nie zapomnij udokumentować, w jaki sposób ludz
 
 Narzędzia jak [Vossibility](https://github.com/icecrime/vossibility-stack) mogą pomóc Ci publicznie śledzić, kto przyczynia się (lub nie) do projektu. Dokumentowanie tych informacji pozwala uniknąć postrzegania przez społeczność, że opiekunowie są kliką, która podejmuje decyzje prywatnie.
 
-Wreszcie, jeśli Twój projekt jest w GitHub, rozważ przeniesienie projektu z konta osobistego do organizacji i dodanie co najmniej jednego administratora kopii zapasowych. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) ułatwiają zarządzanie uprawnieniami i wieloma repozytoriami oraz chronią dziedzictwo projektu poprzez [współwłasność](../building-community/#udostępnij-własność-swojego-projektu).
+Wreszcie, jeśli Twój projekt jest w GitHub, rozważ przeniesienie projektu z konta osobistego do organizacji i dodanie co najmniej jednego administratora kopii zapasowych. [GitHub Organizations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) ułatwiają zarządzanie uprawnieniami i wieloma repozytoriami oraz chronią dziedzictwo projektu poprzez [współwłasność](../building-community/#udostępnij-własność-swojego-projektu).
 
 ## Kiedy powinienem dać komuś dostęp?
 
@@ -85,7 +85,7 @@ Niektórzy uważają, że powinieneś dać dostęp do zatwierdzenia każdemu, kt
 
 Z drugiej strony, szczególnie w przypadku większych, bardziej złożonych projektów, możesz chcieć dać dostęp do zatwierdzania tylko osobom, które wykazały swoje zaangażowanie. Nie ma jednego właściwego sposobu - rób to, co najbardziej Ci odpowiada!
 
-Jeśli Twój projekt znajduje się na GitHub, możesz użyć [protected branches](https://help.github.com/articles/about-protected-branches/) zarządzać, kto może naciskać na konkretny branch i w jakich okolicznościach.
+Jeśli Twój projekt znajduje się na GitHub, możesz użyć [protected branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) zarządzać, kto może naciskać na konkretny branch i w jakich okolicznościach.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

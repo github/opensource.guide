@@ -38,7 +38,7 @@ redirect_from: /zh-cn/metrics/
 
 ![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-如果你的项目是托管在GitHub, 你可以[访问](https://help.github.com/articles/about-repository-graphs/#traffic) 获取诸如多少人访问过你的项目，他们从哪里得知的之类的信息。在你的项目主页，点击"Graphs", 然后"Traffic"。在这个页面，你可以看到:
+如果你的项目是托管在GitHub, 你可以[访问](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) 获取诸如多少人访问过你的项目，他们从哪里得知的之类的信息。在你的项目主页，点击"Graphs", 然后"Traffic"。在这个页面，你可以看到:
 
 * **总浏览量:** 项目被查看了多少次
 
@@ -48,7 +48,7 @@ redirect_from: /zh-cn/metrics/
 
 * **受欢迎的内容:** 访问者都查看了你项目的那些内容，按照页面访问量和独立访客数。
 
-[GitHub stars](https://help.github.com/articles/about-stars/) 可以提供一个基本的衡量流行度的标准。然而GitHub 点赞数并不和下载量、使用量直接挂钩，但是他可以告诉你有多少人在关注你的项目。
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) 可以提供一个基本的衡量流行度的标准。然而GitHub 点赞数并不和下载量、使用量直接挂钩，但是他可以告诉你有多少人在关注你的项目。
 
 你也许想要[在特定的地方跟踪可发现的内容](https://opensource.com/business/16/6/pirate-metrics): 举个例子，Google PageRank，会跟踪来自你项目网站的流量，或者跟踪来自其他开源项目或者网站的流量。
 

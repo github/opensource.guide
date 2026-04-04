@@ -73,7 +73,7 @@ related:
 
 उपकरण जैसे [Vossibility](https://github.com/icecrime/vossibility-stack) आपको सार्वजनिक रूप से ट्रैक करने में मदद मिल सकती है कि प्रोजेक्ट में कौन योगदान दे रहा है (या नहीं दे रहा है)। इस जानकारी का दस्तावेजीकरण करने से समुदाय की इस धारणा से बचा जा सकता है कि रखरखाव करने वाले एक समूह हैं जो निजी तौर पर अपने निर्णय लेते हैं।
 
-अंत में, यदि आपका प्रोजेक्ट GitHub पर है, तो अपने प्रोजेक्ट को अपने व्यक्तिगत खाते से किसी संगठन में ले जाने और कम से कम एक बैकअप व्यवस्थापक जोड़ने पर विचार करें। [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) अनुमतियों और एकाधिक रिपॉजिटरी को प्रबंधित करना और अपने प्रोजेक्ट की विरासत को सुरक्षित रखना आसान बनाएं [shared ownership](../building-community/#अपने-प्रोजेक्ट-का-स्वामित्व-साझा-करें).
+अंत में, यदि आपका प्रोजेक्ट GitHub पर है, तो अपने प्रोजेक्ट को अपने व्यक्तिगत खाते से किसी संगठन में ले जाने और कम से कम एक बैकअप व्यवस्थापक जोड़ने पर विचार करें। [GitHub Organizations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) अनुमतियों और एकाधिक रिपॉजिटरी को प्रबंधित करना और अपने प्रोजेक्ट की विरासत को सुरक्षित रखना आसान बनाएं [shared ownership](../building-community/#अपने-प्रोजेक्ट-का-स्वामित्व-साझा-करें).
 
 ## मुझे किसी को प्रतिबद्ध पहुंच कब देनी चाहिए?
 
@@ -81,7 +81,7 @@ related:
 
 दूसरी ओर, विशेष रूप से बड़ी, अधिक जटिल परियोजनाओं के लिए, आप केवल उन लोगों को प्रतिबद्ध पहुंच देना चाह सकते हैं जिन्होंने अपनी प्रतिबद्धता प्रदर्शित की है। इसे करने का कोई एक सही तरीका नहीं है - वही करें जो आपको सबसे अधिक आरामदायक लगे!
 
-यदि आपका प्रोजेक्ट GitHub पर है, तो आप इसका उपयोग कर सकते हैं [protected branches](https://help.github.com/articles/about-protected-branches/) यह प्रबंधित करना कि कौन किसी विशेष शाखा में जा सकता है, और किन परिस्थितियों में।
+यदि आपका प्रोजेक्ट GitHub पर है, तो आप इसका उपयोग कर सकते हैं [protected branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) यह प्रबंधित करना कि कौन किसी विशेष शाखा में जा सकता है, और किन परिस्थितियों में।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

@@ -37,7 +37,7 @@ related:
 
 ![トラフィックグラフ](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-もしプロジェクトを GitHub 上にホストしているのであれば、何人があなたのプロジェクトを訪れていて、どこから来たのかを[見ることが出来ます](https://help.github.com/articles/about-repository-graphs/#traffic)。プロジェクトのページで、 "Insights" をクリックし、 "Traffic" をクリックします。このページでは、下記を見ることが出来ます:
+もしプロジェクトを GitHub 上にホストしているのであれば、何人があなたのプロジェクトを訪れていて、どこから来たのかを[見ることが出来ます](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository)。プロジェクトのページで、 "Insights" をクリックし、 "Traffic" をクリックします。このページでは、下記を見ることが出来ます:
 
 * **トータルページビュー:** プロジェクトが何回閲覧されたか
 
@@ -47,7 +47,7 @@ related:
 
 * **人気のあるコンテンツ:** 訪問者がプロジェクト上のどこを閲覧しているか。ページビューとユニークビジターをコンテンツごとに把握することが出来ます。
 
-[GitHub のスター](https://help.github.com/articles/about-stars/)も、プロジェクトの人気を測る上での基準となります。 GitHub のスターは必ずしもプロジェクトのダウンロード数や利用数と関連していませんが、何人がプロジェクトの通知を受け取っているかを知ることが出来ます。
+[GitHub のスター](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars)も、プロジェクトの人気を測る上での基準となります。 GitHub のスターは必ずしもプロジェクトのダウンロード数や利用数と関連していませんが、何人がプロジェクトの通知を受け取っているかを知ることが出来ます。
 
 また、[特定の場所での見つけやすさ](https://opensource.com/business/16/6/pirate-metrics)もトラッキングしたいかもしれません：例えば、 Google PageRank 、プロジェクトのウェブサイトからの流入や他のオープンソースプロジェクトやウェブサイトからの流入などです。
 

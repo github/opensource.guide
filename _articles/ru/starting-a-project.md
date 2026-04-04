@@ -106,9 +106,9 @@ _Свободное ПО_ относится к тем же проектам, ч
 
 В каждом проекте вне зависимости от стадии, на которой вы решили открыть исходники, должна быть следующая документация:
 
-* [Опенсорс-лицензию](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Руководство для участников](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Опенсорс-лицензию](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Руководство для участников](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Нормы поведения](../code-of-conduct/)
 
 Эти файлы помогут вам донести ожидания, определить процесс по участию, и защитить законные права всех, включая вас самих. Всё это значительно увеличивает шансы, что всё пойдёт хорошо.
@@ -182,7 +182,7 @@ _Свободное ПО_ относится к тем же проектам, ч
 
 Чтобы вам было проще написать файл CONTRIBUTING, ознакомьтесь с [шаблоном руководства по сотрудничеству](https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md) от @nayafia или прочтите ["Как создать файл CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) от @mozilla.
 
-Поставьте ссылку на файл CONTRIBUTING внутри README, так больше людей увидят его. Если вы [разместите файл CONTRIBUTING.md в корне вашего проекта](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), то GitHub автоматически предложит ознакомиться с ним когда кто-то открывает ишью или отправляет пул-реквест.
+Поставьте ссылку на файл CONTRIBUTING внутри README, так больше людей увидят его. Если вы [разместите файл CONTRIBUTING.md в корне вашего проекта](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), то GitHub автоматически предложит ознакомиться с ним когда кто-то открывает ишью или отправляет пул-реквест.
 
 ![Руководство по сотрудничеству](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -255,7 +255,7 @@ _Свободное ПО_ относится к тем же проектам, ч
 
 ## Чеклист перед запуском
 
-Вы готовы открыть свой проект? Вот вам проверочный лист в помощь. Когда отметите все пункты, [откройте ваш проект](https://help.github.com/articles/making-a-private-repository-public/) и похвалите себя.
+Вы готовы открыть свой проект? Вот вам проверочный лист в помощь. Когда отметите все пункты, [откройте ваш проект](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) и похвалите себя.
 
 **Документация**
 

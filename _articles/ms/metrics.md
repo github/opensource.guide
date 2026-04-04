@@ -37,7 +37,7 @@ Sebelum ada yang dapat menggunakan atau menyumbang kembali ke projek anda, merek
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Sekiranya projek anda dihoskan di GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) berapa ramai orang yang datang ke projek anda dan dari mana asalnya. Dari halaman projek anda, klik "Wawasan", kemudian "Lalu Lintas". Di halaman ini, anda dapat melihat:
+Sekiranya projek anda dihoskan di GitHub, [you can view](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) berapa ramai orang yang datang ke projek anda dan dari mana asalnya. Dari halaman projek anda, klik "Wawasan", kemudian "Lalu Lintas". Di halaman ini, anda dapat melihat:
 
 * **Jumlah paparan halaman:** Memberitahu anda berapa kali projek anda dilihat
 
@@ -47,7 +47,7 @@ Sekiranya projek anda dihoskan di GitHub, [you can view](https://help.github.com
 
 * **Kandungan popular:** Memberitahu anda tempat pelawat pergi ke projek anda, dipecah mengikut paparan halaman dan pelawat unik.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) juga dapat membantu memberikan ukuran populariti asas. Walaupun bintang GitHub tidak semestinya berkorelasi dengan muat turun dan penggunaan, mereka dapat memberitahu anda berapa banyak orang yang memperhatikan pekerjaan anda.
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) juga dapat membantu memberikan ukuran populariti asas. Walaupun bintang GitHub tidak semestinya berkorelasi dengan muat turun dan penggunaan, mereka dapat memberitahu anda berapa banyak orang yang memperhatikan pekerjaan anda.
 
 Anda juga mungkin mahu [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): sebagai contoh, Google PageRank, lalu lintas rujukan dari laman web projek anda, atau rujukan dari projek atau laman web sumber terbuka yang lain.
 

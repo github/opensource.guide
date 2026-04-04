@@ -47,7 +47,7 @@ If you _are_ interested in understanding your project on a deeper level, read on
 
 * **인기 콘텐츠:** 방문자가 프로젝트에서 어디로 이동했는지 알려주며, 페이지 뷰와 고유 방문자별로 세분화됩니다.
 
-[GitHub stars](https://help.github.com/articles/about-stars/)는 또한 인기의 기준치 측정을 제공하는 데 도움이 될 수 있습니다. GitHub star는 반드시 다운로드 및 사용량과 상관관계가 있는 것은 아니지만, 얼마나 많은 사람들이 귀하의 작업에 주의를 기울이고 있는지 말해 줄 수 있습니다.
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars)는 또한 인기의 기준치 측정을 제공하는 데 도움이 될 수 있습니다. GitHub star는 반드시 다운로드 및 사용량과 상관관계가 있는 것은 아니지만, 얼마나 많은 사람들이 귀하의 작업에 주의를 기울이고 있는지 말해 줄 수 있습니다.
 
 [특정 장소에서 검색 가능성을 추적](https://opensource.com/business/16/6/pirate-metrics) 할 수도 있습니다: 예를 들어, Google 페이지랭크, 프로젝트 웹 사이트의 추천 트래픽 또는 다른 오픈소스 프로젝트 또는 웹 사이트의 추천을 포함할 수 있습니다.
 

@@ -537,7 +537,7 @@ Wenn Sie Ihre Idee woanders nicht finden können, sind Sie bereit für den erste
 
 Bevor Sie ein Issue oder einen Pull Request öffnen, überprüfen Sie die Beitragsdokumentationen des Projekts (normalerweise eine Datei namens CONTRIBUTING, oder in der README), um zu verstehen, was in Anfragen erwünscht ist. Beispielsweise kann das Projekt verlangen, dass Sie einer Vorlage folgen oder Tests verwenden.
 
-Wenn Sie einen substantiellen Beitrag leisten wollen, öffnen Sie einen Issue, bevor Sie daran arbeiten. Bevor Sie Arbeiten ausführen, die möglicherweise nicht angenommen werden, schauen Sie sich das Projekt lieber eine Weile an (auf GitHub, [auf "Watch" klicken](https://help.github.com/articles/watching-repositories/), um über alle Konversationen informiert zu werden), und lernen die Community-Mitglieder kennen.
+Wenn Sie einen substantiellen Beitrag leisten wollen, öffnen Sie einen Issue, bevor Sie daran arbeiten. Bevor Sie Arbeiten ausführen, die möglicherweise nicht angenommen werden, schauen Sie sich das Projekt lieber eine Weile an (auf GitHub, [auf "Watch" klicken](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications), um über alle Konversationen informiert zu werden), und lernen die Community-Mitglieder kennen.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -576,7 +576,7 @@ Einen Pull Request muss keine fertige Arbeit darstellen. Es ist in der Regel bes
 
 Wenn das Projekt auf GitHub läuft, können Sie hier einen Pull Request stellen:
 
-* **[Forken Sie das Repository](https://guides.github.com/activities/forking/)** und klonen Sie es lokal. Verbinden Sie Ihr lokales mit dem ursprünglichen "upstream"-Repository, indem Sie es als Remote hinzufügen. Pullen Sie Änderungen von "upstream" möglichst oft, damit Sie auf dem Laufenden bleiben, und Konflikte beim Einreichen Ihres Pull Requests weniger wahrscheinlich werden. ([detailliertere Anweisungen finden Sie hier](https://help.github.com/articles/syncing-a-fork/).)
+* **[Forken Sie das Repository](https://guides.github.com/activities/forking/)** und klonen Sie es lokal. Verbinden Sie Ihr lokales mit dem ursprünglichen "upstream"-Repository, indem Sie es als Remote hinzufügen. Pullen Sie Änderungen von "upstream" möglichst oft, damit Sie auf dem Laufenden bleiben, und Konflikte beim Einreichen Ihres Pull Requests weniger wahrscheinlich werden. ([detailliertere Anweisungen finden Sie hier](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Erstellen Sie einen Branch](https://guides.github.com/introduction/flow/)** für Ihre Änderungen.
 * **Verweisen Sie auf relevante Issues** oder unterstützende Dokumentation in Ihrem PR (z.B. "Closes #37").
 * **Fügen Sie Vorher-/Nachher-Bildschirmfotos hinzu**, wenn Ihre Änderungen Unterschiede in HTML/CSS enthalten. Ziehen Sie die Bilder per Drag & Drop in den Textkörper Ihres Pull Requests.

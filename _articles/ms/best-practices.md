@@ -165,7 +165,7 @@ Anda tidak perlu melakukan semuanya sendiri. Komuniti projek anda wujud dengan a
 
 Sekiranya anda sedang mencari orang lain, mulakan dengan bertanya-tanya
 
-Salah satu cara untuk mendapatkan penyumbang baru adalah dengan secara eksplisit [melabelkan masalah yang cukup mudah untuk ditangani oleh pemula](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub kemudian akan mengemukakan permasalahan ini di pelbagai tempat di platform, sehingga meningkatkan keterlihatannya.
+Salah satu cara untuk mendapatkan penyumbang baru adalah dengan secara eksplisit [melabelkan masalah yang cukup mudah untuk ditangani oleh pemula](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub kemudian akan mengemukakan permasalahan ini di pelbagai tempat di platform, sehingga meningkatkan keterlihatannya.
 
 Apabila anda melihat penyumbang baru memberikan sumbangan berulang, kenali karya mereka dengan menawarkan lebih banyak tanggungjawab. Mendokumentasikan bagaimana orang lain dapat berkembang menjadi peranan kepemimpinan jika mereka mahu.
 
@@ -215,7 +215,7 @@ Salah satu cara terpenting untuk mengautomasikan projek anda adalah dengan menam
 
 Ujian membantu penyumbang merasa yakin bahawa mereka tidak akan merosakkan apa-apa. Mereka juga memudahkan anda menyemak dan menerima sumbangan dengan cepat. Semakin responsif anda, semakin aktif komuniti anda.
 
-Sediakan ujian automatik yang akan dijalankan pada semua sumbangan yang masuk, dan pastikan ujian anda dapat dijalankan dengan mudah secara tempatan oleh penyumbang. Wajibkan semua sumbangan kod lulus ujian anda sebelum dapat dihantar. Anda akan membantu menetapkan standard kualiti minimum untuk semua penyerahan. [Pemeriksaan status yang diperlukan] (<https://help.github.com/articles/about-required-status-checks/>) di GitHub dapat membantu memastikan tiada perubahan digabungkan tanpa ujian anda lulus.
+Sediakan ujian automatik yang akan dijalankan pada semua sumbangan yang masuk, dan pastikan ujian anda dapat dijalankan dengan mudah secara tempatan oleh penyumbang. Wajibkan semua sumbangan kod lulus ujian anda sebelum dapat dihantar. Anda akan membantu menetapkan standard kualiti minimum untuk semua penyerahan. [Pemeriksaan status yang diperlukan] (<https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging>) di GitHub dapat membantu memastikan tiada perubahan digabungkan tanpa ujian anda lulus.
 
 Sekiranya anda menambahkan ujian, pastikan untuk menerangkan bagaimana ia berfungsi dalam fail CONTRIBUTING anda.
 

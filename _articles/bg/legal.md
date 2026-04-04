@@ -28,7 +28,7 @@ related:
 
 ## Публичните GitHub проекти с отворен код ли са?
 
-Когато [създадете нов проект](https://help.github.com/articles/creating-a-new-repository/) в GitHub, имате опцията да направите хранилището **частно** или **публично**.
+Когато [създадете нов проект](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) в GitHub, имате опцията да направите хранилището **частно** или **публично**.
 
 ![Създаване на хранилище](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ related:
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) и [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) са [популярни лицензи за отворен код](https://innovationgraph.github.com/global-metrics/licenses), но има и други опции за избор. Можете да намерите пълния текст на тези лицензи и инструкции как да ги използвате на [choosealicense.com](https://choosealicense.com/).
 
-Когато създадете нов проект в GitHub, ще бъдете [помолени да добавите лиценз](https://help.github.com/articles/open-source-licensing/).
+Когато създадете нов проект в GitHub, ще бъдете [помолени да добавите лиценз](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -90,7 +90,7 @@ related:
 
 ## Моят проект има ли нужда от споразумение за допълнителен сътрудник?
 
-Вероятно не. За по-голямата част от проектите с отворен код лицензът с отворен код имплицитно служи както за входящ (от сътрудници), така и за изходящ (към други сътрудници и потребители) лиценз. Ако вашият проект е в GitHub, Общите условия на GitHub правят "inbound=outbound" [изрично по подразбиране](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Вероятно не. За по-голямата част от проектите с отворен код лицензът с отворен код имплицитно служи както за входящ (от сътрудници), така и за изходящ (към други сътрудници и потребители) лиценз. Ако вашият проект е в GitHub, Общите условия на GitHub правят "inbound=outbound" [изрично по подразбиране](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Допълнително споразумение за сътрудник – често наричано Споразумение за лиценз на сътрудник (CLA) – може да създаде административна работа за поддържащите проекта. Колко работа добавя едно споразумение зависи от проекта и изпълнението. Обикновено споразумение може да изисква сътрудниците да потвърдят с едно щракване, че имат правата, необходими за принос съгласно лиценза за отворен код на проекта. По-сложно споразумение може да изисква правен преглед и подписване от работодателите на сътрудниците.
 

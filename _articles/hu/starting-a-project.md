@@ -106,9 +106,9 @@ Nincs tökéletes időpont a forráskód megnyitására. Megnyithatsz egy ötlet
 
 Függetlenül attól, hogy melyik szakaszban döntöd el a projekt forrásának megnyitását, minden projektnek tartalmaznia kell a következő dokumentációt:
 
-* [Nyílt forráskódú licenc](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Résztvevőknek útmutató](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Nyílt forráskódú licenc](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Résztvevőknek útmutató](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Magatartási kódex](../code-of-conduct/)
 
 Karbantartóként ezek az összetevők segítenek az elvárásaid közlésében, a résztvevők kezelésében és mindenki jogának a védelmében (beleértve a sajátodat is). Jelentősen növelik az esélyt arra, hogy pozitív tapasztalatokat szerezz.
@@ -183,7 +183,7 @@ Idővel további gyakori kérdéseket adhatsz hozzá a CONTRIBUTING fájlhoz. Ez
 
 További segítségért a CONTRIBUTING írásához, nézd meg @nayafia [részvételi útmutató űrlapját](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) vagy a @mozilla's ["Hogyan építs CONTRIBUTING.md-t?"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-A CONTRIBUTING állományra hivatkozhatsz a README állományból, így az emberek azonnal látják azt. Ha [elhelyezed a CONTRIBUTING állományt a projekt alatt](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), akkor a GitHub automatikusan linkelni fogja azt, ha valaki hibát jelent, vagy beolvasztási kérést hoz létre.
+A CONTRIBUTING állományra hivatkozhatsz a README állományból, így az emberek azonnal látják azt. Ha [elhelyezed a CONTRIBUTING állományt a projekt alatt](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), akkor a GitHub automatikusan linkelni fogja azt, ha valaki hibát jelent, vagy beolvasztási kérést hoz létre.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -256,7 +256,7 @@ Nem kell stílus útmutatót írni a projekthez, amikor éppen elkezdted, vagy h
 
 ## Indulás előtti ellenőrző lista
 
-Készen állsz a nyílt forráskódú projektre? Itt egy ellenőrzőlista, amely ebben segít. Leellenőrizted az összes pontot? Akkor készen állsz! [Válaszd a "publish" linket](https://help.github.com/articles/making-a-private-repository-public/) és indulhat a publikálás!
+Készen állsz a nyílt forráskódú projektre? Itt egy ellenőrzőlista, amely ebben segít. Leellenőrizted az összes pontot? Akkor készen állsz! [Válaszd a "publish" linket](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) és indulhat a publikálás!
 
 **Dokumentáció**
 

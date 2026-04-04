@@ -198,7 +198,7 @@ Vezi dacă poți găsi moduri de a împărți proprietatea cu comunitatea ta câ
 
 * **Dă tuturor contributorilor accesul pentru a face commit-uri** @felixge a găsit că aceasta a făcut oamenii [mai încântați să-și finiseze patch-urile](https://felixge.de/2013/03/11/the-pull-request-hack.html), și el chiar a găsit noi întreținători pentru proiecte la care n-a lucrat de ceva timp.
 
-* Dacă proiectul tău este pe GitHub, **mută-ți proiectul din contul tău personal într-o [Organizație](https://help.github.com/articles/creating-a-new-organization-account/)** și adaugă cel puțin un administrator de rezervă. Organizațiile fac mai ușor să lucrezi pe proiecte cu colaboratori externi.
+* Dacă proiectul tău este pe GitHub, **mută-ți proiectul din contul tău personal într-o [Organizație](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** și adaugă cel puțin un administrator de rezervă. Organizațiile fac mai ușor să lucrezi pe proiecte cu colaboratori externi.
 
 Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprints/1233/) unul sau doi întreținători care fac cea mai multă muncă. Cu cât mai mare este proiectul tău, și mai mare comunitatea ta, cu atât mai ușor este să găsești ajutor.
 

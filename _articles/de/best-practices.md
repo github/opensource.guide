@@ -179,7 +179,7 @@ Sie müssen nicht alles selbst machen. Die Gemeinschaft Ihres Projekts existiert
 
 Wenn Sie auf der Suche nach Mitwirkenden sind, fragen Sie doch einfach mal herum.
 
-Sie können auch [Issues, die für Anfänger einfach genug sind, explizit markieren (Englisch)](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden.
+Sie können auch [Issues, die für Anfänger einfach genug sind, explizit markieren (Englisch)](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub weist auf solche Issues vermehrt hin, sodass beitragswillige Neulinge zu nützlicher Mitarbeit ermuntert werden.
 
 Wenn Sie neue Mitwirkende bemerken, die wiederholt Beiträge leisten, erkennen Sie deren Arbeit an, indem Sie ihnen mehr Verantwortung anbieten. Dokumentieren Sie, wie andere in Führungsrollen hineinwachsen können, wenn sie es wünschen.
 
@@ -241,7 +241,7 @@ Eine der wichtigsten Möglichkeiten, wie Sie Ihr Projekt automatisieren können,
 
 Tests geben Mitwirkenden den Mut zu Änderungsvorschlägen, denn sie können nichts (unbemerkt) kaputt machen. Sie erleichtern es sich damit auch selbst, Beiträge schnell zu prüfen und anzunehmen. Je reaktionsschneller Sie sind, desto engagierter kann Ihre Gemeinschaft sein.
 
-Richten Sie automatische Tests ein, die bei allen eingehenden Beiträgen ausgeführt werden und stellen Sie sicher, dass Ihre Tests problemlos lokal von den Mitwirkenden ausgeführt werden können. Verlangen Sie, dass alle Codebeiträge Ihre Tests bestehen, bevor sie eingereicht werden können. Sie sichern einen Mindeststandards für die Qualität aller Einreichungen. [Verpflichtende Status-Checks](https://help.github.com/articles/about-required-status-checks/) auf GitHub können dazu beitragen, dass keine Änderungsvorschläge angenommen werden, die nicht Ihre Tests bestanden werden.
+Richten Sie automatische Tests ein, die bei allen eingehenden Beiträgen ausgeführt werden und stellen Sie sicher, dass Ihre Tests problemlos lokal von den Mitwirkenden ausgeführt werden können. Verlangen Sie, dass alle Codebeiträge Ihre Tests bestehen, bevor sie eingereicht werden können. Sie sichern einen Mindeststandards für die Qualität aller Einreichungen. [Verpflichtende Status-Checks](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) auf GitHub können dazu beitragen, dass keine Änderungsvorschläge angenommen werden, die nicht Ihre Tests bestanden werden.
 
 Wenn Sie Tests hinzufügen, erklären Sie deren Funktionsweise in Ihrer CONTRIBUTING-Datei.
 

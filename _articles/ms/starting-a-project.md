@@ -106,9 +106,9 @@ Secara umum, anda harus membuka sumber projek anda apabila anda merasa selesa me
 
 Tidak kira tahap mana anda memutuskan untuk membuka sumber projek anda, setiap projek harus merangkumi dokumentasi berikut:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Open source license](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Contributing guidelines](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Code of conduct](../code-of-conduct/)
 
 Sebagai penyelenggara, komponen ini akan membantu anda menyampaikan harapan, menguruskan sumbangan, dan melindungi hak undang-undang setiap orang (termasuk milik anda). Mereka meningkatkan peluang anda untuk mendapat pengalaman positif.
@@ -182,7 +182,7 @@ Lama kelamaan, anda mungkin menambahkan soalan lain yang sering diajukan ke fail
 
 Untuk lebih banyak bantuan dalam menulis fail CONTRIBUTING anda, lihat@nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) atau @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Pautkan ke fail CONTRIBUTING anda dari README anda, sehingga lebih banyak orang melihatnya. Jika awak [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/),GitHub akan memaut ke fail anda secara automatik apabila penyumbang membuat masalah atau membuka permintaan tarik.
+Pautkan ke fail CONTRIBUTING anda dari README anda, sehingga lebih banyak orang melihatnya. Jika awak [place the CONTRIBUTING file in your project's repository](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors),GitHub akan memaut ke fail anda secara automatik apabila penyumbang membuat masalah atau membuka permintaan tarik.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -255,7 +255,7 @@ Anda tidak perlu menulis panduan gaya untuk projek anda semasa anda baru memulak
 
 ## Senarai semak pra-pelancaran anda
 
-Bersedia untuk membuka sumber projek anda? Berikut adalah senarai semak untuk membantu. Tandakan semua kotak? Anda sudah bersedia untuk pergi! [Click "publish"](https://help.github.com/articles/making-a-private-repository-public/) dan tepuk punggung.
+Bersedia untuk membuka sumber projek anda? Berikut adalah senarai semak untuk membantu. Tandakan semua kotak? Anda sudah bersedia untuk pergi! [Click "publish"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) dan tepuk punggung.
 
 **Dokumentasi**
 

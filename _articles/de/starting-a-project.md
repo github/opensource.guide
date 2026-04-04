@@ -118,9 +118,9 @@ Im Allgemeinen können Sie sich für Open-Source entscheiden, wenn Sie möchten,
 
 Unabhängig davon, in welcher Phase Sie sich für Open-Source entscheiden, sollte jedes Projekt die folgende Dokumentation enthalten:
 
-* [Eine Open-Source-Lizenz](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [Eine README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Beitragsrichtlinien](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Eine Open-Source-Lizenz](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [Eine README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Beitragsrichtlinien](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [einen Verhaltenskodex](../code-of-conduct/)
 
 Als Maintainer\*in helfen Ihnen diese Komponenten, Erwartungen zu kommunizieren, Beiträge zu verwalten und die gesetzlichen Rechte aller (einschließlich Ihrer eigenen) zu schützen. Sie tragen zudem zu einer positiven Erfahrung in Ihrem Projekt bei.
@@ -201,7 +201,7 @@ Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBU
 
 @nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
 
-Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, damit sie gleich bemerkt wird. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
+Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, damit sie gleich bemerkt wird. Wenn Sie sie zudem [in Ihr Repo einchecken](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), wird GitHub automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
 
 ![Beitragsrichtlinien](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -282,7 +282,7 @@ Eine Stilrichtlinie ist nicht sofort zum Start Ihres Projekts nötig, und vielle
 
 ## Ihre Checkliste zur Startvorbreitung
 
-Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen dabei. Alle Stationen bereit? Dann los! [Klicken Sie auf "publish"](https://help.github.com/articles/making-a-private-repository-public/) und klopfen Sie sich auf die Schulter.
+Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen dabei. Alle Stationen bereit? Dann los! [Klicken Sie auf "publish"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) und klopfen Sie sich auf die Schulter.
 
 **Dokumentation**
 

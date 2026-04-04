@@ -76,7 +76,7 @@ redirect_from: /zh-tw/leadership-and-governance/
 諸如[Vossibility](https://github.com/icecrime/vossibility-stack) 這樣的工具，可以幫助你追蹤誰是（或不是）專案的貢獻者。爲這些資訊作說明，以避免社群出現維護者作出私自的決定。
 
 另外，如果你的專案在託管在GitHub上，考慮將你的專案從個人賬戶遷移到某個組織，而且要爲組織增加額外的一個備份的管理員。
-[GitHub 上的組織](https://help.github.com/articles/creating-a-new-organization-account/) 能夠讓權限管理和多倉庫管理更加的輕鬆，而且可通過 [共享所有權](../building-community/#分享專案的所有權)來保護你的專案。
+[GitHub 上的組織](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) 能夠讓權限管理和多倉庫管理更加的輕鬆，而且可通過 [共享所有權](../building-community/#分享專案的所有權)來保護你的專案。
 
 ## 何時該賦予提交者權限
 
@@ -84,7 +84,7 @@ redirect_from: /zh-tw/leadership-and-governance/
 
 換句話說，尤其是針對那些大型的、更加複雜的專案，你或許只是會給那些證明自己有能力提交程式碼的人賦予權限。這個沒有一個確切的衡量標準，做你認爲正確的就好了，或者是最讓專案成員感到舒服的方式。
 
-假如專案是託管在GitHub上，可以使用[受保護的分支](https://help.github.com/articles/about-protected-branches/)來管理那些可以提交特定的分支情況。
+假如專案是託管在GitHub上，可以使用[受保護的分支](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)來管理那些可以提交特定的分支情況。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/15000?v=3&s=460" class="pquote-avatar" alt="avatar">

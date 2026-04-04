@@ -147,7 +147,7 @@ You no need to do everything alone. Your project community dey exist for one rea
 
 If you dey find people wey go fit help, start to ask around.
 
-One way to get new contributors be to [label issues wey dey simple for beginners to work on](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub go show these issues for different places for the platform, e go make them dey easier to see.
+One way to get new contributors be to [label issues wey dey simple for beginners to work on](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub go show these issues for different places for the platform, e go make them dey easier to see.
 
 When you see new contributors wey dey make repeated contributions, make you acknowledge their work and give them more responsibility. Write down how other people fit grow into leadership roles if them wan. Make you encourage others to [share ownership of the project](../building-community/#share-the-person-waeh-get-your-project) because e fit reduce your own workload, just like @lmccart find out for her project, [p5.js](https://github.com/processing/p5.js).
 
@@ -195,7 +195,7 @@ One important way wey you fit automate your project be to add tests.
 
 Tests fit make contributors dey confident say them no go spoil anything. Them still dey make am easy for you to review and accept contributions quickly. The more responsive you dey, the more engaged your community fit dey.
 
-Set up automatic tests wey go run on all incoming contributions, and make sure say your tests dey easy to run locally by contributors. You must require say all code contributions must pass your tests before them fit submit am. You go help set one minimum standard of quality for all submissions. [Required status checks](https://help.github.com/articles/about-required-status-checks/) for GitHub fit help ensure say no change go enter if your tests no pass.
+Set up automatic tests wey go run on all incoming contributions, and make sure say your tests dey easy to run locally by contributors. You must require say all code contributions must pass your tests before them fit submit am. You go help set one minimum standard of quality for all submissions. [Required status checks](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) for GitHub fit help ensure say no change go enter if your tests no pass.
 
 If you add tests, make sure say you explain how them dey work for your CONTRIBUTING file.
 

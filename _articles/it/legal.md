@@ -28,7 +28,7 @@ Infine, il tuo progetto potrebbe avere dipendenze con requisiti di licenza di cu
 
 ## Публичните GitHub проекти с отворен код ли са?
 
-Quando [crei nuovo progetto](https://help.github.com/articles/creating-a-new-repository/) su GitHub, hai la possibilità di rendere il repository **privato** o **pubblico**.
+Quando [crei nuovo progetto](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) su GitHub, hai la possibilità di rendere il repository **privato** o **pubblico**.
 
 ![Crea un archivio](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Sei fortunato perché oggi le licenze open source sono standardizzate e facili d
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) e [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sono [licenze open source popolari](https://innovationgraph.github.com/global-metrics/licenses), ma ci sono altre opzioni tra cui scegliere. È possibile trovare il testo completo di queste licenze e le istruzioni su come utilizzarle all'indirizzo [choosealicense.com](https://choosealicense.com/).
 
-Quando crei un nuovo progetto su GitHub, ti verrà [chiesto di aggiungere una licenza](https://help.github.com/articles/open-source-licensing/).
+Quando crei un nuovo progetto su GitHub, ti verrà [chiesto di aggiungere una licenza](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -90,7 +90,7 @@ In alternativa, puoi chiedere ai contributori di pre-approvare alcune modifiche 
 
 ## Il mio progetto necessita di un contratto di collaborazione aggiuntivo?
 
-Probabilmente no. Per la stragrande maggioranza dei progetti open source, la licenza open source funge implicitamente sia da licenza in entrata (dai contributori) che da licenza in uscita (ad altri contributori e utenti). Se il tuo progetto è su GitHub, i Termini di servizio di GitHub rendono "inbound=outbound" [esplicito per impostazione predefinita](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributi-sotto-licenza-repository).
+Probabilmente no. Per la stragrande maggioranza dei progetti open source, la licenza open source funge implicitamente sia da licenza in entrata (dai contributori) che da licenza in uscita (ad altri contributori e utenti). Se il tuo progetto è su GitHub, i Termini di servizio di GitHub rendono "inbound=outbound" [esplicito per impostazione predefinita](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Un ulteriore contratto di collaborazione, spesso chiamato Contributor License Agreement (CLA), può creare lavoro amministrativo per i manutentori del progetto. La quantità di lavoro aggiunta da un accordo dipende dal progetto e dall'implementazione. Un tipico accordo potrebbe richiedere ai contributori di confermare con un clic di possedere i diritti necessari per contribuire secondo la licenza open source del progetto. Un accordo più complesso può richiedere la revisione legale e la firma da parte dei datori di lavoro dei contributori.
 

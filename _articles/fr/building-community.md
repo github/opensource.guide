@@ -166,7 +166,7 @@ Voyez si vous pouvez trouver le moyen de partager la propriété avec votre comm
 
 * **Donnez à chaque contributeur un droit de commit.** @felixge a trouvé que cela rendait les gens [plus excités de fignoler leurs patches](https://felixge.de/2013/03/11/the-pull-request-hack.html ), et il a même trouvé de nouveaux responsables pour des projets sur lesquels il n'avait pas travaillé depuis longtemps.
 
-* Si votre projet est sur GitHub, **déplacez votre projet de votre compte personnel vers un [compte Organisation](https://help.github.com/articles/creating-a-new-organization-account/)** et ajoutez au moins un administrateur de sauvegarde. Les organisations facilitent le travail sur des projets avec des collaborateurs externes.
+* Si votre projet est sur GitHub, **déplacez votre projet de votre compte personnel vers un [compte Organisation](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** et ajoutez au moins un administrateur de sauvegarde. Les organisations facilitent le travail sur des projets avec des collaborateurs externes.
 
 La réalité est que [la plupart des projets ont seulement](https://peerj.com/preprints/1233/) un ou deux mainteneurs qui font la plupart du travail. Plus votre projet est important et plus votre communauté est grande, plus il est facile de trouver de l'aide.
 

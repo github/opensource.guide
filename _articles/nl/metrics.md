@@ -37,7 +37,7 @@ Voordat iemand uw project kan gebruiken of eraan kan bijdragen, moet hij of zij 
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Als je project wordt gehost op GitHub, [je kunt zien](https://help.github.com/articles/about-repository-graphs/#traffic) hoeveel mensen op je project terechtkomen en waar ze vandaan komen. Klik op de pagina van uw project op "Insights" en vervolgens op "Traffic". Op deze pagina ziet u:
+Als je project wordt gehost op GitHub, [je kunt zien](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) hoeveel mensen op je project terechtkomen en waar ze vandaan komen. Klik op de pagina van uw project op "Insights" en vervolgens op "Traffic". Op deze pagina ziet u:
 
 * **Total page views:** geeft aan hoe vaak uw project is bekeken
 
@@ -47,7 +47,7 @@ Als je project wordt gehost op GitHub, [je kunt zien](https://help.github.com/ar
 
 * **Populaire content:** vertelt u waar bezoekers naartoe gaan in uw project, uitgesplitst naar paginaweergaven en unieke bezoekers.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) kan ook helpen bij het geven van een basismeting van populariteit. Hoewel GitHub-sterren niet noodzakelijkerwijs verband houden met downloads en gebruik, kunnen ze u wel vertellen hoeveel mensen kennis nemen van uw werk.
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) kan ook helpen bij het geven van een basismeting van populariteit. Hoewel GitHub-sterren niet noodzakelijkerwijs verband houden met downloads en gebruik, kunnen ze u wel vertellen hoeveel mensen kennis nemen van uw werk.
 
 U kunt ook [vindbaarheid op specifieke plaatsen bijhouden](https://opensource.com/business/16/6/pirate-metrics): bijvoorbeeld Google PageRank, verwijzingsverkeer van de website van uw project of verwijzingen van andere open bronprojecten of websites.
 

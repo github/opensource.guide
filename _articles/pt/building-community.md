@@ -164,7 +164,7 @@ Procure encontrar maneiras de compartilhar a propriedade com a sua comunidade o 
 
 * **Dê permissão de commit para cada um dos contribuidores.** @felixge descobriu que isso fez as pessoas [mais entusiasmadas em polir suas modificações](https://felixge.de/2013/03/11/the-pull-request-hack.html), e até mesmo descobriu novos mantenedores para projetos que ele não havia trabalhado por algum tempo.
 
-* Se o seu projeto está no GitHub, **mova-o da sua conta pessoal para uma [Organização](https://help.github.com/articles/creating-a-new-organization-account/)** e adicione pelo menos um administrador de backup. As organizações fazem com que seja mais fácil trabalhar em projetos com colaboradores externos.
+* Se o seu projeto está no GitHub, **mova-o da sua conta pessoal para uma [Organização](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** e adicione pelo menos um administrador de backup. As organizações fazem com que seja mais fácil trabalhar em projetos com colaboradores externos.
 
 A verdade é que [a maioria dos projetos tem somente](https://peerj.com/preprints/1233/) um ou dois mantenedores que fazem a maior parte do trabalho. Quanto maior o seu projeto, e maior a sua comunidade, mais fácil é encontrar ajuda.
 

@@ -73,7 +73,7 @@ Uma vez que você tenha estabelecido papéis de liderança, não esqueça de doc
 
 Ferramentas como [Vossibility](https://github.com/icecrime/vossibility-stack) podem ajudar você a rastrear publicamente quem está (ou não) fazendo contribuições para o projeto. A documentação dessas informações evita a percepção da comunidade de que os mantenedores são um grupo que toma suas decisões de maneira privada.
 
-Por fim, se seu projeto está no GitHub, considere movê-lo de sua conta pessoal para uma Organização e adicionar ao menos um admin de backup. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) torna mais fácil de gerenciar permissões e múltiplos repositórios e protege o legado de seu projeto por meio de [propriedade compartilhada](../building-community/#compartilhe-a-responsabilidade-pelo-seu-projeto).
+Por fim, se seu projeto está no GitHub, considere movê-lo de sua conta pessoal para uma Organização e adicionar ao menos um admin de backup. [GitHub Organizations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) torna mais fácil de gerenciar permissões e múltiplos repositórios e protege o legado de seu projeto por meio de [propriedade compartilhada](../building-community/#compartilhe-a-responsabilidade-pelo-seu-projeto).
 
 ## Quando eu devo dar acesso de commit a alguém?
 
@@ -81,7 +81,7 @@ Algumas pessoas pensam que você deve dar acesso de commit para todo mundo que f
 
 Por outro lado, especialmente para projetos maiores e mais complexos, você pode querer dar acesso de commit apenas para pessoas que demonstraram compromisso. Não há um jeito certo de fazer isso - faça o que te deixa mais confortável!
 
-Se seu projeto está no GitHub, você pode usar os [branches protegidos](https://help.github.com/articles/about-protected-branches/) para gerenciar quem e sob quais circustâncias, pode efetuar um push em um branch particular.
+Se seu projeto está no GitHub, você pode usar os [branches protegidos](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) para gerenciar quem e sob quais circustâncias, pode efetuar um push em um branch particular.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

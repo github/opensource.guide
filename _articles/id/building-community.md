@@ -166,7 +166,7 @@ Cari cara untuk bisa berbagi kepemilikan dengan komunitas Anda sebanyak mungkin.
 
 * **Berikan setiap kontributor akses commit.** @felixge menemukan bahwa hal ini membuat orang lain [lebih tertarik untuk memperbaiki perbaikan mereka](https://felixge.de/2013/03/11/the-pull-request-hack.html), dan dia juga menemukan pengelola baru untuk proyek yang tidak dia kelola selama beberapa waktu.
 
-* Jika proyek Anda berada pada GitHub, **pindahkan proyek Anda dari akun personal ke [Organisasi](https://help.github.com/articles/creating-a-new-organization-account/)** dan tambahkan paling tidak satu admin cadangan. Organisasi mempermudah pekerjaan kolaborasi dengan kolaborator eksternal.
+* Jika proyek Anda berada pada GitHub, **pindahkan proyek Anda dari akun personal ke [Organisasi](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** dan tambahkan paling tidak satu admin cadangan. Organisasi mempermudah pekerjaan kolaborasi dengan kolaborator eksternal.
 
 Kenyataannya adalah [sebagian besar proyek hanya memiliki](https://peerj.com/preprints/1233/) satu atau dua pengeloa yang melakukan sebagian besar pekerjaan. Semakin besar proyek Anda, dan semakin besar komunitas Anda, semakin mudah untuk menemukan bantuan.
 

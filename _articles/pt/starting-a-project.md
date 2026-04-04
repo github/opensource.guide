@@ -113,9 +113,9 @@ De um modo geral, você deve tornar o seu projeto open source quando se sentir c
 
 Independente do estágio em que você decida tornar o seu projeto open source, todo projeto deve incluir as seguintes documentações:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Open source license](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Contributing guidelines](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Code of conduct](../code-of-conduct/)
 
 Como um mantenedor, esses componentes irão ajudá-lo a comunicar suas expectativas, administrar contribuições, e proteger o direito legal de todos (inclusive o seu). Eles aumentam suas chances de ter uma experência positiva significativamente.
@@ -189,7 +189,7 @@ Ao longo do tempo, você pode adicionar outras questões frequentemente respondi
 
 Para mais ajuda em como escrever seu arquivo CONTRIBUTING, dê uma olhada no [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) de @nayafia ou o ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) do @mozilla.
 
-Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que mais pessoas possam vê-lo. Se você [colocar seu arquivo CONTRIBUTING no repositório do seu projeto](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), o GitHub irá automaticamente "linkar" para o seu arquivo quando um contribuidor criar uma issue ou abrir um pull request.
+Crie um link para seu arquivo CONTRIBUTING a partir do seu README, de modo que mais pessoas possam vê-lo. Se você [colocar seu arquivo CONTRIBUTING no repositório do seu projeto](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), o GitHub irá automaticamente "linkar" para o seu arquivo quando um contribuidor criar uma issue ou abrir um pull request.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -262,7 +262,7 @@ Não é necessário escrever um guia de estilo para o seu projeto quando você e
 
 ## Seu checklist pré-lançamento
 
-Pronto para tornar o seu projeto open source? Aqui está uma checklist para ajudar. Marcou todas as caixas? Você está pronto! [Clique em "publish"](https://help.github.com/articles/making-a-private-repository-public/) e dê um tapinha em suas costas.
+Pronto para tornar o seu projeto open source? Aqui está uma checklist para ajudar. Marcou todas as caixas? Você está pronto! [Clique em "publish"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) e dê um tapinha em suas costas.
 
 **Documentação**
 

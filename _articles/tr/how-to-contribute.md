@@ -439,7 +439,7 @@ Fikrinizi başka bir yerde bulamazsanız, harekete geçmeye hazırsınız. Proje
 
 Bir sorun açmadan veya talepte bulunmadan önce, belirli bir şey eklemeniz gerekip gerekmediğini görmek için projenin katkıda bulunma belgelerini (genellikle CONTRIBUTING veya README dosyaları) kontrol edin. Örneğin, bir şablon izlemenizi istenebilir veya test ortamı kullanmanız gerekebilir.
 
-Önemli bir katkı yapmak istiyorsanız, üzerinde çalışmadan önce sormanız gereken bir sorun açın. Projeyi bir süre izlemeniz yararlı olacaktır (GitHub'da, tüm konuşmalar size bildirilmek için ["İzle"yi tıklayabilirsiniz](https://help.github.com/articles/watching-repositories/)) ve kabul edilmeyebilecek bir işe başlamadan önce topluluk üyelerini tanıyın.
+Önemli bir katkı yapmak istiyorsanız, üzerinde çalışmadan önce sormanız gereken bir sorun açın. Projeyi bir süre izlemeniz yararlı olacaktır (GitHub'da, tüm konuşmalar size bildirilmek için ["İzle"yi tıklayabilirsiniz](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)) ve kabul edilmeyebilecek bir işe başlamadan önce topluluk üyelerini tanıyın.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -474,7 +474,7 @@ Bir PR, bitmiş işi temsil etmek zorunda değildir. PR'ı erkenden açmak genel
 
 Proje GitHub'taysa, PR nasıl gönderilir:
 
-* **[Depoyu çatallayın](https://guides.github.com/activities/forking/)** ve yerel olarak klonlayın. Kendi yerelinize ana depoyu "upstream"  olarak bağlayın. Sık sık "upstream" den yapılan değişiklikleri çekin, böylece güncel kalırsınız ve çekme isteğinizi gönderdiğinizde, birleştirme çakışmalarının olasılığı daha düşük olur. ([Burada](https://help.github.com/articles/syncing-a-fork/) daha ayrıntılı talimatlara bakın.)
+* **[Depoyu çatallayın](https://guides.github.com/activities/forking/)** ve yerel olarak klonlayın. Kendi yerelinize ana depoyu "upstream"  olarak bağlayın. Sık sık "upstream" den yapılan değişiklikleri çekin, böylece güncel kalırsınız ve çekme isteğinizi gönderdiğinizde, birleştirme çakışmalarının olasılığı daha düşük olur. ([Burada](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) daha ayrıntılı talimatlara bakın.)
 * Düzenlemeleriniz için **[bir dal oluşturun](https://guides.github.com/introduction/flow/)** .
 * **PR'nızda ilgili sorunlara** veya destekleyici belgelere atıfta bulunun (örneğin, "Closes #37")
 * Değişiklikleriniz HTML/CSS"de farklılıklar içeriyorsa **önceki ve sonraki ekran görüntülerini ekleyin**. Görüntüleri PR gövdesine sürükleyip bırakarak yükleyebilirsiniz.

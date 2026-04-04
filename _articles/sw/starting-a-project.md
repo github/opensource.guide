@@ -107,9 +107,9 @@ Kwa ujumla, unapaswa kufungua mradi wako unapojisikia vizuri kuwa na wengine wan
 
 Bila kujali hatua gani unachagua kufungua mradi wako, kila mradi unapaswa kujumuisha nyaraka zifuatazo:
 
-* [Leseni ya open source](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Miongozo ya kuchangia](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Leseni ya open source](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Miongozo ya kuchangia](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Kanuni ya tabia](../code-of-conduct/)
 
 Kama mtunza mradi, vipengele hivi vitakusaidia kuwasiliana matarajio, kusimamia michango, na kulinda haki za kisheria za kila mtu (ikiwemo yako mwenyewe). Vinapanua sana nafasi zako za kuwa na uzoefu mzuri.
@@ -189,7 +189,7 @@ Kadri muda unavyosonga, unaweza kuongeza maswali mengine yanayoulizwa mara kwa m
 
 Kwa msaada zaidi wa kuandika faili yako ya CONTRIBUTING, angalia mwongozo wa @nayafia [template ya kuchangia](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) au ["Jinsi ya Kujenga CONTRIBUTING.md" ya @mozilla](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Linki kwa faili yako ya CONTRIBUTING kutoka kwenye README yako, ili watu wengi zaidi waione. Ikiwa [uweka faili ya CONTRIBUTING kwenye hazina ya mradi wako](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub itaunganisha moja kwa moja kwenye faili yako wakati mchangiaji anaunda suala au kufungua ombi la kuvuta.
+Linki kwa faili yako ya CONTRIBUTING kutoka kwenye README yako, ili watu wengi zaidi waione. Ikiwa [uweka faili ya CONTRIBUTING kwenye hazina ya mradi wako](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), GitHub itaunganisha moja kwa moja kwenye faili yako wakati mchangiaji anaunda suala au kufungua ombi la kuvuta.
 
 ![Miongozo ya kuchangia](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -262,7 +262,7 @@ Sio lazima kuandika mwongozo wa mtindo kwa mradi wako unapokuwa unaanza, na unaw
 
 ## Orodha yako ya ukaguzi kabla ya uzinduzi
 
-Je, uko tayari kuweka mradi wako open source? Hapa kuna orodha ya ukaguzi ili kusaidia. Je, umekagua masanduku yote? Uko tayari kwenda! [Bonyeza "chapisha"](https://help.github.com/articles/making-a-private-repository-public/) na ujipatie sifa.
+Je, uko tayari kuweka mradi wako open source? Hapa kuna orodha ya ukaguzi ili kusaidia. Je, umekagua masanduku yote? Uko tayari kwenda! [Bonyeza "chapisha"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) na ujipatie sifa.
 
 **Nyaraka**
 

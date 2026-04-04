@@ -77,7 +77,7 @@ related:
 
 أدوات مثل [Vossibility](https://github.com/icecrime/vossibility-stack) يمكن أن تساعدك في تتبع من يساهم أو لا يساهم في المشروع بشكل عام. توثيق هذه المعلومات يمنع انطباع المجتمع بأن المشرفين هم مجموعة مغلقة تتخذ قراراتها بشكل خاص.
 
-أخيرًا، إذا كان مشروعك موجودًا على GitHub، فكر في نقل المشروع من حسابك الشخصي إلى منظمة (Organization) وإضافة على الأقل مشرف احتياطي واحد. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/)  تجعل إدارة الصلاحيات والمستودعات المتعددة أسهل، وتحمي إرث مشروعك من خلال [الملكية المشتركة](../building-community/#شارك-ملكية-مشروعك).
+أخيرًا، إذا كان مشروعك موجودًا على GitHub، فكر في نقل المشروع من حسابك الشخصي إلى منظمة (Organization) وإضافة على الأقل مشرف احتياطي واحد. [GitHub Organizations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)  تجعل إدارة الصلاحيات والمستودعات المتعددة أسهل، وتحمي إرث مشروعك من خلال [الملكية المشتركة](../building-community/#شارك-ملكية-مشروعك).
 
 ## متى يجب أن أمنح شخصًا صلاحية التعديل؟
 
@@ -85,7 +85,7 @@ related:
 
 من ناحية أخرى، وخاصة في المشاريع الكبيرة والمعقدة، قد ترغب في منح صلاحية التعديل فقط للأشخاص الذين أثبتوا التزامهم بالمشروع، لا توجد طريقة صحيحة واحدة لذلك – افعل ما يجعلك أكثر راحة وثقة
 
-إذا كان مشروعك موجودًا على GitHub، يمكنك استخدام [الفروع المحمية](https://help.github.com/articles/about-protected-branches/) لإدارة من يمكنه رفع التعديلات إلى فرع معين، وتحديد الظروف التي يُسمح فيها بذلك.
+إذا كان مشروعك موجودًا على GitHub، يمكنك استخدام [الفروع المحمية](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) لإدارة من يمكنه رفع التعديلات إلى فرع معين، وتحديد الظروف التي يُسمح فيها بذلك.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

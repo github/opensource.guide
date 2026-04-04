@@ -28,7 +28,7 @@ Inizia con la tua documentazione:
 
 * **Semplifica le cose per coloro che hanno bisogno di utilizzare il progetto.** [Documento README intuitivo](../starting-a-project/#scrivi-readme) e chiari esempi di codice lo renderanno facile da usare. È un inizio facile per chiunque si imbatta nel tuo progetto.
 * **Spiega chiaramente come contribuire** utilizzando [CONTRIBUTING file](../starting-a-project/#scrivi-le-linee-guida-per-il-tuo-contributo) e mantieni aggiornati i tuoi problemi.
-* **Buone prime edizioni**: per aiutare i nuovi contributori a iniziare, pensa chiaramente a [sottolineare gli argomenti che sono abbastanza semplici da poter essere gestiti da un principiante](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub mostrerà quindi questi problemi in vari punti della piattaforma, aumentando i contributi utili e riducendo la pressione degli utenti che affrontano questioni troppo difficili per il loro livello.
+* **Buone prime edizioni**: per aiutare i nuovi contributori a iniziare, pensa chiaramente a [sottolineare gli argomenti che sono abbastanza semplici da poter essere gestiti da un principiante](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub mostrerà quindi questi problemi in vari punti della piattaforma, aumentando i contributi utili e riducendo la pressione degli utenti che affrontano questioni troppo difficili per il loro livello.
 
 [Sondaggio open source GitHub 2017](http://opensourcesurvey.org/2017/) ha dimostrato che la documentazione incompleta o confusa è il problema più grande per gli utenti open source. Una buona documentazione invita le persone a interagire con il tuo progetto. Alla fine, qualcuno aprirà un problema o una richiesta. Usa queste interazioni come opportunità per spostarle lungo la canalizzazione.
 
@@ -167,7 +167,7 @@ Vedi se riesci a trovare modi per condividere il più possibile la proprietà co
 
 * **Concedi l'accesso al commit a ogni collaboratore.** @felixge ha scoperto che rendeva le persone [più entusiaste di migliorare le proprie soluzioni](https://felixge.de/2013/03/11/the-pull-request-hack.html) e ha anche trovato nuovi manutentori per progetti su cui non lavorava da un po'.
 
-* Se il tuo progetto è su GitHub, **sposta il tuo progetto dal tuo account personale a [Organizzazione](https://help.github.com/articles/creating-a-new-organization-account/)** e aggiungilo a almeno un amministratore di backup. Le organizzazioni facilitano il lavoro di progetto con collaboratori esterni.
+* Se il tuo progetto è su GitHub, **sposta il tuo progetto dal tuo account personale a [Organizzazione](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** e aggiungilo a almeno un amministratore di backup. Le organizzazioni facilitano il lavoro di progetto con collaboratori esterni.
 
 La realtà è che [la maggior parte dei progetti ha solo](https://peerj.com/preprints/1233/) uno o due manutentori che svolgono la maggior parte del lavoro. Più grande è il tuo progetto e la tua comunità, più facile sarà trovare aiuto.
 

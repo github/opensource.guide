@@ -28,7 +28,7 @@ Finalmente, seu projeto pode ter dependências que tenham licença ou cuja licen
 
 ## Os projetos públicos do GitHub são open source?
 
-Quando você [cria um novo projeto](https://help.github.com/articles/creating-a-new-repository/) no GitHub, você tem a opção de criar um repositório **privado** ou **público**.
+Quando você [cria um novo projeto](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) no GitHub, você tem a opção de criar um repositório **privado** ou **público**.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -43,7 +43,7 @@ Você pode copiar e colar uma licença existente diretamente no seu projeto.
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), e [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) são as licenças open source mais populares, mas há outras opções disponíveis. Você pode encontrar o texto completo destas licenças e instruções de como usá-las, em [choosealicense.com](https://choosealicense.com/).
 
-Quando você criar um novo projeto no GitHub, será [dada a opção de adição de uma licença](https://help.github.com/articles/open-source-licensing/).
+Quando você criar um novo projeto no GitHub, será [dada a opção de adição de uma licença](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -89,7 +89,7 @@ Como alternativa, você pode fazer com que os colaboradores concordem com antece
 
 ## Meu projeto precisa de um contrato de contribuição adicional?
 
-Provavelmente não. Para a grande maioria dos projetos open source, uma licença open source serve implicitamente como a licença de entrada (de contribuidores) e de saída (para outros contribuidores e usuários). Se o seu projeto estiver no GitHub, os Termos de Serviço do GitHub tratam "entrada=saída" como o [padrão explícito](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Provavelmente não. Para a grande maioria dos projetos open source, uma licença open source serve implicitamente como a licença de entrada (de contribuidores) e de saída (para outros contribuidores e usuários). Se o seu projeto estiver no GitHub, os Termos de Serviço do GitHub tratam "entrada=saída" como o [padrão explícito](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Um contrato de contribuidor adicional - geralmente chamado de Contrato de Licença de Contribuidor (CLA) -- pode criar trabalho administrativo para os mantenedores do projeto. Quanto trabalho um contrato adiciona depende do projeto e da implementação. Um acordo simples pode exigir que os contribuidores confirmem, com um clique, que têm os direitos necessários para contribuir com a licença open source do projeto. Um acordo mais complicado pode exigir revisão legal e aprovação dos empregadores dos colaboradores.
 

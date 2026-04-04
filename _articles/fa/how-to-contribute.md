@@ -440,7 +440,7 @@ related:
 
 قبل از باز کردن <span dir="rtl">issue</span> یا درخواست ادغام، اسناد مشارکت پروژه را بررسی کنید که معمولاً در فایل‌هایی به نام  <span dir="rtl">CONTRIBUTING</span> یا <span dir="rtl">README</span> آورده شدند تا چیزهای خاصی که دنبالش هستید را مطالعه کنید. به عنوان مثال، آن‌ها ممکن است از شما درخواست کنند الگوها را پیروی کنید یا به این نیاز داشته باشند که از این تست‌ها استفاده کنند.
 
-اگر در یک پروژه مشارکت عمیق و اساسی داشته باشید، قبل از مشارکت در پروژه، یک <span dir="rtl">issue</span> باز کنید و سوال کنید. این کار مفید است و باعث می‌شود پروژه‌ی شما مدتی مشاهده شود. (در سایت <span dir="rtl">GitHub</span> می‌توانید [روی «Watch» کلیک کنید](https://help.github.com/articles/watching-repositories/) تا از تمام مکالمات مطلع شوید)، و قبل از انجام دادم کار که ممکن است پذیرفته نشود، اعضای انجمن را بشناسید.
+اگر در یک پروژه مشارکت عمیق و اساسی داشته باشید، قبل از مشارکت در پروژه، یک <span dir="rtl">issue</span> باز کنید و سوال کنید. این کار مفید است و باعث می‌شود پروژه‌ی شما مدتی مشاهده شود. (در سایت <span dir="rtl">GitHub</span> می‌توانید [روی «Watch» کلیک کنید](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) تا از تمام مکالمات مطلع شوید)، و قبل از انجام دادم کار که ممکن است پذیرفته نشود، اعضای انجمن را بشناسید.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -475,7 +475,7 @@ related:
 
 اگر پروژه در <span dir="rtl">GitHub</span> باشد، با روش‌های زیر می‌توانید درخواست ادغام ارسال کنید:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** و یک نسخه برای خودتان کپی کنید. نسخه محلی خود را به مخزن بالادستی متصل کنید. هر از چندگاهی با دستور <span dir="rtl">Pull</span> آخرین نسخه تغییرات در مخزن اصلی را دریافت کنید تا پیش از اینکه تعارضی ما بین نسخه محلی و مخزن ایجاد شد بتوانید با مشکلات احتمالی کمتری تغییرات خود را به سمت مخزن اصلی ارسال کنید. [برای کسب اطلاعات بیشتر اینجا را مرور کنید](https://help.github.com/articles/syncing-a-fork/)
+* **[Fork the repository](https://guides.github.com/activities/forking/)** و یک نسخه برای خودتان کپی کنید. نسخه محلی خود را به مخزن بالادستی متصل کنید. هر از چندگاهی با دستور <span dir="rtl">Pull</span> آخرین نسخه تغییرات در مخزن اصلی را دریافت کنید تا پیش از اینکه تعارضی ما بین نسخه محلی و مخزن ایجاد شد بتوانید با مشکلات احتمالی کمتری تغییرات خود را به سمت مخزن اصلی ارسال کنید. [برای کسب اطلاعات بیشتر اینجا را مرور کنید](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 * **[ایجاد یک شاخه](https://guides.github.com/introduction/flow/)** برای اعمال ویرایش ها.
 * در حین ارسال ها **به مسائل <span dir="rtl">(issue)</span> مرتبط ارجاع دهید** یا در کامنت مربوط به تغییرات جدید به مستندات مربوطه اشاره کنید.(مثال: این تغییر مشکل مطرح شده در مسئله شماره 37 را برطرف می‌کند.)
 * اگر تغییرات شما حاوی تفاوت‌های <span dir="rtl">HTML/CSS</span> باشد، **تصاویر مربوط به قبل و بعد آن را اضافه کنید**. تصاویر را وارد بدنه‌ی درخواست ادغام کنید و رها کنید.

@@ -447,7 +447,7 @@ Ikiwa huwezi kupata wazo lako mahali pengine, uko tayari kuchukua hatua. Ikiwa m
 
 Kabla ya kufungua suala au ombi la kuvuta, angalia nyaraka za kuchangia za mradi (kawaida faili inayoitwa CONTRIBUTING, au katika README), ili kuona ikiwa unahitaji kujumuisha kitu chochote maalum. Kwa mfano, wanaweza kuomba ufuate templeti, au kuhitaji utumie majaribio(tests).
 
-Ikiwa unataka kutoa mchango mkubwa, fungua suala ili kuuliza kabla ya kufanya kazi juu yake. Ni muhimu kufuatilia mradi kwa muda (katika GitHub, [unaweza kubofya "Watch"](https://help.github.com/articles/watching-repositories/) ili kupokea taarifa za mazungumzo yote), na kujifunza kuhusu wanajamii, kabla ya kufanya kazi ambayo huenda isikubaliwe.
+Ikiwa unataka kutoa mchango mkubwa, fungua suala ili kuuliza kabla ya kufanya kazi juu yake. Ni muhimu kufuatilia mradi kwa muda (katika GitHub, [unaweza kubofya "Watch"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) ili kupokea taarifa za mazungumzo yote), na kujifunza kuhusu wanajamii, kabla ya kufanya kazi ambayo huenda isikubaliwe.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -482,7 +482,7 @@ Ombi la kuvuta halihitaji kuwakilisha kazi iliyokamilika. Kawaida ni bora kufung
 
 Ikiwa mradi uko kwenye GitHub, hapa kuna jinsi ya kuwasilisha ombi la kuvuta:
 
-* **["Fork" hazina](https://guides.github.com/activities/forking/)** kisha "clone" kwenye kompyuta yako. Unganisha yako ya ndani na hazina ya asili "upstream" kwa kuongeza kama rimoti. Vuruta mabadiliko kutoka "upstream" mara kwa mara ili uwe na mabadiliko mapya ili wakati unawasilisha ombi lako la kuvuta, migogoro ya kuungana itakuwa na uwezekano mdogo. (Tazama maelekezo ya kina [hapa](https://help.github.com/articles/syncing-a-fork/).)
+* **["Fork" hazina](https://guides.github.com/activities/forking/)** kisha "clone" kwenye kompyuta yako. Unganisha yako ya ndani na hazina ya asili "upstream" kwa kuongeza kama rimoti. Vuruta mabadiliko kutoka "upstream" mara kwa mara ili uwe na mabadiliko mapya ili wakati unawasilisha ombi lako la kuvuta, migogoro ya kuungana itakuwa na uwezekano mdogo. (Tazama maelekezo ya kina [hapa](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Unda tawi](https://guides.github.com/introduction/flow/)** kwa ajili ya marekebisho yako.
 * **Rejelea masuala yoyote muhimu** au nyaraka za kuunga mkono katika PR yako (kwa mfano, "Inafunga #37.")
 * **Jumuisha picha za kabla na baada** ikiwa mabadiliko yako yanajumuisha tofauti katika HTML/CSS. Buruta na uachie picha hizo kwenye mwili wa ombi lako la kuvuta.

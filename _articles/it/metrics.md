@@ -37,7 +37,7 @@ Prima che chiunque possa utilizzare o contribuire al tuo progetto, deve sapere c
 
 ![Grafico del traffico](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Se il tuo progetto è ospitato su GitHub, [puoi vedere](https://help.github.com/articles/about-repository-graphs/#traffic) quante persone arrivano al tuo progetto e da dove provengono . Dalla pagina del tuo progetto, fai clic su Approfondimenti, quindi su Traffico. In questa pagina puoi vedere:
+Se il tuo progetto è ospitato su GitHub, [puoi vedere](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) quante persone arrivano al tuo progetto e da dove provengono . Dalla pagina del tuo progetto, fai clic su Approfondimenti, quindi su Traffico. In questa pagina puoi vedere:
 
 * **Visualizzazioni di pagina totali:** indica quante volte il tuo progetto è stato visualizzato
 
@@ -47,7 +47,7 @@ Se il tuo progetto è ospitato su GitHub, [puoi vedere](https://help.github.com/
 
 * **Contenuti popolari:** indica dove stanno andando i visitatori nel tuo progetto, suddivisi per visualizzazioni di pagina e visitatori unici.
 
-[Le stelle di GitHub](https://help.github.com/articles/about-stars/) possono anche aiutare a fornire una misura di base della popolarità. Anche se le star di GitHub non sono necessariamente legate ai download e all'utilizzo, possono dirti quante persone prestano attenzione al tuo lavoro.
+[Le stelle di GitHub](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) possono anche aiutare a fornire una misura di base della popolarità. Anche se le star di GitHub non sono necessariamente legate ai download e all'utilizzo, possono dirti quante persone prestano attenzione al tuo lavoro.
 
 Potresti anche voler [monitorare la rilevabilità di posizioni specifiche](https://opensource.com/business/16/6/pirate-metrics): ad esempio, Google PageRank, traffico proveniente da referral dal sito web del tuo progetto o referral da altri progetti o siti web open source.
 

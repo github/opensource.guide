@@ -30,7 +30,7 @@ related:
 
 ## هل مشاريع GitHub العامة مفتوحة المصدر؟
 
-عند [إنشاء مشروع جديد](https://help.github.com/articles/creating-a-new-repository/) على GitHub، لديك الخيار لجعل المستودع **خاص** أو **عام**.
+عند [إنشاء مشروع جديد](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) على GitHub، لديك الخيار لجعل المستودع **خاص** أو **عام**.
 
 ![إنشاء مستودع](/assets/images/legal/repo-create-name.png)
 
@@ -44,7 +44,7 @@ related:
 
 [MIT](https://choosealicense.com/licenses/mit/)، [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)، و [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) هي [رخص مفتوحة المصدر شائعة](https://innovationgraph.github.com/global-metrics/licenses)، لكن هناك خيارات أخرى يمكن الاختيار منها. يمكنك العثور على النص الكامل لهذه الرخص، والتعليمات حول كيفية استخدامها، على [choosealicense.com](https://choosealicense.com/).
 
-عند إنشاء مشروع جديد على GitHub، سيُطلب منك [إضافة ترخيص](https://help.github.com/articles/open-source-licensing/).
+عند إنشاء مشروع جديد على GitHub، سيُطلب منك [إضافة ترخيص](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
  <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -95,7 +95,7 @@ related:
 
 ## هل يحتاج مشروعي إلى اتفاقية مساهم إضافية؟ {#هل-يحتاج-مشروعي-الى-اتفاقية-مساهم-اضافية}
 
-على الأرجح لا. بالنسبة لغالبية مشاريع المصدر المفتوح، فإن الترخيص مفتوح المصدر يُعد ضمنيًا بمثابة ترخيص **inbound** (من المساهمين) و **outbound** (إلى المساهمين والمستخدمين الآخرين). إذا كان مشروعك على GitHub، فإن شروط خدمة GitHub تجعل "inbound=outbound" [افتراضيًا وصريحًا](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+على الأرجح لا. بالنسبة لغالبية مشاريع المصدر المفتوح، فإن الترخيص مفتوح المصدر يُعد ضمنيًا بمثابة ترخيص **inbound** (من المساهمين) و **outbound** (إلى المساهمين والمستخدمين الآخرين). إذا كان مشروعك على GitHub، فإن شروط خدمة GitHub تجعل "inbound=outbound" [افتراضيًا وصريحًا](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 عملاً إداريًا على القائمين على صيانة المشروع، يمكن أن تخلق اتفاقية المساهم الإضافية (CLA) مقدار العمل الإضافي الذي تضيفه الاتفاقية حسب المشروع وطريقة التنفيذ. قد تتطلب الاتفاقية البسيطة من المساهمين فقط تأكيدًا، بنقرة واحدة، على أن لديهم الحقوق اللازمة للمساهمة بموجب ترخيص المصادر المفتوحة للمشروع، أما الاتفاقية الأكثر تعقيدًا فقد تتطلب مراجعة قانونية وموافقة رسمية من أصحاب عمل المساهمين.
 

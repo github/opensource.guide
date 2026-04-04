@@ -73,7 +73,7 @@ related:
 
 ابزارهایی مانند [Vossibility](https://github.com/icecrime/vossibility-stack)، می‌تواند به شما کمک کند تا به طور عمومی افرادی که در پروژه مشارکت می‌کنند (یا نمی‌کنند) را ردیابی کنید. ثبت این اطلاعات، جلوی این ذهنیت اجتماع که نگهدارندگان گروهی هستند که تصمیمات خود را به صورت خصوصی اتخاذ می‌کنند، می‌گیرد
 
-در آخر اینکه اگر پروژه‌ی شما در <span dir="rtl">«GitHub»</span> است، انتقال پروژه‌ی خود را از حساب شخصی خود به یک تشکل و اضافه کردن حداقل یک مدیر پشتیبان را مد نظر خود قرار دهید. [تشکل‌های «GitHub»](https://help.github.com/articles/creating-a-new-organization-account/)، مدیریت دسترسی‌ها و مراکز ذخیره‌سازی متعدد را آسان‌تر می‌کنند و پیشینه‌ی پروژه‌ی شما را از طریق [مالکیت مشترک](../building-community/#مالکیت-پروژه-تان-را-به-اشتراک-بگذارید) محافظت می‌کنند.
+در آخر اینکه اگر پروژه‌ی شما در <span dir="rtl">«GitHub»</span> است، انتقال پروژه‌ی خود را از حساب شخصی خود به یک تشکل و اضافه کردن حداقل یک مدیر پشتیبان را مد نظر خود قرار دهید. [تشکل‌های «GitHub»](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)، مدیریت دسترسی‌ها و مراکز ذخیره‌سازی متعدد را آسان‌تر می‌کنند و پیشینه‌ی پروژه‌ی شما را از طریق [مالکیت مشترک](../building-community/#مالکیت-پروژه-تان-را-به-اشتراک-بگذارید) محافظت می‌کنند.
 
 ## چه موقع باید به کسی اجازه‌ی دسترسی کامیت بدهیم؟
 
@@ -81,7 +81,7 @@ related:
 
 از طرف دیگر، به خصوص برای پروژه‌های بزرگتر و پیچیده‌تر، ممکن است بخواهید فقط به افرادی که تعهد خود را نشان داده و به اثبات رسانده‌اند، دسترسی کامیت بدهید. هیچ راه درستی برای انجام این کار وجود ندارد - هر جور که راحت‌تر هستید، عمل کنید!
 
-اگر پروژه‌ی شما در <span dir="rtl">«GitHub»</span> است، می توانید از شاخه‌های محافظت شده [protected branches](https://help.github.com/articles/about-protected-branches/) برای مدیریت افرادی که می‌توانند تحت شرایط خاصی در شاخه‌ای خاص عمل کنند، استفاده کنید
+اگر پروژه‌ی شما در <span dir="rtl">«GitHub»</span> است، می توانید از شاخه‌های محافظت شده [protected branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) برای مدیریت افرادی که می‌توانند تحت شرایط خاصی در شاخه‌ای خاص عمل کنند، استفاده کنید
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

@@ -453,7 +453,7 @@ Als u uw idee nergens anders kunt vinden, bent u klaar om een ​​stap te zett
 
 Voordat je een issue of pull request opent, controleer je de bijdragende documenten van het project (meestal een bestand genaamd CONTRIBUTING, of in de README), om te zien of je iets specifieks moet opnemen. Ze kunnen u bijvoorbeeld vragen een sjabloon te volgen, of eisen dat u tests gebruikt.
 
-Als je een substantiële bijdrage wilt leveren, open dan een vraagstuk voordat je eraan gaat werken. Het is handig om het project een tijdje te bekijken (op GitHub, [u kunt op "Bekijken" klikken](https://help.github.com/articles/watching-repositories/) om op de hoogte te worden gehouden van alle gesprekken), en ken de leden van de gemeenschap voordat u werk gaat doen dat misschien niet wordt geaccepteerd.
+Als je een substantiële bijdrage wilt leveren, open dan een vraagstuk voordat je eraan gaat werken. Het is handig om het project een tijdje te bekijken (op GitHub, [u kunt op "Bekijken" klikken](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) om op de hoogte te worden gehouden van alle gesprekken), en ken de leden van de gemeenschap voordat u werk gaat doen dat misschien niet wordt geaccepteerd.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -491,7 +491,7 @@ Een pull-verzoek hoeft niet het voltooide werk te vertegenwoordigen. Het is mees
 
 Als het project op GitHub staat, kun je als volgt een pull-aanvraag indienen:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** en kloon het lokaal. Verbind uw locale met de originele "upstream" repository door deze toe te voegen als een remote. Haal vaak wijzigingen van "upstream" binnen, zodat u up-to-date blijft, zodat wanneer u uw pull-verzoek indient, samenvoegingsconflicten minder waarschijnlijk zijn. (Zie meer gedetailleerde instructies [hier](https://help.github.com/articles/syncing-a-fork/).)
+* **[Fork the repository](https://guides.github.com/activities/forking/)** en kloon het lokaal. Verbind uw locale met de originele "upstream" repository door deze toe te voegen als een remote. Haal vaak wijzigingen van "upstream" binnen, zodat u up-to-date blijft, zodat wanneer u uw pull-verzoek indient, samenvoegingsconflicten minder waarschijnlijk zijn. (Zie meer gedetailleerde instructies [hier](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Maak een branch aan](https://guides.github.com/introduction/flow/)** voor uw bewerkingen.
 * **Verwijs naar relevante problemen (_issues_)** of ondersteunende documentatie in uw PR (bijvoorbeeld 'Closes #37'.)
 * **Voeg schermafbeeldingen toe van de voor en na** als uw wijzigingen verschillen in HTML / CSS bevatten. Sleep de afbeeldingen naar de hoofdtekst van uw pull-aanvraag.

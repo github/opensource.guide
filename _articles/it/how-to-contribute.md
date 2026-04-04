@@ -447,7 +447,7 @@ Se non riesci a trovare la tua idea altrove, sei pronto a fare una mossa. Se il 
 
 Prima di aprire un problema o una richiesta pull, controlla i documenti che contribuiscono al progetto (di solito un file chiamato CONTRIBUTING o nel README) per vedere se è necessario includere qualcosa di specifico. Ad esempio, potrebbero chiederti di seguire uno schema o richiederti di utilizzare dei test.
 
-Se vuoi dare un contributo significativo, apri un issue da chiedere prima di lavorarci. È utile guardare il progetto per un po' (su GitHub, [puoi fare clic su "Guarda"](https://help.github.com/articles/watching-repositories/) per ricevere una notifica di tutte le conversazioni) e accedere a conoscere i membri della comunità prima di svolgere lavori che potrebbero non essere accettati.
+Se vuoi dare un contributo significativo, apri un issue da chiedere prima di lavorarci. È utile guardare il progetto per un po' (su GitHub, [puoi fare clic su "Guarda"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) per ricevere una notifica di tutte le conversazioni) e accedere a conoscere i membri della comunità prima di svolgere lavori che potrebbero non essere accettati.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -482,7 +482,7 @@ Una richiesta pull non deve rappresentare un lavoro completato. Di solito è meg
 
 Se il progetto è su GitHub, ecco come inviare una richiesta pull:
 
-* **[Fork il repository](https://guides.github.com/activities/forking/)** e clonalo localmente. Connetti il ​​tuo locale al repository upstream originale aggiungendolo come remoto. Estrai spesso le modifiche da "upstream" per rimanere aggiornato, quindi quando invii la tua richiesta di pull, i conflitti di unione saranno meno probabili. (Vedi istruzioni più dettagliate [qui](https://help.github.com/articles/syncing-a-fork/).)
+* **[Fork il repository](https://guides.github.com/activities/forking/)** e clonalo localmente. Connetti il ​​tuo locale al repository upstream originale aggiungendolo come remoto. Estrai spesso le modifiche da "upstream" per rimanere aggiornato, quindi quando invii la tua richiesta di pull, i conflitti di unione saranno meno probabili. (Vedi istruzioni più dettagliate [qui](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Crea un ramo](https://guides.github.com/introduction/flow/)** per le tue modifiche.
 * **Elenca eventuali problemi rilevanti** o documentazione di supporto nel tuo PR (ad esempio "Chiude n. 37.")
 * **Includi screenshot prima e dopo** se le modifiche comportano differenze HTML/CSS. Trascina e rilascia le immagini nel corpo della tua richiesta pull.

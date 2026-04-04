@@ -28,7 +28,7 @@ Akhirnya, projek anda mungkin mempunyai kebergantungan dengan keperluan lesen ya
 
 ## Adakah projek GitHub awam terbuka?
 
-Bila kamu [create a new project](https://help.github.com/articles/creating-a-new-repository/) di GitHub, anda mempunyai pilihan untuk menjadikan repositori **peribadi** atau **awam**.
+Bila kamu [create a new project](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) di GitHub, anda mempunyai pilihan untuk menjadikan repositori **peribadi** atau **awam**.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Anda bernasib baik, kerana hari ini, lesen sumber terbuka diseragamkan dan mudah
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) adalah lesen sumber terbuka yang paling popular, tetapi ada pilihan lain untuk dipilih. Anda boleh mendapatkan teks lengkap lesen ini, dan arahan mengenai cara menggunakannya, di[choosealicense.com](https://choosealicense.com/).
 
-Apabila anda membuat projek baru di GitHub, anda akan menjadi [asked to add a license](https://help.github.com/articles/open-source-licensing/).
+Apabila anda membuat projek baru di GitHub, anda akan menjadi [asked to add a license](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -88,7 +88,7 @@ Sebagai alternatif, anda boleh meminta penyumbang bersetuju terlebih dahulu (mel
 
 ## Adakah projek saya memerlukan perjanjian penyumbang tambahan?
 
-Mungkin tidak. Untuk sebahagian besar projek sumber terbuka, lesen sumber terbuka secara implisit berfungsi sebagai lesen masuk (dari penyumbang) dan keluar (kepada penyumbang dan pengguna lain). Sekiranya projek anda berada di GitHub, Syarat Perkhidmatan GitHub menjadikan "inbound = outbound" sebagai [explicit default](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Mungkin tidak. Untuk sebahagian besar projek sumber terbuka, lesen sumber terbuka secara implisit berfungsi sebagai lesen masuk (dari penyumbang) dan keluar (kepada penyumbang dan pengguna lain). Sekiranya projek anda berada di GitHub, Syarat Perkhidmatan GitHub menjadikan "inbound = outbound" sebagai [explicit default](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Perjanjian penyumbang tambahan - sering disebut Contributor License Agreement (CLA) - dapat membuat kerja pentadbiran untuk penyelenggara projek. Berapa banyak kerja yang ditambahkan oleh perjanjian bergantung pada projek dan pelaksanaannya. Perjanjian mudah mungkin memerlukan penyumbang mengesahkan, dengan satu klik, bahawa mereka mempunyai hak yang diperlukan untuk menyumbang di bawah lesen sumber terbuka projek. Perjanjian yang lebih rumit mungkin memerlukan semakan undang-undang dan pendaftaran dari majikan pencarum.
 

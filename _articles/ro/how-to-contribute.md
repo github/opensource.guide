@@ -477,7 +477,7 @@ Dacă nu-ți poți găsi ideea altundeva, ești pregătit să faci o mutare. Dac
 
 Înainte de a deschide o problemă sau o cerere de pull, verifică documentația de contribuire a proiectului (de obicei un fișier numit CONTRIBUTING, sau în README), pentru a vedea dacă trebuie să incluzi ceva specific. De exemplu, ei îți pot cere să urmezi un șablon, sau să îți ceară să folosești teste.
 
-Dacă dorești să faci o contribuție substanțială, deschide o problemă și întreabă înainte de a lucra pe ea. Este de ajutor să urmăriți proiectul un timp (pe GitHub, [poți da clic pe "Watch"](https://help.github.com/articles/watching-repositories/) pentru a fi anunțat de toate conversațiile), și să începi să cunoști membrii comunității, înainte de a face muncă ce ar putea să nu fie acceptată.
+Dacă dorești să faci o contribuție substanțială, deschide o problemă și întreabă înainte de a lucra pe ea. Este de ajutor să urmăriți proiectul un timp (pe GitHub, [poți da clic pe "Watch"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) pentru a fi anunțat de toate conversațiile), și să începi să cunoști membrii comunității, înainte de a face muncă ce ar putea să nu fie acceptată.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -519,7 +519,7 @@ O cerere de pull nu trebuie să reprezinte muncă finalizată. Este de obicei ma
 
 Dacă proiectul este pe GitHub, iată cum trimiți o cerere de pull:
 
-* **[Bifurcă depozitul](https://guides.github.com/activities/forking/)** și clonează-l local. Conectează depozitul local la depozitul „upstream” original prin adăugarea lui ca un remote. Trage înăuntru schimbările din „upstream” des pentru a fii la curent astfel încât când îți trimiți cererea de pull, conflictele de îmbinare vor fi mai puțin probabile. (Vezi instrucțiuni mai detaliate [aici](https://help.github.com/articles/syncing-a-fork/).)
+* **[Bifurcă depozitul](https://guides.github.com/activities/forking/)** și clonează-l local. Conectează depozitul local la depozitul „upstream” original prin adăugarea lui ca un remote. Trage înăuntru schimbările din „upstream” des pentru a fii la curent astfel încât când îți trimiți cererea de pull, conflictele de îmbinare vor fi mai puțin probabile. (Vezi instrucțiuni mai detaliate [aici](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Creează o ramură](https://guides.github.com/introduction/flow/)** pentru editările tale.
 * **Referă oricare problemă relevantă** sau documentație justificativă în PR-ul tău (de exemplu, „Closes #37.”)
 * **Include capturi de ecran de dinainte și de după** dacă schimbările tale includ diferențe în HTML/CSS. Trage și lasă imaginile în corpul cererii tale de pull.

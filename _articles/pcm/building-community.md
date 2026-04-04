@@ -28,7 +28,7 @@ Start with your documentation:
 
 * **Make am easy for person to use your project.** [One friendly README](../starting-a-project/#writing-a-readme) and clear code examples fit make am easier for anybody wey land for your project to begin.
 * **Explain contribution make aeh clear**, using [your CONTRIBUTING file](../starting-a-project/#writing-your-contributing-guidelines) and make sure say your issues dey up-to-date.
-* **Good first issues**: To helep tear rubber contributors start, think am say [labeling issues wey dey simple for beginners to handle](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub go show these issues for different places for the platform, e go increase useful contributions and reduce friction for people wey wan handle issues wey too hard for their level.
+* **Good first issues**: To helep tear rubber contributors start, think am say [labeling issues wey dey simple for beginners to handle](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub go show these issues for different places for the platform, e go increase useful contributions and reduce friction for people wey wan handle issues wey too hard for their level.
 
 [GitHub's 2017 Open Source Survey](http://opensourcesurvey.org/2017/) talk say incomplete or confusing documentation na the biggest problem wey open source users dey face. Good documentation go invite people to interact with your project. E fit happen say one person go open an issue or pull request. Use these interactions as opportunities to waka them down the funnel.
 
@@ -161,7 +161,7 @@ Try look for ways wey you fit share this ownership with your community as much a
 
 * **Give every contributor access to commit.** @felixge see say this one dey ginger people, e make dem dey shine their patches [more](https://felixge.de/2013/03/11/the-pull-request-hack.html), and e even find new maintainers for projects wey e never dey touch for long.
 
-* If your project dey on GitHub, **move your project from your personal account go [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** and add at least one backup admin. Organizations dey make am easy to work with external people.
+* If your project dey on GitHub, **move your project from your personal account go [Organization](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** and add at least one backup admin. Organizations dey make am easy to work with external people.
 
 The fact na say [most projects get](https://peerj.com/preprints/1233/) only one or two maintainers wey dey do plenty work. As your project dey grow or your community dey big pass, e go dey easy to find help.
 

@@ -39,7 +39,7 @@ Bevor Leute Ihr Projekt nutzen oder zu ihm beitragen können, müssen sie wissen
 
 ![Besucherzahlen](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Wenn Ihr Projekt auf GitHub gehostet wird, [können Sie sich ansehen](https://help.github.com/articles/about-repository-graphs/#traffic), wie viele Personen Ihr Projekt finden und wie sie es gefunden haben. Im Repo Ihres Projektes, klicken Sie "Insights" und dann "Traffic". Auf der Seite sehen Sie:
+Wenn Ihr Projekt auf GitHub gehostet wird, [können Sie sich ansehen](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository), wie viele Personen Ihr Projekt finden und wie sie es gefunden haben. Im Repo Ihres Projektes, klicken Sie "Insights" und dann "Traffic". Auf der Seite sehen Sie:
 
 * **Views** zeigen an, wie oft Ihr Projekt angesehen wurde.
 
@@ -49,7 +49,7 @@ Wenn Ihr Projekt auf GitHub gehostet wird, [können Sie sich ansehen](https://he
 
 * **Popular content** zeigt, wohin Besucher\*innen auf Ihrer Projektseite gehen, aufgeschlüsselt nach Seitenaufrufen und einzelnen Besucher\*innen.
 
-[GitHub-Sterne](https://help.github.com/articles/about-stars/) korrelieren nicht unbedingt mit Downloads und Nutzung, aber zeigen Ihnen, wie viele Menschen Ihre Arbeit schätzen.
+[GitHub-Sterne](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) korrelieren nicht unbedingt mit Downloads und Nutzung, aber zeigen Ihnen, wie viele Menschen Ihre Arbeit schätzen.
 
 Vielleicht möchten Sie auch [die Auffindbarkeit an bestimmten Orten verfolgen](https://opensource.com/business/16/6/pirate-metrics): z.B. Google PageRank, von Ihrer Projektwebsite ausgehende Empfehlungen, oder eingehende Empfehlungen anderer Open-Source-Projekte oder -Webseiten.
 

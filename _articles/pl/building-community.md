@@ -28,7 +28,7 @@ Zacznij od dokumentacji:
 
 * **Ułatw innym korzystanie z Twojego projektu.** [Przyjazny README](../starting-a-project/#pisanie-readme) jasne przykłady kodu ułatwią rozpoczęcie pracy każdemu, kto wyląduje na Twoim projekcie.
 * **Wyjaśnij, jak wnieść wkład**, używając [twój plik CONTRIBUTING](../starting-a-project/#pisanie-swoich-wytycznych) i aktualizując swoje issues.
-* **Dobre pierwsze issues**: Aby pomóc nowym autorom w rozpoczęciu pracy, rozważ wyraźnie [problemy z etykietowaniem, które są na tyle proste, że początkujący mogą je rozwiązać](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub wyświetli te problemy w różnych miejscach na platformie, zwiększając użyteczny wkład i zmniejszając tarcie ze strony użytkowników zajmujących się problemami, które są zbyt trudne dla ich poziomu.
+* **Dobre pierwsze issues**: Aby pomóc nowym autorom w rozpoczęciu pracy, rozważ wyraźnie [problemy z etykietowaniem, które są na tyle proste, że początkujący mogą je rozwiązać](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub wyświetli te problemy w różnych miejscach na platformie, zwiększając użyteczny wkład i zmniejszając tarcie ze strony użytkowników zajmujących się problemami, które są zbyt trudne dla ich poziomu.
 
 [Ankieta GitHuba 2017 Open Source](http://opensourcesurvey.org/2017/) wykazała, że niekompletna lub myląca dokumentacja jest największym problemem dla użytkowników open source. Dobra dokumentacja zachęca ludzi do interakcji z Twoim projektem. W końcu ktoś otworzy problem lub wyciągnie prośbę. Użyj tych interakcji jako okazji do przeniesienia ich w dół ścieżki.
 
@@ -175,7 +175,7 @@ Sprawdź, czy możesz w jak największym stopniu znaleźć sposób na dzielenie 
 
 * **Daj dostęp każdemu współautorowi.** @felixge stwierdził, że to sprawiło, że ludzie są [bardziej podekscytowani dopracowywaniem swoich łat](https://felixge.de/2013/03/11/the-pull-request-hack.html), a nawet znalazł nowych opiekunów dla projektów, nad którymi on od jakiegoś czasu nie pracował.
 
-* Jeśli Twój projekt jest w serwisie GitHub, **przenieś swój projekt z konta osobistego do [Organizacji](https://help.github.com/articles/creating-a-new-organization-account/)** i dodaj co najmniej jednego administratora kopii zapasowych. Organizacje ułatwiają pracę nad projektami z zewnętrznymi współpracownikami.
+* Jeśli Twój projekt jest w serwisie GitHub, **przenieś swój projekt z konta osobistego do [Organizacji](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** i dodaj co najmniej jednego administratora kopii zapasowych. Organizacje ułatwiają pracę nad projektami z zewnętrznymi współpracownikami.
 
 Rzeczywistość jest taka, że [większość projektów ma tylko](https://peerj.com/preprints/1233/) jednego lub dwóch opiekunów, którzy wykonują większość pracy. Im większy projekt i większa społeczność, tym łatwiej jest znaleźć pomoc.
 

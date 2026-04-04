@@ -433,7 +433,7 @@ Se você não encontrar sua ideia em outro lugar, você está pronto para fazer 
 
 Antes de abrir uma issue ou pull request, verifique os documentos de contribuição do projeto (geralmente um arquivo chamado CONTRIBUTING ou no README), para ver se é necessário incluir algo específico. Por exemplo, eles podem pedir que você siga um modelo ou exigir que você use testes.
 
-Se você quiser fazer uma contribuição substancial, abra uma issue para perguntar antes de trabalhar nela. É útil olhar o projeto por um tempo (no GitHub, [você pode clicar em "Watch"](https://help.github.com/articles/watching-repositories/) para ser notificado de todas as conversas) e conhecer os membros da comunidade, antes de realizar trabalhos que possam não ser aceitos.
+Se você quiser fazer uma contribuição substancial, abra uma issue para perguntar antes de trabalhar nela. É útil olhar o projeto por um tempo (no GitHub, [você pode clicar em "Watch"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) para ser notificado de todas as conversas) e conhecer os membros da comunidade, antes de realizar trabalhos que possam não ser aceitos.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -468,7 +468,7 @@ Um pull request não precisa representar o trabalho final. Geralmente, é melhor
 
 Se o projeto estiver no GitHub, veja como enviar um pull request:
 
-* **[Faça um fork do repositório](https://guides.github.com/activities/forking/)** e clone localmente. Conecte seu repositório local com o "upstream" adicionado-o como repositório remoto. Baixe as alterações do "upstream" com frequência para que você fique atualizado, quando enviar seu pull request, os conflitos de mesclagem serão menos prováveis. (Veja instruções mais detalhadas [aqui](https://help.github.com/articles/syncing-a-fork/).)
+* **[Faça um fork do repositório](https://guides.github.com/activities/forking/)** e clone localmente. Conecte seu repositório local com o "upstream" adicionado-o como repositório remoto. Baixe as alterações do "upstream" com frequência para que você fique atualizado, quando enviar seu pull request, os conflitos de mesclagem serão menos prováveis. (Veja instruções mais detalhadas [aqui](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Crie um branch](https://guides.github.com/introduction/flow/)** para suas edições.
 * **Referencie qualquer issue relevante** ou documentação de suporte em seu PR (por exemplo, "Closes #37.")
 * **Inclua imagens do antes e depois** se suas mudanças incluírem diferenças no HTML/CSS. Copie e cole as imagens na mensagem do seu pull request.

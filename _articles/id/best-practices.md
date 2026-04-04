@@ -213,7 +213,7 @@ Salah satu cara penting yang bisa dilakukan untuk melakukan otomatisasi proyek A
 
 Pengujian otomatis membantu kontributor bahwa mereka tidak merusak apapun. Pengujian otomatis juga mempermudah Anda untuk melakukan review dan menerima kontribusi dengan cepat. Semakin cepat Anda merespon, maka komunitas Anda juga akan semakin tertarik.
 
-Lakukan pengaturan untuk pengujian otomatis yang akan berjalan pada semua kontribusi yang masuk, dan pastikan pengujian Anda dapat dilakukan dengan mudah oleh kontributor secara lokal. Pastikan bahwa semua kontribusi kode melewati pengujian Anda sebelum mereka bisa diajukan. Anda perlu menetapkan standar minimal kualitas dari semua pengajuan. [Penggunaan pengujian status](https://help.github.com/articles/about-required-status-checks/) pada GitHub dapat membantu memastikan tidak ada perubahan yang disetujui tanpa melalui pengujian Anda.
+Lakukan pengaturan untuk pengujian otomatis yang akan berjalan pada semua kontribusi yang masuk, dan pastikan pengujian Anda dapat dilakukan dengan mudah oleh kontributor secara lokal. Pastikan bahwa semua kontribusi kode melewati pengujian Anda sebelum mereka bisa diajukan. Anda perlu menetapkan standar minimal kualitas dari semua pengajuan. [Penggunaan pengujian status](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) pada GitHub dapat membantu memastikan tidak ada perubahan yang disetujui tanpa melalui pengujian Anda.
 
 Jika Anda menambahkan pengujian, pastikan untuk menjelaskan bagaimana mereka bekerja pada dokumen CONTRIBUTING.
 

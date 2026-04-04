@@ -28,7 +28,7 @@ related:
 
 ## 깃허브의 공개 프로젝트는 오픈소스인가요?
 
-깃허브에서 [새로운 프로젝트를 만들려고](https://help.github.com/articles/creating-a-new-repository/) 할 때, **비공개** 또는 **공개** 저장소로 만드는 옵션을 선택할 수 있습니다.
+깃허브에서 [새로운 프로젝트를 만들려고](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) 할 때, **비공개** 또는 **공개** 저장소로 만드는 옵션을 선택할 수 있습니다.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ related:
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), 그리고 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)는 가장 인기있는 오픈소스 라이선스입니다. 그러나 선택할 수 있는 다른 옵션도 있습니다. [choosealicense.com](https://choosealicense.com/)에서 이러한 라이선스의 전체 텍스트 및 사용 방법에 대한 지침을 찾을 수 있습니다.
 
-GitHub에서 새로운 프로젝트를 만들 때, [라이선스를 추가할 것인지 물어봅니다](https://help.github.com/articles/open-source-licensing/).
+GitHub에서 새로운 프로젝트를 만들 때, [라이선스를 추가할 것인지 물어봅니다](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -88,7 +88,7 @@ GitHub에서 새 프로젝트를 만들면, 라이선스를 선택할 수 있는
 
 ## 내 프로젝트에 추가 기여자 계약이 필요한가요?
 
-아마도 그렇지 않습니다. 대다수의 오픈소스 프로젝트에서 공개 소스 라이선스는 인바운드(기여자)와 아웃바운드(다른 참여자 및 사용자) 라이선스로 암묵적으로 사용됩니다. 프로젝트가 GitHub에 있는 경우, GitHub 서비스 약관은 "인바운드 = 아웃 바운드" [명시적 기본값](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license)으로 지정합니다.
+아마도 그렇지 않습니다. 대다수의 오픈소스 프로젝트에서 공개 소스 라이선스는 인바운드(기여자)와 아웃바운드(다른 참여자 및 사용자) 라이선스로 암묵적으로 사용됩니다. 프로젝트가 GitHub에 있는 경우, GitHub 서비스 약관은 "인바운드 = 아웃 바운드" [명시적 기본값](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license)으로 지정합니다.
 
 기여자 라이선스 계약(CLA)이라고도 부르는 추가 기여자 계약은 프로젝트 메인테이너를 위한 관리 작업을 생성할 수 있습니다. 계약서에 얼마나 많은 작업을 추가할지는 프로젝트와 구현에 달려 있습니다. 간단한 동의는 프로젝트 참여자가 프로젝트 오픈소스 라이선스 하에 기여할 수 있는 권리를 클릭으로 확인해야 할 수도 있습니다. 보다 복잡한 합의는 법적 검토와 기여자 고용주의 서명을 요구할 수 있습니다.
 

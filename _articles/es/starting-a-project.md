@@ -113,9 +113,9 @@ Generalmente, puedes abrir el c&oacute;digo de tu proyecto cuando te sientas c&o
 
 No importa en qu&eacute; etapa decidas hacerlo, cada proyecto debe incluir la siguiente documentaci&oacute;n.
 
-* [Licencia de C&oacute;digo Abierto](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Pautas para contribuir](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Licencia de C&oacute;digo Abierto](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Pautas para contribuir](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [C&oacute;digo de conducta](../code-of-conduct/)
 
 Como encargado de mantenimiento, estos componentes ayudar&aacute;n a comunicar tus deseos, manejar tus contribuciones y proteger los derechos legales de cada uno (incluy&eacute;ndote). Incrementan significativamente tus posibilidades de tener una experiencia positiva.
@@ -189,7 +189,7 @@ Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu arc
 
 Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Vincula tu CONTRIBUTING desde tu README, as&iacute; m&aacute;s personas pueden verlo.Si tu [colocas el archivo en tu repositorio](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub autom&aacute;ticamente lo vincular&aacute; cuando un contribuyente cree un issue o abra un pull request.
+Vincula tu CONTRIBUTING desde tu README, as&iacute; m&aacute;s personas pueden verlo.Si tu [colocas el archivo en tu repositorio](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), GitHub autom&aacute;ticamente lo vincular&aacute; cuando un contribuyente cree un issue o abra un pull request.
 
 ![Pautas para contribuir](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -262,7 +262,7 @@ No es necesario escribir una "gu&iacute;a de estilo" para tus proyectos cuando r
 
 ## Tu checklist a armar previamente al lanzamiento del proyecto
 
-Est&aacute;s listo para iniciar tu propio proyecto de C&oacute;digo Abierto. Aqu&iacute; dejamos un checklist que puede ayudar. &iexcl;Una vez marcadas todas las casillas estás listo para continuar! [Clickea "publish"](https://help.github.com/articles/making-a-private-repository-public/).
+Est&aacute;s listo para iniciar tu propio proyecto de C&oacute;digo Abierto. Aqu&iacute; dejamos un checklist que puede ayudar. &iexcl;Una vez marcadas todas las casillas estás listo para continuar! [Clickea "publish"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility).
 
 **Documentaci&oacute;n**
 

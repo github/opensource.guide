@@ -29,7 +29,7 @@ redirect_from: /zh-tw/legal/
 
 ## 公開的GitHub專案是開源的嗎
 
-當你們在GitHub上[創建一個新專案](https://help.github.com/articles/creating-a-new-repository/) 時，你們可以選擇將倉庫設置成**private**或者**public**。
+當你們在GitHub上[創建一個新專案](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) 時，你們可以選擇將倉庫設置成**private**或者**public**。
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -43,7 +43,7 @@ redirect_from: /zh-tw/legal/
 
 [MIT](https://choosealicense.com/licenses/mit/)，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)和[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)都是非常流行的開源許可協議，但是也有其它選擇。你們可以在[choosealicense.com](https://choosealicense.com/)上找到這些許可協議的全部文本，同時說明了如何使用他們。
 
-當你們在GitHub上創建了一個新專案，你們會被[要求添加一個許可協議](https://help.github.com/articles/open-source-licensing/)。
+當你們在GitHub上創建了一個新專案，你們會被[要求添加一個許可協議](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/282759?v=3&s=400" class="pquote-avatar" alt="avatar">

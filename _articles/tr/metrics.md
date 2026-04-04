@@ -37,7 +37,7 @@ Herhangi biriniz projenizi kullanmadan veya katkıda bulunmadan önce, onun var 
 
 ![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü ve nereden geldikleri [görüntüleyebilirsiniz](https://help.github.com/articles/about-repository-graphs/#traffic). Projenizin sayfasından "Insights" menüsünü, ardından "Traffic" alt menüsünü tıklayın. Bu sayfada şunları görebilirsiniz:
+Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü ve nereden geldikleri [görüntüleyebilirsiniz](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository). Projenizin sayfasından "Insights" menüsünü, ardından "Traffic" alt menüsünü tıklayın. Bu sayfada şunları görebilirsiniz:
 
 * **Toplam sayfa görüntüleme:** Projenizin kaç kez görüntülendiğini gösterir
 
@@ -47,7 +47,7 @@ Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü
 
 * **Popüler içerik:** Ziyaretçilerin projenizde nereye gittiğini, sayfa görünümlerine ve benzersiz ziyaretçilere göre ayrıldığını gösterir.
 
-[GitHub yıldızları](https://help.github.com/articles/about-stars/) ayrıca temel bir popülarite ölçüsü sağlamaya yardımcı olabilir. GitHub yıldızları, indirmeler ve kullanımla mutlaka ilişkilendirilmezken, size kaç kişinin çalışmanızdan haberdar olduğunu söyleyebilirler.
+[GitHub yıldızları](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) ayrıca temel bir popülarite ölçüsü sağlamaya yardımcı olabilir. GitHub yıldızları, indirmeler ve kullanımla mutlaka ilişkilendirilmezken, size kaç kişinin çalışmanızdan haberdar olduğunu söyleyebilirler.
 
 [Belirli yerlerdeki keşfedilebilirliği izlemek](https://opensource.com/business/16/6/pirate-metrics) isteyebilirsiniz: örneğin, Google PageRank, projenizin web sitesinden yönlendirilen trafik veya diğer açık kaynaklı projelerden veya web sitelerinden gelen yönlendirmeler.
 

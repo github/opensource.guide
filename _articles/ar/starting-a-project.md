@@ -108,9 +108,9 @@ related:
 
 بغض النظر عن المرحلة التي تقرر فيها فتح مصدر مشروعك، يجب أن يتضمن كل مشروع التوثيق التالي:
 
-* [ترخيص المصدر المفتوح](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [إرشادات المساهمة](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [ترخيص المصدر المفتوح](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [إرشادات المساهمة](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [قواعد السلوك](../code-of-conduct/)
 
 كمسؤول، ستساعدك هذه المكونات في توصيل التوقعات، وإدارة المساهمات، وحماية الحقوق القانونية للجميع (بما في ذلك حقوقك). تزيد بشكل كبير من فرص حصولك على تجربة إيجابية.
@@ -184,7 +184,7 @@ related:
 
 للمزيد من المساعدة في كتابة ملف CONTRIBUTING الخاص بك، راجع قالب دليل المساهمة لـ @nayafia [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) أو ["كيفية بناء CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) لـ @mozilla.
 
-اربط ملف CONTRIBUTING الخاص بك من README، حتى يراه المزيد من الناس. إذا [وضعت ملف CONTRIBUTING في مستودع مشروعك](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)، فسيربط GitHub تلقائيًا إلى ملفك عندما ينشئ مساهم issue أو يفتح pull request.
+اربط ملف CONTRIBUTING الخاص بك من README، حتى يراه المزيد من الناس. إذا [وضعت ملف CONTRIBUTING في مستودع مشروعك](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)، فسيربط GitHub تلقائيًا إلى ملفك عندما ينشئ مساهم issue أو يفتح pull request.
 
 ![إرشادات المساهمة](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -257,7 +257,7 @@ related:
 
 ## قائمة التحقق قبل الإطلاق
 
-هل أنت مستعد لفتح مصدر مشروعك؟ إليك قائمة تحقق للمساعدة. ضع علامة على جميع المربعات؟ أنت مستعد للانطلاق! [انقر على "نشر"](https://help.github.com/articles/making-a-private-repository-public/) وربت على ظهرك.
+هل أنت مستعد لفتح مصدر مشروعك؟ إليك قائمة تحقق للمساعدة. ضع علامة على جميع المربعات؟ أنت مستعد للانطلاق! [انقر على "نشر"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) وربت على ظهرك.
 
 **التوثيق**
 

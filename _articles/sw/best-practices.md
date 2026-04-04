@@ -165,7 +165,7 @@ Huna haja ya kufanya kila kitu mwenyewe. Jamii ya mradi wako ipo kwa sababu! Hat
 
 Ikiwa unatafuta wengine kusaidia, anza kwa kuuliza.
 
-Njia moja ya kupata wachangiaji wapya ni wazi [kuweka lebo kwenye masuala ambayo ni rahisi vya kutosha kwa waanzilishi kushughulikia](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels). GitHub kisha itawasilisha masuala haya katika maeneo mbalimbali kwenye jukwaa, kuongeza mwonekano wao.
+Njia moja ya kupata wachangiaji wapya ni wazi [kuweka lebo kwenye masuala ambayo ni rahisi vya kutosha kwa waanzilishi kushughulikia](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels). GitHub kisha itawasilisha masuala haya katika maeneo mbalimbali kwenye jukwaa, kuongeza mwonekano wao.
 
 Unapowaona wachangiaji wapya wakifanya michango mara kwa mara, tambua kazi yao kwa kuwapea majukumu zaidi. Andika jinsi wengine wanaweza kukua katika nafasi za uongozi ikiwa wanataka.
 
@@ -215,7 +215,7 @@ Mojawapo ya njia muhimu zaidi unaweza kufanya mradi wako otomatiki ni kwa kuonge
 
 Majaribio huwasaidia wachangiaji kujiamini kuwa hawatavunja chochote. Pia hukurahisishia kukagua na kukubali michango haraka. Kadiri unavyokuwa msikivu zaidi, ndivyo jumuiya yako inavyoweza kuhusika zaidi.
 
-Weka majaribio ya kiotomatiki ambayo yataendeshwa kwa michango yote inayoingia, na uhakikishe kuwa majaribio yako yanaweza kufanyiwa "locally" na wachangiaji kwa urahisi. Inahitaji kwamba michango yote ya misimbo ipite majaribio yako kabla ya kuwasilishwa. Utasaidia kuweka kiwango cha chini kabisa cha ubora kwa mawasilisho yote. [Ukaguzi wa hali unaohitajika](https://help.github.com/articles/about-required-status-checks/) kwenye GitHub inaweza kusaidia kuhakikisha hakuna mabadiliko yanayounganishwa bila majaribio yako kupita.
+Weka majaribio ya kiotomatiki ambayo yataendeshwa kwa michango yote inayoingia, na uhakikishe kuwa majaribio yako yanaweza kufanyiwa "locally" na wachangiaji kwa urahisi. Inahitaji kwamba michango yote ya misimbo ipite majaribio yako kabla ya kuwasilishwa. Utasaidia kuweka kiwango cha chini kabisa cha ubora kwa mawasilisho yote. [Ukaguzi wa hali unaohitajika](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) kwenye GitHub inaweza kusaidia kuhakikisha hakuna mabadiliko yanayounganishwa bila majaribio yako kupita.
 
 Ukiongeza majaribio, hakikisha umeeleza jinsi yanavyofanya kazi katika faili yako ya KUCHANGIA.
 

@@ -30,7 +30,7 @@ related:
 
 * **سهّل على أي شخص استخدام المشروع .** [ملف README سهل الاستخدام](../starting-a-project/#كتابة-ملف-README) وأمثلة كود واضحة تجعل من السهل على أي شخص يزور مشروعك أن يبدأ بسرعة.
 * **اشرح بوضوح كيفية المساهمة،** استخدم [ملف CONTRIBUTING الخاص بك](../starting-a-project/#كتابة-ارشادات-المساهمة-الخاصة-بك) وحافظ على تحديث الـ issues باستمرار.
-* **مهام أولية سهلة للمساهمين الجدد**: لمساعدة المساهمين الجدد على البدء، ضع تسميات واضحة على الـ issues التي يمكن للمبتدئين التعامل معها بسهولة ([وضع labels على الـ issues التي تكون بسيطة بما يكفي ليستطيع المبتدئون التعامل معها.](https://help.github.com/en/articles/helping-new-contributors-find-your-project-with-labels)). سيعرض GitHub هذه الـ issues في أماكن مختلفة على المنصة، مما يزيد المساهمات المفيدة ويقلل من friction عند التعامل مع مشاكل صعبة جدًا لمستوى المستخدم.
+* **مهام أولية سهلة للمساهمين الجدد**: لمساعدة المساهمين الجدد على البدء، ضع تسميات واضحة على الـ issues التي يمكن للمبتدئين التعامل معها بسهولة ([وضع labels على الـ issues التي تكون بسيطة بما يكفي ليستطيع المبتدئون التعامل معها.](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/encouraging-helpful-contributions-to-your-project-with-labels)). سيعرض GitHub هذه الـ issues في أماكن مختلفة على المنصة، مما يزيد المساهمات المفيدة ويقلل من friction عند التعامل مع مشاكل صعبة جدًا لمستوى المستخدم.
 
 [استطلاع GitHub 2017 عن الـ Open Source](http://opensourcesurvey.org/2017/) أظهر أن الوثائق غير المكتملة أو المربكة هي أكبر مشكلة تواجه مستخدمي الـ open source. توثيق جيد يدعو الناس للتفاعل مع مشروعك. في النهاية، سيقوم شخص ما بفتح issue أو pull request. استخدم هذه التفاعلات كفرص لتحريكهم إلى أسفل القمع (funnel).
 
@@ -169,7 +169,7 @@ related:
 
 * **امنح كل مساهم صلاحية commit.** وجد @felixge أن هذا جعل الناس [أكثر حماسًا لتحسين التعديلات الخاصة بهم](https://felixge.de/2013/03/11/the-pull-request-hack.html)، وحتى وجد مساهمين جدد لمشاريع لم يعمل عليها منذ فترة.
 
-* إذا كان مشروعك على GitHub، **انقل مشروعك من حسابك الشخصي إلى [Organization](https://help.github.com/articles/creating-a-new-organization-account/)** وأضف على الأقل مشرفًا احتياطيًا واحدًا. الـ Organizations تسهل العمل على المشاريع مع مساهمين خارجيين.
+* إذا كان مشروعك على GitHub، **انقل مشروعك من حسابك الشخصي إلى [Organization](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)** وأضف على الأقل مشرفًا احتياطيًا واحدًا. الـ Organizations تسهل العمل على المشاريع مع مساهمين خارجيين.
 
 الواقع هو أن [معظم المشاريع](https://peerj.com/preprints/1233/) لديها مشرف أو مشرفان يقومان بمعظم العمل. كلما كان مشروعك ومجتمعك أكبر، كان العثور على المساعدة أسهل.
 

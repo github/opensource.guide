@@ -114,9 +114,9 @@ redirect_from: /zh-tw/starting-a-project/
 
 無論您決定開展專案的哪個階段，每個專案都應包括以下文檔：
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Open source license](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Contributing guidelines](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Code of conduct](../code-of-conduct/)
 
 作爲維護者，這些組件將幫助你交流你的期望，管理貢獻並保護每個人的合法權益（也包括您自己的）。他們能夠大大增加你積極體驗的機會。
@@ -190,7 +190,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 想要獲得更多有關編寫貢獻文件的方式，請查閱 @nayafia 的 [貢獻指南模板](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) 或者 @mozilla 的 ["如何構建 CONTRIBUTION.md"](http://mozillascience.github.io/working-open-workshop/contributing/)。
 
-來你的 README 中鏈接你的 CONTRIBUTING，這樣更多人就能看到他。如果你[在你的專案中放入了 CONTRIBUTING 文件](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)，當一個貢獻者創建 issue 或者開啓一個 pull request 時，GitHub 會自動鏈接你的文件。
+來你的 README 中鏈接你的 CONTRIBUTING，這樣更多人就能看到他。如果你[在你的專案中放入了 CONTRIBUTING 文件](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)，當一個貢獻者創建 issue 或者開啓一個 pull request 時，GitHub 會自動鏈接你的文件。
 
 ![貢獻指南](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -263,7 +263,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 ## 發起專案之前的檢查項
 
-準備好開源你的專案了嗎？有一份幫助檢查清單。檢查所有內容？你準備開始吧！ [點擊 "publish"](https://help.github.com/articles/making-a-private-repository-public/) 以及拍下自己的後背。
+準備好開源你的專案了嗎？有一份幫助檢查清單。檢查所有內容？你準備開始吧！ [點擊 "publish"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) 以及拍下自己的後背。
 
 **文檔**
 

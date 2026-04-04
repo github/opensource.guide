@@ -73,7 +73,7 @@ Une fois que vous avez établi des rôles de leadership, n'oubliez pas de docume
 
 Des outils tels que [Vossibility](https://github.com/icecrime/vossibility-stack) peuvent vous aider à savoir qui contribue (ou non) au projet. Documenter cette information évite la perception de la communauté que les responsables sont une clique qui prend ses décisions en privé.
 
-Enfin, si votre projet est sur GitHub, envisagez de transférer votre projet de votre compte personnel vers une organisation et d'ajouter au moins un administrateur de sauvegarde. [Les organisations GitHub](https://help.github.com/articles/creating-a-new-organization-account/) facilitent la gestion des permissions et des dépôts multiples et protègent l'héritage de votre projet par [propriété partagée](../building-community/#partager-la-propri&eacute;t&eacute;-de-votre-projet).
+Enfin, si votre projet est sur GitHub, envisagez de transférer votre projet de votre compte personnel vers une organisation et d'ajouter au moins un administrateur de sauvegarde. [Les organisations GitHub](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) facilitent la gestion des permissions et des dépôts multiples et protègent l'héritage de votre projet par [propriété partagée](../building-community/#partager-la-propri&eacute;t&eacute;-de-votre-projet).
 
 ## Quand dois-je donner &agrave; quelqu'un le droit de commit
 
@@ -81,7 +81,7 @@ Certaines personnes pensent que vous devriez donner un droit de commit à tous c
 
 D'un autre côté, en particulier pour les projets plus volumineux et plus complexes, vous pouvez ne donner que le droit de commit aux personnes qui ont démontré leur engagement. Il n'y a pas une bonne façon de le faire - faites ce qui vous est le plus confortable !
 
-Si votre projet est sur GitHub, vous pouvez utiliser des [branches protégées](https://help.github.com/articles/about-protected-branches/) pour gérer qui peut pousser vers une branche particulière, et dans quelles circonstances.
+Si votre projet est sur GitHub, vous pouvez utiliser des [branches protégées](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) pour gérer qui peut pousser vers une branche particulière, et dans quelles circonstances.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

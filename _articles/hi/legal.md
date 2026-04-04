@@ -28,7 +28,7 @@ related:
 
 ## क्या सार्वजनिक GitHub परियोजनाएँ खुला स्रोत हैं?
 
-जब आप GitHub पर [एक नया प्रोजेक्ट बनाते हैं](https://help.github.com/articles/creating-a-new-repository/), तो आपके पास रिपॉजिटरी को **private** या **public** बनाने का विकल्प होता है।
+जब आप GitHub पर [एक नया प्रोजेक्ट बनाते हैं](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository), तो आपके पास रिपॉजिटरी को **private** या **public** बनाने का विकल्प होता है।
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -43,7 +43,7 @@ related:
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) 
 सबसे लोकप्रिय ओपन सोर्स लाइसेंस हैं, लेकिन चुनने के लिए अन्य विकल्प भी हैं। आप इन लाइसेंसों का पूरा पाठ और उनका उपयोग करने के तरीके के बारे में निर्देश यहां पा सकते हैं[choosealicense.com](https://choosealicense.com/).
 
-जब आप GitHub पर एक नया प्रोजेक्ट बनाएंगे, तो आप होंगे [लाइसेंस जोड़ने के लिए कहा गया](https://help.github.com/articles/open-source-licensing/).
+जब आप GitHub पर एक नया प्रोजेक्ट बनाएंगे, तो आप होंगे [लाइसेंस जोड़ने के लिए कहा गया](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -91,7 +91,7 @@ related:
 
 ## क्या मेरे प्रोजेक्ट को अतिरिक्त योगदानकर्ता समझौते की आवश्यकता है?
 
-शायद नहीं। अधिकांश ओपन सोर्स परियोजनाओं के लिए, एक ओपन सोर्स लाइसेंस अंतर्निहित रूप से इनबाउंड (योगदानकर्ताओं से) और आउटबाउंड (अन्य योगदानकर्ताओं और उपयोगकर्ताओं के लिए) लाइसेंस दोनों के रूप में कार्य करता है।यदि आपका प्रोजेक्ट GitHub पर है, तो GitHub सेवा की शर्तें "इनबाउंड = आउटबाउंड" बनाती हैं [explicit default](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+शायद नहीं। अधिकांश ओपन सोर्स परियोजनाओं के लिए, एक ओपन सोर्स लाइसेंस अंतर्निहित रूप से इनबाउंड (योगदानकर्ताओं से) और आउटबाउंड (अन्य योगदानकर्ताओं और उपयोगकर्ताओं के लिए) लाइसेंस दोनों के रूप में कार्य करता है।यदि आपका प्रोजेक्ट GitHub पर है, तो GitHub सेवा की शर्तें "इनबाउंड = आउटबाउंड" बनाती हैं [explicit default](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 एक अतिरिक्त योगदानकर्ता समझौता - जिसे अक्सर Contributor License Agreement (CLA) कहा जाता है - परियोजना अनुरक्षकों के लिए प्रशासनिक कार्य बना सकता है। एक समझौता कितना काम जोड़ता है यह परियोजना और कार्यान्वयन पर निर्भर करता है। एक साधारण समझौते के लिए आवश्यक हो सकता है कि योगदानकर्ता एक क्लिक के साथ पुष्टि करें कि उनके पास प्रोजेक्ट ओपन सोर्स लाइसेंस के तहत योगदान करने के लिए आवश्यक अधिकार हैं। अधिक जटिल समझौते के लिए कानूनी समीक्षा और योगदानकर्ताओं के नियोक्ताओं से हस्ताक्षर की आवश्यकता हो सकती है।
 

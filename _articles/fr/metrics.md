@@ -37,7 +37,7 @@ Avant que quiconque puisse utiliser ou contribuer à votre projet, ils doivent s
 
 ![Graphique de trafic](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Si votre projet est hébergé sur GitHub, [vous pouvez voir](https://help.github.com/articles/about-repository-graphs/#traffic) combien de personnes atterrissent sur votre projet et d'où elles viennent. À partir de la page de votre projet, cliquez sur "Insights", puis sur "Traffic". Sur cette page, vous pouvez voir:
+Si votre projet est hébergé sur GitHub, [vous pouvez voir](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) combien de personnes atterrissent sur votre projet et d'où elles viennent. À partir de la page de votre projet, cliquez sur "Insights", puis sur "Traffic". Sur cette page, vous pouvez voir:
 
 * **Le nombre total de pages vues :** Vous indique combien de fois votre projet a été visionné
 
@@ -47,7 +47,7 @@ Si votre projet est hébergé sur GitHub, [vous pouvez voir](https://help.github
 
 * **Le contenu populaire :** Vous indique où les visiteurs vont sur votre projet, ventilé par pages vues et visiteurs uniques.
 
-[Les étoiles de GitHub](https://help.github.com/articles/about-stars/) peuvent également aider à fournir une mesure de base de popularité. Bien que les étoiles GitHub ne correspondent pas nécessairement aux téléchargements et à l'utilisation, elles peuvent vous dire combien de personnes prennent en compte votre travail.
+[Les étoiles de GitHub](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) peuvent également aider à fournir une mesure de base de popularité. Bien que les étoiles GitHub ne correspondent pas nécessairement aux téléchargements et à l'utilisation, elles peuvent vous dire combien de personnes prennent en compte votre travail.
 
 Vous pouvez également [suivre la découvrabilité dans des lieux spécifiques](https://opensource.com/business/16/6/pirate-metrics): par exemple, Google PageRank, le trafic de redirection depuis le site Web de votre projet ou les renvois d'autres sites ouverts, projets source ou sites Web.
 

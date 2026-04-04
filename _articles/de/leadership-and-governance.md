@@ -85,7 +85,7 @@ Vergessen Sie nicht, nach der Festlegung von Führungsrollen zu dokumentieren, w
 
 Tools wie [Vossibility](https://github.com/icecrime/vossibility-stack) können Ihnen dabei helfen, öffentlich zu verfolgen, wer zum Projekt beiträgt (oder nicht). Die Dokumentation dieser Informationen beugt dem Eindruck vor, dass eine Maintainer\*innen-Clique ihre Privatinteressen durchsetzen würde.
 
-Wenn sich Ihr Projekt auf GitHub befindet, können Sie Ihr Projekt von Ihrem persönlichen Konto in eine Organisation verschieben und mindestens einen Backup-Administrator einrichten. [GitHub-Organisationen](https://help.github.com/articles/creating-a-new-organization-account/) erleichtern die Verwaltung von mehreren Repositories und Berechtigungen, und schützen ihr Projektarchiv durch [gemeinsame Verantwortung](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt).
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie Ihr Projekt von Ihrem persönlichen Konto in eine Organisation verschieben und mindestens einen Backup-Administrator einrichten. [GitHub-Organisationen](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) erleichtern die Verwaltung von mehreren Repositories und Berechtigungen, und schützen ihr Projektarchiv durch [gemeinsame Verantwortung](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt).
 
 ## Wann sollte ich jemandem Commit-Rechte geben?
 
@@ -93,7 +93,7 @@ Einige Leute denken, dass Sie allen Commit-Zugang geben sollten, die einen Beitr
 
 Andererseits (besonders bei größeren, komplexeren Projekten) möchten Sie vielleicht nur Personen zu Commits berechtigen, die ihr Engagement unter Beweis gestellt haben. Es gibt hier nicht _den einen_ richtigen Weg. Tun Sie, was Ihnen behagt!
 
-Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://help.github.com/articles/about-protected-branches/) verwalten, wer unter welchen Umständen auf einen bestimmten Branch committen darf.
+Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) verwalten, wer unter welchen Umständen auf einen bestimmten Branch committen darf.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

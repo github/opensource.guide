@@ -113,9 +113,9 @@ Secara umum, Anda harus membuka proyek Anda menjadi ketika Anda merasa nyaman ke
 
 Tidak perduli pada tahap mana Anda memutuskan untuk membuka proyek Anda, setiap proyek sebaiknya menyediakan dokumentasi berikut:
 
-* [Lisensi open source](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Panduan berkontribusi](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Lisensi open source](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Panduan berkontribusi](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Kode etik](../code-of-conduct/)
 
 Sebagai pengelola, komponen-komponen tersebut akan membantu Anda mengkomunikasikan ekspektasi, mengelola kontribusi, dan menjaga hak legal dari setiap orang (termasuk Anda sendiri). Dokumen-dokumen tersebut akan meningkatkan peluang Anda secara signifikan untuk mendapatkan pengalaman yang positif.
@@ -189,7 +189,7 @@ Seiring dengan berjalannya waktu, Anda bisa menambahkan pertanyaan yang paling s
 
 Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
 
-Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang melihatnya. Jika Anda [meletakkan dokumen CONTRIBUTING pada repositori proyek](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub akan secara otomatis menghubungkan ke dokumen Anda ketika seorang kontributor membuat sebuah laporan masalah atau membuat pull request.
+Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang melihatnya. Jika Anda [meletakkan dokumen CONTRIBUTING pada repositori proyek](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), GitHub akan secara otomatis menghubungkan ke dokumen Anda ketika seorang kontributor membuat sebuah laporan masalah atau membuat pull request.
 
 ![panduan kontribusi](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -262,7 +262,7 @@ Tidaklah penting untuk menuliskan gaya penulisan untuk proyek Anda ketika Anda b
 
 ## Daftar checklist pra-rilis
 
-Sudah siap untuk membuat proyek Anda open source ? Berikut daftar checklist untuk membantu. Anda sudah menyelesaikan semua kotak? Anda sudah siap! [Klik"publish"](https://help.github.com/articles/making-a-private-repository-public/) dan tepuklah diri Anda sendiri.
+Sudah siap untuk membuat proyek Anda open source ? Berikut daftar checklist untuk membantu. Anda sudah menyelesaikan semua kotak? Anda sudah siap! [Klik"publish"](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) dan tepuklah diri Anda sendiri.
 
 **Dokumentasi**
 

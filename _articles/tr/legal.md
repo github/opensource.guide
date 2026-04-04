@@ -28,7 +28,7 @@ Son olarak, projeniz sizin bilmediğiniz lisans gereksinimlerine bağlı olabili
 
 ## Açık GitHub projeleri açık kaynak mı?
 
-GitHub'da [yeni bir proje oluşturduğunuzda](https://help.github.com/articles/creating-a-new-repository/), proje kütüphanesini **gizli** veya **açık** hale getirme seçeneğiniz vardır.
+GitHub'da [yeni bir proje oluşturduğunuzda](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository), proje kütüphanesini **gizli** veya **açık** hale getirme seçeneğiniz vardır.
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Başkalarının projenizi kullanmasını, dağıtmasını, değiştirmesini veya
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) ve [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) en popüler açık kaynaklı lisanslardır, ancak seçilebilecek başka seçenekler de vardır. [Choosealicense.com](https://choosealicense.com/)'da bu lisansların tam metnini ve nasıl kullanılacağına ilişkin talimatları bulabilirsiniz.
 
-GitHub'da yeni bir proje oluşturduğunuzda sizden [bir lisans eklemeniz istenir](https://help.github.com/articles/open-source-licensing/).
+GitHub'da yeni bir proje oluşturduğunuzda sizden [bir lisans eklemeniz istenir](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -88,7 +88,7 @@ Alternatif olarak, katkıda bulunanlara, mevcut açık kaynak lisansınız taraf
 
 ## Projemin ek bir katkı sözleşmesine ihtiyacı var mı?
 
-Muhtemelen yoktur. Açık kaynak projelerin büyük çoğunluğu için açık kaynaklı bir lisans, hem gelenler (katkıda bulunanlardan) hem de gidenler (diğer katkıda bulunanlar ve kullanıcılar için) için lisans olarak açık şekilde hizmet vermektedir. Projeniz GitHub'daysa, GitHub Hizmet Şartları "inbound = outbound" ı [açık varsayılan yapar](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) .
+Muhtemelen yoktur. Açık kaynak projelerin büyük çoğunluğu için açık kaynaklı bir lisans, hem gelenler (katkıda bulunanlardan) hem de gidenler (diğer katkıda bulunanlar ve kullanıcılar için) için lisans olarak açık şekilde hizmet vermektedir. Projeniz GitHub'daysa, GitHub Hizmet Şartları "inbound = outbound" ı [açık varsayılan yapar](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license) .
 
 Ek bir katılımcı sözleşmesi - genellikle Katılımcı Lisans Sözleşmesi (CLA) olarak adlandırılır - proje sahipleri için idari işler yaratabilir. Bir anlaşmanın ne kadar iş gerektirdiği proje ve uygulamaya bağlıdır. Basit bir anlaşma, katkıda bulunanların, bir tıklamayla, proje açık kaynak lisansı kapsamında katkıda bulunmak için gerekli haklara sahip olduklarını onaylamalarını gerektirebilir. Daha karmaşık bir anlaşma, katkıda bulunanların işverenlerinin yasal incelemesini ve imzalarını gerektirebilir.
 

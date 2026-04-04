@@ -112,9 +112,9 @@ Ogólnie rzecz biorąc, powinieneś otworzyć swój projekt, gdy czujesz się do
 
 Bez względu na to, na jakim etapie zdecydujesz się na otwarcie projektu, każdy projekt powinien zawierać następującą dokumentację:
 
-* [Open source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
-* [README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
-* [Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Open source license](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository#determining-the-location-of-your-license)
+* [README](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository)
+* [Contributing guidelines](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)
 * [Code of conduct](../code-of-conduct/)
 
 Jako opiekun, te komponenty pomogą ci komunikować oczekiwania, zarządzać składkami i chronić prawa wszystkich osób (w tym własnych). Znacząco zwiększają twoje szanse na pozytywne doświadczenie.
@@ -190,7 +190,7 @@ Z czasem możesz dodawać inne często zadawane pytania do pliku WKŁAD. Zapisan
 
 Aby uzyskać więcej pomocy w pisaniu pliku WKŁAD, sprawdź @nayafia [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) lub @mozilla ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Jeśli [umieścisz plik CONTRIBUTING w repozytorium swojego projektu](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub automatycznie doda link do Twojego pliku, gdy współtwórca utworzy problem lub otworzy żądanie ściągnięcia.
+Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Jeśli [umieścisz plik CONTRIBUTING w repozytorium swojego projektu](https://docs.github.com/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors), GitHub automatycznie doda link do Twojego pliku, gdy współtwórca utworzy problem lub otworzy żądanie ściągnięcia.
 
 ![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -267,7 +267,7 @@ Nie musisz pisać przewodnika po stylu dla swojego projektu, gdy dopiero zaczyna
 
 ## Twoja lista kontrolna przed uruchomieniem
 
-Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznacz wszystkie pola? Jesteś gotowy! [Kliknij „opublikuj”](https://help.github.com/articles/making-a-private-repository-public/) i poklep się po plecach.
+Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznacz wszystkie pola? Jesteś gotowy! [Kliknij „opublikuj”](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/setting-repository-visibility) i poklep się po plecach.
 
 **Dokumentacja**
 

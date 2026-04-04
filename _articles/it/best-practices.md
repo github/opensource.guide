@@ -214,7 +214,7 @@ Uno dei modi più importanti per automatizzare il tuo progetto è attraverso i t
 I test aiutano i contributori a sentirsi sicuri che non romperanno nulla. Inoltre, facilitano la revisione e l'accettazione rapida dei contributi. Più sei ricettivo, più sarai coinvolto. sii la tua comunità.
 
 Imposta test automatizzati per eseguire tutti i contributi in arrivo e garantire che possano essere eseguiti localmente dai contributori. È necessario che tutti i contributi al codice superino i test prima di poter essere inviati. Contribuirà a stabilire uno standard minimo di qualità per tutte le applicazioni.
-[Sono necessari controlli sullo stato](https://help.github.com/articles/about-required-status-checks/) su GitHub può aiutare a garantire che nessuna modifica venga unita senza prima eseguire i test.
+[Sono necessari controlli sullo stato](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) su GitHub può aiutare a garantire che nessuna modifica venga unita senza prima eseguire i test.
 
 Se aggiungi test, assicurati di spiegare come funzionano nel tuo file CONTRIBUTING.
 

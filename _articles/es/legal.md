@@ -28,7 +28,7 @@ Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que 
 
 ## ¿Son p&uacute;blicos los proyectos de c&oacute;digo abierto de GitHub?
 
-Cuando t&uacute; [creas un nuevo proyecto](https://help.github.com/articles/creating-a-new-repository/) en GitHub, tienes la opci&oacute;n de hacerlo **privado** o **p&uacute;blico**.
+Cuando t&uacute; [creas un nuevo proyecto](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) en GitHub, tienes la opci&oacute;n de hacerlo **privado** o **p&uacute;blico**.
 
 ![crear repositorio](/assets/images/legal/repo-create-name.png)
 
@@ -42,7 +42,7 @@ Tienes suerte, porque hoy, las licencias de c&oacute;digo abierto est&aacute;n e
 
 [MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), y [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) son las licencias de c&oacute;digo abierto m&aacute;s populares, pero tambi&eacute;n tienes otras opciones para elegir. Puedes encontrar un texto completo sobre estas licencias, e instrucciones de uso de las mismas en [choosealicense.com](https://choosealicense.com/).
 
-Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una licencia](https://help.github.com/articles/open-source-licensing/).
+Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una licencia](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -89,7 +89,7 @@ De manera alternativa, puedes tener colaboradores que est&eacute;n de acuerdo po
 
 ## ¿Necesita mi proyecto un acuerdo adicional de colaboradores?
 
-Probablemente no. En la mayor&iacute;a de los proyectos de c&oacute;digo abierto, una licencia de c&oacute;digo abierto sirve impl&iacute;citamente de licencia tanto para el interior (colaboradores) como para el exterior (a otros colaboradores y usuarios). Si tu proyecto se encuentra en GitHub, los T&eacute;rminos de Servicio de GitHub la hacen "entrante=saliente" la [expl&iacute;cita por defecto](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license).
+Probablemente no. En la mayor&iacute;a de los proyectos de c&oacute;digo abierto, una licencia de c&oacute;digo abierto sirve impl&iacute;citamente de licencia tanto para el interior (colaboradores) como para el exterior (a otros colaboradores y usuarios). Si tu proyecto se encuentra en GitHub, los T&eacute;rminos de Servicio de GitHub la hacen "entrante=saliente" la [expl&iacute;cita por defecto](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license).
 
 Un acuerdo adicional de colaboradores – a menudo llamado Acuerdo de Licencia de colaboradores (en ingl&eacute;s, CLA) – puede crear trabajo administrativo para mantenedores de proyecto. La cantidad de trabajo que suma un acuerdo depende del proyecto y su implementaci&oacute;n. Un acuerdo simple puede requerir que los colaboradores confirmen, con un clic, que tienen los derechos necesarios para contribuir bajo la licencia de c&oacute;digo abierto del proyecto. Un acuerdo m&aacute;s complicado, requerir&aacute; revisi&oacute;n legal y la aprobaci&oacute;n de los empleadores del contribuyente.
 

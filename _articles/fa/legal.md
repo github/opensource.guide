@@ -26,7 +26,7 @@ related:
 
 ## آیا پروژه‌های عمومی «GitHub» متن باز محسوب می‌شوند؟
 
-هنگام ایجاد [پروژه‌ای جدید](https://help.github.com/articles/creating-a-new-repository/) در «GitHub»، این انتخاب را دارید که منبع را **خصوصی** یا **عمومی** مشخص کنید
+هنگام ایجاد [پروژه‌ای جدید](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) در «GitHub»، این انتخاب را دارید که منبع را **خصوصی** یا **عمومی** مشخص کنید
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -40,7 +40,7 @@ related:
 
 [MIT](https://choosealicense.com/licenses/mit/) ، [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) و [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) معروف‌ترین مجوزهای متن باز هستند، اما گزینه‌های دیگری نیز برای انتخاب وجود دارد. می‌توانید متن کامل این مجوزها و دستورالعمل‌های مربوط به نحوۀ استفاده از آن‌ها را در سایت [choosealicense.com](https://choosealicense.com/) پیدا کنید.
 
-وقتی پروژۀ جدیدی را در «GitHub» ایجاد می‌کنید، [از شما خواسته می‌شود مجوزی را انتخاب کرده و به پروژه اضافه کنید](https://help.github.com/articles/open-source-licensing/).
+وقتی پروژۀ جدیدی را در «GitHub» ایجاد می‌کنید، [از شما خواسته می‌شود مجوزی را انتخاب کرده و به پروژه اضافه کنید](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
@@ -88,7 +88,7 @@ related:
 
 ## آیا پروژۀ من به توافق‌نامه‌های همکاری (مشارکتی) اضافی نیاز دارد؟
 
-به احتمال زیاد نه. برای اکثریت قریب به اتفاق پروژه‌های متن باز، یک مجوز متن آزاد به طور ضمنی به عنوان مجوز درونی (برای مشارکت‌کنندگان) و مجوز خارجی (برای سایر مشارکت‌کنندگان و کاربران) عمل می‌کند. اگر پروژۀ شما در «GitHub» میزبانی می‌شود، شرایط خدمات‌دهی «GitHub»، «مجوزهای درونی و مجوزهای خروجی را [صریحا پیش‌فرض](https://help.github.com/en/github/site-policy/github-terms-of-service#6-contributions-under-repository-license) درنظر می‌گیرد.
+به احتمال زیاد نه. برای اکثریت قریب به اتفاق پروژه‌های متن باز، یک مجوز متن آزاد به طور ضمنی به عنوان مجوز درونی (برای مشارکت‌کنندگان) و مجوز خارجی (برای سایر مشارکت‌کنندگان و کاربران) عمل می‌کند. اگر پروژۀ شما در «GitHub» میزبانی می‌شود، شرایط خدمات‌دهی «GitHub»، «مجوزهای درونی و مجوزهای خروجی را [صریحا پیش‌فرض](https://docs.github.com/site-policy/github-terms/github-terms-of-service#6-contributions-under-repository-license) درنظر می‌گیرد.
 
 توافق‌نامه‌های همکاری اضافی - که اغلب به آن توافق‌نامه مجوز مشارکت‌کننده (CLA) گفته می‌شود - برای نگهدارندگان پروژه می‌تواند کارهای مدیریتی ایجاد کند. اینکه توافق‌نامه چه مقدار کار اضافه می‌کند به پروژه و نحوۀ اجرای آن بستگی دارد. یک توافق‌نامه‌ی ساده ممکن است نیاز داشته باشد که مشارکت‌کنندگان با یک کلیک تأیید کنند که از حقوق لازم برای مشارکت در مجوز پروژه متن باز برخوردار هستند. یک توافق‌نامه‌ی پیچیده‌تر ممکن است نیاز به بررسی قانونی داشته باشد و مربوط به کارفرمایان مشارکت‌کنندگان شود.
 

@@ -37,7 +37,7 @@ Kabla ya mtu yeyote kutumia au kuchangia mradi wako, wanahitaji kujua kuwa upo. 
 
 ![Grafu ya trafiki](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Ikiwa mradi wako unahifadhiwa kwenye GitHub, [unaweza kuona](https://help.github.com/articles/about-repository-graphs/#traffic) ni watu wangapi wanaotembelea mradi wako na wanatoka wapi. Kutoka kwenye ukurasa wa mradi wako, bonyeza "Insights", kisha "Traffic". Katika ukurasa huu, unaweza kuona:
+Ikiwa mradi wako unahifadhiwa kwenye GitHub, [unaweza kuona](https://docs.github.com/repositories/viewing-activity-and-data-for-your-repository/viewing-traffic-to-a-repository) ni watu wangapi wanaotembelea mradi wako na wanatoka wapi. Kutoka kwenye ukurasa wa mradi wako, bonyeza "Insights", kisha "Traffic". Katika ukurasa huu, unaweza kuona:
 
 * **Total page views:** Inakuambia ni mara ngapi mradi wako umekaguliwa
 
@@ -47,7 +47,7 @@ Ikiwa mradi wako unahifadhiwa kwenye GitHub, [unaweza kuona](https://help.github
 
 * **Popular content:** Inakuambia wageni wanakoenda kwenye mradi wako, ikigawanywa kwa maoni na wageni wa kipekee.
 
-[GitHub stars](https://help.github.com/articles/about-stars/) pia zinaweza kusaidia kutoa kipimo cha msingi cha umaarufu. Ingawa nyota za GitHub hazihusiani moja kwa moja na upakuaji na matumizi, zinaweza kukuambia ni watu wangapi wanachukua tahadhari kwa kazi yako.
+[GitHub stars](https://docs.github.com/get-started/exploring-projects-on-github/saving-repositories-with-stars) pia zinaweza kusaidia kutoa kipimo cha msingi cha umaarufu. Ingawa nyota za GitHub hazihusiani moja kwa moja na upakuaji na matumizi, zinaweza kukuambia ni watu wangapi wanachukua tahadhari kwa kazi yako.
 
 Huenda pia ukataka [kufuatilia ugunduzi katika maeneo maalum](https://opensource.com/business/16/6/pirate-metrics): kwa mfano, Google PageRank, trafiki inayorejelea kutoka kwenye tovuti ya mradi wako, au marejeleo kutoka kwa miradi mingine ya open source au tovuti.
 

@@ -433,7 +433,7 @@ Jika Anda tidak bisa menemukan ide Anda dimanapun, Anda siap untuk bergerak. Jik
 
 Sebelum Anda membuka sebuah laporan masalah atau melakukan pull request, periksa dokumen kontribusi proyek (biasanya pada dokumen bernama CONTRIBUTING, atau pada README), untuk melihat apakah Anda perlu mencantumkan informasi yang spesifik. Sebagai contoh, mereka mungkin meminta Anda untuk mengikuti sebuah template, atau mengharuskan Anda untuk menggunakan perangkat pengujian.
 
-Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada GitHub, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
+Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada GitHub, [Anda bisa memilih menu "Watch"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -468,7 +468,7 @@ Sebuah pull request tidak harus mencerminkan sebuah pekerjaan yang sudah selesai
 
 Jika proyek berada pada GitHub, berikut cara untuk membuka pull request:
 
-* **[Fork repositori](https://guides.github.com/activities/forking/)** dan clone secara lokal. Hubungkan lokal Anda dengan repositori asli "_upstream_" dengan menambahkannya sebagai remote. Pull semua perubahan dari "upstream" secara berkala sehingga Anda selalu _up to date_ dan ketika Anda mengajukan pull request Anda, _merge conflict_ akan lebih jarang terjadi. (Lihat instruksi lebih detail [disini](https://help.github.com/articles/syncing-a-fork/).)
+* **[Fork repositori](https://guides.github.com/activities/forking/)** dan clone secara lokal. Hubungkan lokal Anda dengan repositori asli "_upstream_" dengan menambahkannya sebagai remote. Pull semua perubahan dari "upstream" secara berkala sehingga Anda selalu _up to date_ dan ketika Anda mengajukan pull request Anda, _merge conflict_ akan lebih jarang terjadi. (Lihat instruksi lebih detail [disini](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Membuat sebuah branch](https://guides.github.com/introduction/flow/)** untuk hasil pengeditan Anda.
 * **Referensikan laporan masalah yang berhubungan** atau dokumentasi pendukung pada PR Anda (Misalnya. "Menutup #37.")
 * **Sertakan tangkapan layar sebelum dan sesudah** jika perubahan Anda meliputi perubahan pada HTML/CSS. Tarik dan letakkan gambar citra pada bagian _body_ dari pull request Anda.

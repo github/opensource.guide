@@ -439,7 +439,7 @@ Sekiranya anda tidak menemui idea anda di tempat lain, anda sudah bersedia untuk
 
 Sebelum anda membuka masalah atau menarik permintaan, periksa dokumen penyumbang projek (biasanya fail yang disebut CONTRIBUTING, atau di README), untuk melihat sama ada anda perlu memasukkan sesuatu yang spesifik. Contohnya, mereka mungkin meminta anda mengikuti templat, atau menghendaki anda menggunakan ujian.
 
-Sekiranya anda ingin memberikan sumbangan yang besar, buka isu yang perlu ditanyakan sebelum mengusahakannya. Sangat berguna untuk menonton projek sebentar (di GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) untuk diberitahu tentang semua perbualan), dan berkenalan dengan anggota masyarakat, sebelum melakukan pekerjaan yang mungkin tidak diterima.
+Sekiranya anda ingin memberikan sumbangan yang besar, buka isu yang perlu ditanyakan sebelum mengusahakannya. Sangat berguna untuk menonton projek sebentar (di GitHub, [you can click "Watch"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) untuk diberitahu tentang semua perbualan), dan berkenalan dengan anggota masyarakat, sebelum melakukan pekerjaan yang mungkin tidak diterima.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
@@ -474,7 +474,7 @@ Permintaan tarikan tidak harus mewakili kerja yang telah siap. Biasanya lebih ba
 
 Sekiranya projek tersebut berada di GitHub, berikut adalah cara mengemukakan permintaan tarik:
 
-* **[Fork the repository](https://guides.github.com/activities/forking/)** dan mengklonnya secara tempatan. Sambungkan tempatan anda ke repositori "hulu" yang asal dengan menambahkannya sebagai alat kawalan jauh. Tarik perubahan dari "hulu" secara berkala sehingga Anda terus mengetahui sehingga ketika anda mengajukan permintaan penarikan, konflik penggabungan cenderung tidak terjadi.(Lihat arahan yang lebih terperinci [here](https://help.github.com/articles/syncing-a-fork/).)
+* **[Fork the repository](https://guides.github.com/activities/forking/)** dan mengklonnya secara tempatan. Sambungkan tempatan anda ke repositori "hulu" yang asal dengan menambahkannya sebagai alat kawalan jauh. Tarik perubahan dari "hulu" secara berkala sehingga Anda terus mengetahui sehingga ketika anda mengajukan permintaan penarikan, konflik penggabungan cenderung tidak terjadi.(Lihat arahan yang lebih terperinci [here](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork).)
 * **[Create a branch](https://guides.github.com/introduction/flow/)** untuk pengeditan anda.
 * **Rujuk masalah yang berkaitan** atau dokumentasi sokongan dalam PR anda (misalnya, "Tutup # 37.")
 * **Sertakan tangkapan skrin sebelum dan sesudah** jika perubahan anda merangkumi perbezaan dalam HTML / CSS. Seret dan lepaskan gambar ke badan permintaan tarikan anda.

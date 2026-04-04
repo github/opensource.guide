@@ -213,7 +213,7 @@ Uma das mais importantes formas de automatizar seu projeto é adicionando testes
 
 Testes ajudam os contribuidores a sentirem-se confiantes de que eles não quebrarão nada. Testes também tornam mais fácil, para você, revisar e aceitar contribuições rapidamente. Quanto mais responsivo você é, mais engajada sua comunidade poderá ser.
 
-Configure testes automáticos que irão executar em todas as contribuições recebidas e garanta que seus teste poderão ser facilmente executados localmente por seus contribuidores. Exija que todas as contribuições de código passem em seus testes antes que possam ser submetidas. Você ajudará a definir um padrão mínimo de qualidade para todas as submissões. [Verificações de status obrigatórias](https://help.github.com/articles/about-required-status-checks/) no GitHub podem ajudar a garantir que nenhuma mudança seja aceita sem passar por seus testes.
+Configure testes automáticos que irão executar em todas as contribuições recebidas e garanta que seus teste poderão ser facilmente executados localmente por seus contribuidores. Exija que todas as contribuições de código passem em seus testes antes que possam ser submetidas. Você ajudará a definir um padrão mínimo de qualidade para todas as submissões. [Verificações de status obrigatórias](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) no GitHub podem ajudar a garantir que nenhuma mudança seja aceita sem passar por seus testes.
 
 Se você adicionar testes, tenha certeza de ter explicado como eles funcionam em seu arquivo de contribuição.
 

@@ -29,7 +29,7 @@ redirect_from: /zh-cn/legal/
 
 ## GitHub上的公开项目都是开源的吗？
 
-当你们在GitHub上[创建一个新项目](https://help.github.com/articles/creating-a-new-repository/) 时，你们可以选择将仓库设置成**private**或者**public**。
+当你们在GitHub上[创建一个新项目](https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-new-repository) 时，你们可以选择将仓库设置成**private**或者**public**。
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
@@ -43,7 +43,7 @@ redirect_from: /zh-cn/legal/
 
 [MIT](https://choosealicense.com/licenses/mit/)，[Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)和[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)都是非常流行的开源许可协议，但是也有其它选择。你们可以在[choosealicense.com](https://choosealicense.com/)上找到这些许可协议的全部文本，同时说明了如何使用他们。
 
-当你们在GitHub上创建了一个新项目，你们会被[要求添加一个许可协议](https://help.github.com/articles/open-source-licensing/)。
+当你们在GitHub上创建了一个新项目，你们会被[要求添加一个许可协议](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">

@@ -73,7 +73,7 @@ Miután létrehoztad a vezetői szerepeket, ne felejtsd el dokumentálni, hogyan
 
 Az olyan eszközök, mint a [Vossibility](https://github.com/icecrime/vossibility-stack) segíthetnek nyilvánosan nyomon követni, hogy ki, mennyivel járul hozzá a projekthez. Az ilyen információk dokumentálása és publikálása megakadályozza azt, hogy a közösség úgy tekintsen a karbantartókra, mint egy szűk, zárt csoportra, akik önkényesen döntenek.
 
-És végül, ha a projekted a GitHub-on van, gondolkozz el azon, hogy a projektedet a személyes fiókodból egy szervezeti fiókba (_Organization account_) migrálod, legalább még egy helyettes adminisztrátor felvételével. A [GitHub szervezeti fiók](https://help.github.com/articles/creating-a-new-organization-account/) segít abban, hogy könnyebben kezeld a jogosultságokat, a kód tárolókat, és több [társtulajdonost](../building-community/#a-projekt-tulajdonjogának-megosztása) beállítva segít megőrizni a projekt örökségét.
+És végül, ha a projekted a GitHub-on van, gondolkozz el azon, hogy a projektedet a személyes fiókodból egy szervezeti fiókba (_Organization account_) migrálod, legalább még egy helyettes adminisztrátor felvételével. A [GitHub szervezeti fiók](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) segít abban, hogy könnyebben kezeld a jogosultságokat, a kód tárolókat, és több [társtulajdonost](../building-community/#a-projekt-tulajdonjogának-megosztása) beállítva segít megőrizni a projekt örökségét.
 
 ## Mikor kell valakinek _commit_ jogot adnom?
 
@@ -81,7 +81,7 @@ Néhányan azt gondolják, hogy mindenkinek, aki hozzájárul a projekthez. Ha e
 
 Másrészről, különösen komplex és nagy projektek esetén, csak azoknak az embereknek célszerű ilyen jogot adni, akik bizonyították elkötelezettségüket a projekt felé. Nincs aranyszabály, hogy melyik a jobb, neked kell eldöntened, hogy számodra mi a megfelelő.
 
-Ha a projekt a GitHub-on van, használhatsz [védett kód ágakat (branch)](https://help.github.com/articles/about-protected-branches/), melyekkel szabályozni tudod, hogy kik és milyen feltételekkel olvaszthatnak be kódot egy kód ágra.
+Ha a projekt a GitHub-on van, használhatsz [védett kód ágakat (branch)](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches), melyekkel szabályozni tudod, hogy kik és milyen feltételekkel olvaszthatnak be kódot egy kód ágra.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

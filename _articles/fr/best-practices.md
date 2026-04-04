@@ -213,7 +213,7 @@ L'un des moyens les plus importants pour automatiser votre projet consiste à aj
 
 Les tests aident les contributeurs à croire qu'ils ne casseront rien. Ils facilitent également la consultation et l'acceptation des contributions rapidement. Plus vous êtes réactif, plus votre communauté peut être engagée.
 
-Configurez des tests automatiques qui s'exécuteront sur toutes les contributions entrantes, et assurez-vous que vos tests peuvent être facilement exécutés localement par les contributeurs. Exiger que toutes les contributions de code passent vos tests avant de pouvoir être soumis. Vous aiderez à définir une norme de qualité minimale pour toutes les soumissions. La [vérification du status requis](https://help.github.com/articles/about-required-status-checks/) sur GitHub peut vous aider à vous assurer qu'aucune modification ne sera mergée sans que vos tests ne passent.
+Configurez des tests automatiques qui s'exécuteront sur toutes les contributions entrantes, et assurez-vous que vos tests peuvent être facilement exécutés localement par les contributeurs. Exiger que toutes les contributions de code passent vos tests avant de pouvoir être soumis. Vous aiderez à définir une norme de qualité minimale pour toutes les soumissions. La [vérification du status requis](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches#require-status-checks-before-merging) sur GitHub peut vous aider à vous assurer qu'aucune modification ne sera mergée sans que vos tests ne passent.
 
 Si vous ajoutez des tests, assurez-vous d'expliquer comment ils fonctionnent dans votre fichier CONTRIBUTING.
 

@@ -73,7 +73,7 @@ Mara tu umeshaunda majukumu ya uongozi, usisahau kuandika jinsi watu wanaweza ku
 
 Zana kama [Vossibility](https://github.com/icecrime/vossibility-stack) zinaweza kusaidia kufuatilia hadharani ni nani (au sio) anayechangia mradi. Kuandika habari hii husaidia kuepusha dhana ya jamii kwamba watunzaji ni kundi linalofanya maamuzi yake kwa siri.
 
-Hatimaye, ikiwa mradi wako uko kwenye GitHub, zingatia kuhamasisha mradi wako kutoka kwenye akaunti yako binafsi hadi Shirika na kuongeza angalau mtunzaji mmoja wa akiba. [Mashirika ya GitHub](https://help.github.com/articles/creating-a-new-organization-account/) yanafanya iwe rahisi kusimamia ruhusa na hazina nyingi na kulinda urithi wa mradi wako kupitia [umiliki wa pamoja](../building-community/#shiriki-umiliki-wa-mradi-wako).
+Hatimaye, ikiwa mradi wako uko kwenye GitHub, zingatia kuhamasisha mradi wako kutoka kwenye akaunti yako binafsi hadi Shirika na kuongeza angalau mtunzaji mmoja wa akiba. [Mashirika ya GitHub](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) yanafanya iwe rahisi kusimamia ruhusa na hazina nyingi na kulinda urithi wa mradi wako kupitia [umiliki wa pamoja](../building-community/#shiriki-umiliki-wa-mradi-wako).
 
 ## Ni lini ninapaswa kupatia mtu uwezo wa ufikiaji wa kuandika au kucommit?
 
@@ -81,7 +81,7 @@ Watu wengine wanafikiri unapaswa kumwambia kila mtu ambaye anachangia kuwa na uf
 
 Kwa upande mwingine, hasa kwa miradi mikubwa na ngumu zaidi, huenda unataka kuwapatia tu wale ambao wameonyesha kujitolea kwao. Hakuna njia moja sahihi ya kufanya hivyo - fanya kile kinachokufanya ujisikie vizuri!
 
-Ikiwa mradi wako uko kwenye GitHub, unaweza kutumia [protected branches](https://help.github.com/articles/about-protected-branches/) kusimamia ni nani anayeweza kusukuma kwenye tawi fulani, na chini ya hali gani.
+Ikiwa mradi wako uko kwenye GitHub, unaweza kutumia [protected branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) kusimamia ni nani anayeweza kusukuma kwenye tawi fulani, na chini ya hali gani.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

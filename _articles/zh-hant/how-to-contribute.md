@@ -434,7 +434,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 在你創建 issue 和 PR 之前，請檢查專案的貢獻者文件（文件名通常叫做 CONTRIBUTING，或者就直接寫在 README 中），找到你需要、較具體的東西，例如他們會要求你遵循某個樣板，或者是要求你使用某個測試。
 
-如果你想做一個重大的貢獻，在正式開始之前先創建一個 issue。監控專案是很有幫助的（在GitHub，[點擊 "Watch"](https://help.github.com/articles/watching-repositories/) ，所有當中的對話都會通知你），通知社群的成員們，讓大家知道你要做的工作，免得你做了之後，他們事後才知道。
+如果你想做一個重大的貢獻，在正式開始之前先創建一個 issue。監控專案是很有幫助的（在GitHub，[點擊 "Watch"](https://docs.github.com/account-and-profile/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications) ，所有當中的對話都會通知你），通知社群的成員們，讓大家知道你要做的工作，免得你做了之後，他們事後才知道。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
@@ -469,7 +469,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 如果說專案是託管在 GitHub 上，以下是我們對於提交 PR 的建議：
 
-* **[Fork 程式碼](https://guides.github.com/activities/forking/)** 並下載到自己的電腦，在本地端設定「上游」爲遠端倉庫。這樣你可以在提交你的 PR 時保持和「上游」同步，合併時會減少解決衝突的時間。（更多關於同步的說明，請參考[這裡](https://help.github.com/articles/syncing-a-fork/)。）
+* **[Fork 程式碼](https://guides.github.com/activities/forking/)** 並下載到自己的電腦，在本地端設定「上游」爲遠端倉庫。這樣你可以在提交你的 PR 時保持和「上游」同步，合併時會減少解決衝突的時間。（更多關於同步的說明，請參考[這裡](https://docs.github.com/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)。）
 * **[創建一個分支](https://guides.github.com/introduction/flow/)** 方便自己編輯。
 * **參考任何相關的 issue**或在你的 PR 中註記相關的文件（例如："Closes #37."）
 * **留下更動前後的螢幕截圖**，如果你修改了 HTML/CSS。在你的 PR 中放上截圖。

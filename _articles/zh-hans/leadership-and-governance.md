@@ -76,7 +76,7 @@ redirect_from: /zh-cn/leadership-and-governance/
 诸如[Vossibility](https://github.com/icecrime/vossibility-stack) 这样的工具，可以帮助你追踪谁是（或不是）项目的贡献者。为这些信息作说明，以避免社区出现维护者作出私自的决定。
 
 另外，如果你的项目在托管在GitHub上，考虑将你的项目从个人账户迁移到某个组织，而且要为组织增加额外的一个备份的管理员。
-[GitHub 上的组织](https://help.github.com/articles/creating-a-new-organization-account/) 能够让权限管理和多仓库管理更加的轻松，而且可通过 [共享所有权](../building-community/#共享项目所有权)来保护你的项目。
+[GitHub 上的组织](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) 能够让权限管理和多仓库管理更加的轻松，而且可通过 [共享所有权](../building-community/#共享项目所有权)来保护你的项目。
 
 ## 什么时候授予提交者权限？
 
@@ -84,7 +84,7 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 换句话说，尤其是针对那些大型的、更加复杂的项目，你或许只是会给那些证明自己有能力提交代码的人赋予权限。这个没有一个确切的衡量标准，做你认为正确的就好了，或者是最让项目成员感到舒服的方式。
 
-假如项目是托管在GitHub上，可以使用[受保护的分支](https://help.github.com/articles/about-protected-branches/)来管理那些可以提交特定的分支情况。
+假如项目是托管在GitHub上，可以使用[受保护的分支](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)来管理那些可以提交特定的分支情况。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

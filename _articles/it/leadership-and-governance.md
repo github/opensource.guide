@@ -73,7 +73,7 @@ Una volta stabiliti i ruoli di leadership, assicurati di documentare come le per
 
 Strumenti come [Vossibility](https://github.com/icecrime/vossibility-stack) possono aiutarti a tenere traccia pubblicamente chi sta (o non sta) contribuendo al progetto. Documentare queste informazioni evita la percezione della comunità secondo cui i manutentori sono una cricca che prende le proprie decisioni in privato.
 
-Infine, se il tuo progetto è su GitHub, valuta la possibilità di spostare il progetto dal tuo account personale a un'organizzazione e di aggiungere almeno un amministratore di backup. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) semplifica la gestione delle autorizzazioni e di più repository e protegge l'eredità del tuo progetto tramite [proprietà condivisa](../building-community/#condividi-la-proprietà-del-tuo-progetto).
+Infine, se il tuo progetto è su GitHub, valuta la possibilità di spostare il progetto dal tuo account personale a un'organizzazione e di aggiungere almeno un amministratore di backup. [GitHub Organizations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) semplifica la gestione delle autorizzazioni e di più repository e protegge l'eredità del tuo progetto tramite [proprietà condivisa](../building-community/#condividi-la-proprietà-del-tuo-progetto).
 
 ## Quando dovrei dare a qualcuno l'accesso per impegnarsi?
 
@@ -81,7 +81,7 @@ Alcune persone pensano che dovresti dare accesso al coinvolgimento a tutti color
 
 D'altra parte, soprattutto per progetti più grandi e complessi, potresti voler concedere l'accesso al coinvolgimento solo alle persone che hanno dimostrato il proprio impegno. Non esiste un modo giusto per farlo: fai ciò che ti fa sentire più a tuo agio!
 
-Se il tuo progetto è su GitHub, puoi utilizzare [rami protetti](https://help.github.com/articles/about-protected-branches/) per gestire chi può puntare a un particolare ramo e in quali circostanze.
+Se il tuo progetto è su GitHub, puoi utilizzare [rami protetti](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) per gestire chi può puntare a un particolare ramo e in quali circostanze.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">

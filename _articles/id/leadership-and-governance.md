@@ -73,7 +73,7 @@ Setelah Anda mendefinisikan peran pemimpin Anda, jangan lupa untuk mendokumentas
 
 Peralatan seperti [Vossibility](https://github.com/icecrime/vossibility-stack) bisa membantu Anda melacak siapa yang (tidak) memberikan kontribusi pada proyek. Mendokumentasikan informasi ini akan menghindari persepsi komunitas bahwa pengelola mengambil keputusan secara pribadi.
 
-Akhirnya, jika proyek Anda berada pada GitHub, pertimbangkan untuk memindahkan proyek Anda dari akun prbadi pada "Organization" dan menambahkan paling tidak satu admin cadangan. [GitHub Organizations](https://help.github.com/articles/creating-a-new-organization-account/) membuat pengelolaan hak akses dan banyak repository menjadi lebih mudah dan juga menjaga proyek Anda melalui [berbagi kepemilikan](../building-community/#berbagi-kepemilikan-dari-proyek-anda).
+Akhirnya, jika proyek Anda berada pada GitHub, pertimbangkan untuk memindahkan proyek Anda dari akun prbadi pada "Organization" dan menambahkan paling tidak satu admin cadangan. [GitHub Organizations](https://docs.github.com/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) membuat pengelolaan hak akses dan banyak repository menjadi lebih mudah dan juga menjaga proyek Anda melalui [berbagi kepemilikan](../building-community/#berbagi-kepemilikan-dari-proyek-anda).
 
 ## Kapan saya harus memberikan akses commit kepada seseorang?
 
@@ -81,7 +81,7 @@ Beberapa orang berpikir bahwa Anda perlu memberikan akses commit pada semua oran
 
 Disisi lain, terutama untuk proyek yang besar dan kompleks, Anda mungkin hanya akan memberikan akses commit pada orang-orang yang mendemonstrasikan komitmen mereka Tidak ada cara yang paling benar untuk melakukan hal ini - lakukan apa yang Anda rasa paling baik!
 
-Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](https://help.github.com/articles/about-protected-branches/) untuk mengelola siapa saja yang boleh mengirimkan pada branch tertentu, dan pada kondisi apa.
+Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](https://docs.github.com/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches) untuk mengelola siapa saja yang boleh mengirimkan pada branch tertentu, dan pada kondisi apa.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
