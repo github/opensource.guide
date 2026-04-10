@@ -1,5 +1,9 @@
 {% assign t = site.data.locales[page.lang][page.lang] %}
-<button id="scrollToTopButton" title="Go to top">Scroll to Top</button>
+<button id="scrollToTopButton" title="Go to top" aria-label="Scroll to top">
+  <svg aria-hidden="true" viewBox="0 0 24 24" focusable="false">
+    <path d="M12 4L5 11h4v9h6v-9h4z"></path>
+  </svg>
+</button>
 <footer class="bg-white border-top text-center pt-5">
   <div class="container-lg p-responsive mx-auto">
 

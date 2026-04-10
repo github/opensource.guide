@@ -2,7 +2,7 @@
 window.addEventListener('scroll', function () {
     var scrollToTopButton = document.getElementById('scrollToTopButton');
     if (window.scrollY > 300) {
-        scrollToTopButton.style.display = 'block';
+        scrollToTopButton.style.display = 'flex';
     } else {
         scrollToTopButton.style.display = 'none';
     }
