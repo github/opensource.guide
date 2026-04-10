@@ -124,7 +124,7 @@ Concentreer u tijdens het schrijven van uw lezing op wat uw publiek interessant 
   _When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people._
 
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["Hoe u een Tech Conferentie Lezing voorbereidt en schrijft"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["Hoe u een Tech Conferentie Lezing voorbereidt en schrijft"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

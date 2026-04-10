@@ -110,7 +110,7 @@ redirect_from: /zh-tw/finding-users/
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   當你開始寫你的演講稿的時候，不管你的主題是什麼，如果你能把你的演講當成是給別人講故事的話，效果會更更好。
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

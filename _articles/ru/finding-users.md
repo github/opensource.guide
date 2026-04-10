@@ -109,7 +109,7 @@ related:
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   При подготовке к своему докладу, независимо от его темы, попробуйте представить его как историю, которые вы рассказываете людям.
   <p markdown="1" class="pquote-credit">
-- Лена Рейнхард, [«Как подготовить и написать доклад на технической конференции»](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+- Лена Рейнхард, [«Как подготовить и написать доклад на технической конференции»](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

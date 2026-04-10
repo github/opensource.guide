@@ -232,7 +232,7 @@ related:
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 * [OpenSauced](https://opensauced.pizza/)
-* [GitLab Explore](https://gitlab.com/explore/projects/starred)
+* [GitLab Explore](https://gitlab.com/explore)
 
 ### قائمة تحقّق قبل أن تساهم {#قائمة-تحقّق-قبل-أن-تساهم}
 
