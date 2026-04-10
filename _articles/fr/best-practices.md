@@ -221,7 +221,7 @@ Si vous ajoutez des tests, assurez-vous d'expliquer comment ils fonctionnent dan
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Je crois que des tests sont nécessaires pour tout le code sur lequel les gens travaillent. Si le code était complet et parfaitement correct, il n'aurait pas besoin de modifications - nous n'écrivons du code que lorsque quelque chose ne va pas, que ce soit "Il plante" ou "Il manque telle ou telle fonctionnalité". Et quels que soient les changements que vous effectuez, les tests sont essentiels pour détecter les régressions que vous pourriez introduire accidentellement.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation/)
   </p>
 </aside>
 

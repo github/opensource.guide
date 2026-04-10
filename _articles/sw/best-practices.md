@@ -223,7 +223,7 @@ Ukiongeza majaribio, hakikisha umeeleza jinsi yanavyofanya kazi katika faili yak
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Ninaamini kuwa majaribio ni muhimu kwa msimbo zote ambazo watu hufanya kazi. Ikiwa msimbo ulikuwa sahihi kabisa, hautahitaji mabadiliko - tunaandika tu msimbo wakati kuna kitu kibaya, iwe "Inaacha kufanya kazi" au "Haina kipengele fulani-na-vile". Na bila kujali mabadiliko unayofanya, majaribio ni muhimu ili kupata matatizo zozote ambazo unaweza kuanzisha kimakosa.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation/)
   </p>
 </aside>
 

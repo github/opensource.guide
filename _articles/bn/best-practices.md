@@ -225,7 +225,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   আমি বিশ্বাস করি যে সকল কোডের উপর মানুষ কাজ করে তার জন্য পরীক্ষা অপরিহার্য। যদি কোডটি সম্পূর্ণ এবং নিখুঁতভাবে সঠিক হত, তাহলে এতে পরিবর্তনের প্রয়োজন হত না - আমরা কেবল তখনই কোড লিখি যখন কিছু ভুল হয়, তা সে "এটি ক্র্যাশ" হোক বা "এটিতে অমুক-অমুক বৈশিষ্ট্যের অভাব রয়েছে"। এবং আপনি যে পরিবর্তনই করুন না কেন, আপনার ভুলক্রমে প্রবর্তিত যেকোনো রিগ্রেশন ধরার জন্য পরীক্ষাগুলি অপরিহার্য।
   <p markdown="1" class="pquote-credit">
-— @edunham, ["রাস্টের কমিউনিটি অটোমেশন"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["রাস্টের কমিউনিটি অটোমেশন"](https://edunham.net/2016/09/27/rust_s_community_automation/)
   </p>
 </aside>
 

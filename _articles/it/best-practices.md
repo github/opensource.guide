@@ -222,7 +222,7 @@ Se aggiungi test, assicurati di spiegare come funzionano nel tuo file CONTRIBUTI
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Penso che i test siano necessari per tutto il codice su cui le persone lavorano. Se il codice fosse completamente e perfettamente corretto, non ci sarebbe bisogno di modifiche: scriviamo il codice solo quando qualcosa è corretto. sbagliato, oppure "Si blocca", oppure "Manca questa o quella funzione". Qualunque sia la modifica apportata, il test è essenziale per individuare eventuali regressioni che potresti introdurre accidentalmente.
   <p markdown="1" class="pquote-credit">
-— @edunham, [Automazione comunitaria di Rust"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, [Automazione comunitaria di Rust"](https://edunham.net/2016/09/27/rust_s_community_automation/)
   </p>
 </aside>
 

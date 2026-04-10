@@ -223,7 +223,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Я считаю, что тесты необходимы для всего кода, над которым работают люди. Если бы код был полностью и совершенно правильным, он не нуждался бы в изменениях — мы пишем код только тогда, когда с ним что-то не так, например, обнаружен баг или отсутствует нереализованная функциональность. И независимо от того, какие изменения вы вносите, тесты необходимы для выявления любых регрессий, которые вы можете случайно допустить.
   <p markdown="1" class="pquote-credit">
-- @edunham, [«Автоматизация сообщества Rust»](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
+- @edunham, [«Автоматизация сообщества Rust»](https://edunham.net/2016/09/27/rust_s_community_automation/)
   </p>
 </aside>
 

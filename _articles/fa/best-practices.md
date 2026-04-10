@@ -223,7 +223,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   من معتقد هستم که تست‌ها برای همه‌ی کدهایی که افراد روی آن‌‌ها کار می‌کنند، لازم است. اگر کد کاملاً صحیح و سالم باشد، دیگر نیازی به تغییر نخواهد داشت - ما فقط درصورتی که مشکلی پیش آمده باشد کد می‌نویسیم؛ مگر در زمان‌هایی که کد «خراب شود» یا «فاقد فلان ویژگی باشد». و صرف نظر از تغییراتی که ایجاد می‌کنید، تست‌ها برای دستیابی به رگرسیون‌هایی که به طور تصادفی به وجود می‌آ‌ورید، ضروری است.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20241218114447/https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation/)
   </p>
 </aside>
 
