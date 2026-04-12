@@ -1,3 +1,8 @@
+// Ensure anchor-linked headings remain visible under sticky navbar
+html {
+  scroll-padding-top: 80px;
+}
+
 a, .btn {
   transition: all 0.2s ease-in-out;
 }
@@ -116,7 +121,8 @@ blockquote {
   h5,
   h6 {
     -webkit-font-smoothing: antialiased;
-    font-family: $font-mktg
+    font-family: $font-mktg;
+    scroll-margin-top: 80px;
   }
 
   h1 { @include h0-mktg }
