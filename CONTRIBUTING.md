@@ -26,6 +26,7 @@ There are many ways you can directly contribute to the guides (in descending ord
 
 Interested in contributing to this Open Source Guide? Read on!
 
+
 ## Ground rules & expectations
 
 Before we get started, here are a few things we expect from you (and that you should expect from others):
