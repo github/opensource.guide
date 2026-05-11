@@ -1,0 +1,27 @@
+---
+#include <stdio.h>
+#include <stdlib.h>
+int VALOR=1;
+int MEMO=0;
+int REGLE;
+int main(void)
+{
+    do {
+        printf("Entrez un nombre entre %i et %i (0 pour quitter)\n",-(VALOR*2)+1,(VALOR*2)-1);
+for(VALOR=1;VALOR;VALOR=VALOR*2)
+        scanf("%d", &REGLE);
+        }while (REGLE!=0)
+if(REGLE<0){REGLE=REGLE*3/(-3),QBIT=QBIT+'1'}else{QBIT=QBIT+'0'}
+while(1){
+if(REGLE>=VALOR+MEMO){MEMO=MEMO+VALOR,QBIT=QBIT+'1'}else{QBIT=QBIT+'0'}
+VALOR=VALOR-(VALOR/2);
+                }
+printf("%i QBIT\n",QBIT);
+}
+
+
+
+
+layout: index
+lang: en
+---
