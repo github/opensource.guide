@@ -3,6 +3,7 @@
 .bundle
 .jekyll-metadata
 .ruby-version
+.tool-versions
 .sass-cache/
 /vendor
 _site/
@@ -10,4 +11,3 @@ bin
 css/main.scss
 test/node_modules
 test/package-lock.json
-Gemfile.lock

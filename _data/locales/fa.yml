@@ -1,30 +1,30 @@
 fa:
   locale_name: Farsi
   nav:
-    about: درباره
+    about: درباره پروژه
     contribute: مشارکت
   index:
-    lead: نرم‌افزار متن باز توسط افرادی مشابه شما ساخته شده است. اینجا می‌توانید راه اندازی و رشد دادن پروژه خود را یاد بگیرید.
-    opensourcefriday: امروز جمعه‌اس! چند ساعت صرف مشارکت در نرم افزاری کن که عاشقش هستی    
+    lead: نرم افزار های متن باز توسط افرادی نظیر شما ساخته شده است. یاد بگیرید چطور پروژه خود را رشد و راه اندازی کنید.
+    opensourcefriday: امروز جمعه است! چند ساعت به پروژه ای که دوست دارید و استفاده می کنید، مشارکت کنید.
   article:
     table_of_contents: فهرست مطالب
-    back_to_all_guides: بازگشت به صفحه اصلی
-    related_guides: راهنماهای مرتبط
+    back_to_all_guides: بازگشت به راهنمای اصلی
+    related_guides: راهنما های مشابه
   footer:
     contribute:
-      heading: مشارکت
-      description: پیشنهاد یا نظری داری؟ این مطلب به صورت متن باز منتشر شد. می‌تونی در بهبودش کمک کنی.
-      button: مشارکت می‌کنم
+      heading: مشارکت کنید
+      description: آیا پیشنهاد یا نظری دارید؟ این مطلب متن باز است. به ما کمک کنید تا بهبودش دهیم.
+      button: مشارکت
     subscribe:
-      heading: در ارتباط باش
-      description: اولین نفر ی باش که در خصوص آخرین نکات و ترفندهای متن باز در گیتهاب باخبر میشه.
+      heading: درارتباط باشید
+      description: اولین نفری باشید که در خصوص آخرین نکات و ترفندهای متن باز در گیتهاب باخبر می شود.
       label: آدرس ایمیل
-      button: شروع اشتراک
+      button: مشترک شوید
     byline:
       # [code], [love], and [github] will be replaced by octicons
       format: "[code] با [love] توسط [github] و [friends]"
       # Label for code octicon
-      code_label: code
+      code_label: کد
       # Label for love octicon
       love_label: عشق
       # Label for the contributors link

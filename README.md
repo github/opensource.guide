@@ -1,30 +1,29 @@
 # Open Source Guides
-
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
-[Open Source Guides](https://opensource.guide/) гэта набор рэсурсаў для асобных асоб, супольнасцяў і кампаній, якія хочуць навучыцца запускаць праект з адкрытым зыходным кодам і ўносіць у яго свой уклад.
+Open Source Guides (https://opensource.guide/) are a collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an open-source project.
 
-## Фон
-Кіраўніцтва з адкрытым зыходным кодам былі створаны і курыруюцца GitHub разам з каментарамі іншых рэцэнзентаў супольнасці, але яны не з'яўляюцца эксклюзіўнымі для прадуктаў GitHub. Адна з прычын, па якой мы пачалі гэты праект, - гэта тое, што мы адчувалі, што людзям, якія ствараюць праекты з адкрытым зыходным кодам, не хапае рэсурсаў.
+## Background
+Open Source Guides were created and are curated by GitHub, along with input from outside community reviewers, but they are not exclusive to GitHub products. One reason we started this project is that we felt that there weren't enough resources for people creating open-source projects.
 
-Нашай мэтай было аб'яднаць лепшыя практыкі супольнасці, * а не * тое, што GitHub (або любое іншае фізічная або юрыдычная асоба) лічыць лепшым. Таму мы выкарыстоўвалі прыклады і цытаты з іншых крыніц, каб праілюстраваць нашы тэзісы.
+Our goal was to aggregate community best practices, *not* what GitHub (or any other individual or entity) thinks is best. Therefore, we used examples and quotations from others to illustrate our points.
 
-## Спрыяльны
+## Contributing
 
-Гэты сайт створаны [Джекиллом](http://jekyllrb.com/). Азнаёмцеся з нашымі [рэкамендацыямі па ўнясенні ўкладу](/CONTRIBUTING.md) прапанаваць зваротную сувязь і ўнесці свой уклад.
+This site is powered by [Jekyll](https://jekyllrb.com/). Check out our [contributing guidelines](/CONTRIBUTING.md) for ways to offer feedback and contribute.
 
-## Ліцэнзія
+## Licenses
 
-Кантэнт выпушчаны пад [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Глядзіце [апавяшчэнні](notices.md) для атрымання поўнай інфармацыі, уключаючы рэкамендацыі па атрыбуцыі, Умовы ўкладу, а таксама ліцэнзіі і дазволу на праграмнае забеспячэнне і іншых вытворцаў.
+Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
 
-## Падзяка
+## Acknowledgments
 
-Першапачатковы выпуск гэтых кіраўніцтваў быў падрыхтаваны * *[@nayafia] [1], [@beekeepers] [2], [@stephbwills] [3],** і **[@mlinksva] [4]**.
+The initial release of these guides was authored by **[@nayafia][1], [@bkeepers][2], [@stephbwills][3],** and **[@mlinksva][4]**.
 
-Дзякуй **[@aitchabee][5], [@benbalter][6], [@brettcannon][7], [@caabernathy][8], [@coralineada][9], [@dmleong][10], [@ericholscher][11], [@gr2m][12], [@janl][13], [@jessfraz][14], [@joshsimmons][15], [@kfogel][16], [@kytrinyx][17], [@lee-Dohm][18], [@mikeal][19], [@mikemcquaid][20], [@nathansobo][21], [@nruff][22], [@nsqe][23], [@orta][24], [@Parkr][25], [@shazow][26], [@steveklabnik][27],** і **[@wooorm][28]** за іх каштоўны ўклад і экспертныя веды, якія папярэднічалі першапачатковага выпуску, а таксама **[@sophshep][29]** і **[@jeejkang][30]** за распрацоўку і ілюстраванне кіраўніцтваў.
+Thanks to **[@aitchabee][5], [@benbalter][6], [@brettcannon][7], [@caabernathy][8], [@coralineada][9], [@dmleong][10], [@ericholscher][11], [@gr2m][12], [@janl][13], [@jessfraz][14], [@bluesomewhere][15], [@kfogel][16], [@kytrinyx][17], [@lee-dohm][18], [@mikeal][19], [@mikemcquaid][20], [@nathansobo][21], [@nruff][22], [@nsqe][23], [@orta][24], [@parkr][25], [@shazow][26], [@steveklabnik][27],** and **[@wooorm][28]** for lending their valuable input and expertise leading up to the initial release, and to **[@sophshep][29]** and **[@jeejkang][30]** for designing and illustrating the guides.
 
-## Адмова ад адказнасці
-Хоць у нас ёсць рэкамендацыі па запуску праекта з адкрытым зыходным кодам, мы не юрысты. Абавязкова азнаёмцеся з нашым [адмовай ад адказнасці](notices.md#legal-disclaimer) перад апусканнем.
+## Disclaimer
+While we've got advice about running an open source project, we're not lawyers. Be sure to read our [disclaimer](notices.md#legal-disclaimer) before diving in.
 
 [1]:https://github.com/nayafia
 [2]:https://github.com/bkeepers
@@ -40,7 +39,7 @@
 [12]:https://github.com/gr2m
 [13]:https://github.com/janl
 [14]:https://github.com/jessfraz
-[15]:https://github.com/joshsimmons
+[15]:https://github.com/bluesomewhere
 [16]:https://github.com/kfogel
 [17]:https://github.com/kytrinyx
 [18]:https://github.com/lee-dohm

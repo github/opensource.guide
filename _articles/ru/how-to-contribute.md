@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Работа над \[freenode\] помогла мне приобрести многие навыки, которые я позже использовал в учебе в университете и в текущей работе. Я думаю, что работа над проектами с открытым исходным кодом помогает мне не меньше, чем самому проекту!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Почему я люблю участвовать в работе над опенсорс-софтом"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Почему я люблю участвовать в работе над опенсорс-софтом"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Я известен своей работой над CocoaPods, но большинство людей не знают, что я на самом деле не работаю над самим инструментом CocoaPods. В основном, я занимаюсь документацией и брендингом.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Переход на открытый исходный код по умолчанию"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Переход на открытый исходный код по умолчанию"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -90,7 +90,7 @@ related:
 * Напишите и улучшите документацию по проекту
 * Создайте папку с примерами по использованию проекта
 * Запустите рассылку новостей по проекту или освещайте самое важное из списка рассылки
-* Составьте обучающие руководства по проекту, [как это сделали участники PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Составьте обучающие руководства по проекту, [как это сделали участники PyPA](https://packaging.python.org/)
 * Переведите документацию проекта
 
 <aside markdown="1" class="pquote">
@@ -213,9 +213,9 @@ related:
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Чеклист перед тем, как принять участие
 

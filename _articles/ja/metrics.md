@@ -38,7 +38,7 @@ related:
 ![トラフィックグラフ](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
 もしプロジェクトを GitHub 上にホストしているのであれば、何人があなたのプロジェクトを訪れていて、どこから来たのかを[見ることが出来ます](https://help.github.com/articles/about-repository-graphs/#traffic)。プロジェクトのページで、 "Insights" をクリックし、 "Traffic" をクリックします。このページでは、下記を見ることが出来ます:
- 
+
 * **トータルページビュー:** プロジェクトが何回閲覧されたか
 
 * **トータルユニークビジター:** プロジェクトが何人に閲覧されたか

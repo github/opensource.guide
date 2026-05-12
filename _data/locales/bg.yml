@@ -1,0 +1,31 @@
+bg:
+  locale_name: Български
+  nav:
+    about: Относно нас
+    contribute: Допринеси
+  index:
+    lead: Софтуерът с отворен код е създаден от хора точно като теб. Научи как да стартираш и развиеш своя проект.
+    opensourcefriday: Петък е! Инвестирай няколко часа, като допринесеш за софтуера, който използвате и обичате
+  article:
+    table_of_contents: Съдържание
+    back_to_all_guides: Назад към всички ръководства
+    related_guides: Свързани ръководства
+  footer:
+    contribute:
+      heading: Допринеси
+      description: Искате ли да направите предложение? Това съдържание е с отворен код. Помогнете ни да го подобрим.
+      button: Допринеси
+    subscribe:
+      heading: Поддържай връзка
+      description: Бъди първите, който ще научи за най-новите съвети и ресурси с отворен код на GitHub.
+      label: Имейл адрес
+      button: Абонирай се
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] с [love] от [github] и [приятели]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: love
+      # Label for the contributors link
+      friends_label: friends

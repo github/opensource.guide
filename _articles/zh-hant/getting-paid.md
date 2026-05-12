@@ -88,7 +88,6 @@ redirect_from: /zh-tw/getting-paid/
 如果你實在無法在當前的僱主下開展相關開源的工作，那麼是該考慮換老闆的時候，應到找個支持想開源作貢獻的老闆！尋找那些致力於開源工作的公司。比如：
 
 * [Ghost](https://ghost.org/)  就是一家圍繞很多[開源專案](https://github.com/tryghost/ghost)的好公司
-* [Zalando](https://opensource.zalando.com) 甚至爲其員工提供了[貢獻開源守則](https://opensource.zalando.com/docs/using/contributing/)
 
 那些大公司發起的專案，如 [Go](https://github.com/golang) 或 [React](https://github.com/facebook/react)，均希望僱傭到優秀的工程師來爲他們工作。
 
@@ -107,7 +106,7 @@ redirect_from: /zh-tw/getting-paid/
 一些獲得組織資助的專案案例：
 
 * **[webpack](https://github.com/webpack),**  [通過 OpenCollective](https://opencollective.com/webpack) 從公司和個人來籌集資金
-* **[Ruby Together](https://rubytogether.org/),** 由 @indirect 創建的非盈利組織 ，爲諸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基礎設施專案提供資金支持
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** 由 @indirect 創建的非盈利組織 ，爲諸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基礎設施專案提供資金支持
 
 儘管開源日漸的流行，但是爲專案尋找資金仍然是處於試驗中。目前所收集到的包括：
 

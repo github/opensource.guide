@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Amikor a \[freenode\]-on dolgoztam, akkor sok olyan jártasságot szereztem, amelyet később az egyetemi tanulmányaimban és a munkámban is használtam. Úgy gondolom, hogy a nyílt forráskódon végzett munka legalább annyira segít engem, mint a projektet!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Miért szeretek hozzájárulni a nyílt forráskódú projektekhez?"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Miért szeretek hozzájárulni a nyílt forráskódú projektekhez?"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,7 +62,7 @@ Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programo
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Híres vagyok a CocoaPods-szal végzett munkámról, de a legtöbb ember nem is tudja, hogy nem is dolgozom magán a CocoaPods kódján. Az időm nagy részét a projekten dokumentációval és márkaépítéssel töltöm.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Természetes az OSS-re való átállás"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Természetes az OSS-re való átállás"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -86,7 +86,7 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 * Írd és javítsd a projekt dokumentációját
 * Tarts karban egy példa könyvtárat a projekt használatáról
 * Indíts hírlevelet a projektről, vagy a levelező listáról készít összefoglalót
-* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://packaging.python.org/)
 * Fordíts le a projekt dokumentációját
 
 <aside markdown="1" class="pquote">
@@ -209,9 +209,9 @@ Az alábbiakban találsz néhány oldalt, amelyek segítenek abban, hogy felfede
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Egy ellenőrző lista, mielőtt részt vennél a projektben
 

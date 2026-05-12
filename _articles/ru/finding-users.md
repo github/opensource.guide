@@ -97,7 +97,7 @@ related:
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Я очень нервничала перед посещением PyCon. Я выступала с докладом, собиралась познакомиться там только с парочкой людей, ехала на целую неделю. (...) Однако мне не стоило волноваться. PyCon был необычайно классным! (...) Все были невероятно так дружелюбны и общительны, что я едва находила время побыть наедине!
   <p markdown="1" class="pquote-credit">
-- @jhamrick, [«Как я научился перестать беспокоиться и полюбить PyCon»](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+- @jhamrick, [«Как я научился перестать беспокоиться и полюбить PyCon»](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -109,7 +109,7 @@ related:
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   При подготовке к своему докладу, независимо от его темы, попробуйте представить его как историю, которые вы рассказываете людям.
   <p markdown="1" class="pquote-credit">
-- Лена Рейнхард, [«Как подготовить и написать доклад на технической конференции»](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+- Лена Рейнхард, [«Как подготовить и написать доклад на технической конференции»](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

@@ -86,8 +86,7 @@ Se sua empresa tomar tal caminho, é importante manter os limites entre comunida
 
 Se você não pode convencer o seu atual empregador a priorizar trabalho open source, considere encontrar um novo empregador que encorage as contribuições open source de seus funcionários. Procure empresas que façam a sua dedicação ao trabalho open source explícita. Por exemplo:
 
-* Algumas empresas, como a [Netflix](https://netflix.github.io/) ou o [PayPal](https://paypal.github.io/), têm websites que destacam o seu envolvimento com open source
-* [Zalando](https://opensource.zalando.com) publicou sua [política de contribuição com open source](https://opensource.zalando.com/docs/using/contributing/) para funcionários
+* Algumas empresas, como a [Netflix](https://netflix.github.io/), têm websites que destacam o seu envolvimento com open source
 
 Projetos que se originaram em uma grande empresa, como o [Go](https://github.com/golang) ou o [React](https://github.com/facebook/react), também irão possivelmente empregar pessoas para trabalhar com open source.
 
@@ -100,7 +99,7 @@ Dependendo de suas circunstâncias pessoais, você pode tentar conseguir dinheir
 Finalmente, as vezes, projetos open source põem recompensas em issues que você pode considerar ajudar a resolver.
 
 * @ConnorChristie conseguiu ser pago por [ajudar](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol a trabalhar em sua biblioteca JavaScript [através de uma recompensa em gitcoin](https://gitcoin.co/).
-* @mamiM fez traduções para o Japonês para @MetaMask após a [issue ser financiada na Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM fez traduções para o Japonês para @MetaMask após a [issue ser financiada na Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Encontrando financiamento para o seu projeto
 
@@ -116,7 +115,7 @@ Encontrar patrocínio funciona bem se você já tem uma forte audiência ou repu
 Alguns exemplos de patrocínio incluem:
 
 * O **[webpack](https://github.com/webpack)** arrecada dinheiro de empresas e indivíduos [através do OpenCollective](https://opencollective.com/webpack)
-* A **[Ruby Together](https://rubytogether.org/),** é uma organização sem fins lucrativos que paga pelo trabalho no [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), e outros projetos de infraestrutura do Ruby.
+* A **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** é uma organização sem fins lucrativos que paga pelo trabalho no [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), e outros projetos de infraestrutura do Ruby.
 
 ### Crie um fluxo de receita
 

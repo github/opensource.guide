@@ -123,7 +123,7 @@ Dacă compania ta coboară pe acest traseu, este important să păstrezi graniț
 
 Dacă nu îți poți convinge angajatorul curent să acorde prioritate muncii open source, consideră să găsești un nou angajator care încurajează contribuțiile angajaților la open source. Caută companii care își fac dedicarea la munca open source în mod explicit. De exemplu:
 
-* Unele companii, cum ar fi [Netflix](https://netflix.github.io/) sau [PayPal](https://paypal.github.io/), au site-uri web care evidențiază implicarea lor în open source
+* Unele companii, cum ar fi [Netflix](https://netflix.github.io/), au site-uri web care evidențiază implicarea lor în open source
 * [Rackspace](https://www.rackspace.com/en-us) și-a publicat [politica de contribuire la open source](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/) pentru angajați
 
 Proiectele care provin de la o companie mare, cum ar fi [Go](https://github.com/golang) sau [React](https://github.com/facebook/react), probabil vor angaja de asemenea oameni să lucreze pe open source.
@@ -137,7 +137,7 @@ Proiectele care provin de la o companie mare, cum ar fi [Go](https://github.com/
 În cele din urmă, uneori proiectele cu sursă deschisă pun recompense pe probleme la care ai putea considera să ajuți.
 
 * @ConnorChristie a putut să fie plătită pentru că [a ajutat](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol să lucreze pe biblioteca lor JavaScript [printr-o recompensă pe gitcoin](https://gitcoin.co/).
-* @mamiM a făcut traduceri în japoneză pentru @MetaMask după ce [problema a fost finanțată pe Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM a făcut traduceri în japoneză pentru @MetaMask după ce [problema a fost finanțată pe Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Găsirea de finanțare pentru proiectul tău
 
@@ -153,7 +153,7 @@ Găsirea sponsorizărilor funcționează bine dacă ai deja un public puternic s
 Câteva exemple de proiecte sponsorizate includ:
 
 * **[webpack](https://github.com/webpack)** strânge bani de la companii și indivizi [prin OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** o organizație nonprofit care plătește pentru munca pe [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), și alte proiecte de infrastructură Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** o organizație nonprofit care plătește pentru munca pe [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), și alte proiecte de infrastructură Ruby
 
 ### Creează un flux de venit
 

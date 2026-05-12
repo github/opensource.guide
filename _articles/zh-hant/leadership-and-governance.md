@@ -100,9 +100,9 @@ redirect_from: /zh-tw/leadership-and-governance/
 
 * **BDFL:** BDFL 是 "仁慈的獨裁者生活" 的縮寫. 在此結構下，有一個人（通常是專案的最初的作者）擁有專案中所有的最後決定權。[Python](https://github.com/python) 就是一個非常經典的例子。較小的專案可能默認就是 BDFL 結構，因爲他一般就是一到兩位維護者。若是公司組織的專案也極有可能會採用BDFL結構。
 
-* **精英制:** **(注: 術語 "精英制" 對於一些社群可能具有消極的含義，其擁有較[複雜的社會和政治的歷史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活躍的專案貢獻者（他們用行動證明自己是"精英"）給一個正式的決策作用，決定通常會基於純粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出；[所有的Apache 專案](http://www.apache.org/index.html#projects-list) 都是基於精英制的。貢獻者只能代表自己是獨立的個體，不可以是公司。
+* **精英制:** **(注: 術語 "精英制" 對於一些社群可能具有消極的含義，其擁有較[複雜的社會和政治的歷史](https://geekfeminism.fandom.com/wiki/Meritocracy).)** 在精英制下，活躍的專案貢獻者（他們用行動證明自己是"精英"）給一個正式的決策作用，決定通常會基於純粹的投票一致性。精英制的概念首次由[Apache Foundation](http://www.apache.org/)提出；[所有的Apache 專案](http://www.apache.org/index.html#projects-list) 都是基於精英制的。貢獻者只能代表自己是獨立的個體，不可以是公司。
 
-* **自由貢獻:** 在自由貢獻的模式下，做最多工作的人通常被認爲是最具影響力的，但是是基於當前的工作，而不是歷史的共享。專案的重大決策是基於尋求共識的過程（對不同的聲音要討論）而不是純粹的投票，儘可能的努力的去囊括多的社群觀點。較流行的使用自由貢獻模式的專案有[Node.js](https://nodejs.org/en/foundation/) 和 [Rust](https://www.rust-lang.org/en-US/)。
+* **自由貢獻:** 在自由貢獻的模式下，做最多工作的人通常被認爲是最具影響力的，但是是基於當前的工作，而不是歷史的共享。專案的重大決策是基於尋求共識的過程（對不同的聲音要討論）而不是純粹的投票，儘可能的努力的去囊括多的社群觀點。較流行的使用自由貢獻模式的專案有[Node.js](https://nodejs.org/en/foundation/) 和 [Rust](https://rust-lang.org/)。
 
 應該選擇哪一種模式了呢？由你自己來做決定！每個模式都有優點，也有缺點。雖然上面的描述乍一看，這三種模式有着很大的不同，其實不然，它們還是有着共同點的。如果你對上述三種模式有興趣，可以採用下面的模版：
 
@@ -146,7 +146,7 @@ redirect_from: /zh-tw/leadership-and-governance/
 
 如果你打算讓自己的開源專案接受捐贈的話，你可以創建一個捐贈按鈕（使用PayPal或Stripe，舉例來說），但是你要知道，這些錢並非是免稅的，除非你是認證過的非盈利性組織（在美國的話，諸如501c3）。
 
-很多專案都不願意成立非盈利組織那麼麻煩，所以他們會以贊助商的身份尋找一個非營利性組織。財政資助代表你接受捐款,通常以換取一定比例的捐贈。針對開源專案接受財政資助的非營利性組織有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金會](http://www.apache.org/), [Eclipse 基金會](https://eclipse.org/org/foundation/), [Linux 基金會](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
+很多專案都不願意成立非盈利組織那麼麻煩，所以他們會以贊助商的身份尋找一個非營利性組織。財政資助代表你接受捐款,通常以換取一定比例的捐贈。針對開源專案接受財政資助的非營利性組織有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金會](http://www.apache.org/), [Eclipse 基金會](https://eclipse.org/org/), [Linux 基金會](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3671070?v=3&s=460" class="pquote-avatar" alt="avatar">

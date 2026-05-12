@@ -118,7 +118,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   حقیقت این است که داشتن یک جامعه حامی بسیار حیاتی است. من هرگز قادر به انجام چنین کاری بدون کمک همکارانم، غریبه هایی که در اینترنت و کانال های <span dir="rtl">IRC</span> چت با آنها دوست شدم نبودم(...). البته نباید به دون مایه ها و عوضی ها اکتفا نمود.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -164,7 +164,7 @@ related:
 
 * **یک فایل مشارکت کننده یا مولف در پروژه تان را شروع کنید** تا همه افرادی که به پروژه تان کمک می کردند مانند [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) را لیست کنید.
 
-* **اگر شما یک انجمن بزرگ دارید، یک خبرنامه منتشر کنید یا یک پست وبلاگی بنویسید** که قدردان مشارکت کنندگان هستید. خبرنامه های [This Week in Rust](https://this-week-in-rust.org/) و [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) هودی دو نمونه خوب از این موارد هستند.
+* **اگر شما یک انجمن بزرگ دارید، یک خبرنامه منتشر کنید یا یک پست وبلاگی بنویسید** که قدردان مشارکت کنندگان هستید. خبرنامه های [This Week in Rust](https://this-week-in-rust.org/) و [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) هودی دو نمونه خوب از این موارد هستند.
 
 * **به همه مشارکت کنندگان دسترسی <span dir="rtl">Commit</span> کردن بدهید.** <span dir="rtl">@fleixge</span> پی برد که این کار، [افراد را وادار می کند](https://felixge.de/2013/03/11/the-pull-request-hack.html) تا با هیجان بیشتری <span dir="rtl">patch</span> هایشان را اصلاح کنند و حتی باعث می شود اعضای جدید برای پروژه هایی بیابید که روی آنها سرمایه گذاری نکرده بودید.
 
@@ -178,7 +178,7 @@ related:
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   به بهترین وجه به نفعتان است که مشارکت کنندگانی را به عضویت بگیرید که از کارشان لذت می برند و کسانی که قادر به انجام کارهایی هستند که شما نمی توانید انجام دهید. آیا شما از کدگذاری لذت می برید، اما از جواب دادن به موضوعات لذت نمی برید؟ پس آن افرادی را در انجمن خود شناسایی کنید که این کارها را انجام می دهند.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

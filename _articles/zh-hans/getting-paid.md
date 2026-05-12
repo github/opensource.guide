@@ -17,7 +17,7 @@ redirect_from: /zh-cn/getting-paid/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-我尝试着寻找让人爱不释手的编程项目，从而使我的周末或圣诞节也能保持状态。(...)我拥有一台家用电脑，手头也并不十分宽裕。在思考了一阵子之后，我决定写一新的交互式的编程语言，（...)后来我将这门语言叫做Python。
+我尝试着寻找让人爱不释手的编程项目，从而使我的周末或圣诞节也能保持状态。(...)我拥有一台家用电脑，手头也并不十分宽裕。在思考了一阵子之后，我决定写一新的交互式的编程语言，(...)后来我将这门语言叫做Python。
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Python 编程"](https://www.python.org/doc/essays/foreword/)
   </p>
@@ -73,7 +73,7 @@ redirect_from: /zh-cn/getting-paid/
 
 @hueniverse ，举例来说，有充足的证据证明 [沃尔玛对开源的投资](https://hueniverse.com/2014/08/15/open-source-aint-charity/)是合理的。 @jamesgpearce 同样，Facebook 的开源项目让它的招聘显得[与众不同](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) :
 
-> 开源能够与我们 Hacker 文化密切配合，也能够和我们的组织融洽。我们询问员工："在 Facebook 真的那么的在意开源软件？" 超过2/3的人的回答是"yes"。一半的人表示，该计划对他们为我们工作的决定作出了积极的贡献。这可不是一个戏谑的数字，我们希望继续保持这样。
+> 开源能够与我们 Hacker 文化密切配合，也能够和我们的组织融洽。我们询问员工：“在 Facebook 真的那么的在意开源软件？” 超过2/3的人的回答是"yes"。一半的人表示，该计划对他们为我们工作的决定作出了积极的贡献。这可不是一个戏谑的数字，我们希望继续保持这样。
 
 如果你所在的公司不赞同这么做，没关系，重要的是保持社区和企业活动之间的界限清晰。你要告诉老板，开源的维持是由全球各地的人所贡献，要比任何一个公司或某一地域都大的多。老板会自己作出权衡的。
 
@@ -88,7 +88,6 @@ redirect_from: /zh-cn/getting-paid/
 如果你实在无法在当前的雇主下开展相关开源的工作，那么是到了该考虑换老板的时候，应到找个支持想为开源作贡献的老板！寻找那些致力于开源工作的公司。比如：
 
 * [Ghost](https://ghost.org/)  就是一家围绕很多[开源项目](https://github.com/tryghost/ghost)的好公司
-* [Zalando](https://opensource.zalando.com) 甚至为其员工提供了[贡献开源守则](https://opensource.zalando.com/docs/using/contributing/)
 
 那些大公司发起的项目，如 [Go](https://github.com/golang) 或 [React](https://github.com/facebook/react)，均希望雇佣到优秀的工程师来为他们工作。
 
@@ -107,7 +106,7 @@ redirect_from: /zh-cn/getting-paid/
 一些获得组织资助的项目案例：
 
 * **[webpack](https://github.com/webpack),**  [通过 OpenCollective](https://opencollective.com/webpack) 从公司和个人来筹集资金
-* **[Ruby Together](https://rubytogether.org/),** 由 @indirect 创建的非盈利组织 ，为诸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基础设施项目提供资金支持
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** 由 @indirect 创建的非盈利组织 ，为诸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基础设施项目提供资金支持
 
 尽管开源日渐的流行，但是为项目寻找资金仍处于试验阶段。目前所收集到的包括：
 

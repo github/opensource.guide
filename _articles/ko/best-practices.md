@@ -105,7 +105,7 @@ related:
 
 죄책감을 느끼고 싶지 않거나 친절함을 유지하고 싶다고 해서 원치 않는 기여를 내버려 두지 마세요. 시간이 흐르면서 그렇게 남겨진 이슈와 풀 리퀘스트가 여러분이 그 프로젝트에서 하는 작업을 더 성가시고 답답하게 만들 것입니다.
 
-받아들이고 싶지 않은 기여는 즉각적으로 닫는 것이 좋습니다. 이미 여러분의 프로젝트가 쌓인 잔무로 고생하고 있다면, @steveklabnik가 [이슈를 효율적으로 분류하는 요령](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)을 정리해 두었으니 참고하세요.
+받아들이고 싶지 않은 기여는 즉각적으로 닫는 것이 좋습니다. 이미 여러분의 프로젝트가 쌓인 잔무로 고생하고 있다면, @steveklabnik가 [이슈를 효율적으로 분류하는 요령](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener)을 정리해 두었으니 참고하세요.
 
 기여를 무시하는 것은 커뮤니티에 부정적인 신호를 보내는 것과 마찬가지입니다. 프로젝트에의 기여는 쉬운 일이 아닙니다. 특히 처음 기여하는 사람이라면 더 그렇습니다. 그들의 기여를 받아들이고 싶지 않다면, 적어도 그들이 보인 흥미와 노력에 대해 감사를 표하세요. 그것만으로도 큰 칭찬입니다!
 
@@ -221,7 +221,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust’s Community Automation”](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust’s Community Automation”](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

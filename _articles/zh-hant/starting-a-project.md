@@ -46,7 +46,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 * **採用和重組：** 任何人幾乎可以出於任何目的使用開源專案。人們甚至可以使用它來構建其他東西。例如，[WordPress](https://github.com/WordPress) 就是派生自一個名爲 [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md) 的現有專案。
 
-* **透明度：** 任何人都可以檢查開源專案是否有錯誤或不一致。 透明度對[保加利亞](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美國](https://sourcecode.cio.gov/)等政府，銀行或醫療保健等受監管行業以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全軟件都很重要。
+* **透明度：** 任何人都可以檢查開源專案是否有錯誤或不一致。 透明度對[保加利亞](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) 或[美國](https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-and-innovation-through-reusable-and-open-source-software/)等政府，銀行或醫療保健等受監管行業以及 [Let's Encrypt](https://github.com/letsencrypt) 等安全軟件都很重要。
 
 開源並不僅僅限於軟件。您可以開源任何事物，從數據集到書本。查看 [GitHub Explore](https://github.com/explore) 開找找有什麼是你可以開源的。
 
@@ -243,7 +243,7 @@ redirect_from: /zh-tw/starting-a-project/
 
 ### 你的寫作（和代碼）如何影響你的品牌
 
-在專案的整個生命週期中，你需要做很多文字工作：READMEs，教程，社群文檔，回覆issues，甚至肯能要處理很多來信和郵件。
+在專案的整個生命週期中，你需要做很多文字工作：READMEs，教程，社群文檔，回覆issues，甚至可能要處理很多來信和郵件。
 
 是否是官方文檔或者一封普通的郵件，你的書寫風格都是你專案品牌的一部分。考慮你可能會擁有粉絲，以及這是你想傳達的聲音。
 
@@ -291,7 +291,7 @@ redirect_from: /zh-tw/starting-a-project/
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    最新的issue隊列，組織和標記清除的issues
+    最新的issue隊列，組織和標記清楚的issues
   </label>
 </div>
 

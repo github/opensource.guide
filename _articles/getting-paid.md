@@ -64,7 +64,7 @@ If you're looking for financial support, there are two paths to consider. You ca
 
 Today, many people get paid to work part- or full-time on open source. The most common way to get paid for your time is to talk to your employer.
 
-It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project help attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
+It's easier to make a case for open source work if your employer actually uses the project, but get creative with your pitch. Maybe your employer doesn't use the project, but they use Python, and maintaining a popular Python project helps attract new Python developers. Maybe it makes your employer look more developer-friendly in general.
 
 If you don't have an existing open source project you'd like to work on, but would rather that your current work output is open sourced, make a case for your employer to open source some of their internal software.
 
@@ -86,8 +86,7 @@ If your company goes down this route, it's important to keep the boundaries betw
 
 If you can't convince your current employer to prioritize open source work, consider finding a new employer that encourages employee contributions to open source. Look for companies that make their dedication to open source work explicit. For example:
 
-* Some companies, like [Netflix](https://netflix.github.io/) or [PayPal](https://paypal.github.io/), have websites that highlight their involvement in open source
-* [Zalando](https://opensource.zalando.com) published its [open source contribution policy](https://opensource.zalando.com/docs/using/contributing/) for employees
+* Some companies, like [Netflix](https://netflix.github.io/), have websites that highlight their involvement in open source
 
 Projects that originated at a large company, such as [Go](https://github.com/golang) or [React](https://github.com/facebook/react), will also likely employ people to work on open source.
 
@@ -100,7 +99,7 @@ Depending on your personal circumstances, you can try raising money independentl
 Finally, sometimes open source projects put bounties on issues that you might consider helping with.
 
 * @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their JavaScript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Finding funding for your project
 
@@ -116,7 +115,7 @@ Finding sponsorships works well if you have a strong audience or reputation alre
 A few examples of sponsored projects include:
 
 * **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
 
 ### Create a revenue stream
 
@@ -136,6 +135,8 @@ Some software foundations and companies offer grants for open source work. Somet
 * **[OpenMRS](https://github.com/openmrs)** work was funded by [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
 * **[Libraries.io](https://github.com/librariesio)** received a grant from the [Sloan Foundation](https://sloan.org/programs/digital-technology)
 * The **[Python Software Foundation](https://www.python.org/psf/grants/)** offers grants for Python-related work
+* **[FLOSS/fund](https://floss.fund/)** is a dedicated fund to provide no-strings attached financial support to FOSS projects globally.
+* The **[GitHub Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/)** is a program designed to financially and programmatically improve security and sustainability of open source projects.
 
 For more detailed options and case studies, @nayafia [wrote a guide](https://github.com/nayafia/lemonade-stand) to getting paid for open source work. Different types of funding require different skills, so consider your strengths to figure out which option works best for you.
 
@@ -175,4 +176,4 @@ Does the funder have any requirements around disbursal? For example, you may nee
 
 ## Experiment and don't give up
 
-Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases require you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.
+Raising money isn't easy, whether you're an open source project, a nonprofit, or a software startup, and in most cases requires you to get creative. Identifying how you want to get paid, doing your research, and putting yourself in your funder's shoes will help you build a convincing case for funding.

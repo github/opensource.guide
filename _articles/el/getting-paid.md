@@ -86,8 +86,7 @@ related:
 
 Αν δεν μπορείτε να πείσετε τον σημερινό σας εργοδότη να δώσει προτεραιότητα στην εργασία ανοιχτού κώδικα, σκεφτείτε να βρείτε έναν νέο εργοδότη που ενθαρρύνει τις συνεισφορές των εργαζομένων στον ανοιχτό κώδικα. Αναζητήστε εταιρείες που καθιστούν ρητή την αφοσίωσή τους στην εργασία ανοικτού κώδικα. Για παράδειγμα:
 
-* Ορισμένες εταιρείες, όπως η [Netflix](https://netflix.github.io/) ή η [PayPal](https://paypal.github.io/), διαθέτουν ιστότοπους που αναδεικνύουν τη συμμετοχή τους στον ανοικτό κώδικα.
-* Η [Zalando](https://opensource.zalando.com) δημοσίευσε την [πολιτική συνεισφοράς στον ανοικτό κώδικα](https://opensource.zalando.com/docs/using/contributing/) για τους υπαλλήλους της.
+* Ορισμένες εταιρείες, όπως η [Netflix](https://netflix.github.io/), διαθέτουν ιστότοπους που αναδεικνύουν τη συμμετοχή τους στον ανοικτό κώδικα.
 
 Έργα που ξεκίνησαν από μια μεγάλη εταιρεία, όπως το [Go](https://github.com/golang) ή το [React](https://github.com/facebook/react), είναι επίσης πιθανό να απασχολούν άτομα που εργάζονται στον ανοιχτό κώδικα.
 
@@ -100,7 +99,7 @@ related:
 Τέλος, μερικές φορές τα έργα ανοικτού κώδικα προκηρύσσουν αμοιβές για θέματα που θα μπορούσατε να σκεφτείτε να βοηθήσετε.
 
 * Ο @ConnorChristie μπόρεσε να πληρωθεί για [βοήθεια](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) Η @MARKETProtocol εργάζεται στη βιβλιοθήκη JavaScript [μέσω μιας επικήρυξης στο gitcoin](https://gitcoin.co/).
-* Η @mamiM έκανε μεταφράσεις στα ιαπωνικά για την @MetaMask μετά την [χρηματοδότηση του θέματος στο Bounties Network](https://explorer.bounties.network/bounty/134).
+* Η @mamiM έκανε μεταφράσεις στα ιαπωνικά για την @MetaMask μετά την [χρηματοδότηση του θέματος στο Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Εύρεση χρηματοδότησης για το πρότζεκτ σας
 
@@ -116,7 +115,7 @@ related:
 Μερικά παραδείγματα έργων με χορηγίες περιλαμβάνουν:
 
 * **[webpack](https://github.com/webpack)** συγκεντρώνει χρήματα από εταιρείες και ιδιώτες [μέσω του OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** ένας μη κερδοσκοπικός οργανισμός που πληρώνει για εργασίες στα [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), και άλλα έργα υποδομής Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** ένας μη κερδοσκοπικός οργανισμός που πληρώνει για εργασίες στα [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), και άλλα έργα υποδομής Ruby
 
 ### Δημιουργία μιας ροής εσόδων
 

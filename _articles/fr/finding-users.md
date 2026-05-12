@@ -31,7 +31,7 @@ Pour plus d'information concernant la messagerie, consultez l'exercice de Mozill
 ## Aidez les gens à trouver et à suivre votre projet
 
 <aside markdown="1" class="pquote">
-  Dans l'idéal, vous avez besoin d'une seule URL "d'accueil" que vous pouvez promouvoir et diriger vers des personnes en relation avec votre projet. Vous n'avez pas besoin de vous depenser sur un modèle fantaisie ou même un nom de domaine, mais votre projet a besoin d'un point focal.
+  Dans l'idéal, vous avez besoin d'une seule URL "d'accueil" que vous pouvez promouvoir et diriger vers des personnes en relation avec votre projet. Vous n'avez pas besoin de vous dépenser sur un modèle fantaisie ou même un nom de domaine, mais votre projet a besoin d'un point focal.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
@@ -69,7 +69,7 @@ Tirez parti des communautés et des plateformes en ligne existantes pour atteind
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Chaque programme a des fonctions très spécifiques que seule une fraction des utilisateurs trouveront utiles. Ne spammez pas toute les personnes possible. Ciblez plutôt vos efforts sur les communautés qui trouveront un bénéfice a connaître votre projet.
+  Chaque programme a des fonctions très spécifiques que seule une fraction des utilisateurs trouveront utiles. Ne spammez pas toutes les personnes possible. Ciblez plutôt vos efforts sur les communautés qui trouveront un bénéfice à connaître votre projet.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
@@ -97,19 +97,19 @@ Si vous êtes [nouveau sur la prise de parole en public](https://speaking.io/), 
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   J'étais plutôt nerveux d'aller à PyCon. Je donnais une conférence, je n'allais connaître que quelques personnes, j'y allais pendant une semaine entière. (...) Je n'aurais pas dû m'inquiéter, cependant. PyCon était phénoménalement génial ! (...) Tout le monde était incroyablement amical et extraverti, tellement que j'ai rarement trouvé le temps de ne pas parler aux gens !
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
 Si vous n'avez jamais parlé à un événement auparavant, il est tout à fait normal de vous sentir nerveux ! Rappelez-vous que votre auditoire est là parce qu'il veut vraiment entendre parler de votre travail.
 
-Au fur et à mesure que vous écrivez votre exposé, concentrez-vous sur ce que votre auditoire trouvera intéressant et dont vous tirerez profit. Gardez votre ton amicale et accessible. Souriez, respirez et amusez-vous.
+Au fur et à mesure que vous écrivez votre exposé, concentrez-vous sur ce que votre auditoire trouvera intéressant et dont vous tirerez profit. Gardez votre ton amical et accessible. Souriez, respirez et amusez-vous.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Lorsque vous commencez à écrire votre discours, quel que soit votre sujet, cela peut aider si vous voyez votre conversation comme une histoire que vous racontez.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
@@ -143,6 +143,6 @@ Il n'est jamais trop tôt ou trop tard pour commencer à bâtir votre réputatio
 
 Il n'y a pas de solution du jour au lendemain pour créer un public. Gagner la confiance et le respect des autres prend du temps, et bâtir votre réputation ne s'arrête jamais.
 
-## Persévèrez !
+## Persévérez !
 
 Cela peut prendre beaucoup de temps avant que les gens remarquent votre projet open source. C'est bon ! Certains des projets les plus populaires aujourd'hui ont pris des années pour atteindre des niveaux d'activité élevés. Concentrez-vous sur l'établissement de relations au lieu d'espérer que votre projet gagnera spontanément en popularité. Soyez patient et continuez à partager votre travail avec ceux qui l'apprécient.

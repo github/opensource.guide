@@ -41,23 +41,42 @@ If you'd like to contribute, start by searching through the [pull requests](http
 
 If you don't see your idea listed, and you think it fits into the goals of this guide, open a pull request.
 
+## 💡 Quick Tip for Beginners
+
+1. Always create a new branch for your changes.
+2. Write clear commit messages.
+3. Test your changes locally before submitting a PR.
+4. Follow the style guide.
+5. Be patient during reviews.
+
 ## Style guide
 
 If you're writing content, see the [style guide](./docs/styleguide.md) to help your prose match the rest of the guides.
 
 ## Setting up your environment
 
-This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/).
+This site is powered by [Jekyll](https://jekyllrb.com/). Running it on your local machine requires a working [Ruby](https://www.ruby-lang.org/en/) installation with [Bundler](https://bundler.io/) along with [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 
-Once you have that set up, run:
+Once you have that set up:
 
-    script/bootstrap
-    script/server
+1. Grant execution permissions to the scripts:
+
+```bash
+chmod +x script/bootstrap
+chmod +x script/server
+```
+
+2. Execute the scripts:
+
+```bash
+./script/bootstrap
+./script/server
+```
 
 …and open <http://localhost:4000> in your web browser.
 
 ## Community
 
-Discussions about the Open Source Guides take place on this repository's [Issues](https://github.com/github/opensource.guide/issues) and [Pull Requests](https://github.com/github/opensource.guide/pulls) sections. Anybody is welcome to join these conversations.
+Discussions about the Open Source Guides take place on this repository's [Pull Requests](https://github.com/github/opensource.guide/pulls) section. Anybody is welcome to join these conversations.
 
 Wherever possible, do not take these conversations to private channels, including contacting the maintainers directly. Keeping communication public means everybody can benefit and learn from the conversation.

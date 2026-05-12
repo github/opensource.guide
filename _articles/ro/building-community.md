@@ -139,7 +139,7 @@ Fă tot ce poți pentru a adopta o politică de toleranță zero față de acest
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -194,7 +194,7 @@ Vezi dacă poți găsi moduri de a împărți proprietatea cu comunitatea ta câ
 
 * **Începe un fișier CONTRIBUTORS sau AUTHORS în proiectul tău** care listează pe toți cei care au contribuit la proiectul tău, la fel cum face [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Dacă ai o comunitate considerabilă, **trimite un buletin informativ sau scrie o postare de blog** mulțumind contributorilor. [This Week in Rust](https://this-week-in-rust.org/) al Rust și [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) al Hoodie sunt două exemple bune.
+* Dacă ai o comunitate considerabilă, **trimite un buletin informativ sau scrie o postare de blog** mulțumind contributorilor. [This Week in Rust](https://this-week-in-rust.org/) al Rust și [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) al Hoodie sunt două exemple bune.
 
 * **Dă tuturor contributorilor accesul pentru a face commit-uri** @felixge a găsit că aceasta a făcut oamenii [mai încântați să-și finiseze patch-urile](https://felixge.de/2013/03/11/the-pull-request-hack.html), și el chiar a găsit noi întreținători pentru proiecte la care n-a lucrat de ceva timp.
 
@@ -215,7 +215,7 @@ Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprint
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

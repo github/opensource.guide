@@ -95,7 +95,7 @@ related:
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   من از اینکه بخواهم به <span dir="rtl">«PyCon»</span> بروم، خیلی استرس داشتم. قرار بود که سخنرانی بکنم، قرار بود فقط با چند نفر در آنجا آشنا شوم، قرار بود یک هفته‌ی تمام آنجا می‌بودم. .... هر چند نیازی نبود که استرس داشته باشم. <span dir="rtl">PyCon</span>  فراتر از انتظارهایم فوق‌العاده بود! همگی به طرز خار‌ق‌العاده‌ای رفتاری دوستانه داشتند و خوش‌برخورد بودند، به قدری که من به ندرت وقت می‌کردم که با مردم صحبت نکنم!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -108,7 +108,7 @@ related:
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   وقتی احساس کردید که آماده‌اید، سخنرانی در کنفرانس‌ها به منظور تبلیغ پروژه‌ی خود را مد نظر قرار دهید. کنفرانس‌ها می‌توانند به شما کمک کنند تا به افراد بیشتری، گاهی اوقات از سراسر جهان، دسترسی پیدا کنید.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

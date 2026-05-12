@@ -86,8 +86,7 @@ Birçok şirket markalarını geliştirmek ve kaliteli yetenekler kazanmak için
 
 Mevcut işvereninizi açık kaynak çalışmasına öncelik vermeye ikna edemiyorsanız, çalışan katkılarını açık kaynağa teşvik eden yeni bir işveren bulmayı düşünün. Açık kaynak kodlu çalışmalara açık bir şekilde kendini adadıklarını söyleyen şirketleri arayın. Örneğin:
 
-* [Netflix](https://netflix.github.io/) veya [PayPal](https://paypal.github.io/) gibi bazı şirketler, açık kaynaklara katılımını vurgulayan web sitelerine sahiptir.
-* [Zalando](https://opensource.zalando.com) , çalışanlara yönelik [açık kaynak katkı politikasını](https://opensource.zalando.com/docs/using/contributing/) yayınladı
+* [Netflix](https://netflix.github.io/) gibi bazı şirketler, açık kaynaklara katılımını vurgulayan web sitelerine sahiptir.
 
 [Go](https://github.com/golang) veya [React](https://github.com/facebook/react) gibi büyük bir şirketten gelen projeler, muhtemelen açık kaynak üzerinde çalışmak için insanları istihdam edecek.
 
@@ -100,7 +99,7 @@ Kişisel durumunuza bağlı olarak, açık kaynaklı işinize para yatırmak iç
 Son olarak, bazen açık kaynaklı projeler, yardım etmeyi düşündüğünüz meselelere güçlükler getirir.
 
 * @ConnorChristie, @MARKETProtocol'un JavaScript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
-* @mamiM, [sorun Bounties Network'te finanse](https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
+* @mamiM, [sorun Bounties Network'te finanse](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
 
 ## Projeniz için finansman bulma
 
@@ -115,7 +114,7 @@ Açık kaynağın popülaritesi arttıkça, projelere fon bulmak için hala dene
 Sponsorluk bulmak, zaten güçlü bir kitleye veya şöhrete sahipseniz veya projeniz çok popülerse işe yarar. Sponsorlu projelere birkaç örnek:
 
 * **[webpack](https://github.com/webpack)** [OpenCollective](https://opencollective.com/webpack) üzerinden şirketler ve bireylerden para topladı
-* **[Ruby Together](https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
 
 ### Bir gelir akışı oluşturun
 

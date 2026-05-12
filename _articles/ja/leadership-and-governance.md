@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: リーダーシップと組織運営
-description: 意思決定するためのルールを決めることで、オープンソースプロジェクトを成長させる助けとなります
+description: 意思決定するためのルールを決めることで、オープンソースプロジェクトを成長させる助けとなります。
 class: leadership
 order: 6
 image: /assets/images/cards/leadership.png
@@ -81,7 +81,7 @@ related:
 
 その一方で、大きく複雑なプロジェクトでは、プロジェクトに対して熱心に献身している人のみにコミット権限を与えたいと思うかもしれません。唯一の正解はありません - あなたが最も良いと思うことをやりましょう。
 
-もしプロジェクトが GitHub 上にあるのであれば、 [protected branches](https://help.github.com/articles/about-protected-branches/) を使うことで、どいうった状況で誰が特定のブランチに push できるのかを管理することができます。
+もしプロジェクトが GitHub 上にあるのであれば、 [protected branches](https://help.github.com/articles/about-protected-branches/) を使うことで、どういった状況で誰が特定のブランチに push できるのかを管理することができます。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
@@ -97,7 +97,7 @@ related:
 
 * **BDFL:** BDFL は "Benevolent Dictator for Life（優しい終身の独裁者）" の略です。これは、一人の人間（大抵はプロジェクトを立ち上げた人）が、全てのプロジェクトの大きな決断に最終承認を出すやり方です。 [Python](https://github.com/python) は、古くからある例です。小さなプロジェクトではおそらく初めから BDFL を採用しているでしょう。なぜなら、メンテナーが一人か二人しかいないからです。企業が始めたプロジェクトも BDFL のカテゴリーに入るでしょう。
 
-* **業績主義:** **(メモ: "業績主義"という言葉は、コミュニティによっては否定的な意味を持つかもしれなく、[複雑な社会的、政治的歴史](http://geekfeminism.wikia.com/wiki/Meritocracy)があります。)** 業績主義のもとでは、活動的なプロジェクトコントリビューター（「業績」を出した人）が、公式の意思決定の役割を与えられます。意思決定はたいてい投票によって行われます。業績主義のコンセプトは [Apache Foundation](https://www.apache.org/) が先鞭をつけました; [全ての Apache プロジェクト](https://www.apache.org/index.html#projects-list)は業績主義で運営されています。コントリビュートは、全て企業ではなく代表する個人によってのみ行われます。
+* **業績主義:** **(メモ: "業績主義"という言葉は、コミュニティによっては否定的な意味を持つかもしれなく、[複雑な社会的、政治的歴史](https://geekfeminism.fandom.com/wiki/Meritocracy)があります。)** 業績主義のもとでは、活動的なプロジェクトコントリビューター（「業績」を出した人）が、公式の意思決定の役割を与えられます。意思決定はたいてい投票によって行われます。業績主義のコンセプトは [Apache Foundation](https://www.apache.org/) が先鞭をつけました; [全ての Apache プロジェクト](https://www.apache.org/index.html#projects-list)は業績主義で運営されています。コントリビュートは、全て企業ではなく代表する個人によってのみ行われます。
 
 * **自由主義的なコントリビュート:** 自由主義的なコントリビュートモデルでは、最も働いている人が最も影響力があると認められますが、これはこれまでのコントリビュートではなく現時点での仕事に基づきます。プロジェクトでの大きな意思決定は、純粋な投票ではなく合意の模索プロセス（大きな不満点について議論する）によって行われます。そして、可能な限りコミュニティ内の多くの知見を集めようと努力します。自由主義的なコントリビュートモデルを採用している有名なプロジェクトの例としては、 [Node.js](https://foundation.nodejs.org/) や [Rust](https://www.rust-lang.org/) があります。
 
@@ -143,7 +143,7 @@ related:
 
 あなたのオープンソースプロジェクトで寄付を受け取りたいのであれば、（例えば PayPal や Stripe を使うことで）寄付ボタンを設置することができます。ただし、非営利団体（ US の場合は 501c3 ）でない場合は課税控除の対象にはなりません。
 
-多くのプロジェクトでは非営利団体を設立するという面倒を避けるために、代わりに非営利の財政スポンサーを見つけています。財政スポンサーは、寄付額の一定の割合を受け取ることと引き換えにあなたの代わりに寄付を受け取ります。 [Software Freedom Conservancy](https://sfconservancy.org/) や [Apache Foundation](https://www.apache.org/) 、 [Eclipse Foundation](https://eclipse.org/org/foundation/) 、 [Linux Foundation](https://www.linuxfoundation.org/projects) 、 [Open Collective](https://opencollective.com/opensource) は、オープンソースプロジェクトの財政スポンサーとして活動している団体の例です。
+多くのプロジェクトでは非営利団体を設立するという面倒を避けるために、代わりに非営利の財政スポンサーを見つけています。財政スポンサーは、寄付額の一定の割合を受け取ることと引き換えにあなたの代わりに寄付を受け取ります。 [Software Freedom Conservancy](https://sfconservancy.org/) や [Apache Foundation](https://www.apache.org/) 、 [Eclipse Foundation](https://www.eclipse.org/org/) 、 [Linux Foundation](https://www.linuxfoundation.org/projects) 、 [Open Collective](https://opencollective.com/opensource) は、オープンソースプロジェクトの財政スポンサーとして活動している団体の例です。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

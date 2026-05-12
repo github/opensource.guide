@@ -86,8 +86,7 @@ Jika perusahaan Anda mengikuti rute ini, merupakan hal yang penting untuk menjag
 
 Jika Anda tidak mampu meyakinkan perusahaan untuk memprioritaskan pekerjaan open source, pertimbangkan untuk mencari perusahaan lain yang mendorong kontribusi karyawan pada open source. Cari perusahaan yang mendedikasikan pada pekerjaan open source secara eksplisit. Sebagai contoh:
 
-* Beberapa perusahaan, seperti [Netflix](https://netflix.github.io/) atau [PayPal](https://paypal.github.io/), memiliki halaman web yang menunjukan keterlibatan mereka pada open source
-* [Zalando](https://opensource.zalando.com) mempublikasikan [kebijakan kontribusi open source](https://opensource.zalando.com/docs/using/contributing/) bagi pegawai
+* Beberapa perusahaan, seperti [Netflix](https://netflix.github.io/), memiliki halaman web yang menunjukan keterlibatan mereka pada open source
 
 Proyek-proyek yang berasal dari perusahaan besar, seperti [Go](https://github.com/golang) atau [React](https://github.com/facebook/react), juga akan memperkerjakan orang-orang untuk bekerja pada open source.
 
@@ -110,7 +109,7 @@ Seiring dengan popularitas open source, menemukan pendanaan untuk proyek masih b
 Mencari sponsor bisa dilakukan jika Anda memiliki pengguna atau reputasi yang kuat, atau proyek Anda sangat populer. Beberapa proyek yang disponsori meliputi:
 
 * **[webpack](https://github.com/webpack)** mendapatkan pendanaan dari perusahaan dan perseorangan [melalui OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** organisasi nirlaba yang membayar untuk bekerja pada [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan proyek infrastruktur Ruby lainnya.
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** organisasi nirlaba yang membayar untuk bekerja pada [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan proyek infrastruktur Ruby lainnya.
 
 ### Menciptakan pendapatan
 

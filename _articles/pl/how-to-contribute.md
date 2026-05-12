@@ -18,7 +18,7 @@ related:
   Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   </i>
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -70,7 +70,7 @@ Powszechnym błędnym przekonaniem na temat przyczyniania się do open source je
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   </i>
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -94,7 +94,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 * Napisz i popraw dokumentację projektu
 * Wybierz folder z przykładami pokazującymi, w jaki sposób projekt jest używany
 * Rozpocznij biuletyn dotyczący projektu lub wybieraj najważniejsze informacje z listy mailingowej
-* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA](https://packaging.python.org/)
 * Napisz tłumaczenie dokumentacji projektu
 
 <aside markdown="1" class="pquote">
@@ -221,9 +221,9 @@ Możesz także skorzystać z jednego z następujących zasobów, aby pomóc ci o
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Lista kontrolna przed wniesieniem wkładu
 

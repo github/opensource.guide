@@ -86,8 +86,7 @@ related:
 
 اگر نمی‌توانید کارفرمای کنونی خودتان را متقاعد به اولویت‌بندی کارهای متن باز بکنید، سعی کنید کارفرماهای جدیدی پیدا کنید که کارمندان را تشویق به مشارکت در متن باز می‌کنند. به دنبال شرکت‌هایی بگردید که تعهد صریحی برای کار با پروژه‌های متن باز داشته باشند. به عنوان مثال:
 
-* برخی شرکت‌ها مانند [Netflix](https://netflix.github.io/) یا [PayPal](https://paypal.github.io/)، وب‌سایت‌هایی دارند که مشارکت آن‌ها در متن باز را برجسته و نمایان می‌کند
-* 	شرکت [Zalando](https://opensource.zalando.com)، «سیاست‌های مشارکت متن باز» خود برای کارمندان را منتشر کرد
+* برخی شرکت‌ها مانند [Netflix](https://netflix.github.io/)، وب‌سایت‌هایی دارند که مشارکت آن‌ها در متن باز را برجسته و نمایان می‌کند
 
 پروژه‌هایی که از شرکت‌های بزرگی مانند [Go](https://github.com/golang) یا [React](https://github.com/facebook/react) سرچشمه گرفته‌اند و به آن وصل‌اند نیز احتمالاً افرادی را برای کار با متن باز استخدام خواهند کرد
 
@@ -115,7 +114,7 @@ related:
 اگر از قبل مخاطب یا اعتبار بالایی داشته باشید یا پروژه‌ی شما از محبوبیت بالایی برخوردار باشد، یافتن حمایت‌های مالی امکان‌پذیر است. چند نمونه از پروژه‌های حمایت شده:
 
 * پروژه‌ی **[webpack](https://github.com/webpack)** از طریق [OpenCollective](https://opencollective.com/webpack) از شرکت‌ها و اشخاص پول جمع‌آوری می‌کند
-* **[Ruby Together](https://rubytogether.org/)،** یک سازمان غیر‌انتفاعی است که هزینه‌های کار در [bundler](https://github.com/bundler/bundler)،  [RubyGems](https://github.com/rubygems/rubygems) و سایر پروژه‌های بر پایه‌ی زیرساختی «Ruby» را پرداخت می‌کند
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/)،** یک سازمان غیر‌انتفاعی است که هزینه‌های کار در [bundler](https://github.com/bundler/bundler)،  [RubyGems](https://github.com/rubygems/rubygems) و سایر پروژه‌های بر پایه‌ی زیرساختی «Ruby» را پرداخت می‌کند
 
 ### ایجاد یک منبع درآمدی
 

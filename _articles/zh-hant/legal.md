@@ -33,7 +33,7 @@ redirect_from: /zh-tw/legal/
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**讓你們的GitHub專案公開與許可你們的專案是不同的。**公開專案是由[GitHub的服務條款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保護，它允許他人瀏覽以及fork你們的專案，但是沒有權限參與你們的工作。
+**讓你們的GitHub專案公開與許可你們的專案是不同的。**公開專案是由[GitHub的服務條款](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保護，它允許他人瀏覽以及fork你們的專案，但是沒有權限參與你們的工作。
 
 如果你們想讓他人使用，複製，修改你們的專案，或者參與貢獻你們的專案，那麼你們的專案就需要包含一個開源許可協議。例如，即使你們的專案是公開的，但沒有你們的授權，一些人是不能合法在他們的程式碼中使用你們GitHub專案中的任何部分。
 
@@ -99,13 +99,13 @@ redirect_from: /zh-tw/legal/
   <img src="https://avatars1.githubusercontent.com/u/328614?v=3&s=460" class="pquote-avatar" alt="avatar">
     我們已經刪除了Node.js的CLA。這樣做降低了Node.js貢獻者的參與門檻，從而吸引更多的貢獻者。
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 一些情況下你們可能想要爲你們的專案考慮一個額外的貢獻協議：
 
-* 你們的律師想要所有的貢獻者明確接受貢獻者條款，或者因爲他們覺得只有開源許可協議還遠遠不夠。如果這是唯一的問題，那麼有肯定專案開源許可協議的貢獻者協議就足夠了。[jQuery個人貢獻者許可協議](https://contribute.jquery.org/CLA/)就是一個很好的輕量級的個人貢獻者協議。對於一些專案來說，[Developer Certificate of Origin](https://github.com/probot/dco)是一個很好的先例。
+* 你們的律師想要所有的貢獻者明確接受貢獻者條款，或者因爲他們覺得只有開源許可協議還遠遠不夠。如果這是唯一的問題，那麼有肯定專案開源許可協議的貢獻者協議就足夠了。[jQuery個人貢獻者許可協議](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/)就是一個很好的輕量級的個人貢獻者協議。對於一些專案來說，[Developer Certificate of Origin](https://github.com/probot/dco)是一個很好的先例。
 * 你們的專案使用的開放源許可協議不包括明確的專利授權（如MIT），你們需要所有貢獻者的專利授權，這些可能適合用於你們公司的專利組合或者專案的其他貢獻者和用戶。[Apache 個人貢獻者許可協議](https://www.apache.org/licenses/icla.txt)是一種常用的附加貢獻者協議，其具有與Apache許可2.0中的專利許可相同的專利許可。
 * 如果你們的專案使用的是copyleft許可協議，但你們也需要分發專案的專有版本。那你們需要每個貢獻者分配版權給你們或者授予你們許可權。[MongoDB貢獻者協議](https://www.mongodb.com/legal/contributor-agreement)就是這中類型的。
 * 你們認爲你們的專案在其有效期內需要更換許可協議，以及事先得到貢獻者的同意。
@@ -132,13 +132,13 @@ redirect_from: /zh-tw/legal/
 如果你們發佈了公司的第一開源專案，爲了能通過，以上這些綽綽有餘（不要擔心，大多數專案不會引起重大關注）。
 長期來說，們的法律團隊可以做更多的事情，以幫助公司從開源中獲得更多，並保持安全：
 
-* **員工貢獻策略：**考慮制定一個公司策略，指明你們的員工如何爲開源專案貢獻。明確的政策將減少你們員工的迷惑，並幫助他們爲公司的最佳利益向開源專案做貢獻，無論是作爲他們工作的一部分還是在自由時間。Rackspace的[Model IP和開源貢獻策略](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)就是很好的示例。
+* **員工貢獻策略：**考慮制定一個公司策略，指明你們的員工如何爲開源專案貢獻。明確的政策將減少你們員工的迷惑，並幫助他們爲公司的最佳利益向開源專案做貢獻，無論是作爲他們工作的一部分還是在自由時間。Rackspace的[Model IP和開源貢獻策略](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)就是很好的示例。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/214698?v=3&s=400" class="pquote-avatar" alt="avatar">
   放棄與補丁相關的只是產權以構建員工知識庫和信譽。它表明，公司關心員工的發展，以及讓員工有種被賦權和自主的感覺。所有這些好處還導致更高的士氣和更好地保留員工。
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 

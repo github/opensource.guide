@@ -105,7 +105,7 @@ Ha olyan hozzájárulást kapsz, amelyet nem akarsz elfogadni, akkor az első re
 
 Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűntudatot éreznél attól, hogy lezárod. Az idő múlásával a megválaszolatlan kérdések és a nem kívánt beolvasztási kérelmek sokkal stresszesebbé és elrettentőbbé teszik a projekttel való munkát.
 
-Sokkal jobb, ha azonnal lezárod a hozzájárulást, ha nem akarod elfogadni. Ha a projekted már eleve nagy feladatlistával rendelkezik, akkor itt van @steveklabnik javaslata arra, hogy [hogyan priorizáld hatékonyan az issue-kat](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Sokkal jobb, ha azonnal lezárod a hozzájárulást, ha nem akarod elfogadni. Ha a projekted már eleve nagy feladatlistával rendelkezik, akkor itt van @steveklabnik javaslata arra, hogy [hogyan priorizáld hatékonyan az issue-kat](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Ugyanakkor a hozzájárulások rendszeres figyelmen kívül hagyása negatív jelet küldhet a közösségnek. A projekthez való hozzájárulás elrettentő is lehet, különösen, ha valaki először próbálja. Még ha nem is fogadod el az általa benyújtott hozzájárulást, becsüld meg azt a személyt aki benyújtotta, és mondj köszönetet az érdeklődése iránt, ez nagy dicséret!
 
@@ -223,7 +223,7 @@ Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt 
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Úgy gondolom, hogy tesztek szükségesek minden olyan kódhoz, amelyen az emberek dolgoznak. Ha a kód teljesen és tökéletesen helyes volt, akkor nem lenne szükség változtatásokra - csak akkor írunk kódot, ha valami nincs rendben, legyen az összeomlás vagy hiányzó funkció. És függetlenül attól, hogy milyen változtatásokat hajtunk végre, a tesztek elengedhetetlenek a véletlenszerűen bevezetett regressziós hibák kivédésében.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["A Rust közösségi automatizálása"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["A Rust közösségi automatizálása"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

@@ -1,8 +1,9 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "nokogiri", ">= 1.18.3"
 
 group :test do
-  gem "html-proofer", "~> 3.19.4"
+  gem "html-proofer"
   gem "rake"
 end

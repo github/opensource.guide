@@ -116,7 +116,7 @@ Lakukan yang terbaik untuk mengadopsi kebijakan tanpa toleransi terhadap orang-o
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Memiliki komunitas yang mendukung adalah kuncinya. Saya tidak akan pernah bisa melakukan pekerjaan ini tanpa rekan-rekan saya, orang asing di Internet yang ramah, dan chanel IRC yang ramai (...).
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -162,7 +162,7 @@ Cari cara untuk bisa berbagi kepemilikan dengan komunitas Anda sebanyak mungkin.
 
 * **Bualah dokumen CONTRIBUTORS atau AUTHORS pada proyek Anda** yang mendata semua orang yang berkontribusi pada proyek Anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Jika Anda memiliki komunitas yang cukup besar, **kirimkan surat berita atau tuliskan blog** dan ucapkan terima kasih pada kontributor. [This Week in Rust](https://this-week-in-rust.org/) milik Rust dan [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) milik Hoodie adalah dua contoh bagus.
+* Jika Anda memiliki komunitas yang cukup besar, **kirimkan surat berita atau tuliskan blog** dan ucapkan terima kasih pada kontributor. [This Week in Rust](https://this-week-in-rust.org/) milik Rust dan [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) milik Hoodie adalah dua contoh bagus.
 
 * **Berikan setiap kontributor akses commit.** @felixge menemukan bahwa hal ini membuat orang lain [lebih tertarik untuk memperbaiki perbaikan mereka](https://felixge.de/2013/03/11/the-pull-request-hack.html), dan dia juga menemukan pengelola baru untuk proyek yang tidak dia kelola selama beberapa waktu.
 
@@ -176,7 +176,7 @@ Meskipun tidak selalu mudah untuk mendapatkan orang yang memenuhi panggilan Anda
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   Pastikan untuk merekrut kontributor yang menikmati dan mampu melakukan sesuatu yang tidak Anda bisa lakukan. Apakah Anda suka membuat kode, tetapi tidak suka menjawab laporan permasalahan? Maka cari orang-orang pada komunitas Anda yang suka dengan hal itu dan biarkan mereka untuk melakukannya.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

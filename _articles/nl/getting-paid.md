@@ -101,8 +101,7 @@ Als uw bedrijf deze weg inslaat, is het belangrijk om de grenzen tussen gemeensc
 
 Als u uw huidige werkgever niet kunt overtuigen om prioriteit te geven aan open source-werk, overweeg dan om een nieuwe werkgever te zoeken die werknemersbijdragen aan open source aanmoedigt. Zoek naar bedrijven die hun toewijding aan open source-werk expliciet maken. Bijvoorbeeld:
 
-* Sommige bedrijven, zoals [Netflix](https://netflix.github.io/) of [PayPal](https://paypal.github.io/), hebben websites die hun betrokkenheid bij open source benadrukken
-* [Zalando](https://opensource.zalando.com) publiceerde zijn [open source bijdragebeleid](https://opensource.zalando.com/docs/using/contributing/) voor werknemers
+* Sommige bedrijven, zoals [Netflix](https://netflix.github.io/), hebben websites die hun betrokkenheid bij open source benadrukken
 
 Projecten die zijn ontstaan ​​bij een groot bedrijf, zoals [Go](https://github.com/golang) of [React](https://github.com/facebook/react), zullen waarschijnlijk ook mensen in dienst hebben om aan te werken open source.
 
@@ -115,7 +114,7 @@ Afhankelijk van uw persoonlijke omstandigheden kunt u proberen om zelfstandig ge
 Ten slotte geven open source-projecten soms premies voor problemen waarmee u zou kunnen helpen.
 
 * @ConnorChristie kon betaald worden voor [helpen](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol werken aan hun JavaScript-bibliotheek [via een premie op gitcoin](https://gitcoin.co/).
-* @mamiM deed Japanse vertalingen voor @MetaMask nadat de [kwestie werd gefinancierd op Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM deed Japanse vertalingen voor @MetaMask nadat de [kwestie werd gefinancierd op Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Financiering vinden voor uw project
 
@@ -131,7 +130,7 @@ Het vinden van sponsoring werkt goed als je al een sterk publiek of een sterke r
 Enkele voorbeelden van gesponsorde projecten zijn:
 
 * **[webpack](https://github.com/webpack)** zamelt geld in bij bedrijven en particulieren [via OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** een non-profitorganisatie die betaalt voor werk aan [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), en andere Ruby-infrastructuurprojecten
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** een non-profitorganisatie die betaalt voor werk aan [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), en andere Ruby-infrastructuurprojecten
 
 ### Creëer een inkomstenstroom
 

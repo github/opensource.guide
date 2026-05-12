@@ -17,7 +17,7 @@ redirect_from: /zh-tw/how-to-contribute/
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
   在開源專案[freenode]的工作讓我學習到許多技能，這些技能在我往後大學研究及實際工作上有許多幫助，我在開源專案的貢獻跟收穫一樣多！
   <p markdown="1" class="pquote-credit">
-— @errietta, ["為什麼我熱愛貢獻心力在開源軟體上"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["為什麼我熱愛貢獻心力在開源軟體上"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -63,7 +63,7 @@ redirect_from: /zh-tw/how-to-contribute/
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
   我被大家所熟知是因為為 CocoaPods 做了一些事, 但大多數人並不知道我實際並沒有為 CocoaPods 本身做了什麼，我多數的工作是撰寫說明文件與品牌宣傳的事情。
   <p markdown="1" class="pquote-credit">
-— @orta, ["將自己預設為開源軟體"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["將自己預設為開源軟體"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -87,7 +87,7 @@ redirect_from: /zh-tw/how-to-contribute/
 * 撰寫和改善專案的說明文件
 * 策劃一個資料夾來蒐集專案的實際應用案例
 * 辦一個專案的電子報，或者蒐整郵件列表的摘要
-* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://packaging.python.org/)
 * 翻譯專案的說明文件
 
 <aside markdown="1" class="pquote">
@@ -113,7 +113,7 @@ redirect_from: /zh-tw/how-to-contribute/
 
 ### **你喜歡幫助他人？**
 
-* 回答有關於專案的問題，例如在 Stack Overflow( [Postgres 的展示範例](http://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge) )或者 reddit 上
+* 回答有關於專案的問題，例如在 Stack Overflow( [Postgres 的展示範例](https://stackoverflow.com/questions/18664074/getting-error-peer-authentication-failed-for-user-postgres-when-to-ge) )或者 reddit 上
 * 回答處於開放狀態的議題
 * 鼓勵、協助創造友善的討論區禮儀
 
@@ -204,13 +204,13 @@ redirect_from: /zh-tw/how-to-contribute/
 
 * [GitHub 探索](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
-* [你的第一個 PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)
 * [貢獻忍者](https://contributor.ninja)
 * [最初的贡献](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### **提交貢獻前應做的檢查清單**
 

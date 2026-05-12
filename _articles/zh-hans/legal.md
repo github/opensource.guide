@@ -1,7 +1,7 @@
 ---
 lang: zh-hans
 title: 开源的法律保护
-description: 对于开源你应该了解的所有法律知识。
+description: 关于开源你应该了解的所有法律知识。
 class: legal
 order: 10
 image: /assets/images/cards/legal.png
@@ -17,9 +17,9 @@ redirect_from: /zh-cn/legal/
 
 ## 为什么人们这么关心开源的法律方面问题？
 
-很高兴你们提问了！当你们做创造性工作（例如写作，图形或代码）时，该作品默认为专有版权（copyright）。也就是说，法律承认你们是你们作品的作者，他人在没有经得你们同意的情况下不能使用你们的工作。
+很高兴你们提问了！当你们做创造性工作（例如写作，绘图或编码）时，该作品默认为专有版权（copyright）。也就是说，法律承认你们是你们作品的作者，他人在没有经得你们同意的情况下不能使用你们的工作。
 
-一般来说，这意味着没有人可以在没有你们授权的情况下使用，复制，分发或者修改你们的工作。
+通常而言，这代表除创作者本身外，任何人若试图使用、复制、分发或更改此作品，都将置身于被迫中止、面临勒索，甚至陷入法律纠纷的危险之中。
 
 然而，开源有着不一样的情况。因为作者希望他人使用，修改以及分享他们的工作。但因为法律默认依然是专有版权（copyright），所以你们需要一个明确说明这些权限的协议。
 
@@ -33,9 +33,9 @@ redirect_from: /zh-cn/legal/
 
 ![Create repository](/assets/images/legal/repo-create-name.png)
 
-**公开你们的GitHub项目与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
+**公开你们的GitHub项目与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
 
-如果你们想让他人使用，复制，修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你们的项目是公开的，但没有你们的授权，一些人是不能合法在他们的代码中使用你们GitHub项目中的任何部分。
+如果你们想让他人使用、复制、修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你的GitHub项目是公开的，除非你明确授权，否则他人在法律上无权将你项目中的任何内容用于自己的代码之中。
 
 ## 如何保护我们的项目
 
@@ -53,7 +53,7 @@ redirect_from: /zh-cn/legal/
   </p>
 </aside>
 
-## 我的项目适合什么样的开源许可?
+## 我的项目适合什么样的开源许可？
 
 如果你们是从头开始的，那么使用[MIT License](https://choosealicense.com/licenses/mit/)，不容易出错。它很短，很容易理解，并允许任何人做任何事情，只要他们保留许可证的副本，包括你们的版权声明。如果你们需要，您们能够根据不同的许可协议发布项目。
 
@@ -73,7 +73,7 @@ redirect_from: /zh-cn/legal/
 
 当你们在GitHub上创建了一个新项目，它给你们提供了选择许可协议的选项。包括上面提到的可以使你们的GitHub项目开源的许可协议。如果你们想要了解其他选择，可以通过查阅[choosealicense.com](https://choosealicense.com)找到适合你们项目（即使它[不是软件](https://choosealicense.com/non-software/)）的许可协议。
 
-## 如果我想修改开源许可该怎么办?
+## 如果我想修改开源许可该怎么办？
 
 大多数项目绝不需要更换许可协议。但是情况偶尔有变。
 
@@ -89,7 +89,7 @@ redirect_from: /zh-cn/legal/
 
 ## 我们的项目需要额外的贡献者协议吗？
 
-可能不要。对于大多数的开源项目，一个开源许可协议可作用与所有贡献者和用户。
+可能不要。对于大多数的开源项目，一个开源许可协议可作用于所有贡献者和用户。
 
 贡献者协议会给维护者带来额外的管理工作。这些协议增加了多少工作得取决去项目和实施。简单的协议可能要求贡献者确认和点击，在项目的开源许可协议下他们有权利贡献。更复杂的协议可能需要法律的审查和贡献者的雇主的签字。
 
@@ -99,13 +99,13 @@ redirect_from: /zh-cn/legal/
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     我们已经删除了Node.js的CLA。这样做降低了Node.js贡献者的参与门槛，从而吸引更多的贡献者。
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
 一些情况下你们可能想要为你们的项目考虑一个额外的贡献协议：
 
-* 你们的律师想要所有的贡献者明确接受贡献者条款，或者因为他们觉得只有开源许可协议还远远不够。如果这是唯一的问题，那么有肯定项目开源许可协议的贡献者协议就足够了。[jQuery个人贡献者许可协议](https://contribute.jquery.org/CLA/)就是一个很好的轻量级的个人贡献者协议。对于一些项目来说，[Developer Certificate of Origin](https://github.com/probot/dco)是一个很好的先择。
+* 你们的律师想要所有的贡献者明确接受贡献者条款，或者因为他们觉得只有开源许可协议还远远不够。如果这是唯一的问题，那么有肯定项目开源许可协议的贡献者协议就足够了。[jQuery个人贡献者许可协议](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/)就是一个很好的轻量级的个人贡献者协议。对于一些项目来说，[Developer Certificate of Origin](https://github.com/probot/dco)是一个很好的先择。
 * 你们的项目使用的开放源许可协议不包括明确的专利授权（如MIT），你们需要所有贡献者的专利授权，这些可能适合用于你们公司的专利组合或者项目的其他贡献者和用户。[Apache 个人贡献者许可协议](https://www.apache.org/licenses/icla.txt)是一种常用的附加贡献者协议，其具有与Apache许可2.0中的专利许可相同的专利许可。
 * 如果你们的项目使用的是copyleft许可协议，但你们也需要分发项目的专有版本。那你们需要每个贡献者分配版权给你们或者授予你们许可权。[MongoDB贡献者协议](https://www.mongodb.com/legal/contributor-agreement)就是这中类型的。
 * 你们认为你们的项目在其有效期内需要更换许可协议，以及事先得到贡献者的同意。
@@ -122,7 +122,6 @@ redirect_from: /zh-cn/legal/
 
 * **第三方资源：**你们的项目有其他人创建的依赖或者使用他人的代码？如果这些是开源项目，你们需要遵守第三方资源的开源许可协议。首先，选择与第三方资源的开放源许可协议一起使用的许可协议（见上文）。如果你们的项目修改或者发布第三方开源资源，那么你们法律团队还想知道你们符合第三方开源许可协议的其他条件，例如保留版权声明。如果你们使用了其他没有开源许可协议的代码，那么你们可能会要求第三方资源的维护者[添加一个开源许可协议](https://choosealicense.com/no-license/#for-users)，要是你们得不到许可，你们只能停止使用他们的代码。
 
-
 * **商业机密：**请考虑项目中是否有公司不想对外公开的东西。如果是这样的话，你们只能开源项目的一部分，得保护好公司的商业机密。
 
 * **专利：**你们公司是否申请了与你们项目有关的专利？如果开源源代码，这会对公司的专利进行[公开披露](https://en.wikipedia.org/wiki/Public_disclosure)。可悲的是，你们可能被要求等待（或者公司会重新思考应用程序）。如果你们期望从拥有大量专利组合的公司的员工那里得到贡献，们的法律团队可能希望你们使用来自贡献者的明确专利授权的许可协议（例如Apache 2.0或GPLv3）或其他贡献者协议（见上文）。
@@ -134,13 +133,13 @@ redirect_from: /zh-cn/legal/
 如果你们发布了公司的第一个开源项目，为了能通过，以上这些绰绰有余（不要担心，大多数项目不会引起重大关注）。
 长期来说，你们的法律团队可以做更多的事情，以帮助公司从开源中获得更多，并保持安全：
 
-* **员工贡献策略：**考虑制定一个公司策略，指明你们的员工如何为开源项目贡献。明确的政策将减少你们员工的迷惑，并帮助他们为公司的最佳利益向开源项目做贡献，无论是作为他们工作的一部分还是在自由时间。Rackspace的[Model IP和开源贡献策略](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)就是很好的示例。
+* **员工贡献策略：**考虑制定一个公司策略，指明你们的员工如何为开源项目贡献。明确的政策将减少你们员工的迷惑，并帮助他们为公司的最佳利益向开源项目做贡献，无论是作为他们工作的一部分还是在自由时间。Rackspace的[Model IP和开源贡献策略](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)就是很好的示例。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   放弃与补丁相关的知识产权以构建员工知识库和信誉。它表明，公司关心员工的发展，以及让员工有种被赋权和自主的感觉。所有这些好处还导致更高的士气和更好地保留员工。
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 

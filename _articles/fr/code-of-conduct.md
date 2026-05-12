@@ -44,9 +44,9 @@ Placez un fichier CODE_OF_CONDUCT dans le répertoire racine de votre projet et 
   </p>
 </aside>
 
-Vous devrez expliquer comment votre code de conduite sera appliqué **_avant_** une qu'une violation se produise. Il y a plusieurs raisons de le faire:
+Vous devrez expliquer comment votre code de conduite sera appliqué **_avant_** qu'une violation se produise. Il y a plusieurs raisons de le faire:
 
-* Cela montre que vous êtes capable de prendre les mesures nécessaire quand il y a besoin.
+* Cela montre que vous êtes capable de prendre les mesures nécessaires quand il y a besoin.
 
 * Votre communauté se sentira plus rassurée que les plaintes soient réellement examinées.
 
@@ -70,7 +70,7 @@ Traitez la voix de chaque membre de la communauté comme étant aussi importante
 
 Le membre de la communauté en question peut être un récidiviste qui incite constamment les autres à se sentir mal à l'aise, ou il se peut qu'ils aient seulement dit ou fait quelque chose une fois. Les deux peuvent être des motifs d'action, selon le contexte.
 
-Avant de répondre, donnez-vous le temps de comprendre ce qui s'est passé. Lisez les commentaires et les conversations passés de la personne pour mieux comprendre qui ils sont et pourquoi ils ont agis de cette façon. Essayez de recueillir des points de vues autres que le vôtre au sujet de cette personne et de son comportement.
+Avant de répondre, donnez-vous le temps de comprendre ce qui s'est passé. Lisez les commentaires et les conversations passés de la personne pour mieux comprendre qui ils sont et pourquoi ils ont agi de cette façon. Essayez de recueillir des points de vues autres que le vôtre au sujet de cette personne et de son comportement.
 
 <aside markdown="1" class="pquote">
   Ne vous laissez pas entraîner dans une dispute. Ne vous laissez pas distraire par le comportement de quelqu'un d'autre avant d'avoir réglé le problème. Concentrez-vous sur ce dont vous avez besoin.
@@ -89,7 +89,7 @@ Il existe plusieurs façons de répondre à une violation du code de conduite:
 
 * **Donnez à la personne en question un avertissement public** et expliquez comment son comportement a eu un impact négatif sur les autres, de préférence dans le canal où il s'est produit. Dans la mesure du possible, la communication publique indique au reste de la communauté que vous prenez le code de conduite au sérieux. Soyez gentil, mais ferme dans votre communication.
 
-* **Communiquer en privé avec la personne** en question pour lui expliquer comment son comportement a eu un impact négatif sur les autres. Vous pouvez utiliser un canal de communication privé si la situation implique des informations personnelles sensibles. Si vous communiquez avec quelqu'un en privé, c'est une bonne idée de metre en copie ceux qui ont d'abord signalé la situation, alors ils savent que vous avez pris des mesures. Dans ce cas, demandez le consentement du déclarant avant.
+* **Communiquer en privé avec la personne** en question pour lui expliquer comment son comportement a eu un impact négatif sur les autres. Vous pouvez utiliser un canal de communication privé si la situation implique des informations personnelles sensibles. Si vous communiquez avec quelqu'un en privé, c'est une bonne idée de mettre en copie ceux qui ont d'abord signalé la situation, alors ils savent que vous avez pris des mesures. Dans ce cas, demandez le consentement du déclarant avant.
 
 Parfois, une résolution ne peut pas être atteinte. La personne en question peut devenir agressive ou hostile lorsqu'elle est confrontée ou ne change pas son comportement. Dans cette situation, vous pouvez envisager de prendre des mesures plus énergiques. Par exemple:
 
@@ -103,7 +103,7 @@ Interdire les membres ne devrait pas être pris à la légère et représente un
 
 Un code de conduite n'est pas une loi imposée arbitrairement. Vous êtes l'exécutant du code de conduite et il est de votre responsabilité de suivre les règles établies par le code de conduite.
 
-En tant que responsable, vous établissez les lignes directrices pour votre communauté et appliquez ces directives conformément aux règles énoncées dans votre code de conduite. Cela signifie prendre au sérieux tout rapport d'une violation du code de conduite. Les déclarants ont a droit a un examen approfondi et équitable de leur plaintes. Si vous déterminez que le comportement signalé n'est pas une violation, communiquez-le clairement et expliquez pourquoi vous n'allez pas agir. Ce qu'ils feront avec cela leur appartient: tolérer le comportement avec lequel ils ont un problème ou cesser de participer à la communauté.
+En tant que responsable, vous établissez les lignes directrices pour votre communauté et appliquez ces directives conformément aux règles énoncées dans votre code de conduite. Cela signifie prendre au sérieux tout rapport d'une violation du code de conduite. Les déclarants ont droit à un examen approfondi et équitable de leurs plaintes. Si vous déterminez que le comportement signalé n'est pas une violation, communiquez-le clairement et expliquez pourquoi vous n'allez pas agir. Ce qu'ils feront avec cela leur appartient: tolérer le comportement avec lequel ils ont un problème ou cesser de participer à la communauté.
 
 Un rapport de comportement qui ne viole pas _théoriquement_ le code de conduite peut toujours indiquer qu'il y a un problème dans votre communauté, et vous devriez étudier ce problème potentiel et agir en conséquence. Cela peut inclure la révision de votre code de conduite pour clarifier un comportement acceptable et/ou parler à la personne dont le comportement a été signalé et lui signaler que bien qu'il n'ai pas enfreint le code de conduite, il est en train de contourner ce qui en est attendu et que certain participants en sont mal à l'aise.
 

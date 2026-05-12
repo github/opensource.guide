@@ -96,8 +96,7 @@ Jeśli Twoja firma pójdzie tą drogą, ważne jest, aby zachować wyraźne gran
 
 Jeśli nie możesz przekonać swojego obecnego pracodawcy do priorytetowego traktowania pracy typu open source, zastanów się nad znalezieniem nowego, który zachęca pracowników do korzystania z oprogramowania typu open source. Poszukaj firm, które wyrażają swoje zaangażowanie w pracę z otwartym oprogramowaniem. Na przykład:
 
-* Niektóre firmy, jak [Netflix](https://netflix.github.io/) lub [PayPal](https://paypal.github.io/), mają strony internetowe, które podkreślają ich zaangażowanie w open source
-* [Zalando](https://opensource.zalando.com) opublikował [politykę dotyczącą wkładu typu open source](https://opensource.zalando.com/docs/using/contributing/) dla pracowników
+* Niektóre firmy, jak [Netflix](https://netflix.github.io/), mają strony internetowe, które podkreślają ich zaangażowanie w open source
 
 Projekty, które powstały w dużej firmie, takie jak [Go](https://github.com/golang) lub [React](https://github.com/facebook/react), prawdopodobnie również zatrudniają ludzi do pracy na otwartym oprogramowaniu.
 
@@ -110,7 +109,7 @@ W zależności od osobistych okoliczności możesz spróbować samodzielnie zebr
 Wreszcie, czasami niektóre projekty open source nagradzają za rozwiązywanie danych problemów.
 
 * @ConnorChristie był w stanie otrzymać wynagrodzenie za [pomoc](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol pracował nad biblioteką JavaScript [poprzez nagrodę za gitcoin](https://gitcoin.co/).
-* @mamiM zrobił japońskie tłumaczenia dla @MetaMask po tym, jak [problem został sfinansowany przez Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM zrobił japońskie tłumaczenia dla @MetaMask po tym, jak [problem został sfinansowany przez Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Znajdowanie funduszy na swój projekt
 
@@ -126,7 +125,7 @@ Znalezienie sponsorów działa dobrze, jeśli masz już odpowiednią publicznoś
 Kilka przykładów sponsorowanych projektów to:
 
 * **[webpack](https://github.com/webpack)** zbiera pieniądze od firm i osób prywatnych [poprzez OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** organizacja non-profit, która płaci za pracę [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), i inne projekty infrastruktury Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** organizacja non-profit, która płaci za pracę [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), i inne projekty infrastruktury Ruby
 
 ### Utwórz strumień przychodów
 

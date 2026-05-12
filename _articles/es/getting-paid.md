@@ -86,8 +86,7 @@ Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n 
 
 Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicaci&oacute;n al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
 
-* Algunas empresas, como [Netflix](https://netflix.github.io/) o [PayPal](https://paypal.github.io/), tienen p&aacute;ginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
-* [Zalando](https://opensource.zalando.com) public&oacute; su [pol&iacute;ticas de contribuci&oacute;n al c&oacute;digo abierto](https://opensource.zalando.com/docs/using/contributing/) para empleados.
+* Algunas empresas, como [Netflix](https://netflix.github.io/), tienen p&aacute;ginas web que resaltan su participaci&oacute;n en el c&oacute;digo abierto.
 
 Proyectos que se originaron en una empresa grande, como [Go](https://github.com/golang) o [React](https://github.com/facebook/react), ser&aacute;n susceptibles a contratar personas que trabajen en c&oacute;digo abierto.
 
@@ -111,7 +110,7 @@ Encontrar sponsors funciona si tienes una fuerte audiencia o reputaci&oacute;n y
 Algunos ejemplos comunes de proyectos sponsoreados incluyen:
 
 * **[webpack](https://github.com/webpack)** genera dinero de empresas e individuos [a trav&eacute;s de OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** una organizaci&oacute;n sin fines de lucro que paga por el trabajo en [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), y otros proyectos de la infraestructura de Ruby.
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** una organizaci&oacute;n sin fines de lucro que paga por el trabajo en [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), y otros proyectos de la infraestructura de Ruby.
 
 ### Crea un flujo de ingresos.
 

@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Mengusahakan \ [freenode \] membantu saya memperoleh banyak kemahiran yang kemudian saya gunakan untuk pengajian di universiti dan pekerjaan sebenar saya. Saya fikir mengusahakan projek sumber terbuka membantu saya sama seperti membantu projek!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ Kesalahpahaman umum mengenai menyumbang kepada sumber terbuka ialah anda perlu m
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
  Saya terkenal dengan karya saya di CocoaPods, tetapi kebanyakan orang tidak tahu bahawa saya sebenarnya tidak membuat kerja sebenar pada alat CocoaPods itu sendiri. Masa saya dalam projek ini kebanyakannya dihabiskan untuk melakukan perkara seperti dokumentasi dan mengerjakan penjenamaan.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -90,7 +90,7 @@ Walaupun anda suka menulis kod, jenis sumbangan lain adalah kaedah terbaik untuk
 * Tulis dan perbaiki dokumentasi projek
 * Buat folder contoh yang menunjukkan bagaimana projek itu digunakan
 * Mulakan buletin untuk projek ini, atau pilih sorotan dari senarai surat
-* Tulis tutorial untuk projek itu,[like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Tulis tutorial untuk projek itu,[like PyPA's contributors did](https://packaging.python.org/)
 * Tulis terjemahan untuk dokumentasi projek
 
 <aside markdown="1" class="pquote">
@@ -213,9 +213,9 @@ Anda juga boleh menggunakan salah satu sumber berikut untuk membantu anda menemu
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Senarai semak sebelum anda menyumbang
 

@@ -23,7 +23,7 @@ related:
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -76,7 +76,7 @@ O neînțelegere comună despre contribuirea la open source este că trebuie să
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -100,7 +100,7 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
 * Scrie și îmbunătățește documentația proiectului
 * Selectează un dosar de exemple arătând cum este folosit proiectul
 * Începe un buletin informativ pentru proiect, sau selectează sublinieri din lista de email-uri
-* Scrie tutoriale pentru proiect, [cum au făcut contribuitorii PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Scrie tutoriale pentru proiect, [cum au făcut contribuitorii PyPA](https://packaging.python.org/)
 * Scrie o traducere pentru documentația proiectului
 
 <aside markdown="1" class="pquote">
@@ -237,9 +237,9 @@ Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să d
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### O listă de verificare înainte de a contribui
 

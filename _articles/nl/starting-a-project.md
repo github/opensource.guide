@@ -16,7 +16,7 @@ Dus je denkt erover om aan de slag te gaan met open source? Gefeliciteerd! De we
 
 ### Wat betekent "open source"?
 
-Als een project open source is, betekent dit **dat iedereen vrij is om uw project voor elk doel te gebruiken, bestuderen, wijzigen en distribueren.** Deze machtigingen worden afgedwongen via [een open source-licentie](https://opensource.org/licenties).
+Als een project open source is, betekent dit **dat iedereen vrij is om uw project voor elk doel te gebruiken, bestuderen, wijzigen en distribueren.** Deze machtigingen worden afgedwongen via [een open source-licentie](https://opensource.org/licenses).
 
 Open source is krachtig omdat het de barrières voor acceptatie en samenwerking verlaagt, waardoor mensen projecten snel kunnen verspreiden en verbeteren. Ook omdat het gebruikers de mogelijkheid geeft om hun eigen computergebruik te beheersen, in vergelijking met closed source. Een bedrijf dat open source software gebruikt, heeft bijvoorbeeld de mogelijkheid om iemand in te huren om aangepaste verbeteringen aan de software aan te brengen, in plaats van uitsluitend te vertrouwen op de productbeslissingen van een closed source-leverancier.
 
@@ -41,7 +41,7 @@ _Vrije software (Free software)_ verwijst naar dezelfde reeks projecten als _ope
 
 * **Adoptie en remixen:** Open source-projecten kunnen door iedereen voor bijna elk doel worden gebruikt. Mensen kunnen er zelfs andere dingen mee bouwen. [WordPress](https://github.com/WordPress) is bijvoorbeeld begonnen als een splitsing van een bestaand project met de naam [b2](https://github.com/WordPress/book/blob/HEAD/Content/Part%201/2-b2-cafelog.md).
 
-* **Transparantie:** Iedereen kan een open source-project inspecteren op fouten of inconsistenties. Transparantie is belangrijk voor regeringen zoals [Bulgarije](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) of de [Verenigde Staten](https://sourcecode.cio.gov/), gereguleerde industrieën zoals het bankwezen of de gezondheidszorg, en beveiligingssoftware zoals [Let's Encrypt](https://github.com/letsencrypt).
+* **Transparantie:** Iedereen kan een open source-project inspecteren op fouten of inconsistenties. Transparantie is belangrijk voor regeringen zoals [Bulgarije](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) of de [Verenigde Staten](https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-and-innovation-through-reusable-and-open-source-software/), gereguleerde industrieën zoals het bankwezen of de gezondheidszorg, en beveiligingssoftware zoals [Let's Encrypt](https://github.com/letsencrypt).
 
 Open source is niet alleen voor software. U kunt alles openen, van datasets tot boeken. Bekijk [GitHub Explore](https://github.com/explore) voor ideeën over wat je nog meer kunt open source.
 

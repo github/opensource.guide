@@ -109,7 +109,7 @@ Als je [nieuw bent bij spreken in het openbaar](https://speaking.io/), begin dan
   _I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!_
 
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["Hoe ik heb geleerd om te stoppen met piekeren en van PyCon te houden"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["Hoe ik heb geleerd om te stoppen met piekeren en van PyCon te houden"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -124,7 +124,7 @@ Concentreer u tijdens het schrijven van uw lezing op wat uw publiek interessant 
   _When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people._
 
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["Hoe u een Tech Conferentie Lezing voorbereidt en schrijft"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["Hoe u een Tech Conferentie Lezing voorbereidt en schrijft"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

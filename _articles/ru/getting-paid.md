@@ -86,8 +86,7 @@ related:
 
 Если не получается убедить работодателя в важности работы над открытым кодом, можете подумать о поиске нового работодателя, который будет поощрять вклад сотрудников в разработку открытого кода. Ищите компании, которые открыто заявляют о своей приверженности работе с открытым кодом. Например:
 
-* Некоторые компании как [Netflix](https://netflix.github.io/) или [PayPal](https://paypal.github.io/), имеют веб-сайты, которые подчеркивают их участие в открытых проектах
-* [Zalando](https://opensource.zalando.com) опубликовали свою [политику участия в открытых проектах](https://opensource.zalando.com/docs/using/contributing/) для работников.
+* Некоторые компании как [Netflix](https://netflix.github.io/), имеют веб-сайты, которые подчеркивают их участие в открытых проектах
 
 Проекты, инициированные крупной компанией вроде [Go](https://github.com/golang) или [React](https://github.com/facebook/react), также, вероятно, будут нанимать людей для работы с открытым кодом.
 
@@ -99,7 +98,7 @@ related:
 Иногда открытые проекты размещают вознаграждение за задачи, над которыми вы могли бы поработать.
 
 * @ConnorChristie получал оплату, [помогая](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol над иж JavaScript библиотекой через [gitcoin.co](https://gitcoin.co/).
-* @mamiM сделал перевод на японский @MetaMask за вознаграждение на [Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM сделал перевод на японский @MetaMask за вознаграждение на [Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Поиск финансирования для вашего проекта
 
@@ -115,7 +114,7 @@ related:
 Вот несколько примеров спонсируемых проектов:
 
 * **[webpack](https://github.com/webpack)** привлекает деньги от компаний и частных лиц [through OpenCollective](https://opencollective.com/webpack)
-* **[вместе с Ruby](https://rubytogether.org/),** - некоммерческая организация, которая платит за работу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), и над другими проектами инфраструктуры Ruby
+* **[вместе с Ruby](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** - некоммерческая организация, которая платит за работу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), и над другими проектами инфраструктуры Ruby
 
 ### Создайте поток доходов
 

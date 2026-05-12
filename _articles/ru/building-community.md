@@ -117,7 +117,7 @@ related:
   <img src = "https://avatars.githubusercontent.com/okdistribute?s=180" class = "pquote-avatar" alt = "avatar">
   Правда в том, что наличие поддерживающего сообщества является ключевым моментом. Я бы никогда не справилась с этой работой без помощи моих коллег, дружелюбных незнакомцев в Интернете и болтливых каналов IRC. (...) Не соглашайтесь на меньшее. Не соглашайтесь на придурков.
   <p markdown = "1" class = "pquote-credit">
-— @okdistribute, [«Как запустить проект с открытым исходным кодом»](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, «Как запустить проект с открытым исходным кодом»
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ related:
 
 * **Запустите файл CONTRIBUTORS или AUTORS в своем проекте**, в котором перечислены все, кто внес свой вклад в ваш проект, как, например, [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Если у вас большое сообщество, **разошлите информационный бюллетень или напишите сообщение в блоге** с благодарностью участникам. [This Week in Rust](https://this-week-in-rust.org/) от Rust и [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) от Hoodie — два хороших примера.
+* Если у вас большое сообщество, **разошлите информационный бюллетень или напишите сообщение в блоге** с благодарностью участникам. [This Week in Rust](https://this-week-in-rust.org/) от Rust и [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) от Hoodie — два хороших примера.
 
 * **Предоставьте каждому участнику доступ к коммитам.** @felixge обнаружил, что это заставило людей [с большим энтузиазмом оттачивать свои патчи](https://felixge.de/2013/03/11/the-pull-request-hack.html), и он даже нашел новых сопровождающих для проектов, над которыми давно не работал.
 
@@ -177,7 +177,7 @@ related:
   <img src = "https://avatars.githubusercontent.com/gr2m?s=180" class = "pquote-avatar" alt = "avatar">
   \[В ваших\] интересах набирать участников, которым нравится и которые способны делать то, что вам не нравится. Вам нравится писать код, но вы не любите отвечать на вопросы? Определите людей в вашем сообществе, которые это делают, и дайте им это.
   <p markdown = "1" class = "pquote-credit">
-— @gr2m, [«Дружелюбные сообщества»](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, [«Дружелюбные сообщества»](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

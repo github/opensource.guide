@@ -1,0 +1,31 @@
+sw:
+  locale_name: Swahili
+  nav:
+    about: Kuhusu
+    contribute: Changia
+  index:
+    lead: Programu huria ya software hutengenezwa na watu kama wewe. Jifunze jinsi ya kuzindua na kukuza mradi wako.
+    opensourcefriday: Ni Ijumaa! Wekeza saa chache kuchangia programu unayotumia na kupenda
+  article:
+    table_of_contents: Jedwali la Yaliyomo
+    back_to_all_guides: Rudi kwa miongozo yote
+    related_guides: Miongozo inayohusiana
+  footer:
+    contribute:
+      heading: Changia
+      description: Je, ungependa kutoa pendekezo? Maudhui haya ni open source. Tusaidie kuiboresha.
+      button: Changia
+    subscribe:
+      heading: Endeleza kuwasiliana
+      description: Kuwa wa kwanza kusikia kuhusu vidokezo na nyenzo huria za software za hivi punde zaidi za GitHub
+      label: Barua Pepe
+      button: Jiandikishe
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] kwa [love] na [github] na [friends]"
+      # Label for code octicon
+      code_label: code
+      # Label for love octicon
+      love_label: upendo
+      # Label for the contributors link
+      friends_label: marafiki

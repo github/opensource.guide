@@ -16,7 +16,7 @@ Une grande partie du travail open source est volontaire. Par exemple, une person
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-  Je cherchais un projet de programmation comme "hobby" qui me garderait occupé pendant la semaine autour de Noël. (...) J'avais un ordinateur à la maison, et pas grand-chose d'autre dans les mains. J'ai décidé d'écrire un interprèteur pour le nouveau langage de script auquel j'avais pensé récemment. (...) J'ai choisi Python comme titre de travail.
+  Je cherchais un projet de programmation comme "hobby" qui me garderait occupé pendant la semaine autour de Noël. (...) J'avais un ordinateur à la maison, et pas grand-chose d'autre dans les mains. J'ai décidé d'écrire un interpréteur pour le nouveau langage de script auquel j'avais pensé récemment. (...) J'ai choisi Python comme titre de travail.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
@@ -86,8 +86,7 @@ Si votre entreprise suit cette voie, il est important de garder les limites entr
 
 Si vous ne pouvez pas convaincre votre employeur actuel d'accorder la priorité au travail open source, envisagez de trouver un nouvel employeur qui encourage les contributions des employés à l'open source. Cherchez des entreprises qui rendent explicite leur dévouement au travail open source. Par exemple :
 
-* Certaines entreprises, comme [Netflix](https://netflix.github.io/) ou [PayPal](https://paypal.github.io/), ont des sites Web qui soulignent leur implication dans l'open source
-* [Zalando](https://opensource.zalando.com) a publié sa [politique de contribution open source](https://opensource.zalando.com/docs/using/contributing/) pour les employés
+* Certaines entreprises, comme [Netflix](https://netflix.github.io/), ont des sites Web qui soulignent leur implication dans l'open source
 
 Les projets provenant d'une grande entreprise, tels que [Go](https://github.com/golang) ou [React](https://github.com/facebook/react), emploieront probablement des personnes pour travailler sur Open source.
 
@@ -111,7 +110,7 @@ Trouver des commandites fonctionne bien si vous avez déjà un public ou une ré
 Quelques exemples de projets sponsorisés incluent:
 
 * **[webpack](https://github.com/webpack)** collecte des fonds auprès des entreprises et des particuliers [via OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** une organisation à but non lucratif qui paie pour travailler sur [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), et d'autres projets d'infrastructure Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** une organisation à but non lucratif qui paie pour travailler sur [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), et d'autres projets d'infrastructure Ruby
 
 ### Créer un flux de revenus
 

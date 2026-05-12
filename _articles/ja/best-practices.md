@@ -105,7 +105,7 @@ related:
 
 望ましくないコントリビュートをオープンのまま放置しないようにしましょう。放置すると罪悪感を感じたり親切になろうとしてしまいます。時間が経つにつれて、回答されていないイシューやプルリクエストによって、プロジェクトを進めることがストレスを伴い、恐怖を感じるものになってしまいます。
 
-受け入れるつもりのないコントリビュートはすぐに閉じてしまうのが良いです。もし既に膨大なバックログで困っているのであれば、 @steveklabnik の[イシューを効率的にトリアージする方法](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)が役に立つでしょう。
+受け入れるつもりのないコントリビュートはすぐに閉じてしまうのが良いです。もし既に膨大なバックログで困っているのであれば、 @steveklabnik の[イシューを効率的にトリアージする方法](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener)が役に立つでしょう。
 
 また、コントリビュートを無視することはコミュニティに悪い影響を与えます。プロジェクトにコントリビュートすることは威圧感があります。特に初めてのコントリビュートであればなおさらです。たとえ、そのコントリビュートを受け入れないとしても、その人に対して受け入れない旨と感謝の気持ちを伝えましょう。それは大きな賛辞となります！
 
@@ -221,7 +221,7 @@ related:
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   私は人々が実装するあらゆるコードに対してテストが必要だと思っています。もしコードが完全に正しいのであれば、変更の必要はありませんが、 私達がコードを書くときは何かがおかしいときです、それは「クラッシュする」であったり「これこれの機能が足りない」といったようなケースです。どんな変更をしようとしているのであれ、テストは誤ってバグを入れ込んでしまう事を防ぐために非常に重要です。
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: オープンソースで金銭を得る
-description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう
+description: プロジェクト活動に対して金銭的サポートを得ることで、オープンソース活動を持続可能にしよう。
 class: getting-paid
 order: 7
 image: /assets/images/cards/getting-paid.png
@@ -86,7 +86,7 @@ related:
 
 オープンソース活動を優先するということを現在の雇用主に納得してもらえなかった場合、オープンソースへのコントリビュートを奨励している新しい雇用主を探すことを検討しましょう。オープンソース活動へのコントリビュートを明確にしている企業を探しましょう。例えば：
 
-* [Netflix](https://netflix.github.io/) や [PayPal](https://paypal.github.io/) といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
+* [Netflix](https://netflix.github.io/) といった企業は、彼らのオープンソースへの関わりをまとめたウェブサイトを持っています。
 * [Rackspace](https://www.rackspace.com/en-us) は従業員向けに[オープンソースコントリビュートポリシー](https://blog.rackspace.com/rackspaces-policy-on-contributing-to-open-source/)を公開しています
 
 [Go](https://github.com/golang) や [React](https://github.com/facebook/react) のような大企業がはじめたプロジェクトでは、オープンソース活動を行う人々を採用する可能性があります。
@@ -115,7 +115,7 @@ related:
 あなたが既に協力者や強力な名声を築いていたり、プロジェクトが非常に有名なのであれば、スポンサーを探すのはうまくいくでしょう。スポンサーを得たプロジェクトの例を幾つか挙げます：
 
 * **[webpack](https://github.com/webpack)** は [OpenCollective を通じて](https://opencollective.com/webpack)企業や個人から資金を得ています。
-* **[Ruby Together](https://rubytogether.org/)** という非営利団体は [bundler](https://github.com/bundler/bundler) や [RubyGems](https://github.com/rubygems/rubygems) といった Ruby の基盤プロジェクトに資金を提供しています。
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/)** という非営利団体は [bundler](https://github.com/bundler/bundler) や [RubyGems](https://github.com/rubygems/rubygems) といった Ruby の基盤プロジェクトに資金を提供しています。
 
 ### 収益源を作る
 

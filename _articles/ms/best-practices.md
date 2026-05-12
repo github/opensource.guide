@@ -105,7 +105,7 @@ Sekiranya anda menerima sumbangan yang tidak mahu anda terima, reaksi pertama an
 
 Jangan biarkan sumbangan yang tidak diingini terbuka kerana anda merasa bersalah atau mahu bersikap baik. Lama kelamaan, masalah dan PR anda yang tidak dijawab akan menjadikan kerja projek anda terasa lebih tertekan dan menakutkan.
 
-Lebih baik segera menutup sumbangan yang anda tahu yang anda tidak mahu terima. Sekiranya projek anda sudah mengalami tunggakan yang besar, @steveklabnik mempunyai cadangan untuk [bagaimana menyelesaikan masalah dengan cekap](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Lebih baik segera menutup sumbangan yang anda tahu yang anda tidak mahu terima. Sekiranya projek anda sudah mengalami tunggakan yang besar, @steveklabnik mempunyai cadangan untuk [bagaimana menyelesaikan masalah dengan cekap](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Kedua, mengabaikan sumbangan akan memberi isyarat negatif kepada komuniti anda. Menyumbang kepada projek boleh menakutkan, terutamanya jika ini pertama kali seseorang. Walaupun anda tidak menerima sumbangan mereka, terima kasih orang yang berada di belakangnya dan terima kasih atas minat mereka. Ini pujian besar!
 
@@ -223,7 +223,7 @@ Sekiranya anda menambahkan ujian, pastikan untuk menerangkan bagaimana ia berfun
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahawa ujian diperlukan untuk semua kod yang diusahakan oleh orang lain. Sekiranya kodnya betul dan betul, ia tidak memerlukan perubahan - kami hanya menulis kod apabila ada yang tidak kena, sama ada "Ia rosak" atau "Tidak mempunyai ciri seperti itu". Dan tanpa mengira perubahan yang anda buat, ujian sangat penting untuk mengatasi kemunduran yang mungkin anda buat secara tidak sengaja.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

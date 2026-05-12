@@ -97,7 +97,7 @@ related:
 
 * **BDFL:** BDFL은 "자비로운 종신독재자"(Benevolent Dictator for Life)의 약자입니다. 이 구조 아래에서는 (주로 프로젝트 창시자) 한 사람이 주요 사안의 최종 결정권을 갖습니다. [Python](https://github.com/python)이 그 대표적인 예입니다. 작은 프로젝트는 한두 명의 관리자만이 존재하므로 BDFL이라 할 수 있습니다. 기업에 의해 시작된 프로젝트도 보통 BDFL의 범주에 들어갑니다.
 
-* **능력주의(Meritocracy):** **(참고: "능력주의"라는 용어는 일부 커뮤니티에서는 부정적 의미를 내포하며, [복잡한 사회·정치적 역사](http://geekfeminism.wikia.com/wiki/Meritocracy)를 가지고 있습니다.)** 능력주의 구조 아래에서는 ("능력"을 보이는) 활동적인 프로젝트 기여자들이 공식 결정권을 갖습니다. 사안 결정은 주로 투표를 통한 합의로 이루어집니다. 능력주의라는 개념은 [Apache Foundation](https://www.apache.org/)에 의해 만들어졌습니다. [모든 Apache 프로젝트](https://www.apache.org/index.html#projects-list)가 능력주의 구조입니다. 기여는 반드시 기업이 아닌 각각의 개인에 의해 이루어집니다.
+* **능력주의(Meritocracy):** **(참고: "능력주의"라는 용어는 일부 커뮤니티에서는 부정적 의미를 내포하며, [복잡한 사회·정치적 역사](https://geekfeminism.fandom.com/wiki/Meritocracy)를 가지고 있습니다.)** 능력주의 구조 아래에서는 ("능력"을 보이는) 활동적인 프로젝트 기여자들이 공식 결정권을 갖습니다. 사안 결정은 주로 투표를 통한 합의로 이루어집니다. 능력주의라는 개념은 [Apache Foundation](https://www.apache.org/)에 의해 만들어졌습니다. [모든 Apache 프로젝트](https://www.apache.org/index.html#projects-list)가 능력주의 구조입니다. 기여는 반드시 기업이 아닌 각각의 개인에 의해 이루어집니다.
 
 * **자유주의 기여(Liberal contribution):** 자유주의 기여 구조에서는 가장 많은 일을 하는 사람이 가장 영향력 있는 사람으로 받아들여집니다. 하지만 이는 과거의 기여가 아닌 현재 작업 내용에 따라 판단합니다. 주요 사안은 투표보다는 (불만 사항에 대해 토론하는) 합의 도출 과정을 기반으로 하며, 가능한 많은 관점을 포함하려 합니다. 자유주의 기여 구조의 유명한 프로젝트로는 [Node.js](https://foundation.nodejs.org/)와 [Rust](https://www.rust-lang.org/)가 있습니다.
 
@@ -143,7 +143,7 @@ related:
 
 오픈소스 프로젝트에 대한 기부를 받고 싶다면 PayPal이나 Stripe 등을 이용해 기부 버튼을 마련해둘 수 있습니다. 하지만 여러분이 비영리(미국 기준 501c3)를 증명하지 못한다면 세금 공제는 받지 못합니다.
 
-대부분 프로젝트는 비영리 단체를 설립하는 번거로운 절차를 따르고 싶어하지 않습니다. 대신 비영리 회계 스폰서를 찾는 방법을 택합니다. 회계 스폰서는 보통 기부금의 일정 비율을 대가로 여러분을 대신하여 기부금을 수령합니다. 오픈소스 프로젝트를 위한 회계 스폰서 역할을 하는 조직은 [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource) 등이 있습니다.
+대부분 프로젝트는 비영리 단체를 설립하는 번거로운 절차를 따르고 싶어하지 않습니다. 대신 비영리 회계 스폰서를 찾는 방법을 택합니다. 회계 스폰서는 보통 기부금의 일정 비율을 대가로 여러분을 대신하여 기부금을 수령합니다. 오픈소스 프로젝트를 위한 회계 스폰서 역할을 하는 조직은 [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource) 등이 있습니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">

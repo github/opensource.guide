@@ -1,0 +1,32 @@
+hi:
+  locale_name: Hindi
+  nav:
+    about: बारे में
+    contribute: योगदान करें
+  index:
+    lead: ओपन सोर्स सॉफ़्टवेयर उन लोगों द्वारा बनाया जाता है जैसे कि आप। जानें कि आप कैसे अपने प्रोजेक्ट को शुरू कर सकते हैं और उसे बढ़ा सकते हैं।
+    opensourcefriday: यह शुक्रवार है! कुछ घंटे निवेश करके उन सॉफ़्टवेयर में योगदान करें जिन्हें आप उपयोग करते हैं और पसंद करते हैं
+  article:
+    table_of_contents: सामग्री की सूची
+    back_to_all_guides: सभी मार्गदर्शिकाओं पर वापस जाएं
+    related_guides: संबंधित मार्गदर्शिकाएं
+  footer:
+    contribute:
+      heading: योगदान करें
+      description: क्या आपका कोई सुझाव है? यह सामग्री ओपन सोर्स है। हमें इसे सुधारने में मदद करें।
+      button: योगदान करें
+    subscribe:
+      heading: संपर्क में रहें
+      description: गिटहब की नवीनतम ओपन सोर्स युक्तियों और संसाधनों की पहली जानकारी पाने के लिए पहले ही सुनें।
+      label: ईमेल पता
+      button: सदस्यता लें
+    byline:
+      # [code], [love], and [github] will be replaced by octicons
+      format: "[code] के साथ [love] द्वारा [github] और [friends]"
+      # Label for code octicon
+      code_label: कोड
+      # Label for love octicon
+      love_label: प्रेम
+      # Label for the contributors link
+      friends_label: मित्र
+

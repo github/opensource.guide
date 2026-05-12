@@ -1,12 +1,12 @@
 # Content Model
-Open Source Guides help individuals, communities, and companies embrace open source software. It explains not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
+Open Source Guides help individuals, communities, and companies embrace open source software. They explain not only how to accomplish a task, but why you'd want to, and how that task fits into the larger story of consuming, contributing to, and producing open source software.
 
 This content was originally created and curated by GitHub, and covers topics that are very relevant to GitHub users, but it is not specific to GitHub products.
 
 For content that is specific to GitHub products, see:
 
 - [help.github.com](https://help.github.com) - gets existing users unstuck and back to work.
-- [guides.github.com](https://guides.github.com) -  tutorials about a larger idea or product feature for new users.
+- [guides.github.com](https://guides.github.com) - tutorials about a larger idea or product feature for new users.
 
 Everything written in the guides should fall into one of the following categories:
 

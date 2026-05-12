@@ -1,7 +1,7 @@
 ---
 lang: ja
 title: あなたのプロジェクトのユーザーを見つけよう
-description: あなたのプロジェクトを喜んで使ってくれるユーザーを獲得してプロジェクトを拡大しよう
+description: あなたのプロジェクトを喜んで使ってくれるユーザーを獲得してプロジェクトを拡大しよう。
 class: finding
 order: 3
 image: /assets/images/cards/finding.png
@@ -97,7 +97,7 @@ Django の共同作者の [@adrianholovaty](https://news.ycombinator.com/item?id
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   私は PyCon に行くのに非常に緊張していました。発表をし、そこで数名としか知り合いになれず、それがまる1週間続くのではないかと。（中略）しかし、私は心配する必要はなかったのです。 PyCon は並外れて素晴らしかった！（中略）誰もが驚くほど友好的で社交的だったので、誰かと話していない時間が殆どないほどでした。
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -109,7 +109,7 @@ Django の共同作者の [@adrianholovaty](https://news.ycombinator.com/item?id
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   あなたの発表の準備を始める時に、トピックが何であれ、あなたの発表が人々に物語を伝えるのだと考える事は助けになるでしょう。
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

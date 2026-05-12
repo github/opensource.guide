@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Η εργασία στο \[freenode\] με βοήθησε να αποκτήσω πολλές από τις δεξιότητες που χρησιμοποίησα αργότερα για τις σπουδές μου στο πανεπιστήμιο και την πραγματική μου δουλειά. Νομίζω ότι η εργασία σε έργα ανοιχτού κώδικα βοηθάει εμένα όσο βοηθάει και το έργο!
   <p markdown="1" class="pquote-credit">
-- @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+- @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Έχω γίνει γνωστός για τη δουλειά μου στο CocoaPods, αλλά οι περισσότεροι άνθρωποι δεν γνωρίζουν ότι στην πραγματικότητα δεν κάνω καμία πραγματική δουλειά στο ίδιο το εργαλείο CocoaPods. Ο χρόνος μου για το έργο αναλώνεται κυρίως σε πράγματα όπως η τεκμηρίωση και η εργασία πάνω στο branding.
   <p markdown="1" class="pquote-credit">
-- @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+- @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -88,7 +88,7 @@ related:
 * Γράφετε και βελτιώνετε την τεκμηρίωση του έργου
 * Επιμεληθείτε έναν φάκελο με παραδείγματα που δείχνουν πώς χρησιμοποιείται το έργο
 * Ξεκινήστε ένα ενημερωτικό δελτίο για το έργο, ή επιμεληθείτε τα σημαντικότερα σημεία από τη λίστα αλληλογραφίας
-* Γράφετε εκπαιδευτικά προγράμματα για το έργο, [όπως έκαναν οι συντελεστές του PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Γράφετε εκπαιδευτικά προγράμματα για το έργο, [όπως έκαναν οι συντελεστές του PyPA](https://packaging.python.org/)
 * Γράψτε μια μετάφραση για την τεκμηρίωση του έργου
 
 <aside markdown="1" class="pquote">
@@ -211,9 +211,9 @@ related:
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Μια λίστα ελέγχου πριν συνεισφέρετε
 
