@@ -16,6 +16,8 @@ jobs:
         uses: ruby/setup-ruby@c4e5b1316158f92e3d49443a9d58b31d25ac0f8f # v1
         with:
           bundler-cache: true
+      - name: Install dependencies
+        run: bundle config set --local frozen false bundle install
       - name: Set up Node
         uses: actions/setup-node@v6.4.0
       - name: Bootstrap
