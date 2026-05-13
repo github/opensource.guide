@@ -214,7 +214,7 @@ related:
 * [Аўтар-ніндзя](https://contributor.ninja)
 * [Першыя ўнёскі](https://firstcontributions.github.io)
 * [Сартаванне крыніц](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* 
+  
 <a name="checklist-before-taking-part"></a>
 ### Чекліст перш чым прыняць удзел
 
