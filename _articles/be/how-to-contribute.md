@@ -204,15 +204,15 @@ related:
 
 Вы таксама можаце выкарыстоўваць адзін з наступных рэсурсаў, каб адкрыць для сябе новыя праекты і ўнесці свой уклад у іх:
 
-* [Вывучэнне GitHub] (https://github.com/explore /)
-* [Пятніца з адкрытым зыходным кодам] (https://opensourcefriday.com )
-* [Толькі для пачаткоўцаў] (https://www.firsttimersonly.com /)
-* [Кадоўка] (https://www.codetriage.com /)
-*[24 запыту на выманне](https://24pullrequests.com /)
-* [Усё гатова да сутычцы](https://up-for-grabs.net /)
-* [Аўтар-ніндзя] (https://contributor.ninja )
-* [Першыя ўнёскі] (https://firstcontributions.github.io )
-* [Сартаванне крыніц] (https://web.archive.org/web/20201111233803/https://www.sourcesort.com /)
+* [Вывучэнне GitHub] (https://github.com/explore/)
+* [Пятніца з адкрытым зыходным кодам] (https://opensourcefriday.com)
+* [Толькі для пачаткоўцаў] (https://www.firsttimersonly.com/)
+* [Кадоўка] (https://www.codetriage.com/)
+*[24 запыту на выманне](https://24pullrequests.com/)
+* [Усё гатова да сутычцы](https://up-for-grabs.net/)
+* [Аўтар-ніндзя] (https://contributor.ninja)
+* [Першыя ўнёскі] (https://firstcontributions.github.io)
+* [Сартаванне крыніц] (https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 ### Чакліст, перш чым прыняць удзел
 
 Калі вы знайшлі праект, у які хацелі б унесці свой уклад, бегла агледзіце праект, каб пераканацца, што ён прымае іншую дапамогу. У адваротным выпадку ваша ўпартая праца можа застацца незаўважаным.

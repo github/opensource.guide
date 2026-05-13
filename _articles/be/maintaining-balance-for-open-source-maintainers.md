@@ -33,7 +33,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 Важна разумець, што прыводзіць нас да вымотвання. Ніжэй прыведзены некалькі распаўсюджаных тэм, з якімі сутыкаюцца мейнтэйнеры open source:
 
-* **Адсутнасць станоўчай зваротнай сувязі:** Карыстальнікі значна часцей звяртаюцца, калі ў іх ёсць скарга. Калі ўсё працуе выдатна, яны, як правіла, маўчаць. Можа быць прыгнятальна бачыць растучы спіс задач без станоўчай зваротнай сувязі, якая паказвае, як ваш уклад уплывае на выніку.
+- **Адсутнасць станоўчай зваротнай сувязі:** Карыстальнікі значна часцей звяртаюцца, калі ў іх ёсць скарга. Калі ўсё працуе выдатна, яны, як правіла, маўчаць. Можа быць прыгнятальна бачыць растучы спіс задач без станоўчай зваротнай сувязі, якая паказвае, як ваш уклад уплывае на выніку.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
@@ -43,7 +43,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-* **Няздольнасць казаць "не":** Лёгка ўзяць на сябе больш адказнасці, чым трэба, у open source праекце. Будзь то ад карыстальнікаў, удзельнікаў або іншых мейнтэйнераў — мы не заўсёды можам адпавядаць іх чаканням.
+- **Няздольнасць казаць "не":** Лёгка ўзяць на сябе больш адказнасці, чым трэба, у open source праекце. Будзь то ад карыстальнікаў, удзельнікаў або іншых мейнтэйнераў — мы не заўсёды можам адпавядаць іх чаканням.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
@@ -53,7 +53,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-* **Праца ў адзіноце:** Быць мейнтэйнерам можа быць неверагодна адзінока. Нават калі вы працуеце з групай мейнтэйнераў, апошнія некалькі гадоў былі цяжкімі для асабістых сустрэч размеркаваных каманд.
+- **Праца ў адзіноце:** Быць мейнтэйнерам можа быць неверагодна адзінока. Нават калі вы працуеце з групай мейнтэйнераў, апошнія некалькі гадоў былі цяжкімі для асабістых сустрэч размеркаваных каманд.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
@@ -63,7 +63,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-* **Недахоп часу або рэсурсаў:** Асабліва актуальна для валанцёрскіх мейнтэйнераў, якім даводзіцца ахвяраваць сваім вольным часам дзеля праекта.
+- **Недахоп часу або рэсурсаў:** Асабліва актуальна для валанцёрскіх мейнтэйнераў, якім даводзіцца ахвяраваць сваім вольным часам дзеля праекта.
 
 <aside markdown="1" class="pquote">
   [Мне б хацелася мець] большую фінансавую падтрымку, каб я мог сканцэнтравацца на рабоце з адкрытым зыходным кодам, не выдаткоўваючы свае зберажэнні і не ведаючы, што мне давядзецца заключаць шмат кантрактаў, каб кампенсаваць гэтыя выдаткі пазней.
@@ -72,7 +72,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-* **Супярэчлівыя патрабаванні:** У open source шмат груп з рознымі матывамі, што можа быць цяжка збалансаваць. Калі вы атрымліваеце аплату за працу ў open source, інтарэсы вашага працадаўцы часам могуць супярэчыць інтарэсам супольнасці.
+- **Супярэчлівыя патрабаванні:** У open source шмат груп з рознымі матывамі, што можа быць цяжка збалансаваць. Калі вы атрымліваеце аплату за працу ў open source, інтарэсы вашага працадаўцы часам могуць супярэчыць інтарэсам супольнасці.
 
 <aside markdown="1" class="pquote">
   У аплатным open source кодзе ўзнікае канфлікт паміж інтарэсамі працадаўцы і інтарэсамі супольнасці.
@@ -98,11 +98,11 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 Для кожнага суправаджальніка гэта будзе выглядаць па-рознаму і змяняцца ў залежнасці ад этапу жыцця і іншых знешніх фактараў. Ніжэй прыведзены некалькі тэм, якія мы пачулі:
 
-* **Абапірайцеся на супольнасць:** Дэлегаванне задач і пошук новых удзельнікаў можа знізіць нагрузку. Наяўнасць некалькіх кропак кантакту для праекта дазваляе вам адпачыць, не хвалюючыся. Зносьцеся з іншымі суправаджальнікамі і больш шырокай супольнасцю — напрыклад, у такіх групах, як [Maintainer Community](http://maintainers.github.com/). Гэта можа стаць выдатным рэсурсам для падтрымкі і навучання.
+- **Абапірайцеся на супольнасць:** Дэлегаванне задач і пошук новых удзельнікаў можа знізіць нагрузку. Наяўнасць некалькіх кропак кантакту для праекта дазваляе вам адпачыць, не хвалюючыся. Зносьцеся з іншымі суправаджальнікамі і больш шырокай супольнасцю — напрыклад, у такіх групах, як [Maintainer Community](http://maintainers.github.com/). Гэта можа стаць выдатным рэсурсам для падтрымкі і навучання.
 
   Таксама шукайце спосабы ўзаемадзеяння з карыстальніцкай супольнасцю, каб рэгулярна атрымліваць зваротную сувязь і разумець уплыў вашай open source-працы.
 
-* **Вывучыце магчымасці фінансавання:** Хочаце вы проста крыху грошай на піцу або планіруеце працаваць у open source поўны рабочы дзень — ёсць мноства рэсурсаў, якія дапамогуць! У якасці першага кроку разгледзьце магчымасць падключэння [GitHub Sponsors](https://github.com/sponsors), каб іншыя маглі падтрымліваць вашу open source-працу. Калі вы думаеце аб пераходзе на поўны рабочы дзень, падайце заяўку на наступны раунд [GitHub Accelerator](http://accelerator.github.com/).
+- **Вывучыце магчымасці фінансавання:** Хочаце вы проста крыху грошай на піцу або планіруеце працаваць у open source поўны рабочы дзень — ёсць мноства рэсурсаў, якія дапамогуць! У якасці першага кроку разгледзьце магчымасць падключэння [GitHub Sponsors](https://github.com/sponsors), каб іншыя маглі падтрымліваць вашу open source-працу. Калі вы думаеце аб пераходзе на поўны рабочы дзень, падайце заяўку на наступны раунд [GitHub Accelerator](http://accelerator.github.com/).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
@@ -112,7 +112,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-* **Выкарыстоўвайце інструменты:** Вывучыце такія інструменты, як [GitHub Copilot](https://github.com/features/copilot/) і [GitHub Actions](https://github.com/features/actions), каб аўтаматызаваць рутынныя задачы і вызваліць час для больш значных укладаў.
+- **Выкарыстоўвайце інструменты:** Вывучыце такія інструменты, як [GitHub Copilot](https://github.com/features/copilot/) і [GitHub Actions](https://github.com/features/actions), каб аўтаматызаваць рутынныя задачы і вызваліць час для больш значных укладаў.
 
 <aside markdown="1" class="pquote">
   Выкарыстоўвайце [Copilot](https://github.com/features/copilot/) для сумных спраў — а самі займайцеся цікавымі справамі.
@@ -121,7 +121,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-* **Адпачывайце і аднаўляйце сілы:** Прысвячайце час сваім захапленням і інтарэсам па-за open source. Адпачывайце ў выходныя, каб расслабіцца і аднавіцца — і ўсталюйце свой [статус у GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status), каб адлюстраваць вашу даступнасць! Добры сон можа моцна паўплываць на вашу здольнасць захоўваць намаганні ў доўгатэрміновай перспектыве.
+- **Адпачывайце і аднаўляйце сілы:** Прысвячайце час сваім захапленням і інтарэсам па-за open source. Адпачывайце ў выходныя, каб расслабіцца і аднавіцца — і ўсталюйце свой [статус у GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status), каб адлюстраваць вашу даступнасць! Добры сон можа моцна паўплываць на вашу здольнасць захоўваць намаганні ў доўгатэрміновай перспектыве.
 
   Калі вы выявіце, што пэўныя аспекты праекта прыносяць вам асаблівую задавальненне, паспрабуйце структураваць сваю працу так, каб адчуваць іх на працягу дня.
 
@@ -133,7 +133,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-* **Усталёўвайце межы:** Вы не можаце пагаджацца на кожны запыт. Гэта можа быць так жа проста, як сказаць: "Я не магу заняцца гэтым зараз і не планую рабіць гэта ў будучыні", або пералічыць у README, чым вы хочаце займацца, а чым — не. Напрыклад: "Я аб'ядноўваю толькі тыя PR, у якіх выразна ўказаны прычыны іх стварэння", або "Я праглядаю задачы па чацвяргах праз адзін з 18 да 19 гадзін". Гэта ўсталёўвае чаканні для іншых і дае вам кропку апоры, на якую можна спаслацца, каб знізіць ціск з боку ўдзельнікаў або карыстальнікаў.
+- **Усталёўвайце межы:** Вы не можаце пагаджацца на кожны запыт. Гэта можа быць так жа проста, як сказаць: "Я не магу заняцца гэтым зараз і не планую рабіць гэта ў будучыні", або пералічыць у README, чым вы хочаце займацца, а чым — не. Напрыклад: "Я аб'ядноўваю толькі тыя PR, у якіх выразна ўказаны прычыны іх стварэння", або "Я праглядаю задачы па чацвяргах праз адзін з 18 да 19 гадзін". Гэта ўсталёўвае чаканні для іншых і дае вам кропку апоры, на якую можна спаслацца, каб знізіць ціск з боку ўдзельнікаў або карыстальнікаў.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
@@ -143,7 +143,7 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
   </p>
 </aside>
 
-  Навучыцеся цвёрда спыняць таксічныя паводзіны і негатыўнае ўзаемадзеянне. Не марнаваць энергію на тое, што вам нецікава — гэта нармальна.
+Навучыцеся цвёрда спыняць таксічныя паводзіны і негатыўнае ўзаемадзеянне. Не марнаваць энергію на тое, што вам нецікава — гэта нармальна.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
@@ -165,15 +165,15 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 ## Дадатковыя рэсурсы
 
-* [Maintainer Community](http://maintainers.github.com/)
-* [Грамадскі дагавор open source](https://snarky.ca/the-social-contract-of-open-source/), Брэт Кэнан
-* [Распрамлены](https://daniel.haxx.se/uncurled/), Дэніэл Стэнберг
-* [Як мець зносіны з таксічнымі людзьмі](https://www.youtube.com/watch?v=7lIpP3GEyXs), Джына Хойскэ
-* [SustainOSS](https://sustainoss.org/)
-* [Rockwood Мастацтва лідарства](https://rockwoodleadership.org/art-of-leadership/)
-* [Кажы не](https://mikemcquaid.com/saying-no/), Майк МакКвайд
-* [Governing Open](https://governingopen.com/)
-* Парадак дня воркшопа быў адаптаваны з серыі [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/)
+- [Maintainer Community](http://maintainers.github.com/)
+- [Грамадскі дагавор open source](https://snarky.ca/the-social-contract-of-open-source/), Брэт Кэнан
+- [Распрамлены](https://daniel.haxx.se/uncurled/), Дэніэл Стэнберг
+- [Як мець зносіны з таксічнымі людзьмі](https://www.youtube.com/watch?v=7lIpP3GEyXs), Джына Хойскэ
+- [SustainOSS](https://sustainoss.org/)
+- [Rockwood Мастацтва лідарства](https://rockwoodleadership.org/art-of-leadership/)
+- [Кажы не](https://mikemcquaid.com/saying-no/), Майк МакКвайд
+- [Governing Open](https://governingopen.com/)
+- Парадак дня воркшопа быў адаптаваны з серыі [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/)
 
 ## Удзельнікі
 
