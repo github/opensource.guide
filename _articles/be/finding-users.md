@@ -96,7 +96,7 @@ related:
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Я вельмі нервавалася перад наведваннем PyCon. Я выступала з дакладам, збіралася пазнаёміцца там толькі з парачкай людзей, ехала на цэлы тыдзень. (...) Аднак мне не варта было хвалявацца. PyCon быў незвычайна класным! (...) Усе былі неверагодна так прыязныя і таварыскія, што я ледзь знаходзіла час пабыць сам-насам!
   <p markdown="1" class="pquote-credit">
-- @jhamrick, ["як я навучыўся перастаць турбавацца і палюбіць PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+- @jhamrick, ["як я навучыўся перастаць турбавацца і палюбіць PyCon"](https://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 
@@ -108,7 +108,7 @@ related:
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Пры падрыхтоўцы да свайго дакладу, незалежна ад яго тэмы, паспрабуйце прадставіць яго як гісторыю, якія вы расказваеце людзям.
   <p markdown="1" class="pquote-credit">
-- Лена Рэйнхард, [«як падрыхтаваць і напісаць даклад на тэхнічнай конференции»](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+- Лена Рэйнхард, [«як падрыхтаваць і напісаць даклад на тэхнічнай конференции»](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 
