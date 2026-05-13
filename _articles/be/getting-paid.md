@@ -17,21 +17,21 @@ related:
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 Мне трэба было хобі на тыдзень перад Калядамі (...) У мяне пад рукой быў толькі хатні камп'ютар. Я вырашыў напісаць інтэрпрэтатар для новай мовы сцэнарыяў, пра які думаў у апошні час. (...) У якасці працоўнай назвы Я выбраў"пітон".
   <p markdown="1" class="pquote-credit">
-- @gvanrossum, ["Праграмаванне на пітоне"] (https://www.python.org/doc/essays/foreword/)
+- @gvanrossum, ["Праграмаванне на пітоне"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 
 Ёсць шмат прычын, па якіх чалавек не хацеў бы атрымліваць грошы за сваю працу з адкрытым зыходным кодам.
 
-* * * Магчыма, у іх ужо ёсць любімая праца на поўны працоўны дзень, * * якая дазваляе ім уносіць свой уклад у распрацоўку адкрытага зыходнага кода ў вольны час.
-* * * Ім падабаецца думаць аб адкрытым зыходным кодзе як аб захапленні * * або творчым шляху, і яны не хочуць адчуваць сябе фінансава абавязанымі працуючы над сваімі праектамі.
-* * * Яны атрымліваюць іншыя перавагі ад удзелу ў распрацоўцы адкрытага зыходнага кода**, такія як стварэнне сваёй рэпутацыі або партфоліо, навучанне новым навыкам або пачуццё блізкасці да супольнасці.
+* Магчыма, у іх ужо ёсць любімая праца на поўны працоўны дзень, якая дазваляе ім уносіць свой уклад у распрацоўку адкрытага зыходнага кода ў вольны час.
+* Ім падабаецца думаць аб адкрытым зыходным кодзе як аб захапленні або творчым шляху, і яны не хочуць адчуваць сябе фінансава абавязанымі працуючы над сваімі праектамі.
+* Яны атрымліваюць іншыя перавагі ад удзелу ў распрацоўцы адкрытага зыходнага кода, такія як стварэнне сваёй рэпутацыі або партфоліо, навучанне новым навыкам або пачуццё блізкасці да супольнасці.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Фінансавыя ахвяраванні сапраўды дадаюць некаторым людзям пачуццё адказнасці. (...) Для нас, у глабальна звязаным, хутка які змяняецца свеце, у якім мы жывем, важна мець магчымасць сказаць: "не цяпер. Я адчуваю, што хачу зрабіць нешта зусім іншае"»
   <p markdown="1" class="pquote-credit">
-- @alloy, ["чаму мы не прымаем фінансавыя ахвяраванні"] (https://blog.cocoapods.org/Why-we-dont-accept-donations/)
+- @alloy, ["чаму мы не прымаем фінансавыя ахвяраванні"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
 </aside>
 
@@ -43,17 +43,17 @@ related:
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
 Спытаеце любога суправаджальніка праект з адкрытым кодам, і ён раскажа вам, які аб'ём працы сыходзіць на кіраванне праектам. У вас ёсць кліенты. Вы вырашаеце для іх праблемы. Вы ствараеце новыя функцыі. Вялікая патрэба ў вашым часе.
 <p markdown="1" class="pquote-credit">
-- @ashedryden, ["этыка неаплатнага працы ў супольнасцях адкрытага кода"] (https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+- @ashedryden, ["этыка неаплатнага працы ў супольнасцях адкрытага кода"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
 </aside>
 
-Аплачваная праца таксама дазваляе людзям з розных слаёў грамадства ўносіць значны ўклад. Некаторыя людзі не могуць дазволіць сабе марнаваць неаплатны час на праекты з адкрытым зыходным кодам з-за свайго бягучага фінансавага становішча, доўгу, сямейных або іншых абавязкаў па догляду. Гэта азначае, што свет ніколі не ўбачыць ўкладу таленавітых людзей, якія не могуць дазволіць сабе добраахвотна марнаваць свой час. Гэта мае этычныя наступствы, як @ashedryden [апісаў] (https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), паколькі выкананая праца зрушаная на карысць тых, хто ўжо мае перавагі ў жыцці, якія затым атрымліваюць дадатковыя перавагі на аснове іх добраахвотнага ўкладу, у той час як іншыя, якія не могуць быць валанцёрамі, не атрымліваюць пазнейшых магчымасцяў, што ўзмацняе бягучы недахоп разнастайнасці ў супольнасці адкрытага зыходнага кода.
+Аплачваная праца таксама дазваляе людзям з розных слаёў грамадства ўносіць значны ўклад. Некаторыя людзі не могуць дазволіць сабе марнаваць неаплатны час на праекты з адкрытым зыходным кодам з-за свайго бягучага фінансавага становішча, доўгу, сямейных або іншых абавязкаў па догляду. Гэта азначае, што свет ніколі не ўбачыць ўкладу таленавітых людзей, якія не могуць дазволіць сабе добраахвотна марнаваць свой час. Гэта мае этычныя наступствы, як @ashedryden [апісаў](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), паколькі выкананая праца зрушаная на карысць тых, хто ўжо мае перавагі ў жыцці, якія затым атрымліваюць дадатковыя перавагі на аснове іх добраахвотнага ўкладу, у той час як іншыя, якія не могуць быць валанцёрамі, не атрымліваюць пазнейшых магчымасцяў, што ўзмацняе бягучы недахоп разнастайнасці ў супольнасці адкрытага зыходнага кода.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    Супольнасці адкрытых праектаў прыносяць велізарныя выгады тэхналагічнай галіны, што, у сваю чаргу, прыносіць карысць усім галінам. (...) Аднак, калі засяродзіцца на гэтым могуць толькі ўдачлівыя і апантаныя, то ўзнікае велізарны нявыкарыстаны патэнцыял.
   <p markdown="1" class="pquote-credit">
-- @isaacs, ["грошы і адкрыты код"] (https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
+- @isaacs, ["грошы і адкрыты код"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
 </aside>
 
@@ -68,7 +68,7 @@ related:
 
 Шматлікія кампаніі распрацоўваюць праграмы з адкрытым кодам, каб стварыць свой брэнд і наняць кваліфікаваных спецыялістаў.
 
-@hueniverse, напрыклад, выявіў фінансавыя прычыны [інвестыцый Walmart ў адкрыты код](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). а @jamesgpearce выявіў, што ініцыятывы адкрытага кода Facebook [змянілі] (https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) кадравую палітыку:
+@hueniverse, напрыклад, выявіў фінансавыя прычыны [інвестыцый Walmart ў адкрыты код](https://www.infoworld.com/article/2608897/open-source-software/walmart-s-investment-in-open-source-isn-t-cheap.html). а @jamesgpearce выявіў, што ініцыятывы адкрытага кода Facebook [змянілі](https://opensource.com/business/14/10/head-of-open-source-facebook-oscon) кадравую палітыку:
 
 > Гэта цесна звязана з нашай хакерскай культурай і тым, як успрымалася наша арганізацыя. Мы спыталі нашых супрацоўнікаў: "вы ведалі пра праграму з адкрытым зыходным кодам Facebook?». Дзве траціны адказалі "так". Палова сказала, што праграма станоўча паўплывала на іх рашэнне працаваць на нас. Гэта не маргінальныя лічбы, і я спадзяюся, што тэндэнцыя захаваецца.
 
@@ -84,20 +84,20 @@ related:
 
 Калі не атрымліваецца пераканаць працадаўцы ў важнасці працы над адкрытым кодам, можаце падумаць аб пошуку новага працадаўцы, які будзе заахвочваць ўклад супрацоўнікаў у распрацоўку адкрытага кода. Шукайце кампаніі, якія адкрыта заяўляюць аб сваёй прыхільнасці працы з адкрытым кодам. Напрыклад:
 
-* Некаторыя кампаніі як [Netflix] (https://netflix.github.io/) або [PayPal] (https://paypal.github.io/), маюць вэб-сайты, якія падкрэсліваюць іх удзел у адкрытых праектах
-* [Zalando] (https://opensource.zalando.com) апублікавалі сваю [палітыку ўдзелу ў адкрытых праектах] (https://opensource.zalando.com/docs/using/contributing/) для работнікаў.
+* Некаторыя кампаніі як [Netflix](https://netflix.github.io/) або [PayPal](https://paypal.github.io/), маюць вэб-сайты, якія падкрэсліваюць іх удзел у адкрытых праектах
+* [Zalando](https://opensource.zalando.com) апублікавалі сваю [палітыку ўдзелу ў адкрытых праектах](https://opensource.zalando.com/docs/using/contributing/) для работнікаў.
 
-Праекты, ініцыяваныя буйной кампаніяй накшталт [Go] (https://github.com/golang) або [React] (https://github.com/facebook/react), таксама, верагодна, будуць наймаць людзей для працы з адкрытым кодам.
+Праекты, ініцыяваныя буйной кампаніяй накшталт [Go](https://github.com/golang) або [React](https://github.com/facebook/react), таксама, верагодна, будуць наймаць людзей для працы з адкрытым кодам.
 
 У залежнасці ад вашых асабістых абставінаў Вы можаце паспрабаваць сабраць грошы самастойна для фінансавання сваёй працы з адкрытым зыходным кодам. Напрыклад:
 
-* @gaearon знайшоў фінансаванне для [Redux](https://github.com/reactjs/redux) праз [кампанію краўдфандынгу на Patreon] (https://redux.js.org/)
-* @andrewgodwin знайшоў фінансаванне міграцыі схемы Django [праз кампанію на Kickstarter] (https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django).
+* @gaearon знайшоў фінансаванне для [Redux](https://github.com/reactjs/redux) праз [кампанію краўдфандынгу на Patreon](https://redux.js.org/)
+* @andrewgodwin знайшоў фінансаванне міграцыі схемы Django [праз кампанію на Kickstarter](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django).
 
 Часам адкрытыя праекты размяшчаюць ўзнагароджанне за задачы, над якімі вы маглі б папрацаваць.
 
 * @ConnorChristie атрымліваў аплату, [помогая](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol над ІЖ JavaScript бібліятэкай праз [gitcoin.co](https://gitcoin.co/).
-* @mamiM зрабіў пераклад на японскі @MetaMask за ўзнагароджанне на [Bounties Network] (https://explorer.bounties.network/bounty/134).
+* @mamiM зрабіў пераклад на японскі @MetaMask за ўзнагароджанне на [Bounties Network](https://explorer.bounties.network/bounty/134).
 
 ## Пошук фінансавання для вашага праекта
 
@@ -112,29 +112,29 @@ related:
 Пошук спонсараў добра працуе, калі да вас ёсць моцны інтарэс, ці ў вас ёсць рэпутацыя, ці ваш праект вельмі папулярны.
 Вось некалькі прыкладаў спансаваных праектаў:
 
-* * * [webpack] (https://github.com/webpack) * * прыцягвае грошы ад кампаній і прыватных асоб [through OpenCollective] (https://opencollective.com/webpack)
-* * * [разам з Ruby] (https://rubytogether.org/), * * - некамерцыйная арганізацыя, якая плаціць за працу над [bundler] (https://github.com/bundler/bundler), [RubyGems] (https://github.com/rubygems/rubygems), і над іншымі праектамі інфраструктуры Ruby
+* * * [webpack](https://github.com/webpack) * * прыцягвае грошы ад кампаній і прыватных асоб [through OpenCollective](https://opencollective.com/webpack)
+* * * [разам з Ruby](https://rubytogether.org/), * * - некамерцыйная арганізацыя, якая плаціць за працу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), і над іншымі праектамі інфраструктуры Ruby
 
 ### Стварыце паток даходаў
 
 У залежнасці ад вашага праекта вы можаце спаганяць плату за камерцыйную падтрымку, варыянты размяшчэння або дадатковыя функцыі. Вось некалькі прыкладаў:
 
-* * * [Sidekiq] (https://github.com/mperham/sidekiq) * * прапануе платныя версіі за дадатковую плату
-* * * [Travis CI] (https://github.com/travis-ci) * * прапануе платныя версіі свайго прадукту
-* * * [Ghost] (https://github.com/TryGhost/Ghost) * * - гэта некамерцыйная арганізацыя з платнымі паслугамі
+* [Sidekiq](https://github.com/mperham/sidekiq) - прапануе платныя версіі за дадатковую плату
+* [Travis CI](https://github.com/travis-ci) - прапануе платныя версіі свайго прадукту
+* [Ghost](https://github.com/TryGhost/Ghost) - гэта некамерцыйная арганізацыя з платнымі паслугамі
 
-Некаторыя папулярныя праекты як [npm] (https://github.com/npm/npm) і [Docker](https://github.com/docker/docker), нават прыцягваюць венчурныя інвестыцыі для падтрымання росту сваіх праектаў.
+Некаторыя папулярныя праекты як [npm](https://github.com/npm/npm) і [Docker](https://github.com/docker/docker), нават прыцягваюць венчурныя інвестыцыі для падтрымання росту сваіх праектаў.
 
 ### Падайце заяўку на грант
 
 Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
 
-* * * [Read The Docs] (https://github.com/rtfd/readthedocs.org) * * атрымаў [грант падтрымкі адкрытага кода Mozilla](https://www.mozilla.org/en-US/grants/)
-* * * [OpenMRS] (https://github.com/openmrs) * * быў прафінансаваны [прытулкам адкрытага кода ад Stripe] (https://stripe.com/blog/open-source-retreat-2016-grantees)
-* * * [Libraries.io](https://github.com/librariesio) * * атрымаў грант ад [Sloan Foundation] (https://sloan.org/programs/digital-technology)
-* * * [Python Software Foundation] (https://www.python.org/psf/grants/) * * прапануе гранты на працу, звязаную з пітонам
+* * * [Read The Docs](https://github.com/rtfd/readthedocs.org) атрымаў [грант падтрымкі адкрытага кода Mozilla](https://www.mozilla.org/en-US/grants/)
+* * * [OpenMRS](https://github.com/openmrs) быў прафінансаваны [прытулкам адкрытага кода ад Stripe](https://stripe.com/blog/open-source-retreat-2016-grantees)
+* * * [Libraries.io](https://github.com/librariesio) атрымаў грант ад [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* * * [Python Software Foundation](https://www.python.org/psf/grants/) прапануе гранты на працу, звязаную з пітонам
 
-Больш падрабязныя варыянты і тэматычныя даследаванні вы можаце прачытаць у [кіраўніцтве] (https://github.com/nayafia/lemonade-stand) па атрыманні аплаты за працу з адкрытым кодам ад @nayafia. Розныя віды фінансавання патрабуюць розных навыкаў, таму Вызначце свае моцныя бакі, каб даведацца, які варыянт лепш за ўсё падыходзіць для вас.
+Больш падрабязныя варыянты і тэматычныя даследаванні вы можаце прачытаць у [кіраўніцтве](https://github.com/nayafia/lemonade-stand) па атрыманні аплаты за працу з адкрытым кодам ад @nayafia. Розныя віды фінансавання патрабуюць розных навыкаў, таму Вызначце свае моцныя бакі, каб даведацца, які варыянт лепш за ўсё падыходзіць для вас.
 
 ## Стварэнне аргументаў на карысць фінансавай падтрымкі
 
@@ -166,7 +166,7 @@ Some software foundations and companies offer grants for open source work. Somet
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
 На працягу многіх гадоў мы былі вядучым крыніцай зручных для сайтаў абразкоў, з супольнасцю больш за 20 мільёнаў чалавек і былі прадстаўлены на больш чым 70 мільёнах вэб - сайтаў, уключаючы сайт Белага дома Whitehouse.gov. (...) Версія 4 была тры гады таму. З тых часоў вэб-тэхналогіі моцна змяніліся, і, шчыра кажучы, Font Awesome трохі састарэў. (...) Вось чаму мы ўяўляем Font Awesome 5. Мы мадэрнізуем і перапісваем CSS і перарабляем кожны значок зверху данізу. Мы гаворым пра лепшы дызайн, большай узгодненасці і лепшай чытальнасці.
 <p markdown="1" class="pquote-credit">
-- @davegandy, [відэа на Kickstarter аб Font Awesome] (https://www.kickstarter.com/projects/232193852/font-awesome-5)
+- @davegandy, [відэа на Kickstarter аб Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
 </aside>
 
