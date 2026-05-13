@@ -18,7 +18,7 @@ jobs:
           bundler-cache: true
       - name: Install dependencies
         run: |
-          bundle config set --local frozen false
+          bundle config set frozen false
           bundle install
       - name: Set up Node
         uses: actions/setup-node@v6.4.0
