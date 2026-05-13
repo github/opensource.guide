@@ -94,9 +94,9 @@ related:
 
 Які з іх выкарыстоўваць? Гэта залежыць ад вас! У кожнай мадэлі ёсць свае перавагі і кампрамісы. І хоць спачатку яны могуць здацца зусім рознымі, усе тры мадэлі маюць больш агульнага, чым здаецца. Калі вы зацікаўлены ў прыняцці адной з гэтых мадэляў, азнаёмцеся з гэтымі шаблонамі:
 
-- [шаблон мадэлі BDFL](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
-- [Шаблон мадэлі меритократии](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
-- [Ліберальная палітыка Node.js ў дачыненні да ўкладу удзельнікаў](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+* [шаблон мадэлі BDFL](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
+* [Шаблон мадэлі меритократии](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
+* [Ліберальная палітыка Node.js ў дачыненні да ўкладу удзельнікаў](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
 
 ## Ці патрэбна мне дакументацыя па кіраванні, калі я запускаю свой праект?
 
@@ -140,4 +140,4 @@ related:
   < p markdown="1" class= "pquote-credit" >— @piamancini, ["выходзячы за рамкі благотворительности"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)</p>
 </aside>
 
-Калі ваш праект цесна звязаны з пэўнай мовай або экасістэмай, можа існаваць і адпаведны фонд праграмнага забеспячэння, з якім вы можаце працаваць. Напрыклад, [Python Software Foundation](https://www.python.org/psf/) дапамагае падтрымліваць [PyPI](https://pypi.org/), менеджэр пакетаў Python, а [Node.JS Foundation https://foundation.nodejs.org/) дапамагае падтрымліваць [Express.js](https://expressjs.com/), фреймворк на аснове Node.
+Калі ваш праект цесна звязаны з пэўнай мовай або экасістэмай, можа існаваць і адпаведны фонд праграмнага забеспячэння, з якім вы можаце працаваць. Напрыклад, [Python Software Foundation](https://www.python.org/psf/) дапамагае падтрымліваць [PyPI](https://pypi.org/), менеджэр пакетаў Python, а [Node.JS Foundation](https://foundation.nodejs.org/) дапамагае падтрымліваць [Express.js](https://expressjs.com/), фреймворк на аснове Node.
