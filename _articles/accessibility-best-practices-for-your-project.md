@@ -110,7 +110,7 @@ Documentation is often the first "UI" users touch. Make sure everyone can read i
 * Don't rely on color highlighting alone to indicate meaning.
 * Explain inline what the code does and what success looks like.
 
-## Design accessible Interfaces
+## Design Accessible Interfaces
 
 If your project has a web UI, these high-impact defaults will help all users.
 
