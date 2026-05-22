@@ -12,7 +12,7 @@ related:
 
 ## Die Lenkungen eines wachsenden Projektes verstehen
 
-Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass alles _läuft_. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßig Mitwirkende in Ihren Arbeitsprozess einbinden können? Sei es durch die Gewährung von direktem Commit-Zugang oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten auf Ihre Fragen.
+Ihr Projekt wächst, Leute sind engagiert und Sie setzen sich dafür ein, dass alles läuft. In diesem Stadium fragen Sie sich vielleicht, wie Sie regelmäßig Mitwirkende in Ihren Arbeitsprozess einbinden können - sei es durch die Gewährung von direktem Commit-Zugang oder durch die Führung von Debatten in der Gemeinschaft. Wir liefern Antworten auf Ihre Fragen.
 
 ## Welche formalen Rollen kann es in Open-Source-Projekten geben?
 
@@ -21,14 +21,14 @@ Viele Projekte folgen einer ähnlichen Struktur hinsichtlich Mitwirkung und Aner
 Was diese Rollen aber tatsächlich bedeuten, liegt ganz bei Ihnen. Nachfolgend sind einige Arten von Rollen aufgeführt, die Sie vielleicht schon kennen:
 
 * **Maintainer\*in**
-* **Kontributor\*in**
+* **Mitwirkende\*r**
 * **Committer\*in**
 
 **Bei einigen Projekten sind "Maintainer\*innen"** die einzigen Personen mit Commit-Rechten. In anderen Projekten sind es einfach die Leute, die in der README als Maintainer\*innen aufgelistet sind.
 
 Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. Es kann auch eine Person sein, die viel Öffentlichkeitsarbeit für Ihr Projekt geleistet hat, viel Dokumentation geschrieben hat, oder das Projekt für andere zugänglicher gemacht hat. Unabhängig davon, was sie tagtäglich tun, fühlen sich Maintainer\*innen wahrscheinlich für die Richtung des Projekts verantwortlich und setzen sich für dessen Verbesserung ein.
 
-"Kontributor\*innen" könnten alle Menschen sein, die ein Issue oder Pull Request kommentiert, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull Requests akzeptiert wurden (vielleicht die engste Definition für Kontribution).
+"Mitwirkende" könnten alle Menschen sein, die ein Issue oder Pull Request kommentiert, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Organisation von Veranstaltungen) oder alle, deren Pull Requests akzeptiert wurden (vielleicht die engste Definition für einen Beitrag).
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
@@ -42,7 +42,7 @@ Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. 
   </p>
 </aside>
 
-**Der Begriff "Committer\*in"** könnte verwendet werden, um die höhere Verantwortung des Commit-Rechtes zu unterscheiden von anderen Formen der Mitarbeit.
+**Der Begriff "Committer\*in"** könnte verwendet werden, um die höhere Verantwortung des Commit-Rechtes von anderen Formen der Mitarbeit zu unterscheiden.
 
 Sie können Ihre Projektrollen zwar nach Belieben definieren, aber Sie sollten die Verwendung von [breiteren Definitionen in Betracht ziehen](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet), um mehr Beitragsformen zu fördern. Mit Hilfe von Führungsrollen können Sie Personen, die unabhängig von ihren fachlichen Fähigkeiten herausragende Leistungen für Ihr Projekt erbracht haben, formell auszeichnen.
 
@@ -79,7 +79,7 @@ Wenn Ihr Projekt eine sehr aktive Gemeinschaft von Mitwirkenden hat, können Sie
   </p>
 </aside>
 
-Führungsteams können einen Kommunikationskanal einrichten (z.B. im IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zu wöchentlichen Sprechstunden ein](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
+Führungsteams können einen Kommunikationskanal einrichten (z.B. mit IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zu wöchentlichen Sprechstunden ein](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Vergessen Sie nicht, nach der Festlegung von Führungsrollen zu dokumentieren, wie Menschen diese erreichen können! Richten Sie einen klaren Prozess ein, wie Leute Maintainer\*in werden oder einem Gremium in Ihrem Projekt beitreten können, und beschreiben Sie diesen Prozess in einer GOVERNANCE.md.
 
@@ -91,7 +91,7 @@ Wenn sich Ihr Projekt auf GitHub befindet, können Sie Ihr Projekt von Ihrem per
 
 Einige Leute denken, dass Sie allen Commit-Zugang geben sollten, die einen Beitrag geleistet haben. Dies könnte dazu führen, dass sich mehr Menschen für Ihr Projekt interessieren.
 
-Andererseits, besonders bei größeren, komplexeren Projekten, möchten Sie vielleicht nur Personen zu Commits berechtigen, die ihr Engagement unter Beweis gestellt haben. Es gibt hier nicht _den einen_ richtigen Weg. Tun Sie, was Ihnen behagt!
+Andererseits (besonders bei größeren, komplexeren Projekten) möchten Sie vielleicht nur Personen zu Commits berechtigen, die ihr Engagement unter Beweis gestellt haben. Es gibt hier nicht _den einen_ richtigen Weg. Tun Sie, was Ihnen behagt!
 
 Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://help.github.com/articles/about-protected-branches/) verwalten, wer unter welchen Umständen auf einen bestimmten Branch committen darf.
 
@@ -107,17 +107,17 @@ Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches
   </p>
 </aside>
 
-## Welche Lenkungsstrukturen nutzen Open-Source-Projekte häufiger?
+## Welche Verwaltungsstrukturen nutzen Open-Source-Projekte häufiger?
 
-Es gibt drei Lenkungsstrukturen, die häufig bei Open-Source-Projekten vorkommen.
+Es gibt drei Verwaltungsstrukturen, die häufig bei Open-Source-Projekten vorkommen.
 
 * * **BDFL:** BDFL steht für "Benevolent Dictator for Life" (gutmütige\*r Diktator\*in auf Lebenszeit). Bei dieser Struktur hat eine Person (in der Regel die oder der Erstautor\*in des Projekts) das letzte Wort bei allen wichtigen Projektentscheidungen. [Python](https://github.com/python) ist ein klassisches Beispiel. Kleinere Projekte haben wahrscheinlich standardmäßig ein\*e BDFL, da es nur einen oder zwei Maintainer\*innen gibt. Aus Unternehmen stammende Projekte können ebenfalls in die Kategorie BDFL fallen.
 
-* **Meritokratie:** **(Hinweis: Der Begriff "Meritokratie" ist bei einigen Communities negativ konnotiert und hat eine [komplexe soziale und politische Geschichte](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Unter einer Meritokratie erhalten aktive Projektmitarbeiter\*innen (diejenigen, die "sich die Meriten angelesen" haben) eine formelle Entscheidungsrolle. Entscheidungen werden in der Regel auf der Grundlage eines reinen Abstimmungskonsenses getroffen. Das Konzept der Meritokratie wurde von der [Apache Foundation](http://www.apache.org/) entwickelt; [alle Apache-Projekte](http://www.apache.org/index.html#projects-list) sind Meritokratien. Beiträge können nur von Personen geleistet werden, die sich selbst vertreten, nicht von einem Unternehmen.
+* **Meritokratie:** **(Hinweis: Der Begriff "Meritokratie" ist bei einigen Communitys negativ konnotiert und hat eine [komplexe soziale und politische Geschichte](http://geekfeminism.wikia.com/wiki/Meritocracy).)** Unter einer Meritokratie erhalten aktive Projektmitarbeiter\*innen (diejenigen, die "sich die Meriten angelesen" haben) eine formelle Entscheidungsrolle. Entscheidungen werden in der Regel auf der Grundlage eines reinen Abstimmungskonsenses getroffen. Das Konzept der Meritokratie wurde von der [Apache Foundation](http://www.apache.org/) entwickelt; [alle Apache-Projekte](http://www.apache.org/index.html#projects-list) sind Meritokratien. Beiträge können nur von Personen geleistet werden, die sich selbst vertreten, nicht von einem Unternehmen.
 
 * **Liberales Beitragsmodell:** Nach einem liberalen Beitragsmodell werden die Menschen, die aktuell die meiste Arbeit leisten, als die einflussreichsten anerkannt. Dabei wird aber ihre frühere Beitragshistorie außer Acht gelassen. Wichtige Projektentscheidungen werden auf der Grundlage eines Konsensfindungsprozesses (Besprechen der wichtigsten Missstände) und nicht auf Grundlage reiner Abstimmung getroffen. Dabei streben solche Projekte nach Einbeziehung möglichst vieler Perspektiven der Gemeinschaft. Beliebte Beispiele für Projekte, die ein liberales Beitragsmodell verwenden, sind [Node.js](https://foundation.nodejs.org/) und [Rust](https://www.rust-lang.org/).
 
-Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- und Nachteile. Und obwohl sie zunächst sehr unterschiedlich erscheinen mögen, haben alle drei Modelle mehr gemeinsam als zu vermuten wäre. Wenn Sie daran interessiert sind, eines dieser Modelle zu übernehmen, schauen Sie sich diese Vorlagen an (alle Englisch):
+Welches Modell sollten Sie verwenden? Das obliegt Ihnen! Jedes Modell hat Vor- und Nachteile. Und obwohl sie zunächst sehr unterschiedlich erscheinen mögen, haben alle drei Modelle mehr gemeinsam als zu vermuten wäre. Wenn Sie daran interessiert sind, eines dieser Modelle zu übernehmen, schauen Sie sich diese Vorlagen an (alle auf Englisch):
 
 * [BDFL-Modellvorlage](http://oss-watch.ac.uk/resources/benevolentdictatorgovernancemodel)
 * [Meritokratische Modellvorlage](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel)
@@ -129,7 +129,7 @@ Es gibt nicht den einen richtigen Zeitpunkt, um die Leitungs- und Steuerungsrich
 
 Frühzeitige Dokumentationen wird selbst auch dazu beitragen, wie sich Ihr Projekt entwickelt, also schreiben Sie ruhig früh auf, was Sie früh wissen. So können Sie beispielsweise schon zum Projektstart klare Erwartungen an die Funktionsweise Ihres Mitwirkungsprozesses definieren.
 
-Wenn Sie Teil eines Unternehmens sind, das ein Open-Source-Projekt startet, lohnt sich eine interne Diskussion vor dem Start. Wie erwartet Ihr Unternehmen, dass es das Projekt aufrechterhält und Entscheidungen trifft? Möglicherweise möchten Sie auch öffentlich erklären, wie oder ob Ihr Unternehmen in das Projekt eingebunden wird.
+Wenn Sie Teil eines Unternehmens sind, das ein Open-Source-Projekt startet, lohnt sich eine interne Diskussion vor dem Start. Wie erwartet Ihr Unternehmen, dass es das Projekt aufrechterhält und Entscheidungen trifft? Möglicherweise möchten Sie auch öffentlich erklären, ob oder wie Ihr Unternehmen in das Projekt eingebunden wird.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
@@ -149,11 +149,11 @@ Erfolgreiche Open-Source-Projekte werden von vielen Menschen und Unternehmen gen
 
 Mit zunehmender Verbreitung des Projekts werden Menschen, die über Fachwissen verfügen, immer gefragter (Sie könnten eine\*r davon sein!) und wird manchmal für die Arbeit bezahlt, die sie im Projekt leisten.
 
-Es ist wichtig, kommerzielle Aktivitäten als normal und als eine weitere Motivation für die Entwicklungsarbeit zu betrachten. Bezahlte Entwickler\*innen sollten natürlich keine Sonderbehandlung gegenüber Unbezahlten erhalten. Jeder Beitrag muss nach seinen technischen Eigenschaften bewertet werden. Allerdings sollten die Leute zu kommerziellen Aktivitäten bereit sein, und sich damit wohl fühlen, wenn sie ihre Anwendungsfälle angeben oder sich für eine bestimmte Verbesserung oder Funktion aussprechen.
+Es ist wichtig, kommerzielle Aktivitäten als normal und als eine weitere Motivation für die Entwicklungsarbeit zu betrachten. Bezahlte Entwickler\*innen sollten natürlich keine Sonderbehandlung gegenüber unbezahlten erhalten. Jeder Beitrag muss nach seinen technischen Eigenschaften bewertet werden. Allerdings sollten die Leute zu kommerziellen Aktivitäten bereit sein, und sich damit wohl fühlen, wenn sie ihre Anwendungsfälle angeben oder sich für eine bestimmte Verbesserung oder Funktion aussprechen.
 
-"Kommerziell" ist vollständig kompatibel mit "Open Source". "Kommerziell" bedeutet nur, dass irgendwo Geld im Spiel ist, z.B. dass die Software unternehmerisch eingesetzt wird. Dies wird umso wahrscheinlicher, je weiter sich ein Projekt verbreitet. Wenn Open-Source-Software als Teil eines Nicht-Open-Source-Produkts verwendet wird, ist das Gesamtprodukt immer noch "proprietäre" Software, obwohl sie (wie Open Source!) für kommerzielle oder nicht-kommerzielle Zwecke verwendet werden kann.
+"Kommerziell" ist vollständig kompatibel mit "Open-Source". "Kommerziell" bedeutet nur, dass irgendwo Geld im Spiel ist, z.B. dass die Software unternehmerisch eingesetzt wird. Dies wird umso wahrscheinlicher, je weiter sich ein Projekt verbreitet. Wenn Open-Source-Software als Teil eines Nicht-Open-Source-Produkts verwendet wird, ist das Gesamtprodukt immer noch "proprietäre" Software, obwohl sie (wie Open-Source!) für kommerzielle oder nicht-kommerzielle Zwecke verwendet werden kann.
 
-Wie jede\*r Andere auch, gewinnen kommerziell motivierte Entwickler\*innen durch die Qualität und Quantität ihrer Beiträge Einfluss auf das Projekt. Natürlich kann ein\*e Entwickler\*in, die oder der für die Arbeitszeit bezahlt wird, mehr tun als unbezahlte Beitragende, aber das ist in Ordnung: Bezahlung beeinflusst nur als einer von vielen möglichen Faktoren, was jemand tut. Halten Sie Ihre Projektdiskussionen auf den Inhalt der Beiträge fokussiert, nicht auf die externen Faktoren, die es den Menschen ermöglichen, diese Beiträge zu leisten.
+Wie jeder andere auch, gewinnen kommerziell motivierte Entwickler\*innen durch die Qualität und Quantität ihrer Beiträge Einfluss auf das Projekt. Natürlich kann ein\*e Entwickler\*in, die oder der für die Arbeitszeit bezahlt wird, mehr tun als unbezahlte Beitragende, aber das ist in Ordnung: Bezahlung beeinflusst nur als einer von vielen möglichen Faktoren, was jemand tut. Halten Sie Ihre Projektdiskussionen auf den Inhalt der Beiträge fokussiert, nicht auf die externen Faktoren, die es den Menschen ermöglichen, diese Beiträge zu leisten.
 
 ## Brauche ich für mein Projekt eine juristische Person?
 
@@ -161,14 +161,14 @@ Sie benötigen keine juristische Person, um Ihr Open-Source-Projekt zu verwalten
 
 Wenn Sie beispielsweise ein kommerzielles Unternehmen gründen möchten, sollten Sie eine GmbH oder UG gründen (wenn Sie in Deutschland ansässig sind). Wenn Sie nur Auftragsarbeiten im Zusammenhang mit Ihrem Open-Source-Projekt durchführen, können Sie Geld als (Einzel)Unternehmergesellschaft akzeptieren oder eine GmbH gründen.
 
-Wenn Sie Spenden für Ihr Open-Source-Projekt annehmen möchten, können Sie einen Spendenkanal einrichten (z.B. über PayPal oder Stripe), aber das Geld ist nicht steuerlich absetzbar. Es sei denn, über einen anerkannt gemeinnütziger Verein.
+Wenn Sie Spenden für Ihr Open-Source-Projekt annehmen möchten, können Sie einen Spendenkanal einrichten (z.B. über PayPal oder Stripe), aber das Geld ist nicht steuerlich absetzbar. Es sei denn, dieser Prozess läuft über einen anerkannten gemeinnützigen Verein.
 
 Viele Projekte wollen sich nicht die Mühe machen, einen gemeinnützigen Verein zu gründen, also finden sie stattdessen einen gemeinnützigen, steuerrechtlichen Sponsor. Ein solcher Sponsor nimmt Spenden in Ihrem Namen entgegen (teilweise im Austausch gegen einen prozentualen Anteil der Spende). [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource), und das deutsche [Center for the Cultivation of Technology](https://techcultivation.org/) sind Beispiele für Organisationen, die als steuerrechtliche Sponsoren für Open-Source-Projekte fungieren.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
 
-  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die Communities nutzen können, um selbsttragend zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
+  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die Communitys nutzen können, um selbsttragend zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
 
   _Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it._
 

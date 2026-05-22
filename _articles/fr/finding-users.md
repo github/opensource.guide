@@ -31,7 +31,7 @@ Pour plus d'information concernant la messagerie, consultez l'exercice de Mozill
 ## Aidez les gens à trouver et à suivre votre projet
 
 <aside markdown="1" class="pquote">
-  Dans l'idéal, vous avez besoin d'une seule URL "d'accueil" que vous pouvez promouvoir et diriger vers des personnes en relation avec votre projet. Vous n'avez pas besoin de vous depenser sur un modèle fantaisie ou même un nom de domaine, mais votre projet a besoin d'un point focal.
+  Dans l'idéal, vous avez besoin d'une seule URL "d'accueil" que vous pouvez promouvoir et diriger vers des personnes en relation avec votre projet. Vous n'avez pas besoin de vous dépenser sur un modèle fantaisie ou même un nom de domaine, mais votre projet a besoin d'un point focal.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
@@ -69,7 +69,7 @@ Tirez parti des communautés et des plateformes en ligne existantes pour atteind
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
-  Chaque programme a des fonctions très spécifiques que seule une fraction des utilisateurs trouveront utiles. Ne spammez pas toute les personnes possible. Ciblez plutôt vos efforts sur les communautés qui trouveront un bénéfice a connaître votre projet.
+  Chaque programme a des fonctions très spécifiques que seule une fraction des utilisateurs trouveront utiles. Ne spammez pas toutes les personnes possible. Ciblez plutôt vos efforts sur les communautés qui trouveront un bénéfice à connaître votre projet.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
@@ -103,7 +103,7 @@ Si vous êtes [nouveau sur la prise de parole en public](https://speaking.io/), 
 
 Si vous n'avez jamais parlé à un événement auparavant, il est tout à fait normal de vous sentir nerveux ! Rappelez-vous que votre auditoire est là parce qu'il veut vraiment entendre parler de votre travail.
 
-Au fur et à mesure que vous écrivez votre exposé, concentrez-vous sur ce que votre auditoire trouvera intéressant et dont vous tirerez profit. Gardez votre ton amicale et accessible. Souriez, respirez et amusez-vous.
+Au fur et à mesure que vous écrivez votre exposé, concentrez-vous sur ce que votre auditoire trouvera intéressant et dont vous tirerez profit. Gardez votre ton amical et accessible. Souriez, respirez et amusez-vous.
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
@@ -143,6 +143,6 @@ Il n'est jamais trop tôt ou trop tard pour commencer à bâtir votre réputatio
 
 Il n'y a pas de solution du jour au lendemain pour créer un public. Gagner la confiance et le respect des autres prend du temps, et bâtir votre réputation ne s'arrête jamais.
 
-## Persévèrez !
+## Persévérez !
 
 Cela peut prendre beaucoup de temps avant que les gens remarquent votre projet open source. C'est bon ! Certains des projets les plus populaires aujourd'hui ont pris des années pour atteindre des niveaux d'activité élevés. Concentrez-vous sur l'établissement de relations au lieu d'espérer que votre projet gagnera spontanément en popularité. Soyez patient et continuez à partager votre travail avec ceux qui l'apprécient.

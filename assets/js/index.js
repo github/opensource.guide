@@ -5,6 +5,7 @@
 {% include_relative anchor.min.js %}
 {% include_relative toc.js %}
 {% include_relative locale.js %}
+{% include_relative button.js %}
 
 (function() {
   var selector = '.article-body h2, .article-body h3, .article-body h4, .article-body h5';

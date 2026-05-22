@@ -28,7 +28,7 @@ Rédaction des choses rend plus facile de dire non quand quelque chose ne rentre
 
 Même si vous n'utilisez pas de paragraphes entiers, des listes de point sont mieux que de ne pas écrire du tout.
 
-N'oubliez pas de garder votre documentation à jour. Si vous n'êtes pas toujours en mesure le faire, supprimez votre documentation obsolète ou indiquez qu'elle est obsolète afin que les contributeurs sachent que les mises à jour sont les bienvenues.
+N'oubliez pas de garder votre documentation à jour. Si vous n'êtes pas toujours en mesure de le faire, supprimez votre documentation obsolète ou indiquez qu'elle est obsolète afin que les contributeurs sachent que les mises à jour sont les bienvenues.
 
 ### Décrivez la vision de votre projet
 
@@ -87,7 +87,7 @@ Dire non s'applique à de nombreuses situations que vous rencontrerez en tant qu
 
 ### Gardez la conversation amicale
 
-L'un des endroits les plus importants que vous pratiquez en disant non est sur votre isue et la file d'attente des pull requests. En tant que responsable du projet, vous recevrez inévitablement des suggestions que vous ne souhaitez pas accepter.
+Les endroits les plus importants où pratiquer l'art du refus sont vos issues et la file d'attente des pull requests. En tant que responsable du projet, vous recevrez inévitablement des suggestions que vous ne souhaitez pas accepter.
 
 Peut-être que la contribution modifie la portée de votre projet ou ne correspond pas à votre vision. Peut-être que l'idée est bonne, mais la mise en œuvre est mauvaise.
 
@@ -128,7 +128,7 @@ Ne vous sentez pas coupable de ne pas vouloir accepter la contribution de quelqu
 
 En fin de compte, si une contribution n'est pas suffisante, vous n'êtes pas obligé de l'accepter. Soyez gentil et réactif lorsque les gens contribuent à votre projet, mais n'acceptez que les changements qui, selon vous, amélioreront votre projet. Le plus souvent vous pratiquez en disant non, plus cela devient facile. Promis.
 
-### Soyez pro-actif
+### Soyez proactif
 
 Pour réduire le volume des contributions non désirées, expliquez le processus de soumission et d'acceptation des contributions de votre projet dans votre guide.
 
@@ -137,7 +137,7 @@ Si vous recevez trop de contributions de faible qualité, demandez aux contribut
 * Remplir une issue ou un modèle de PR / checklist
 * Ouvrir une issue avant de soumettre une PR
 
-S'ils ne respectent pas vos règles, fermez immédiatement l'issue et référez a votre documentation.
+S'ils ne respectent pas vos règles, fermez immédiatement l'issue et référez à votre documentation.
 
 Bien que cette approche puisse sembler méchante au début, être proactif est réellement bon pour les deux parties. Cela réduit le risque que quelqu'un consacre beaucoup d'heures de travail perdues à une pull request que vous n'allez pas accepter. Et cela rend votre charge de travail plus facile à gérer.
 
@@ -155,7 +155,7 @@ Parfois, quand vous dites non, votre contributeur potentiel peut se fâcher ou c
 
 Peut-être que quelqu'un dans votre communauté soumet régulièrement des contributions qui ne répondent pas aux normes de votre projet. Il peut être frustrant pour les deux parties de passer à plusieurs reprises par des rejets.
 
-Si vous voyez que quelqu'un est enthousiaste à propos de votre projet, mais qu'il a besoin d'un peu de polish, soyez patient. Expliquer clairement dans chaque situation pourquoi les contributions ne répondent pas aux attentes du projet. Essayez de le diriger vers une tâche plus facile ou moins ambiguë, comme une question marquée _"bonne premiere issue"_, pour se faire les pieds. Si vous avez le temps, envisagez de l'encadrer à travers sa première contribution, ou de trouver quelqu'un d'autre dans votre communauté qui pourrait être disposé à le faire.
+Si vous voyez que quelqu'un est enthousiaste à propos de votre projet, mais qu'il a besoin d'un peu de polish, soyez patient. Expliquer clairement dans chaque situation pourquoi les contributions ne répondent pas aux attentes du projet. Essayez de le diriger vers une tâche plus facile ou moins ambiguë, comme une question marquée _"bonne première issue"_, pour se faire les pieds. Si vous avez le temps, envisagez de l'encadrer à travers sa première contribution, ou de trouver quelqu'un d'autre dans votre communauté qui pourrait être disposé à le faire.
 
 ## Tirez parti de votre communauté
 
@@ -193,7 +193,7 @@ Forker un projet ne doit pas être une mauvaise chose. Etre capable de copier et
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  Je réponds a 80% des cas d'utilisation. Si vous êtes l'une des licornes, s'il vous plaît forker mon travail. Je ne serai pas offensé ! Mes projets publics sont presque toujours destinés à résoudre les problèmes les plus courants. J'essaie de faire en sorte qu'il soit plus facile d'approfondir mon travail ou de le prolonger.
+  Je réponds à 80% des cas d'utilisation. Si vous êtes l'une des licornes, s'il vous plaît forker mon travail. Je ne serai pas offensé ! Mes projets publics sont presque toujours destinés à résoudre les problèmes les plus courants. J'essaie de faire en sorte qu'il soit plus facile d'approfondir mon travail ou de le prolonger.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
@@ -213,7 +213,7 @@ L'un des moyens les plus importants pour automatiser votre projet consiste à aj
 
 Les tests aident les contributeurs à croire qu'ils ne casseront rien. Ils facilitent également la consultation et l'acceptation des contributions rapidement. Plus vous êtes réactif, plus votre communauté peut être engagée.
 
-Configurez des tests automatiques qui s'exécuteront sur toutes les contributions entrantes, et assurez-vous que vos tests peuvent être facilement exécutés localement par les contributeurs. Exiger que toutes les contributions de code passent vos tests avant de pouvoir être soumis. Vous aiderez à définir une norme de qualité minimale pour toutes les soumissions. La [vérifications du status requis](https://help.github.com/articles/about-required-status-checks/) sur GitHub peut vous aider à vous assurer qu'aucune modification ne sera mergée sans que vos tests ne passent.
+Configurez des tests automatiques qui s'exécuteront sur toutes les contributions entrantes, et assurez-vous que vos tests peuvent être facilement exécutés localement par les contributeurs. Exiger que toutes les contributions de code passent vos tests avant de pouvoir être soumis. Vous aiderez à définir une norme de qualité minimale pour toutes les soumissions. La [vérification du status requis](https://help.github.com/articles/about-required-status-checks/) sur GitHub peut vous aider à vous assurer qu'aucune modification ne sera mergée sans que vos tests ne passent.
 
 Si vous ajoutez des tests, assurez-vous d'expliquer comment ils fonctionnent dans votre fichier CONTRIBUTING.
 
@@ -227,7 +227,7 @@ Si vous ajoutez des tests, assurez-vous d'expliquer comment ils fonctionnent dan
 
 ### Utiliser des outils pour automatiser les tâches de maintenance de base
 
-Les bonnes nouvelles à propos du maintien d'un projet populaire sont que d'autres responsables ont probablement deja fait face à des problèmes similaires et ont construit une solution pour cela.
+Les bonnes nouvelles à propos du maintien d'un projet populaire sont que d'autres responsables ont probablement déjà fait face à des problèmes similaires et ont construit une solution pour cela.
 
 Il y a une [variété d'outils disponibles](https://github.com/showcases/tools-for-open-source) pour aider à automatiser certains aspects du travail de maintenance. Quelques exemples:
 
@@ -271,6 +271,6 @@ Faites de votre mieux pour trouver du support pour vos utilisateurs et votre com
 
 Prendre des pauses s'applique à plus que de simples vacances, aussi. Si vous ne voulez pas faire du travail open source le week-end, ou pendant les heures de travail, communiquez ces attentes aux autres, afin qu'ils sachent ne pas vous déranger.
 
-## Prennez soin de vous d'abord !
+## Prenez soin de vous d'abord !
 
 Maintenir un projet populaire nécessite des compétences différentes des étapes précédentes de la croissance, mais ce n'est pas moins gratifiant. En tant que responsable, vous pratiquerez le leadership et les compétences personnelles à un niveau que peu de gens connaissent. Bien que ce ne soit pas toujours facile à gérer, définir des limites claires et ne prendre que ce que vous êtes à l'aise vous aidera à rester heureux, frais et productif.

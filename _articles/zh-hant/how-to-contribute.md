@@ -204,7 +204,6 @@ redirect_from: /zh-tw/how-to-contribute/
 
 * [GitHub 探索](https://github.com/explore/)
 * [First Timers Only](http://www.firsttimersonly.com/)
-* [你的第一個 PR](https://yourfirstpr.github.io/)
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](http://up-for-grabs.net/)

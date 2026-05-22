@@ -16,4 +16,9 @@ updates:
      interval: daily
     open-pull-requests-limit: 99
     rebase-strategy: disabled
-  
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: daily
+    versioning-strategy: increase
+    open-pull-requests-limit: 99

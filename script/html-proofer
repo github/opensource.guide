@@ -8,10 +8,12 @@ url_ignores = [
   "https://www.drupal.org/community-initiatives/drupal-core/usability",
   "https://scripts.sil.org/ofl",
   "https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/",
+  "https://pages.18f.gov/open-source-guide/making-readmes-readable/",
   %r{^https?://twitter\.com/},
   %r{^https?://(www\.)?kickstarter\.com/},
   %r{^https://guides\.github\.com/},
   %r{^https://help\.github\.com/},
+  %r{^https://github\.com/},
 ]
 
 HTMLProofer::Runner.new(

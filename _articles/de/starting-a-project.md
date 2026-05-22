@@ -1,6 +1,6 @@
 ---
 lang: de
-title: Ein Open-Source-Projekt anfangen
+title: Ein Open-Source-Projekt starten
 description: Erfahren Sie mehr über die Open-Source-Welt und machen Sie sich bereit, Ihr eigenes Projekt zu starten.
 class: beginners
 order: 2
@@ -10,29 +10,29 @@ related:
   - building
 ---
 
-## Was ist Open Source, und warum?
+## Was ist Open-Source, und warum?
 
-Sie denken also über einen Sprung in die Open-Source-Welt nach? Herzlichen Glückwunsch, die Welt weiß Ihren Beitrag zu schätzen! Lassen Sie uns darüber sprechen, was Open Source ist und warum sich Leute dafür engagieren.
+Sie denken also über einen Sprung in die Open-Source-Welt nach? Herzlichen Glückwunsch, die Welt weiß Ihren Beitrag zu schätzen! Lassen Sie uns darüber sprechen, was Open-Source ist und warum sich Leute dafür engagieren.
 
-### Was genau bedeutet "Open Source"?
+### Was genau bedeutet "Open-Source"?
 
 Ein Open-Source-Projekt kann von **jedem Menschen für jeden Zweck verwendet, inspiziert, modifiziert und weiterverbreitet werden.** Diese Rechte werden [mittels einer Open-Source-Lizenz durchgesetzt](https://opensource.org/licenses).
 
-Open Source ist so mächtig, weil es Barrieren für Nutzung und Zusammenarbeit senkt und Personen somit ermöglicht, Ideen schneller zu verbreiten und Dinge schneller zu verbessern. Zudem ermöglicht es den Benutzer\*inn\*n, ihr eigenes Computing besser unter Kontrolle zu behalten, als mit proprietären Lösungen. Ein Unternehmen, das Open-Source-Software verwendet, kann beispielsweise jemanden einstellen, um maßgeschneiderte Verbesserungen an der Software vorzunehmen, anstatt von den Produktentscheidungen des Anbieters abhängig zu sein.
+Open-Source ist so mächtig, weil es Barrieren für Nutzung und Zusammenarbeit senkt und Personen somit ermöglicht, Ideen schneller zu verbreiten und Dinge schneller zu verbessern. Zudem ermöglicht es den Benutzer\*innen\*n, ihr eigenes Computing besser unter Kontrolle zu behalten, als mit proprietären Lösungen. Ein Unternehmen, das Open-Source-Software verwendet, kann beispielsweise jemanden einstellen, um maßgeschneiderte Verbesserungen an der Software vorzunehmen, anstatt von den Produktentscheidungen des Anbieters abhängig zu sein.
 
-_Freie Software_ meint dieselbe Art von Projekten wie _Open Source_. Der [Begriff](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) wird manchmal auch kombiniert mit "Freie/Libre und Open-Source-Software" (FOSS bzw. FLOSS). _Frei_ und _Libre_ meinen hierbei die Freiheit, nicht den [Preis](#bedeutet-open-source-auch-gratis).
+_Freie Software_ meint dieselbe Art von Projekten wie _Open-Source_. Der [Begriff](https://de.wikipedia.org/wiki/Free/Libre_Open_Source_Software) wird manchmal auch kombiniert mit "Freie/Libre und Open-Source-Software" (FOSS bzw. FLOSS). _Frei_ und _Libre_ meinen hierbei die Freiheit, nicht den [Preis](#bedeutet-open-source-auch-gratis).
 
-### Warum öffnen Menschen den Quellcode ihrer Software?
+### Warum veröffentlichen Menschen den Quellcode ihrer Software?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
 
-  Die lohnenswertesten Erfahrungen, die ich bei der Verwendung von Open Source und der Zusammenarbeit daran mache, kommen von den Beziehungen, die ich mit anderen Entwickler\*innen aufbaue, die mit vielen der gleichen Probleme konfrontiert sind wie ich.
+  Die lohnenswertesten Erfahrungen, die ich bei der Verwendung von Open-Source und der Zusammenarbeit daran mache, kommen von den Beziehungen, die ich mit anderen Entwicklern\*innen aufbaue, die mit vielen der gleichen Probleme konfrontiert sind wie ich.
 
   _One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am._
 
   <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+— @kentcdodds, ["How getting into Open-Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 
@@ -44,19 +44,19 @@ _Freie Software_ meint dieselbe Art von Projekten wie _Open Source_. Der [Begrif
 
 * **Transparenz:** In einem Open-Source-Projekt können Fehler oder Ungereimtheiten von jedem behoben werden. Transparenz ist sowohl für Regierungen in [Bulgarien](https://medium.com/@bozhobg/bulgaria-got-a-law-requiring-open-source-98bf626cf70a) oder den [Vereinigten Staaten](https://web.archive.org/web/20180306072551/https://sourcecode.cio.gov/), für regulierte Industrien wie den Banken- oder Gesundheitssektor und für Sicherheitssoftware wie [Let's Encrypt](https://github.com/letsencrypt) gleichermaßen wichtig.
 
-Open Source ist nicht nur für Software, sondern auch für alle anderen Bereiche geeignet, von Datensätzen bis hin zu Büchern. Stöbern Sie durch [GitHub Explore](https://github.com/explore), um einen Eindruck der thematischen Breite von Open-Source-Projekten zu bekommen.
+Open-Source ist nicht nur für Software, sondern auch für alle anderen Bereiche geeignet, von Datensätzen bis hin zu Büchern. Stöbern Sie durch [GitHub Explore](https://github.com/explore), um einen Eindruck der thematischen Breite von Open-Source-Projekten zu bekommen.
 
-### Bedeutet Open Source auch "gratis"?
+### Bedeutet Open-Source auch "gratis"?
 
-Einer der größten Vorteile von Open Source ist, dass es kein Geld kostet. "Gratis" dagegen ist nur ein Nebenprodukt des Gesamtwertes.
+Einer der größten Vorteile von Open-Source ist, dass es kein Geld kostet. "Gratis" dagegen ist nur ein Nebenprodukt des Gesamtwertes.
 
-Weil [eine Open-Source-Lizenz bedingt](https://opensource.org/osd-annotated), dass jede\*r die Software nutzen, modifizieren, und weiterverbreiten darf (für nahezu jeden Zweck), nehmen die Projekte selbst meist kein Geld dafür. Wenn sie es täten, könnte jede\*r ganz legal die Projekte kopieren und die dann freie Version nutzen.
+Weil [eine Open-Source-Lizenz bedingt](https://opensource.org/osd-annotated), dass jeder die Software nutzen, modifizieren, und weiterverbreiten darf (für nahezu jeden Zweck), nehmen die Projekte selbst meist kein Geld dafür. Wenn sie es täten, könnte jeder ganz legal die Projekte kopieren und die dann freie Version nutzen.
 
 Daher sind die meisten Open-Source-Projekte kostenlos, aber das ist kein Teil der Open-Source-Definition. Es gibt für Open-Source-Projekte Möglichkeiten, sich indirekt bezahlen zu lassen (z.B. über Doppel-Lizenzierung oder eingeschränkte Funktionen) und dabei trotzdem die offizielle Definition von Open-Source weiterhin einzuhalten.
 
 ## Sollte ich mein eigenes Open-Source-Projekt starten?
 
-Die kurze Antwort ist "Ja!", denn egal wie das Ergebnis aussieht: Ein eigenes Projekt zu starten ist eine großartige Möglichkeit zu lernen, wie Open Source funktioniert.
+Die kurze Antwort ist "Ja!", denn egal wie das Ergebnis aussieht: Ein eigenes Projekt zu starten ist eine großartige Möglichkeit zu lernen, wie Open-Source funktioniert.
 
 Wenn Sie noch nie den Quellcode eines Projektes geöffnet haben, werden Sie vielleicht nervös darüber sein, was die Leute sagen werden, oder ob es jemandem auffallen wird. Mit diesen Bedenken sind Sie nicht allein!
 
@@ -66,7 +66,7 @@ Wenn Sie noch nicht überzeugt sind, nehmen Sie sich einen Moment Zeit, um darü
 
 ### Ihre Ziele definieren
 
-Ziele können Ihnen helfen, herauszufinden, woran Sie arbeiten sollen, was Sie ablehnen sollten und wo Sie Hilfe von anderen brauchen. Fragen Sie sich zuerst: _Warum öffne ich dieses Projekt?_
+Ziele können Ihnen helfen, herauszufinden, woran Sie arbeiten sollen, was Sie ablehnen sollten und wo Sie Hilfe von anderen brauchen. Fragen Sie sich zuerst: _Warum starte ich dieses Projekt?_
 
 Es gibt keine richtige Antwort auf diese Frage. Vielleicht haben Sie mehrere Ziele für ein einzelnes Projekt oder verschiedene Projekte mit unterschiedlichen Zielen.
 
@@ -88,7 +88,7 @@ Wenn Ihr Projekt wächst, braucht Ihre Community mehr als nur Code von Ihnen. Di
 
 Während die Zeit, die Sie für nicht-Programmieraufgaben aufwenden, von der Größe und dem Umfang Ihres Projekts abhängt, sollten Sie als Betreuer\*in darauf vorbereitet sein, diese selbst anzugehen oder jemanden zu finden, der Ihnen hilft.
 
-**Wenn Sie Teil eines Unternehmens sind, das ein Projekt öffnet**, stellen Sie sicher, dass Ihr Projekt über die internen Ressourcen verfügt, die es braucht, um zu gedeihen: Sie wollen klarstellen, wer für die Wartung des Projekts nach dem Start verantwortlich ist und wie Sie diese Aufgaben mit Ihrer Community teilen.
+**Wenn Sie Teil eines Unternehmens sind, das ein Projekt startet**, stellen Sie sicher, dass Ihr Projekt über die internen Ressourcen verfügt, die es braucht, um zu gedeihen: Sie wollen klarstellen, wer für die Wartung des Projekts nach dem Start verantwortlich ist und wie Sie diese Aufgaben mit Ihrer Community teilen.
 
 Wenn Sie ein dediziertes Budget oder Personal für Werbung, Betrieb und Wartung des Projekts benötigen, planen Sie dies frühzeitig.
 
@@ -106,30 +106,30 @@ Wenn Sie ein dediziertes Budget oder Personal für Werbung, Betrieb und Wartung 
 
 ### Zu anderen Projekten beitragen
 
-Ist Ihr Ziel zu lernen, wie man mit anderen zusammenarbeitet oder wie Open Source funktioniert, sollten Sie in Erwägung ziehen zu einem bestehenden Projekt beizutragen. Dies kann so einfach sein wie die Korrektur von Tippfehlern oder das Aktualisieren der Dokumentation.
+Ist Ihr Ziel zu lernen, wie man mit anderen zusammenarbeitet oder wie Open-Source funktioniert, sollten Sie in Erwägung ziehen zu einem bestehenden Projekt beizutragen. Dies kann so einfach sein wie die Korrektur von Tippfehlern oder das Aktualisieren der Dokumentation.
 
-Wenn Sie sich nicht sicher sind, wie Sie als Mitwirkende\*r anfangen können, schauen Sie sich unseren Artikel "[Wie zu Open Source beitragen?](../how-to-contribute/)" an.
+Wenn Sie sich nicht sicher sind, wie Sie als Mitwirkende\*r anfangen können, schauen Sie sich unseren Artikel "[Wie zu Open-Source beitragen?](../how-to-contribute/)" an.
 
 ## Ein eigenes Open-Source-Projekt starten
 
 Es gibt keine perfekte Zeit, um Ihre Arbeit zu veröffentlichen. Sie können eine Idee, ein in Arbeit befindliches Projekt, oder ein Jahre altes Closed-Source-Projekt öffnen.
 
-Im Prinzip immer, wenn Sie sich sicher sind, dass andere Ihre Arbeit sehen sollten, und Feedback dazu geben.
+Im Allgemeinen können Sie sich für Open-Source entscheiden, wenn Sie möchten, dass andere Ihre Arbeit sehen sollen und bereit sind, Feedback zu akzeptieren.
 
-Unabhängig davon, in welcher Phase Sie sich für Open Source entscheiden, sollte jedes Projekt die folgende Dokumentation enthalten:
+Unabhängig davon, in welcher Phase Sie sich für Open-Source entscheiden, sollte jedes Projekt die folgende Dokumentation enthalten:
 
 * [Eine Open-Source-Lizenz](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository)
 * [Eine README](https://help.github.com/articles/create-a-repo/#commit-your-first-change)
 * [Beitragsrichtlinien](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [einen Verhaltenskodex](../code-of-conduct/)
 
-Als Maintainer\*in helfen Ihnen diese Komponenten, Erwartungen zu kommunizieren, Beiträge zu verwalten und die gesetzlichen Rechte aller (einschließlich Ihrer eigenen) zu schützen. Sie tragen zudem zu einer positiven Erfahrungen in Ihrem Projekt bei.
+Als Maintainer\*in helfen Ihnen diese Komponenten, Erwartungen zu kommunizieren, Beiträge zu verwalten und die gesetzlichen Rechte aller (einschließlich Ihrer eigenen) zu schützen. Sie tragen zudem zu einer positiven Erfahrung in Ihrem Projekt bei.
 
 Wenn sich Ihr Projekt auf GitHub befindet, können Sie diese Dateien mit den empfohlenen Dateinamen in Ihrem Stammverzeichnis ablegen, damit GitHub sie erkennt und automatisch an Ihre Leser\*innen weitergeben kann.
 
 ### Eine Lizenz auswählen
 
-Eine Open-Source-Lizenz garantiert, dass andere Ihr Projekt ohne Nebenwirkungen nutzen, kopieren, modifizieren und wieder einbringen können und schützt Sie vor unangenehmen rechtlichen Situationen. **Wenn Sie ein Open-Source-Projekt starten, müssen Sie eine Lizenz angeben.**
+Eine Open-Source-Lizenz garantiert, dass andere Ihr Projekt ohne Nebenwirkungen nutzen, kopieren, modifizieren und wieder einbringen können. Außerdem schützt sie Sie vor unangenehmen rechtlichen Situationen. **Wenn Sie ein Open-Source-Projekt starten, müssen Sie eine Lizenz angeben.**
 
 Rechtsangelegenheiten sind kein Spaß. Die gute Nachricht ist, dass Sie eine bestehende Lizenz kopieren und in Ihr Repository einfügen können. Es dauert also nur eine Minute, Ihre harte Arbeit zu schützen.
 
@@ -148,8 +148,8 @@ READMEs erklären nicht nur, wie Sie Ihr Projekt verwenden, sondern auch, warum 
 Versuchen Sie in Ihrer README folgende Fragen zu beantworten:
 
 * Was macht dieses Projekt?
-* Wozu nützt es?
-* Wie kann ich anfangen, es zu nutzen oder etwas beizutragen?
+* Warum ist es nützlich?
+* Wie kann ich es nutzen oder dazu etwas beitragen?
 * Wo wird mir geholfen, wenn ich Hilfe benötige?
 
 Sie können Ihre README verwenden, um andere Fragen zu beantworten: z.B. wie Sie mit Beiträgen handhaben, welche Ziele das Projekt verfolgt, oder wie es um Lizenzen und Zuschreibungen steht. Wenn Sie keine Beiträge annehmen wollen oder Ihr Projekt noch nicht produktionsreif ist, schreiben Sie auch diese Informationen auf.
@@ -174,7 +174,7 @@ Wenn Sie eine README-Datei im Hauptordner Ihres Projektes anlegen, zeigt GitHub 
 
 ### Ihre Beitragsrichtlinien aufschreiben
 
-Eine CONTRIBUTING-Datei erklärt Ihrem Publikum, wie es zu Ihrem Projekt beitragen kann. Beispielsweise können Sie informieren über:
+Eine CONTRIBUTING-Datei erklärt Ihrem Publikum, wie es zu Ihrem Projekt beitragen kann. Folgende Informationen können darin beispielsweise enthalten sein:
 
 * Wie eine Fehlerbericht eingereicht werden kann (probieren Sie hierfür die [Issue- und Pull-Request-Vorlagen](https://github.com/blog/2111-issue-and-pull-request-templates))
 * Wie neue Funktionen vorgeschlagen werden sollten
@@ -183,11 +183,11 @@ Eine CONTRIBUTING-Datei erklärt Ihrem Publikum, wie es zu Ihrem Projekt beitrag
 
 Neben thematischen Details präsentiert die CONTRIBUTING-Datei auch Ihre Erwartungen an Beiträge, z.B:
 
-* Die Beitragsarten, die Sie gerne hätten
-* Ihre Planungen und Ziele für das Projekt
-* Wie Beitrags-Einreicher\*innen Sie kontaktieren sollten (oder auch nicht)
+* Wie Sie möchten, dass andere beitragen
+* Ihre Pläne und Ziele für das Projekt
+* Wie Mitwirkende Sie kontaktieren sollten (oder auch nicht)
 
-Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge (wie z.B. "Dokumentationen verfassen" oder "eine Website erstellen") können Sie dazu beitragen, dass sich Neuankömmlinge willkommen und begeistert fühlen.
+Mit einem warmen, freundlichen Ton und spezifischen Vorschlägen für Beiträge (wie z.B. "Dokumentationen verfassen" oder "eine Website erstellen") können Sie dazu beitragen, dass sich Neuankömmlinge willkommen und wohlfühlen.
 
 Beispielsweise leitet [Active Admin](https://github.com/activeadmin/activeadmin/)  [ihre Beitragsrichtlinien](https://github.com/activeadmin/activeadmin/blob/HEAD/CONTRIBUTING.md) ein mit:
 
@@ -201,7 +201,7 @@ Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBU
 
 @nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
 
-Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bemerken. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
+Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, damit sie gleich bemerkt wird. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
 
 ![Beitragsrichtlinien](/assets/images/starting-a-project/Contributing-guidelines.jpg)
 
@@ -219,11 +219,11 @@ Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bem
   </p>
 </aside>
 
-Letztendlich hilft ein Verhaltenskodex, Grundregeln für das Verhalten der Projektbeteiligten festzulegen. Insbesondere wenn Sie ein Open-Source-Projekt für eine Community oder ein Unternehmen starten. Ein Verhaltenskodex hilft Ihnen, ein gesundes, konstruktives Gemeinschaftsverhalten zu fördern, das Ihnen als Maintainer\*in Stress erspart.
+Letztendlich hilft ein Verhaltenskodex, Grundregeln für das Verhalten der Projektbeteiligten festzulegen - insbesondere wenn Sie ein Open-Source-Projekt für eine Community oder ein Unternehmen starten. Ein Verhaltenskodex hilft Ihnen, ein gesundes, konstruktives Gemeinschaftsverhalten zu fördern, das Ihnen als Maintainer\*in Stress erspart.
 
 Weitere Information finden Sie in unserer [Anleitung für Verhaltenskodizes](../code-of-conduct/).
 
-Neben der Klarstellung _welches_ Verhalten Sie von den Teilnehmer\*innen erwarten, beschreibt ein Verhaltenskodex auch, auf wen sich diese Erwartungen beziehen, wann sie gelten und was zu tun ist, wenn ein Verstoß vorliegt.
+Neben der Klarstellung, _welches_ Verhalten Sie von den Mitwirkenden erwarten, beschreibt ein Verhaltenskodex auch, auf wen sich diese Erwartungen beziehen, wann sie gelten und was zu tun ist, wenn ein Verstoß vorliegt.
 
 Ähnlich zu Open-Source-Lizenzen, kommen auch Standards für Verhaltenskodizes auf, sodass Sie keinen komplett eigenen schreiben müssen. Der [Contributor Covenant](https://contributor-covenant.org/) ist ein einsatzbereiter Verhaltenskodex, der von [über 40'000 Open-Source-Projekten](http://contributor-covenant.org/adopters/) verwendet wird, einschließlich Kubernetes, Rails und Swift. Egal welchen Text Sie nutzen, Sie sollten vorbereitet sein, ihn wenn nötig auch durchzusetzen.
 
@@ -256,16 +256,16 @@ Nutzen Sie die [WIPO Global Brand Database](http://www.wipo.int/branddb/en/), um
 
 Zum Schluss noch eine schnelle Google-Suche nach Ihrem Projektnamen: Werden die Leute Ihr Projekt leicht finden können, oder erscheint etwas anderes in den Suchergebnissen, das Sie nicht sehen möchten?
 
-### Auch den Schreib- und Programmierstil beeinflussen Ihre Marke!
+### Auch der Schreib- und Programmierstil beeinflussen Ihre Marke!
 
-Während der Lebenszeit Ihres Projektes werden Sie eine Menge schreiben: README, Anleitungen, Dokumentation, Antworten auf Anfragen, vielleicht sogar Newsletter an eine Mailingliste.
+Während Sie an dem Projekt arbeiten, werden Sie eine Menge schreiben: README, Anleitungen, Dokumentation, Antworten auf Anfragen, vielleicht sogar Newsletter an eine Mailingliste.
 
-Egal ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein Markenzeichen Ihres Projektes. Bedenken Sie, wie er bei Ihrem Publikum ankommt, und ob dies dem Tonfall entspricht, den Sie rüberbringen möchten.
+Egal ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein Markenzeichen Ihres Projektes. Bedenken Sie, wie er bei Ihrem Publikum ankommt, und ob dies dem Tonfall entspricht, den Sie herüberbringen möchten.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
 
-  Ich versuchte, an jeder Diskussion auf der Mailingliste teilzunehmen, in guter Manier, nett zu Leuten zu sein, ihre Anfragen ernst zu nehmen und Hilfe anzubieten. Nach einer Weile blieben Leuten einfach dabei, nicht nur um Fragen zu stellen, sondern auch um anderen zu antworten, und erfreulicherweise übernahmen sie meinen Schreibstil.
+  Ich habe versucht, an jeder Diskussion auf der Mailingliste teilzunehmen, in der Absicht, nett zu den Leuten zu sein, ihre Anfragen ernst zu nehmen und Hilfe anzubieten. Nach einer Weile blieben Leuten einfach dabei, nicht nur um Fragen zu stellen, sondern auch um anderen zu antworten, und erfreulicherweise übernahmen sie meinen Schreibstil.
 
   _I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style._
 
@@ -274,11 +274,11 @@ Egal ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein
   </p>
 </aside>
 
-Freundliche, [inklusive Sprache](https://fairlanguage.com/service/) kann Ihr Projekt einladender für neue Helfer\*innen machen. Bleiben Sie auch bei einfacher/leichter Sprache, denn nicht alle Ihrer Leser\*innen sind Muttersprachler\*innen.
+Freundliche, [inklusive Sprache](https://fairlanguage.com/service/) kann Ihr Projekt einladender für neue Mitwirkende machen. Bleiben Sie auch bei einfacher/leichter Sprache, denn nicht alle Ihrer Leser\*innen haben die Fähigkeit, komplizierte Formulierungen sofort zu verstehen.
 
-Neben Wortwahl und Schreibstil, wird auch Ihr Programmierstil Teil der Marke Ihres Projekts. [Angular](https://github.com/johnpapa/angular-styleguide) und [jQuery](https://contribute.jquery.org/style-guide/js/) beispielsweise haben strenge Richtlinien dafür.
+Neben Wortwahl und Schreibstil wird auch Ihr Programmierstil Teil der Marke Ihres Projekts. [Angular](https://github.com/johnpapa/angular-styleguide) und [jQuery](https://contribute.jquery.org/style-guide/js/) beispielsweise haben strenge Richtlinien dafür.
 
-Eine Stilrichtlinie ist nicht sofort zum Start Ihres Projekts nötig, und vielleicht genießen Sie es auch, unterschiedliche Programmierstile in Ihr Projekt zu integrieren. Allerdings sollten Sie davon ausgehen, dass verschiedene Schreib- und Programmierstile verschiedene Leute anziehen oder abstoßen. Die Weichen für die Gemeinschaft, die Sie letztendlich aufbauen möchten, werden schon in frühen Projektphasen gelegt.
+Eine Stilrichtlinie ist nicht sofort zum Start Ihres Projekts nötig, und vielleicht genießen Sie es auch, unterschiedliche Programmierstile in Ihr Projekt zu integrieren. Allerdings sollten Sie davon ausgehen, dass verschiedene Schreib- und Programmierstile verschiedene Leute anziehen oder abstoßen. Die Weichen für die Gemeinschaft, die Sie letztendlich aufbauen möchten, werden schon in frühen Projektphasen gestellt.
 
 ## Ihre Checkliste zur Startvorbreitung
 
@@ -289,7 +289,7 @@ Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Lizenz
+    Das Projekt hat eine LICENSE-Datei mit einer Open-Source-Lizenz
   </label>
 </div>
 
@@ -378,6 +378,6 @@ Wenn Sie als Firma oder Organisation arbeiten:
   </label>
 </div>
 
-## Sie haben's geschafft!
+## Geschafft!
 
-Herzlichen Glückwunsch zu Ihrem ersten Open-Source-Projekt! Egal was dabei rauskommt, öffentlich zu arbeiten, ist ein Geschenk an die Gemeinschaft. Sie erschaffen mit jedem Commit, jedem Kommentar und jedem Pull Request eine Gelegenheit für sich selbst und andere, etwas zu lernen und intellektuell zu wachsen.
+Herzlichen Glückwunsch zu Ihrem ersten Open-Source-Projekt! Egal was dabei rauskommt, öffentlich zu arbeiten, ist es ein Geschenk an die Gemeinschaft. Sie erschaffen mit jedem Commit, jedem Kommentar und jedem Pull Request eine Gelegenheit für sich selbst und andere, etwas zu lernen und intellektuell zu wachsen.

@@ -94,7 +94,7 @@ redirect_from: /zh-cn/best-practices/
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  管理大型开源项目的关键就是保证 issue 活跃。尽量避免让 issue 停滞不前。如果你是一个IOS开发者，你会知道<abbr title="提交问题到 Apple 的 Radar bug 跟踪系统">提交雷达</abbr>是多么让人沮丧。您可能会在2年后收到回复，并被告知要再次使用最新版本的iOS。
+  管理大型开源项目的关键就是保证 issue 活跃。尽量避免让 issue 停滞不前。如果你是一个iOS开发者，你会知道<abbr title="提交问题到 Apple 的 Radar bug 跟踪系统">提交雷达</abbr>是多么让人沮丧。您可能会在2年后收到回复，并被告知要再次使用最新版本的iOS。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["开源社区黑客增长"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
