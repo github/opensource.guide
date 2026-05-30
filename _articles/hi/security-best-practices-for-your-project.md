@@ -1,158 +1,157 @@
 ---
 lang: hi
-untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+title: अपने प्रोजेक्ट के लिए सुरक्षा की सर्वोत्तम प्रथाएँ
+description: जरूरी सुरक्षा प्रथाओं के जरिए भरोसा बनाकर अपने प्रोजेक्ट का भविष्य मजबूत करें — MFA और कोड स्कैनिंग से लेकर सुरक्षित निर्भरता प्रबंधन और निजी भेद्यता रिपोर्टिंग तक।
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+बग्स और नई सुविधाओं से अलग, किसी प्रोजेक्ट की दीर्घायु केवल उसकी उपयोगिता पर निर्भर नहीं करती; यह इस बात पर भी निर्भर करती है कि वह अपने उपयोगकर्ताओं का कितना विश्वास जीतता है। इस विश्वास को बनाए रखने के लिए मजबूत सुरक्षा उपाय जरूरी हैं। अपने प्रोजेक्ट की सुरक्षा को बेहतर बनाने के लिए आप ये महत्वपूर्ण कदम उठा सकते हैं।
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## सुनिश्चित करें कि सभी विशेषाधिकार प्राप्त योगदानकर्ताओं ने मल्टी-फैक्टर ऑथेंटिकेशन (MFA) सक्षम किया है
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### यदि कोई दुर्भावनापूर्ण व्यक्ति आपके प्रोजेक्ट के किसी विशेषाधिकार प्राप्त योगदानकर्ता का रूप धारण कर ले, तो परिणाम विनाशकारी हो सकते हैं।
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+एक बार विशेषाधिकार प्राप्त पहुँच मिल जाने पर, यह व्यक्ति आपके कोड में बदलाव करके उससे अनचाही कार्रवाइयाँ करवा सकता है (उदाहरण: क्रिप्टोकरेंसी माइन करना), आपके उपयोगकर्ताओं के इंफ्रास्ट्रक्चर में मैलवेयर फैला सकता है, या निजी कोड रिपॉज़िटरीज़ तक पहुँचकर बौद्धिक संपदा और संवेदनशील डेटा चुरा सकता है, जिसमें अन्य सेवाओं के क्रेडेंशियल भी शामिल हो सकते हैं।
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+MFA अकाउंट टेकओवर के खिलाफ सुरक्षा की एक अतिरिक्त परत देता है। इसे सक्षम करने के बाद, आपको अपने यूज़रनेम और पासवर्ड के साथ प्रमाणीकरण का एक और तरीका देना होता है, जिसे केवल आप जानते हैं या जिसकी पहुँच केवल आपके पास होती है।
 
-## Secure your code as part of your development workflow
+## अपने विकास वर्कफ़्लो के हिस्से के रूप में अपने कोड को सुरक्षित करें
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### कोड में सुरक्षा कमजोरियाँ प्रक्रिया के शुरुआती चरण में मिल जाएँ, तो उन्हें ठीक करना उत्पादन में पहुँचने के बाद ठीक करने की तुलना में कम खर्चीला होता है।
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+अपने कोड में सुरक्षा कमजोरियों का पता लगाने के लिए Static Application Security Testing (SAST) टूल का उपयोग करें। ये टूल कोड स्तर पर काम करते हैं और इन्हें चलाने के लिए रनटाइम वातावरण की आवश्यकता नहीं होती। इसलिए इन्हें प्रक्रिया के शुरुआती चरणों में चलाया जा सकता है और बिल्ड या कोड समीक्षा के दौरान आपके मौजूदा विकास वर्कफ़्लो में आसानी से जोड़ा जा सकता है।
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+यह ऐसा है जैसे कोई कुशल विशेषज्ञ आपके कोड रिपॉज़िटरी की समीक्षा कर रहा हो और कोड लिखते समय साफ़ दिखाई देने पर भी छूट जाने वाली सामान्य सुरक्षा कमजोरियों को ढूँढने में मदद कर रहा हो।
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+SAST टूल कैसे चुनें?
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+- लाइसेंस जाँचें: कुछ टूल ओपन सोर्स प्रोजेक्ट्स के लिए मुफ्त होते हैं, जैसे GitHub CodeQL या SemGrep।
+- अपनी भाषा या भाषाओं के लिए कवरेज जाँचें।
+- ऐसा टूल चुनें जो आपके मौजूदा टूल और प्रक्रिया के साथ आसानी से जुड़ सके। उदाहरण के लिए, बेहतर होगा कि अलर्ट किसी अलग टूल में देखने के बजाय आपकी मौजूदा कोड समीक्षा प्रक्रिया और टूल में ही उपलब्ध हों।
+- False positives से सावधान रहें! आप नहीं चाहेंगे कि टूल बिना वजह आपकी गति धीमी करे।
+- फीचर जाँचें: कुछ टूल बहुत शक्तिशाली होते हैं और taint tracking कर सकते हैं (उदाहरण: GitHub CodeQL), कुछ AI से बने fix suggestions देते हैं, और कुछ custom queries लिखना आसान बनाते हैं (उदाहरण: SemGrep)।
 
-## Don't share your secrets
+## अपने सीक्रेट्स साझा न करें
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### संवेदनशील डेटा, जैसे API keys, tokens और पासवर्ड, कभी-कभी गलती से आपके रिपॉज़िटरी में कमिट हो सकते हैं।
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+कल्पना कीजिए: आप एक लोकप्रिय ओपन-सोर्स प्रोजेक्ट के मेंटेनर हैं, जिसमें दुनिया भर के डेवलपर योगदान करते हैं। एक दिन कोई योगदानकर्ता अनजाने में किसी तृतीय-पक्ष सेवा की API keys रिपॉज़िटरी में कमिट कर देता है। कुछ दिनों बाद कोई व्यक्ति ये keys ढूँढ लेता है और बिना अनुमति उस सेवा में पहुँच जाता है। सेवा compromised हो जाती है, आपके प्रोजेक्ट के उपयोगकर्ताओं को downtime झेलना पड़ता है, और आपके प्रोजेक्ट की प्रतिष्ठा को नुकसान पहुँचता है। मेंटेनर के रूप में अब आपको compromised secrets रद्द करने, यह जाँचने कि हमलावर इस secret से कौन सी दुर्भावनापूर्ण कार्रवाइयाँ कर सकता था, प्रभावित उपयोगकर्ताओं को सूचित करने और सुधार लागू करने जैसे कठिन काम करने पड़ते हैं।
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+ऐसी घटनाओं को रोकने के लिए "secret scanning" समाधान मौजूद हैं, जो आपके कोड में ऐसे secrets का पता लगाने में मदद करते हैं। GitHub Secret Scanning और Trufflehog by Truffle Security जैसे कुछ टूल इन्हें remote branches पर पुश होने से पहले ही रोक सकते हैं, और कुछ टूल आपके लिए कुछ secrets को अपने-आप revoke भी कर देते हैं।
 
-## Check and update your dependencies
+## अपनी निर्भरताओं (dependencies) की जाँच और उन्हें अपडेट रखें
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+### आपके प्रोजेक्ट की निर्भरताओं में ऐसी कमजोरियाँ हो सकती हैं जो आपके प्रोजेक्ट की सुरक्षा से समझौता कर सकती हैं। निर्भरताओं को मैन्युअल रूप से अपडेट रखना समय लेने वाला काम हो सकता है।
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+कल्पना कीजिए: एक प्रोजेक्ट किसी व्यापक रूप से उपयोग की जाने वाली लाइब्रेरी की मजबूत नींव पर बनाया गया है। बाद में उस लाइब्रेरी में एक गंभीर सुरक्षा समस्या पाई जाती है, लेकिन उस पर एप्लिकेशन बनाने वाले लोगों को इसकी जानकारी नहीं होती। जब कोई हमलावर इस कमजोरी का फायदा उठाता है, तो संवेदनशील उपयोगकर्ता डेटा उजागर हो जाता है। यह कोई सैद्धांतिक मामला नहीं है। 2017 में Equifax के साथ ठीक यही हुआ: गंभीर भेद्यता की सूचना मिलने के बाद भी उन्होंने अपनी Apache Struts निर्भरता अपडेट नहीं की। इसका फायदा उठाया गया, और कुख्यात Equifax breach ने 144 मिलियन उपयोगकर्ताओं के डेटा को प्रभावित किया।
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+ऐसे हालात से बचने के लिए, Software Composition Analysis (SCA) टूल जैसे Dependabot और Renovate सार्वजनिक डेटाबेसों, जैसे NVD या GitHub Advisory Database, में प्रकाशित ज्ञात कमजोरियों के लिए आपकी निर्भरताओं की अपने-आप जाँच करते हैं और उन्हें सुरक्षित संस्करणों पर अपडेट करने के लिए pull requests बनाते हैं। निर्भरताओं को नवीनतम सुरक्षित संस्करणों पर बनाए रखना आपके प्रोजेक्ट को संभावित जोखिमों से बचाता है।
 
-## Understand and manage open source license risks
+## ओपन-सोर्स लाइसेंस जोखिमों को समझें और प्रबंधित करें
 
-### Open source licenses come with terms and ignoring them can lead to legal and reputational risks.
+### ओपन-सोर्स लाइसेंस शर्तों के साथ आते हैं; इन्हें नज़रअंदाज़ करने पर कानूनी और प्रतिष्ठात्मक जोखिम हो सकते हैं।
 
-Using open source dependencies can speed up development, but each package includes a license that defines how it can be used, modified, or distributed. [Some licenses are permissive](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project), while others (like AGPL or SSPL) impose restrictions that may not be compatible with your project's goals or your users' needs.
+ओपन-सोर्स निर्भरताओं का उपयोग विकास को तेज कर सकता है, लेकिन हर पैकेज के साथ एक लाइसेंस आता है जो बताता है कि उसका उपयोग, संशोधन या वितरण कैसे किया जा सकता है। [कुछ लाइसेंस permissive होते हैं](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project), जबकि अन्य (जैसे AGPL या SSPL) ऐसी सीमाएँ लगाते हैं जो आपके प्रोजेक्ट के लक्ष्यों या आपके उपयोगकर्ताओं की जरूरतों के अनुकूल नहीं हो सकतीं।
 
-Imagine this: You add a powerful library to your project, unaware that it uses a restrictive license. Later, a company wants to adopt your project but raises concerns about license compliance. The result? You lose adoption, need to refactor code, and your project's reputation takes a hit.
+कल्पना कीजिए: आपने अपने प्रोजेक्ट में एक शक्तिशाली लाइब्रेरी जोड़ दी, यह जाने बिना कि वह एक प्रतिबंधात्मक लाइसेंस का उपयोग करती है। बाद में कोई कंपनी आपके प्रोजेक्ट को अपनाना चाहती है लेकिन लाइसेंस अनुपालन को लेकर चिंता व्यक्त करती है। नतीजा? आप अपनाने का मौका खो देते हैं, कोड को रीफ़ैक्टर करना पड़ता है, और प्रोजेक्ट की प्रतिष्ठा प्रभावित होती है।
 
-To avoid these pitfalls, consider including automated license checks as part of your development workflow. These checks can help identify incompatible licenses early in the process, preventing problematic dependencies from being introduced into your project.
+इन समस्याओं से बचने के लिए, अपने विकास वर्कफ़्लो में automated license checks शामिल करने पर विचार करें। ये checks प्रक्रिया के शुरुआती चरण में असंगत लाइसेंसों की पहचान करने में मदद करते हैं और समस्याग्रस्त निर्भरताओं को आपके प्रोजेक्ट में आने से रोकते हैं।
 
-Another powerful approach is generating a Software Bill of Materials (SBOM). An SBOM lists all components and their metadata (including licenses) in a standardized format. It offers clear visibility into your software supply chain and helps surface licensing risks proactively.
+एक और प्रभावी तरीका Software Bill of Materials (SBOM) बनाना है। SBOM सभी components और उनके metadata (लाइसेंस सहित) को एक मानकीकृत फ़ॉर्मेट में सूचीबद्ध करता है। यह आपकी software supply chain की स्पष्ट दृश्यता देता है और licensing risks को पहले से सामने लाने में मदद करता है।
 
-Just like security vulnerabilities, license issues are easier to fix when discovered early. Automating this process keeps your project healthy and safe.
+सुरक्षा कमजोरियों की तरह, लाइसेंस संबंधी समस्याओं को भी शुरुआती चरण में हल करना आसान होता है। इस प्रक्रिया को स्वचालित करना आपके प्रोजेक्ट को स्वस्थ और सुरक्षित बनाए रखता है।
 
-## Avoid unwanted changes with protected branches
+## Protected branches के साथ अनचाहे बदलावों से बचें
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### आपकी मुख्य branches पर अप्रतिबंधित पहुँच होने से आकस्मिक या दुर्भावनापूर्ण बदलाव हो सकते हैं, जो कमजोरियाँ ला सकते हैं या आपके प्रोजेक्ट की स्थिरता बिगाड़ सकते हैं।
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+एक नया योगदानकर्ता main branch पर write access पा लेता है और गलती से ऐसे बदलाव push कर देता है जिनका परीक्षण नहीं हुआ था। उन नए बदलावों के कारण बाद में एक गंभीर सुरक्षा दोष सामने आता है। ऐसी समस्याओं को रोकने के लिए branch protection rules यह सुनिश्चित करते हैं कि महत्वपूर्ण branches में बदलाव review और निर्धारित status checks पास किए बिना push या merge न किए जा सकें। यह अतिरिक्त उपाय आपको अधिक सुरक्षित रखता है और हर बार बेहतर गुणवत्ता सुनिश्चित करता है।
 
-## Make it easy (and safe) to report security issues
+## सुरक्षा मुद्दों की रिपोर्टिंग को आसान (और सुरक्षित) बनाएं
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### उपयोगकर्ताओं के लिए bugs रिपोर्ट करना आसान बनाना अच्छी practice है, लेकिन बड़ा सवाल यह है: जब किसी bug का सुरक्षा पर असर हो, तो वे उसे आपको सुरक्षित तरीके से कैसे रिपोर्ट करें, बिना आपको malicious hackers का लक्ष्य बनाए?
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+कल्पना कीजिए: एक सुरक्षा शोधकर्ता आपके प्रोजेक्ट में एक भेद्यता खोजता है, लेकिन उसे रिपोर्ट करने का कोई स्पष्ट या सुरक्षित तरीका नहीं मिलता। किसी निर्धारित प्रक्रिया के बिना, वे public issue बना सकते हैं या सोशल मीडिया पर खुलकर चर्चा कर सकते हैं। भले ही उनकी मंशा अच्छी हो और वे fix भी दें, अगर वे इसे public pull request के रूप में करते हैं, तो merge होने से पहले ही दूसरे लोग इसे देख लेंगे। यह सार्वजनिक खुलासा आपको समस्या ठीक करने का मौका मिलने से पहले ही भेद्यता को दुर्भावनापूर्ण लोगों के सामने ला देगा, जिससे zero-day exploit हो सकता है और आपके प्रोजेक्ट व उपयोगकर्ताओं पर हमला हो सकता है।
 
-### Security Policy
+### सुरक्षा नीति
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+इसे रोकने के लिए, एक security policy प्रकाशित करें। `SECURITY.md` फ़ाइल में परिभाषित security policy सुरक्षा चिंताओं की रिपोर्टिंग के चरण बताती है, coordinated disclosure के लिए पारदर्शी प्रक्रिया बनाती है, और रिपोर्ट किए गए मुद्दों को संभालने के लिए project team की जिम्मेदारियाँ तय करती है। यह policy इतनी सरल भी हो सकती है: "कृपया विवरण public issue या PR में प्रकाशित न करें; हमें security@example.com पर private email भेजें"। इसमें यह भी बताया जा सकता है कि उन्हें आपसे जवाब कब तक मिलना चाहिए। disclosure process की प्रभावशीलता और दक्षता बढ़ाने वाली कोई भी जानकारी उपयोगी है।
 
-### Private Vulnerability Reporting
+### निजी भेद्यता रिपोर्टिंग
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+कुछ platforms पर आप private issues के साथ intake से लेकर broadcast तक अपनी vulnerability management process को सरल और मजबूत बना सकते हैं। GitLab पर यह private issues के माध्यम से किया जा सकता है। GitHub पर इसे private vulnerability reporting (PVR) कहा जाता है। PVR maintainers को GitHub platform के भीतर ही vulnerability reports प्राप्त करने और उनका समाधान करने की सुविधा देता है। GitHub fixes लिखने के लिए अपने-आप एक private fork और draft security advisory बनाएगा। यह सब तब तक गोपनीय रहता है जब तक आप issues disclose करने और fixes release करने का निर्णय नहीं लेते। प्रक्रिया पूरी करने के लिए security advisories प्रकाशित की जाएँगी, जो आपके सभी उपयोगकर्ताओं को उनके SCA tool के माध्यम से सूचित और सुरक्षित करेंगी।
 
-### Define your threat model to help users and researchers understand scope
+### अपना threat model परिभाषित करें ताकि उपयोगकर्ता और शोधकर्ता scope समझ सकें
 
-Before security researchers can report issues effectively, they need to understand what risks are in scope. A lightweight threat model can help define your project's boundaries, expected behavior, and assumptions.
+सुरक्षा शोधकर्ता प्रभावी रूप से तभी issues रिपोर्ट कर सकते हैं जब वे समझते हों कि कौन से risks scope में आते हैं। एक हल्का threat model आपके प्रोजेक्ट की सीमाएँ, अपेक्षित व्यवहार और assumptions परिभाषित करने में मदद कर सकता है।
 
-A threat model doesn't need to be complex. Even a simple document outlining what your project does, what it trusts, and how it could be misused goes a long way. It also helps you, as a maintainer, think through potential pitfalls and inherited risks from upstream dependencies.
+Threat model का जटिल होना जरूरी नहीं है। एक सरल दस्तावेज़, जो बताता है कि आपका प्रोजेक्ट क्या करता है, वह किन चीज़ों पर भरोसा करता है, और उसका दुरुपयोग कैसे हो सकता है, बहुत उपयोगी होता है। यह आपको, maintainer के रूप में, संभावित pitfalls और upstream dependencies से मिले risks पर सोचने में भी मदद करता है।
 
-A great example is the [Node.js threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model), which clearly defines what is and isn't considered a vulnerability in the project's context.
+एक बढ़िया उदाहरण [Node.js threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model) है, जो स्पष्ट रूप से परिभाषित करता है कि प्रोजेक्ट के संदर्भ में क्या vulnerability माना जाता है और क्या नहीं।
 
-If you're new to this, the [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process) offers a helpful introduction to build your own.
+यदि आप इसमें नए हैं, तो [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process) अपना threat model बनाने के लिए एक उपयोगी परिचय देता है।
 
-Publishing a basic threat model alongside your security policy improves clarity for everyone.
+अपनी security policy के साथ एक बुनियादी threat model प्रकाशित करने से सभी के लिए स्पष्टता बढ़ती है।
 
-## Prepare a lightweight incident response process
+## एक हल्की incident response process तैयार रखें
 
-### Having a basic incident response plan helps you stay calm and act efficiently, ensuring the safety of your users and consumers.
+### एक बुनियादी incident response plan आपको शांत रहने और प्रभावी ढंग से काम करने में मदद करता है, जिससे आपके उपयोगकर्ताओं और consumers की सुरक्षा सुनिश्चित होती है।
 
-Most vulnerabilities are discovered by researchers and reported privately. But sometimes, an issue is already being exploited in the wild before it reaches you. When this happens, your downstream consumers are the ones at risk, and having a lightweight, well-defined incident response plan can make a critical difference.
+अधिकांश भेद्यताएँ researchers द्वारा खोजी जाती हैं और private तौर पर रिपोर्ट की जाती हैं। लेकिन कभी-कभी कोई issue आपके पास पहुँचने से पहले ही वास्तविक दुनिया में exploit हो रहा होता है। जब ऐसा होता है, तो आपके downstream consumers जोखिम में होते हैं, और एक हल्का, अच्छी तरह परिभाषित incident response plan बहुत बड़ा फर्क ला सकता है।
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ulisesgascon?s=180" class="pquote-avatar" alt="avatar">
-  A vulnerability is basically a flaw, a security misconfiguration or a weak point in our system that can be exploited by third parties to behave in unintended ways.
+  भेद्यता मूल रूप से हमारे सिस्टम में कोई दोष, सुरक्षा misconfiguration या कमजोर बिंदु है, जिसका फायदा उठाकर third parties सिस्टम से अनचाहा व्यवहार करवा सकती हैं।
   <p markdown="1" class="pquote-credit">
 — [@UlisesGascon](https://github.com/ulisesgascon), ["What is a Vulnerability and What's Not? Making Sense of Node.js and Express Threat Models"](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
   </p>
 </aside>
 
-Even when a vulnerability is reported privately, the next steps matter. Once you receive a vulnerability report or detect suspicious activity, what happens next?
+जब कोई भेद्यता private तौर पर रिपोर्ट की जाती है, तब भी अगले कदम मायने रखते हैं। जब आपको vulnerability report मिलती है या आप suspicious activity का पता लगा लेते हैं, तो उसके बाद क्या होता है?
 
-Having a basic incident response plan, even a simple checklist, helps you stay calm and act efficiently when time matters. It also shows users and researchers that you take incidents and reports seriously.
+एक बुनियादी incident response plan, भले ही वह एक सरल checklist ही क्यों न हो, समय महत्वपूर्ण होने पर आपको शांत रहने और प्रभावी ढंग से काम करने में मदद करता है। यह users और researchers को भी दिखाता है कि आप incidents और reports को गंभीरता से लेते हैं।
 
-Your process doesn't have to be complex. At minimum, define:
+आपकी प्रक्रिया जटिल होने की आवश्यकता नहीं है। न्यूनतम रूप में, परिभाषित करें:
 
-* Who reviews and triages security reports or alerts  
-* How severity is evaluated and how mitigation decisions are made  
-* What steps you take to prepare a fix and coordinate disclosure  
-* How you notify affected users, contributors, or downstream consumers 
+- कौन security reports या alerts की समीक्षा और triage करता है
+- severity का मूल्यांकन कैसे किया जाता है और mitigation decisions कैसे लिए जाते हैं
+- fix तैयार करने और disclosure coordinate करने के लिए आप कौन से steps लेते हैं
+- प्रभावित users, contributors या downstream consumers को आप कैसे सूचित करते हैं
 
-An active incident, if not well managed, can erode trust in your project from your users. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
+यदि किसी active incident को अच्छी तरह manage नहीं किया गया, तो यह users के मन में आपके प्रोजेक्ट के प्रति विश्वास कम कर सकता है। इसे अपनी `SECURITY.md` फ़ाइल में प्रकाशित करने (या इससे link करने) से अपेक्षाएँ तय करने और विश्वास बनाने में मदद मिल सकती है।
 
-For inspiration, the [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) provides a simple but effective example of an open source incident response plan.
+प्रेरणा के लिए, [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) open source incident response plan का एक सरल लेकिन प्रभावी उदाहरण देता है।
 
-This plan can evolve as your project grows, but having a basic framework in place now can save time and reduce mistakes during a real incident.
+यह plan आपके प्रोजेक्ट के बढ़ने के साथ विकसित हो सकता है, लेकिन अभी एक बुनियादी framework मौजूद होना वास्तविक incident के दौरान समय बचा सकता है और गलतियाँ कम कर सकता है।
 
-## Treat security as a team effort
+## सुरक्षा को एक टीम प्रयास के रूप में देखें
 
-### Security isn't a solo responsibility. It works best when shared across your project's community.
+### सुरक्षा किसी एक व्यक्ति की जिम्मेदारी नहीं है। यह तब सबसे अच्छा काम करती है जब यह आपके प्रोजेक्ट की कम्युनिटी में साझा की जाती है।
 
-While tools and policies are essential, a strong security posture comes from how your team and contributors work together. Building a culture of shared responsibility helps your project identify, triage, and respond to vulnerabilities faster and more effectively.
+Tools और policies जरूरी हैं, लेकिन मजबूत security posture इस बात से बनता है कि आपकी team और contributors मिलकर कैसे काम करते हैं। साझा जिम्मेदारी की संस्कृति बनाने से आपका प्रोजेक्ट vulnerabilities को तेज़ी से और अधिक प्रभावी ढंग से identify, triage और respond कर पाता है।
 
-Here are a few ways to make security a team sport:
+सुरक्षा को team sport बनाने के कुछ तरीके:
 
-* **Assign clear roles**: Know who handles vulnerability reports, who reviews dependency updates, and who approves security patches.
-* **Limit access using the principle of least privilege**: Only give write or admin access to those who truly need it and review permissions regularly.
-* **Invest in education**: Encourage contributors to learn about secure coding practices, common vulnerability types, and how to use your tools (like SAST or secret scanning).
-* **Foster diversity and collaboration**: A heterogeneous team brings a wider set of experiences, threat awareness, and creative problem-solving skills. It also helps uncover risks others might overlook.
-* **Engage upstream and downstream**: Your dependencies can affect your security and your project affects others. Participate in coordinated disclosure with upstream maintainers, and keep downstream users informed when vulnerabilities are fixed.
+- **स्पष्ट भूमिकाएँ दें**: जानें कि vulnerability reports कौन संभालता है, dependency updates की समीक्षा कौन करता है, और security patches को approve कौन करता है।
+- **least privilege के सिद्धांत से access सीमित करें**: write या admin access केवल उन्हीं को दें जिन्हें सच में इसकी जरूरत है, और permissions की नियमित समीक्षा करें।
+- **शिक्षा में निवेश करें**: contributors को secure coding practices, सामान्य vulnerability types और आपके tools (जैसे SAST या secret scanning) का उपयोग सीखने के लिए प्रोत्साहित करें।
+- **विविधता और सहयोग को बढ़ावा दें**: एक heterogeneous team व्यापक अनुभव, threat awareness और creative problem-solving skills लाती है। इससे ऐसे risks भी सामने आ सकते हैं जिन्हें दूसरे लोग नजरअंदाज कर दें।
+- **upstream और downstream से जुड़े रहें**: आपकी dependencies आपकी सुरक्षा को प्रभावित कर सकती हैं, और आपका प्रोजेक्ट दूसरों को प्रभावित करता है। upstream maintainers के साथ coordinated disclosure में भाग लें, और vulnerabilities ठीक होने पर downstream users को सूचित रखें।
 
-Security is an ongoing process, not a one-time setup. By involving your community, encouraging secure practices, and supporting each other, you build a stronger, more resilient project and a safer ecosystem for everyone.
+सुरक्षा एक सतत प्रक्रिया है, एक बार का setup नहीं। अपनी community को शामिल करके, secure practices को बढ़ावा देकर और एक-दूसरे का समर्थन करके आप एक मजबूत, अधिक resilient project और सभी के लिए सुरक्षित ecosystem बना सकते हैं।
 
-## Conclusion: A few steps for you, a huge improvement for your users
+## निष्कर्ष: आपके लिए कुछ कदम, आपके उपयोगकर्ताओं के लिए बड़ा सुधार
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+ये कुछ कदम आपके लिए सरल या मूलभूत लग सकते हैं, पर ये आपके प्रोजेक्ट को उसके उपयोगकर्ताओं के लिए बहुत अधिक सुरक्षित बना देते हैं क्योंकि ये सबसे सामान्य समस्याओं के विरुद्ध सुरक्षा प्रदान करते हैं।
 
-Security isn't static. Revisit your processes from time to time as your project grows, so do your responsibilities and your attack surface.
+सुरक्षा स्थिर नहीं रहती। समय-समय पर अपनी प्रक्रियाओं की समीक्षा करें। जैसे-जैसे आपका प्रोजेक्ट बढ़ता है, आपकी ज़िम्मेदारियाँ और आपका attack surface भी बढ़ते हैं।
 
-## Contributors
+## योगदानकर्ता
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+### हमारे साथ अपने अनुभव और सुझाव साझा करने वाले सभी मेंटेनर्स का बहुत धन्यवाद!
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+यह गाइड [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) द्वारा लिखी गई थी, साथ ही योगदानकर्ताओं में शामिल हैं:
 
-[@JLLeitschuh](https://github.com/JLLeitschuh), [@intrigus-lgtm](https://github.com/intrigus-lgtm), [@UlisesGascon](https://github.com/ulisesgascon) + many others!
+[@JLLeitschuh](https://github.com/JLLeitschuh), [@intrigus-lgtm](https://github.com/intrigus-lgtm), [@UlisesGascon](https://github.com/ulisesgascon) और बहुत से अन्य!
