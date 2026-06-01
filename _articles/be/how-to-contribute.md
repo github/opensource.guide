@@ -140,12 +140,13 @@ related:
 
 ### Падрыхтоўка да новага праекта
 
-  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class= "pquote-аватар" alt="аватар">
+<aside markdown="1" class="pquote">
+  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Калі вы праглядаеце Спіс ішью, які збівае вас з панталыку, справа не толькі ў вас. Гэтыя інструменты патрабуюць вялікай колькасці няяўных ведаў, але людзі могуць дапамагчы вам зарыентавацца ў іх, вы можаце задаць ім пытанні.
-  <p markdown= " 1 "class=" pquote-крэдыт">
-- @shaunagm, ["як ўнесці свой уклад у опенсорс"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+  <p markdown="1" class="pquote-credit">
+— @shaunagm, ["як ўнесці свой уклад у опенсорс"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</img>
+</aside>
 
 Для чагосьці большага, чым выпраўленне памылкі друку, удзел у адкрытым праекце падобна на паход да групы незнаёмцаў на вечарыне. Калі вы пачнеце казаць пра ламах, калі яны былі захопленыя дыскусіяй аб залатых рыбках, яны, верагодна, будуць глядзець на вас крыху дзіўна.
 

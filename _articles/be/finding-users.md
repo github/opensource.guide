@@ -55,7 +55,7 @@ related:
 
 [@adrianholovaty](https://news.ycombinator.com/item?id=7531689), суаўтар Django, сказаў, што сайт быў _"безумоўна самым правільным рашэннем у першыя дні Django"_.
 
-Калі ваш праект размешчаны на GitHub, вы можаце выкарыстоўваць [Github Pages](https://pages.github.com/) пры стварэнні сайта. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/) і [Middleman](https://middlemanapp.com/) - толькі [некалькі прыкладаў](https://github.com/showcases/github-pages-examples) выдатных, паўнавартасных сайтаў.
+Калі ваш праект размешчаны на GitHub, вы можаце выкарыстоўваць [GitHub Pages](https://pages.github.com/) пры стварэнні сайта. [Yeoman](http://yeoman.io/), [Vagrant](https://www.vagrantup.com/) і [Middleman](https://middlemanapp.com/) - толькі [некалькі прыкладаў](https://github.com/showcases/github-pages-examples) выдатных, паўнавартасных сайтаў.
 
 ![Галоўная старонка Vagrant](/assets/images/finding-users/vagrant_homepage.png)
 

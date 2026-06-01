@@ -110,8 +110,8 @@ related:
 Пошук спонсараў добра працуе, калі да вас ёсць моцны інтарэс, ці ў вас ёсць рэпутацыя, ці ваш праект вельмі папулярны.
 Вось некалькі прыкладаў спансаваных праектаў:
 
-* * * [webpack](https://github.com/webpack) * * прыцягвае грошы ад кампаній і прыватных асоб [through OpenCollective](https://opencollective.com/webpack)
-* * * [разам з Ruby](https://rubytogether.org/), * * - некамерцыйная арганізацыя, якая плаціць за працу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), і над іншымі праектамі інфраструктуры Ruby
+* **[webpack](https://github.com/webpack)** прыцягвае грошы ад кампаній і прыватных асоб [праз OpenCollective](https://opencollective.com/webpack)
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** некамерцыйная арганізацыя, якая плаціць за працу над [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) і іншымі праектамі інфраструктуры Ruby
 
 ### Стварыце паток даходаў
 
@@ -125,12 +125,14 @@ related:
 
 ### Падайце заяўку на грант
 
-Some software foundations and companies offer grants for open source work. Sometimes, grants can be paid out to individuals without setting up a legal entity for the project.
+Некаторыя праграмныя фонды і кампаніі прапануюць гранты на працу з адкрытым кодам. Часам гранты могуць выплачвацца асобам без неабходнасці аформіць юрыдычную асобу для праекта.
 
-* * * [Read The Docs](https://github.com/rtfd/readthedocs.org) атрымаў [грант падтрымкі адкрытага кода Mozilla](https://www.mozilla.org/en-US/grants/)
-* * * [OpenMRS](https://github.com/openmrs) быў прафінансаваны [прытулкам адкрытага кода ад Stripe](https://stripe.com/blog/open-source-retreat-2016-grantees)
-* * * [Libraries.io](https://github.com/librariesio) атрымаў грант ад [Sloan Foundation](https://sloan.org/programs/digital-technology)
-* * * [Python Software Foundation](https://www.python.org/psf/grants/) прапануе гранты на працу, звязаную з пітонам
+* **[Read the Docs](https://github.com/rtfd/readthedocs.org)** атрымаў грант ад [Mozilla Open Source Support](https://www.mozilla.org/en-US/grants/)
+* **[OpenMRS](https://github.com/openmrs)** быў прафінансаваны [Stripe's Open-Source Retreat](https://stripe.com/blog/open-source-retreat-2016-grantees)
+* **[Libraries.io](https://github.com/librariesio)** атрымаў грант ад [Sloan Foundation](https://sloan.org/programs/digital-technology)
+* **[Python Software Foundation](https://www.python.org/psf/grants/)** прапануе гранты на працу, звязаную з Python
+* **[FLOSS/fund](https://floss.fund/)** — спецыяльны фонд, які прадастаўляе фінансавую падтрымку FOSS-праектам па ўсім свеце без дадатковых умоў.
+* **[GitHub Secure Open Source Fund](https://resources.github.com/github-secure-open-source-fund/)** — праграма, прызначаная для фінансавага і праграмнага паляпшэння бяспекі і ўстойлівасці адкрытых праектаў.
 
 Больш падрабязныя варыянты і тэматычныя даследаванні вы можаце прачытаць у [кіраўніцтве](https://github.com/nayafia/lemonade-stand) па атрыманні аплаты за працу з адкрытым кодам ад @nayafia. Розныя віды фінансавання патрабуюць розных навыкаў, таму Вызначце свае моцныя бакі, каб даведацца, які варыянт лепш за ўсё падыходзіць для вас.
 
