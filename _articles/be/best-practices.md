@@ -222,7 +222,7 @@ related:
    <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
    Я лічу, што тэсты неабходныя для ўсяго кода, над якім працуюць людзі. Калі б код быў цалкам і зусім правільным, ён не меў патрэбу ў зменах - мы пішам код толькі тады, калі з ім нешта не так, напрыклад, знойдзены баг або адсутнічае нерэалізаваная функцыянальнасць. І незалежна ад таго, якія змены вы ўносіце, тэсты неабходныя для выяўлення любых рэгрэсій, якія вы можаце выпадкова дапусціць.
    <p markdown="1" class="pquote-credit">
-- @edunham, [«Аўтаматызацыя супольнасці Rust»](https://ehttps://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.htmldunham.net/2016/09/27/rust_s_community_automation.html)
+- @edunham, [«Аўтаматызацыя супольнасці Rust»](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.htmldunham.net/2016/09/27/rust_s_community_automation.html)
    </p>
 </aside>
 ### Выкарыстоўвайце прылады для аўтаматызацыі асноўных задач суправаджэння
@@ -263,7 +263,7 @@ related:
    <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
    Падтрымліваючы WP-CLI, я выявіў, што мне трэба спачатку зрабіць сябе шчаслівым, і ўсталяваць выразныя межы свайго ўдзелу. Найлепшы баланс, які я знайшоў, - гэта 2-5 гадзін у тыдзень з майго звычайнага працоўнага графіка. Такім чынам я застаюся захопленым і не занадта перанапружваюся. Паколькі я расстаўляю прыярытэты ў ішью, над якімі працую, я магу рэгулярна дамагацца прагрэсу ў тым, што лічу найважнейшым.
    <p markdown="1" class="pquote-credit">
-- @danielbachhuber, [«Мае спачуванні, зараз вы падтрымліваеце папулярны апенсорс-праект»](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular -open-source-project/)
+- @danielbachhuber, [«Мае спачуванні, зараз вы падтрымліваеце папулярны апенсорс-праект»](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
    </p>
 </aside>
 
