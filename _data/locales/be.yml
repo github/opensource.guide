@@ -22,7 +22,7 @@ be:
       button: Падпісацца
     byline:
       # [code], [love], and [github] will be replaced by octicons
-      format: "[code] з [love] разам з [github] і [сябрамі]"
+      format: "[code] з [love] разам з [github] і [friends]"
       # Label for code octicon
       code_label: праграмуйце
       # Label for love octicon
