@@ -61,7 +61,7 @@ related:
   <p markdown="1" class="pquote-credit">— [Rust Governance RFC](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)</p>
 </aside>
 
-Каманды кіраўнікоў могуць захацець стварыць спецыяльны канал (напрыклад, на IRC) або рэгулярна сустракацца для абмеркавання праекта (напрыклад, на Gitter або Google Hangout). Вы нават можаце зрабіць гэтыя сустрэчы публічнымі, каб іншыя людзі маглі паслухаць. Напрыклад, [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [праводзіць офісныя гадзіны кожную неделю](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
+Каманды кіраўнікоў могуць захацець стварыць спецыяльны канал (напрыклад, на IRC) або рэгулярна сустракацца для абмеркавання праекта (напрыклад, на Gitter або Google Hangout). Вы нават можаце зрабіць гэтыя сустрэчы публічнымі, каб іншыя людзі маглі паслухаць. Напрыклад, [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [праводзіць офісныя гадзіны кожны тыдзень](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
 Пасля таго як вы ўсталявалі кіруючыя ролі, не забудзьцеся задакументаваць, як людзі могуць іх атрымаць! Усталюйце выразны працэс таго, як хто-то можа стаць суправаджаюць або далучыцца да групы ў вашым праекце, і запішыце яго ў файле GOVERNANCE.md.
 
