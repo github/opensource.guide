@@ -41,7 +41,7 @@ related:
   <img src = "https://avatars.githubusercontent.com/mikeal?s=180" class = "pquote-avatar" alt = "avatar">
   Некаторым лягчэй ўнесці свой уклад у развіццё адкрытага зыходнага кода, чым іншым. Ёсць шмат боязі, што на іх будуць крычаць за тое, што яны робяць нешта няправільна ці проста не падыходзяць. (...) Падаючы ўдзельнікам магчымасць уносіць свой уклад з вельмі нізкім узроўнем тэхнічнай падрыхтоўкі (дакументацыя, разметка вэб-кантэнту і г.д.), вы можаце значна скараціць гэтыя праблемы.
   <p markdown = "1" class = "pquote-credit">
-- @mikeal, ["пашырэнне базы ўдзельнікаў у сучасным адкрытым зыходным кодзе"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+— @mikeal, ["пашырэнне базы ўдзельнікаў у сучасным адкрытым зыходным кодзе"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
 </aside>
 

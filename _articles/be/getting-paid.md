@@ -18,7 +18,7 @@ related:
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 Мне трэба было хобі на тыдзень перад Калядамі (...) У мяне пад рукой быў толькі хатні камп'ютар. Я вырашыў напісаць інтэрпрэтатар для новай мовы сцэнарыяў, пра які думаў у апошні час. (...) У якасці працоўнай назвы Я выбраў"пітон".
   <p markdown="1" class="pquote-credit">
-- @gvanrossum, ["Праграмаванне на пітоне"](https://www.python.org/doc/essays/foreword/)
+— @gvanrossum, ["Праграмаванне на пітоне"](https://www.python.org/doc/essays/foreword/)
   </p>
 </aside>
 

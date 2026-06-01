@@ -28,7 +28,7 @@ _Свободное ПО_ ставіцца да тых жа праектах, ш
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Адным з самых прыемных уражанняў, якое я атрымаў ад працы над опенсорсом — гэта адносіны, якія ўсталяваліся з іншымі распрацоўшчыкамі, якія сутыкнуліся з такімі ж праблемамі як і я. 
   <p markdown="1" class="pquote-credit">
-- @kentcdodds, ["як мне было выдатна ўвайсці ў Open Source"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+— @kentcdodds, ["як мне было выдатна ўвайсці ў Open Source"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
 </aside>
 

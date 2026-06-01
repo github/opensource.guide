@@ -41,7 +41,8 @@ related:
 <aside markdown="1" class="pquote">
    <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
    Я не зладзіўся. Я не прыклаў дастаткова намаганняў, каб знайсці поўнае рашэнне. Замест палавінчатага рашэння мне трэба было б сказаць: "У мяне зараз няма на гэта часу, але я дадам яго ў спіс пажаданняў".
-   <p markdown="1" class="pquote-credit">- @lord, [Парады новым апенсорс-мэйнтэйнерам](https://lord.io/blog/2014/oss-tips/)
+   <p markdown="1" class="pquote-credit">
+— @lord, [Парады новым апенсорс-мэйнтэйнерам](https://lord.io/blog/2014/oss-tips/)
    </p>
 </aside>
 

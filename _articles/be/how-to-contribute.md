@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Праца над \[freenode\] дапамагла мне набыць многія навыкі, якія я пазней выкарыстаў у вучобе ва ўніверсітэце і ў бягучай працы. Я думаю, што праца над праектамі з адкрытым зыходным кодам дапамагае мне не менш, чым самому праекту!
   <p markdown="1" class="pquote-credit">
-- @errietta, ["чаму я люблю ўдзельнічаць у працы над опенсорс-софтам"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["чаму я люблю ўдзельнічаць у працы над опенсорс-софтам"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 

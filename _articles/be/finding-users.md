@@ -33,7 +33,7 @@ related:
 <aside markdown="1" class="pquote">
   У ідэале вам спатрэбіцца "хатні" URL-адрас, які вы можаце рэкламаваць і даваць людзям для сувязі з вашым праектам. Не трэба марнавацца на модны шаблон або нават даменнае імя, але вашаму праекту патрэбна кропка апоры.
   <p markdown="1" class="pquote-credit">
-- Пітэр Купер і Роберт Найман, ["як распавесці пра свой код"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+— Пітэр Купер і Роберт Найман, ["як распавесці пра свой код"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
 </aside>
 
