@@ -43,7 +43,9 @@ related:
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Вы можаце ведаць Мяне як" вынаходніка " Django... але я-чалавек, які працаваў на працягу года, калі працаваў. (...) Людзі мяркуюць, што я дамогся поспеху дзякуючы сваім навыкам праграмавання... але я ў лепшым выпадку сярэдні праграміст.
-  <p markdown= " 1 "class=" pquote-credit " > — @jacobian, ["PyCon 2015 Keynote" (відэа)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)</p>
+  <p markdown="1" class="pquote-credit">
+— @jacobian, ["PyCon 2015 Keynote" (відэа)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
+  </p>
 </aside>
 
 ## Як фармалізаваць гэтыя лідэрскія ролі?
