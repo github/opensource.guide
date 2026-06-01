@@ -64,7 +64,7 @@ related:
 * Калі варта распачаць наступныя дзеянні (_напрыклад, «Вы можаце чакаць адказу ад мэйнтэйнера на працягу 7 дзён. Калі пасля гэтага часу вы не атрымалі адказ, не саромейцеся ўздымаць тэму»._)
 * Колькі часу вы марнуеце на праект (_напрыклад, «Мы марнуем на гэты праект усяго каля 5 гадзін у тыдзень»_)
 
-[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) і [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) — гэта толькі некалькі прыкладаў праектаў з асноўнымі правіламі і асноўнымі правіламі і асноўнымі правіламі.
+[Jekyll](https://github.com/jekyll/jekyll/tree/master/docs), [CocoaPods](https://github.com/CocoaPods/CocoaPods/wiki/Communication-&-Design-Rules) і [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Maintainers-Avoiding-Burnout.md) — гэта некалькі прыкладаў праектаў з асноўнымі правіламі для суправаджаюць і ўдзельнікаў.
 
 ### Падтрымлівайце публічнасць абмеркаванняў
 
