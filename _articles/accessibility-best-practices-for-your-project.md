@@ -45,7 +45,7 @@ Add a clear statement that sets expectations and makes it easy for users to repo
 
 * State measurable goals (like [WCAG AA](https://www.w3.org/TR/WCAG22/#wcag-2-layers-of-guidance) where feasible).
 * Primary priorities, and how you meet them (keyboard and screen reader support, captions and transcripts, etc.).
-* Any known limitations, and alterative workarounds (if present).
+* Any known limitations, and alternative workarounds (if present).
 
 ### Contributor requirements
 
