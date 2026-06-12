@@ -15,7 +15,7 @@ permissions:
   pages: write
   id-token: write
 # Allow only one concurrent deployment per PR, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# However, do NOT cancel in-progress runs as we want to allow these preview deployments to complete.
 concurrency:
   group: "pages-preview @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}"
   cancel-in-progress: false
@@ -39,7 +39,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           # For PRs make sure to checkout the PR branch
           ref: ${{ github.event.pull_request.head.sha }}
