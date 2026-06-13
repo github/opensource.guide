@@ -143,7 +143,6 @@ If your project has a web UI, these high-impact defaults will help all users.
 * Avoid flashing content and rapid animations.
 * Avoid parallax effects and auto-advancing carousels, or make them optional and controllable.
 * Avoid unnecessary animation if the operating system indicates the user has requested reduced or zero motion.
-  * macOS and iOS wording for the OS setting is "reduce" while Windows, Android, and Linux wording implies all or nothing. The wording "prefers reduced motion" is an artifact of history and cannot be considered to fully express the user's preference.
 
 ### Dynamic content
 
