@@ -142,6 +142,7 @@ If your project has a web UI, these high-impact defaults will help all users.
 
 * Avoid flashing content and rapid animations.
 * Avoid parallax effects and auto-advancing carousels, or make them optional and controllable.
+* Avoid unnecessary animation if the operating system indicates the user has requested reduced or zero motion.
 
 ### Dynamic content
 
