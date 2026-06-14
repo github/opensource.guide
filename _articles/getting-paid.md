@@ -99,7 +99,7 @@ Depending on your personal circumstances, you can try raising money independentl
 Finally, sometimes open source projects put bounties on issues that you might consider helping with.
 
 * @ConnorChristie was able to get paid for [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol work on their JavaScript library [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM did Japanese translations for @MetaMask after the [issue was funded on Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Finding funding for your project
 
@@ -115,7 +115,7 @@ Finding sponsorships works well if you have a strong audience or reputation alre
 A few examples of sponsored projects include:
 
 * **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** a nonprofit organization that pays for work on [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
 
 ### Create a revenue stream
 

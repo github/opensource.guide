@@ -99,7 +99,7 @@ Kulingana na hali zako binafsi, unaweza kujaribu kukusanya fedha kwa kujitegemea
 Hatimaye, wakati mwingine miradi ya open source huweka zawadi kwenye masuala ambayo unaweza kufikiria kusaidia nayo.
 
 * @ConnorChristie alifaulu kulipwa kwa [kusaidia](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol kufanya kazi kwenye maktaba yao ya JavaScript [kupitia zawadi kwenye gitcoin](https://gitcoin.co/).
-* @mamiM alifanya tafsiri za Kijapani kwa @MetaMask baada ya [suala kufadhiliwa kwenye Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM alifanya tafsiri za Kijapani kwa @MetaMask baada ya [suala kufadhiliwa kwenye Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Kutafuta ufadhili kwa mradi wako
 
@@ -115,7 +115,7 @@ Kukusanya udhamini kunafanya kazi vizuri ikiwa una hadhira au sifa nzuri tayari,
 Mifano ya miradi iliyo na udhamini ni pamoja na:
 
 * **[webpack](https://github.com/webpack)** inakusanya fedha kutoka kwa makampuni na watu binafsi [kupitia OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** shirika lisilo la faida linalolipa kazi kwenye [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), na miradi mingine ya miundombinu ya Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** shirika lisilo la faida linalolipa kazi kwenye [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), na miradi mingine ya miundombinu ya Ruby
 
 ### Kuunda mtiririko wa mapato
 

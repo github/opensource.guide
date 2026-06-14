@@ -105,7 +105,7 @@ Si vous recevez une contribution que vous ne voulez pas accepter, votre premièr
 
 Ne laissez pas une contribution indésirable ouverte parce que vous avez un sentiment de culpabilité ou que vous voulez être gentil. Au fil du temps, vos issues sans réponse et les PRs rendront le travail sur votre projet beaucoup plus stressant et intimidant.
 
-Il est préférable de fermer immédiatement les contributions que vous ne voulez pas accepter. Si votre projet souffre déjà d'un important retard, @steveklabnik propose des suggestions pour [comment trier efficacement les issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Il est préférable de fermer immédiatement les contributions que vous ne voulez pas accepter. Si votre projet souffre déjà d'un important retard, @steveklabnik propose des suggestions pour [comment trier efficacement les issues](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Deuxièmement, ignorer les contributions envoie un signal négatif à votre communauté. Contribuer à un projet peut être intimidant, surtout s'il s'agit de la première fois. Même si vous n'acceptez pas leur contribution, remerciez la personne derrière et remerciez-la de son intérêt. C'est un gros compliment!
 
@@ -221,7 +221,7 @@ Si vous ajoutez des tests, assurez-vous d'expliquer comment ils fonctionnent dan
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Je crois que des tests sont nécessaires pour tout le code sur lequel les gens travaillent. Si le code était complet et parfaitement correct, il n'aurait pas besoin de modifications - nous n'écrivons du code que lorsque quelque chose ne va pas, que ce soit "Il plante" ou "Il manque telle ou telle fonctionnalité". Et quels que soient les changements que vous effectuez, les tests sont essentiels pour détecter les régressions que vous pourriez introduire accidentellement.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

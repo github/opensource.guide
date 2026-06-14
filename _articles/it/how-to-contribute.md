@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Lavorare su \[freenode\] mi ha aiutato ad acquisire molte delle competenze che poi ho utilizzato per i miei studi universitari e per il mio lavoro vero e proprio. Penso che lavorare su progetti open source mi aiuti tanto quanto il progetto stesso!
   <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Perché amo contribuire al software open source"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Perché amo contribuire al software open source"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ Un malinteso comune riguardo al contributo all'open source è che si debba contr
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Sono conosciuto per il mio lavoro su CocoaPods, ma la maggior parte delle persone non sa che in realtà non svolgo alcun lavoro reale sullo strumento CocoaPods stesso. Il mio tempo nel progetto è dedicato principalmente a cose come la documentazione e il lavoro di branding.
   <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Passa a OSS per impostazione predefinita"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Passa a OSS per impostazione predefinita"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -89,7 +89,7 @@ Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo 
 
 * Scrivi e migliora la documentazione del progetto, [come ha fatto @CBID2 per la documentazione di OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Preparare una cartella di esempi che mostrano come viene utilizzato il progetto
-* Avvia una newsletter del progetto o cura i punti salienti della mailing list, [come ha fatto @opensauced per il suo prodotto](https://news.opensauced.pizza/about/)
+* Avvia una newsletter del progetto o cura i punti salienti della mailing list, [come ha fatto @opensauced per il suo prodotto](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * Scrivi tutorial per il progetto, [come hanno fatto i contributori PyPA](https://packaging.python.org/)
 * Scrivi una traduzione per la documentazione del progetto, [come ha fatto @frontendwizard per le istruzioni CSS Flexbox della sfida freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
@@ -223,7 +223,7 @@ Puoi anche utilizzare una delle seguenti risorse per aiutarti a scoprire e contr
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Lista di controllo prima di contribuire
 

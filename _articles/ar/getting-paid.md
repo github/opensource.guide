@@ -101,7 +101,7 @@ related:
 أخيرًا، في بعض الأحيان تضع مشاريع المصادر المفتوحة مكافآت على المشكلات التي قد تفكر في المساعدة في حلها.
 
 * @ConnorChristie تمكن من الحصول على أجر مقابل [مساعدة](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol العمل على مكتبة JavaScript الخاصة بهم [من خلال مكافأة على gitcoin](https://gitcoin.co/).
-* @mamiM قامت بترجمة @MetaMask إلى اللغة اليابانية بعد [تم تمويل هذه المشكلة على شبكة Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM قامت بترجمة @MetaMask إلى اللغة اليابانية بعد [تم تمويل هذه المشكلة على شبكة Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## العثور على تمويل لمشروعك
 
@@ -117,7 +117,7 @@ related:
 ومن أمثلة المشاريع التي تم تمويلها ما يلي:
 
 * **[webpack](https://github.com/webpack)** يجمع الأموال من الشركات والأفراد [من خلال OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** منظمة غير ربحية تدفع مقابل العمل على [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), وغيرها من مشاريع البنية التحتية ل Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** منظمة غير ربحية تدفع مقابل العمل على [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), وغيرها من مشاريع البنية التحتية ل Ruby
 
 ### إنشاء مصدر للإيرادات
 

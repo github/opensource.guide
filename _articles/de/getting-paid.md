@@ -133,7 +133,7 @@ Sponsoren lassen sich einfacher finden, wenn Sie bereits ein starkes Publikum od
 Hier einige Beispiele für gesponsorte Projekte:
 
 * **[webpack](https://github.com/webpack)** sammelt Geld von Firmen und Einzelpersonen [mittels OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** eine nicht-Gewinn-orientierte Organisation zahlt für die Arbeit an [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), und anderen Ruby-Infrastrukturprojekten
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** eine nicht-Gewinn-orientierte Organisation zahlt für die Arbeit an [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), und anderen Ruby-Infrastrukturprojekten
 
 ### Eine Einnahmequelle schaffen
 

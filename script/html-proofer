@@ -37,8 +37,9 @@ url_ignores = [
   "https://sloan.org/programs/digital-technology",
   "https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you",
   "https://stackoverflow.com/questions/18664074/",
-  "http://geekfeminism.wikia.com/wiki/Meritocracy",
+  "https://geekfeminism.fandom.com/wiki/Meritocracy",
   "https://news.ycombinator.com/item?id=7531689",
+  "https://peerj.com/preprints/1233/",
 
   # Regex patterns for broader ignore rules
   %r{^https?://stackoverflow\.com/questions/18664074/},

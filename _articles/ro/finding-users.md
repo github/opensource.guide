@@ -144,7 +144,7 @@ Pe măsură ce-ți scrii discursul, concentrează-te pe ce va găsi interesant p
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

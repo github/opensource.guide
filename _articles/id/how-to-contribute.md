@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Bekerja pada \[freenode\] membantu saya mendapatkan banyak ketrampilan yang saya gunakan pada pembelajaran di universitas dan pekerjaan saya nantinya. Saya pikir bekerja pada proyek open source membantu saya sebanyak saya membantu proyek itu sendiri.!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,7 +62,7 @@ Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -209,7 +209,7 @@ Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk me
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Daftar sebelum Anda berkontribusi
 

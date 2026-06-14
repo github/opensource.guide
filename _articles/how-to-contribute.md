@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Working on [freenode] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ A common misconception about contributing to open source is that you need to con
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -89,7 +89,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 * Write and improve the project's documentation, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
 * Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
+* Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * Write tutorials for the project, [like PyPA's contributors did](https://packaging.python.org/)
 * Write a translation for the project's documentation, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
@@ -223,8 +223,8 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
-* [GitLab Explore](https://gitlab.com/explore/projects/starred)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
+* [GitLab Explore](https://gitlab.com/explore/projects/trending)
 
 ### A checklist before you contribute
 

@@ -105,7 +105,7 @@ Se você recebe uma contribuição que não deseja aceitar, sua primeira reaçã
 
 Não deixe uma contribuição indesejada aberta porque você se sente culpado ou quer ser legal. Com o passar do tempo, suas issues e PRs não respondidas farão o trabalho em seu projeto pareça mais estressante e intimidador.
 
-É melhor fechar imediatamente as contribuições que você sabe que não deseja aprovar. Se seu projeto já sofre com um grande backlog, @steveklabnik tem sugestões para [como realizar a triagem de issues eficientemente](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+É melhor fechar imediatamente as contribuições que você sabe que não deseja aprovar. Se seu projeto já sofre com um grande backlog, @steveklabnik tem sugestões para [como realizar a triagem de issues eficientemente](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Em segundo lugar, ignorar contribuições envia um sinal negativo para sua comunidade. Contribuir para um projeto pode ser intimidador, especialmente se é a primeira vez de alguém. Mesmo que você não aceite a contribuição dele(a), dê reconhecimento à pessoa por trás dela e agradeça pelo interesse. É um grande elogio!
 
@@ -221,7 +221,7 @@ Se você adicionar testes, tenha certeza de ter explicado como eles funcionam em
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Eu acredito que testes são necessários em todos os códigos que as pessoas trabalharam. Se o código estivesse completo e perfeitamente correto, ele não precisaria de alterações - nós só escrevemos código quando algo está errado, ou seja "Ele falha" ou "Ele não possui tal recurso". E, independentemente das mudanças que você esteja fazendo, os testes são essenciais para detectar qualquer regressão que você possa introduzir acidentalmente.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

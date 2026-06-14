@@ -99,7 +99,7 @@ A seconda delle tue circostanze personali, puoi provare a raccogliere fondi in m
 Infine, a volte i progetti open source offrono premi per problemi che potresti considerare di aiutare.
 
 * @ConnorChristie è riuscito a essere pagato per [aiuto](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol stanno lavorando sulla propria libreria JavaScript [tramite ricompensa gitcoin](https://gitcoin.co/).
-* @mamiM ha realizzato traduzioni giapponesi per @MetaMask dopo [il rilascio è stato finanziato da Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM ha realizzato traduzioni giapponesi per @MetaMask dopo [il rilascio è stato finanziato da Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Trovare finanziamenti per il tuo progetto
 
@@ -115,7 +115,7 @@ Trovare una sponsorizzazione funziona bene se hai già un pubblico o una reputaz
 Alcuni esempi di progetti sponsorizzati includono:
 
 * **[webpack](https://github.com/webpack)** raccoglie denaro da aziende e privati ​​[via OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** organizzazione no-profit che paga il lavoro di [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) e altri progetti infrastrutturali di Ruby
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** organizzazione no-profit che paga il lavoro di [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) e altri progetti infrastrutturali di Ruby
 
 ### Crea un flusso di reddito
 

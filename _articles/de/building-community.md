@@ -131,7 +131,7 @@ Tun Sie Ihr Bestes, um eine Null-Toleranz-Politik gegenüber solchen Leuten zu v
   _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
 
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -183,7 +183,7 @@ Schauen Sie, ob Sie Wege finden können, Verantwortlichkeiten so weit wie mögli
 
 * **Führen Sie eine CONTRIBUTORS- oder AUTHORS-Datei in Ihrem Projekt**, die alle Leute aufzählt, die einen Beitrag geleistet haben, wie z.B. bei [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Wenn Sie schon eine etwas größere Gemeinschaft versammelt haben, **senden Sie eine Rundmail oder schreiben ins Blog**, dass Sie Kontributor\*innen danken. Rusts [This Week in Rust](https://this-week-in-rust.org/) und Hoodies [Shoutout-Grüße](http://hood.ie/blog/shoutouts-week-24.html) sind zwei gute Beispiele dafür.
+* Wenn Sie schon eine etwas größere Gemeinschaft versammelt haben, **senden Sie eine Rundmail oder schreiben ins Blog**, dass Sie Kontributor\*innen danken. Rusts [This Week in Rust](https://this-week-in-rust.org/) und Hoodies [Shoutout-Grüße](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) sind zwei gute Beispiele dafür.
 
 * **Geben Sie allen Mitwirkenden Schreibzugriff.** @felixge fand heraus, dass dies Leute [zu mehr Feinschliff ihrer Beiträge anspornt](https://felixge.de/2013/03/11/the-pull-request-hack.html), und gewann sogar neue Maintainer\*innen für Projekte, an denen er selbst schon eine Weile nicht mehr arbeitete.
 
@@ -201,7 +201,7 @@ Während Sie vielleicht nicht immer Leute finden, die einem Aufruf folgen, erhö
   _\[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it._
 
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

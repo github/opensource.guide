@@ -133,6 +133,18 @@
   }
 }
 
+.article-header.accessibility-best-practices {
+  .cover-img {
+    max-width: 220px;
+  }
+  @include breakpoint(md) {
+    .cover-img {
+      max-width: 260px;
+      margin: 20px;
+    }
+  }
+}
+
 .article-header.getting-paid {
   @include breakpoint(md) {
     .cover-img {

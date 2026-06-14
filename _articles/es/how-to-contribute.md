@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de c&oacute;digo abierto me ayuda tanto como ayuda al proyecto!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Por qu&eacute; me gusta contribuir con el software de c&oacute;digo abierto"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Por qu&eacute; me gusta contribuir con el software de c&oacute;digo abierto"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,7 +62,7 @@ Un error conceptual com&uacute;n acerca de contribuir con el c&oacute;digo abier
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Me han reconocido por mi trabajo en CocoaPods, pero la mayor&iacute;a de las personas no conoce que en realidad yo no realizo ning&uacute;n trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -209,7 +209,7 @@ Puedes tambi&eacute;n utilizar algunos de los siguientes recursos para ayudarte 
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Una lista de verificaci&oacute;n antes de que contribuyas
 

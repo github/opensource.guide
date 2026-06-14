@@ -89,7 +89,7 @@ If you come across one contribution wey you no wan accept, your first reaction f
 
 No just allow one contribution wey you no want dey open because you dey feel bad or you dey try to dey nice. As time dey go, the issues and PRs wey you never answer go make your project come dey feel like say e too stress you and dey intimidate you.
 
-E better make you quick-close contributions wey you sabi say you no wan accept am. If your project don already gather plenti matter wey never resolve, @steveklabnik get some advice on [how to quickly arrange the issues](https://words.steveklabnik.com/how-to-be-an-open-source-gardener) so e go dey efficient.
+E better make you quick-close contributions wey you sabi say you no wan accept am. If your project don already gather plenti matter wey never resolve, @steveklabnik get some advice on [how to quickly arrange the issues](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener) so e go dey efficient.
 
 If you no wan accept one contribution:
 
@@ -203,7 +203,7 @@ If you add tests, make sure say you explain how them dey work for your CONTRIBUT
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

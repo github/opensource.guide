@@ -99,7 +99,7 @@ related:
 И накрая, понякога проекти с отворен код дават премии за проблеми, за които може да обмислите да помогнете.
 
 * @ConnorChristie успя да получи плащане за [помощ](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol работят по своята JavaScript библиотека [чрез награда за gitcoin](https://gitcoin.co/).
-* @mamiM направи японски преводи за @MetaMask след [изданието беше финансирано от Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM направи японски преводи за @MetaMask след [изданието беше финансирано от Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Намиране на финансиране за вашия проект
 
@@ -115,7 +115,7 @@ related:
 Няколко примера за спонсорирани проекти включват:
 
 * **[webpack](https://github.com/webpack)** събира пари от компании и физически лица [чрез OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** организация с нестопанска цел, която плаща за работата по [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) и други Ruby инфраструктурни проекти
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** организация с нестопанска цел, която плаща за работата по [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems) и други Ruby инфраструктурни проекти
 
 ### Създайте поток от приходи
 

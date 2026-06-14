@@ -109,7 +109,7 @@ Quando escrever sua fala, foque no que seu público irá achar interessante e ir
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Quando você começa a escrever sua palestra, não ligar para qual é o seu tópico pode ajudar, se você enxegar sua palestra como uma história que você conta para as pessoas.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

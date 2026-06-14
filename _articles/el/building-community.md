@@ -117,7 +117,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Η αλήθεια είναι ότι η ύπαρξη μιας υποστηρικτικής κοινότητας είναι το κλειδί. Δεν θα μπορούσα ποτέ να κάνω αυτή τη δουλειά χωρίς τη βοήθεια των συναδέλφων μου, των φιλικών αγνώστων στο διαδίκτυο και των φλύαρων καναλιών IRC. (...) Μην συμβιβάζεστε με λιγότερα. Μην συμβιβάζεστε με μαλάκες.
   <p markdown="1" class="pquote-credit">
-- @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+- @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ related:
 
 * **Ξεκινήστε ένα αρχείο CONTRIBUTORS ή AUTHORS στο πρότζκετ σας** το οποίο θα απαριθμεί όλους όσους έχουν συνεισφέρει στο πρότζεκτ σας, όπως κάνει το [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Αν έχετε μια σημαντική κοινότητα, **αποστείλετε ένα ενημερωτικό δελτίο ή γράψτε μια δημοσίευση στο ιστολόγιο** ευχαριστώντας τους συνεισφέροντες. Το [This Week in Rust](https://this-week-in-rust.org/) του Rust και το [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) του Hoodie είναι δύο καλά παραδείγματα.
+* Αν έχετε μια σημαντική κοινότητα, **αποστείλετε ένα ενημερωτικό δελτίο ή γράψτε μια δημοσίευση στο ιστολόγιο** ευχαριστώντας τους συνεισφέροντες. Το [This Week in Rust](https://this-week-in-rust.org/) του Rust και το [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) του Hoodie είναι δύο καλά παραδείγματα.
 
 * **Δώστε σε κάθε συνεισφέροντα πρόσβαση για commit.** Ο @felixge διαπίστωσε ότι αυτό έκανε τους ανθρώπους [πιο ενθουσιασμένους να γυαλίζουν τις διορθώσεις τους](https://felixge.de/2013/03/11/the-pull-request-hack.html), και βρήκε ακόμα και νέους συντηρητές για πρότζεκτ στα οποία δεν είχε δουλέψει για λίγο καιρό.
 
@@ -177,7 +177,7 @@ related:
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Είναι προς το συμφέρον σας\] να προσλάβετε συνεργάτες που απολαμβάνουν και είναι ικανοί να κάνουν τα πράγματα που εσείς δεν κάνετε. Σας αρέσει να προγραμματίζετε, αλλά όχι να απαντάτε σε θέματα; Τότε εντοπίστε εκείνα τα άτομα στην κοινότητά σας που το κάνουν και αφήστε τα να το κάνουν.
   <p markdown="1" class="pquote-credit">
-- @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+- @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

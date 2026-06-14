@@ -17,7 +17,7 @@ redirect_from: /zh-tw/how-to-contribute/
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
   在開源專案[freenode]的工作讓我學習到許多技能，這些技能在我往後大學研究及實際工作上有許多幫助，我在開源專案的貢獻跟收穫一樣多！
   <p markdown="1" class="pquote-credit">
-— @errietta, ["為什麼我熱愛貢獻心力在開源軟體上"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["為什麼我熱愛貢獻心力在開源軟體上"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -63,7 +63,7 @@ redirect_from: /zh-tw/how-to-contribute/
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
   我被大家所熟知是因為為 CocoaPods 做了一些事, 但大多數人並不知道我實際並沒有為 CocoaPods 本身做了什麼，我多數的工作是撰寫說明文件與品牌宣傳的事情。
   <p markdown="1" class="pquote-credit">
-— @orta, ["將自己預設為開源軟體"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["將自己預設為開源軟體"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -210,7 +210,7 @@ redirect_from: /zh-tw/how-to-contribute/
 * [貢獻忍者](https://contributor.ninja)
 * [最初的贡献](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### **提交貢獻前應做的檢查清單**
 

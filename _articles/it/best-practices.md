@@ -104,7 +104,7 @@ Se ricevi un messaggio che non vuoi accettare, la tua prima reazione potrebbe es
 
 Non lasciare aperto un contributo non richiesto perché ti senti in colpa o vuoi essere gentile. Nel corso del tempo, le tue domande senza risposta e le tue PR diventeranno ridondanti. Ciò renderà il lavoro sul tuo progetto molto più stressante e imbarazzante.
 
-È meglio chiudere immediatamente i contributi che sai di non voler accettare. Se il tuo progetto soffre già di un ampio arretrato o di un elenco di funzionalità da implementare, @steveklabnik ha suggerimenti su [come selezionare le domande in modo efficace](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+È meglio chiudere immediatamente i contributi che sai di non voler accettare. Se il tuo progetto soffre già di un ampio arretrato o di un elenco di funzionalità da implementare, @steveklabnik ha suggerimenti su [come selezionare le domande in modo efficace](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 In secondo luogo, ignorare i contributi invia un segnale negativo alla tua comunità. Contribuire a un progetto può essere intimidatorio, soprattutto se è la prima volta per qualcuno. Anche se non accetti il ​​loro contributo, congratulati con la persona che sta dietro al progetto e ringraziala per il suo interesse. È un grande complimento!
 
@@ -222,7 +222,7 @@ Se aggiungi test, assicurati di spiegare come funzionano nel tuo file CONTRIBUTI
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Penso che i test siano necessari per tutto il codice su cui le persone lavorano. Se il codice fosse completamente e perfettamente corretto, non ci sarebbe bisogno di modifiche: scriviamo il codice solo quando qualcosa è corretto. sbagliato, oppure "Si blocca", oppure "Manca questa o quella funzione". Qualunque sia la modifica apportata, il test è essenziale per individuare eventuali regressioni che potresti introdurre accidentalmente.
   <p markdown="1" class="pquote-credit">
-— @edunham, [Automazione comunitaria di Rust"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, [Automazione comunitaria di Rust"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

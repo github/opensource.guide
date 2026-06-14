@@ -113,7 +113,7 @@ Do your best make you get zero-tolerance policy for these kind people. If you no
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Di true be say gettin' support from community na di koko. I for neva fit do dis work witout di help from my colleagues, friendly pipo wey dey internet, an' di people wey dey chatty for IRC channels. No settle for less. No settle for assholes.
    <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -157,7 +157,7 @@ Try look for ways wey you fit share this ownership with your community as much a
 
 * **Start CONTRIBUTORS or AUTHORS file for your project** wey go list everybody wey don yan-kick for your project, like [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) do.
 
-* If your community don shapely well-well, **send newsletter or write blog post** to appreciate the people wey don yan-kick. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) na two examples wey dey good.
+* If your community don shapely well-well, **send newsletter or write blog post** to appreciate the people wey don yan-kick. Rust's [This Week in Rust](https://this-week-in-rust.org/) and Hoodie's [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) na two examples wey dey good.
 
 * **Give every contributor access to commit.** @felixge see say this one dey ginger people, e make dem dey shine their patches [more](https://felixge.de/2013/03/11/the-pull-request-hack.html), and e even find new maintainers for projects wey e never dey touch for long.
 
@@ -167,7 +167,7 @@ The fact na say [most projects get](https://peerj.com/preprints/1233/) only one 
 
 Even if you no fit always find person to answer the call, once you put signal for there, e dey increase chance say other people go waka come yan-kick. The earlier you start, the better for you, because e go make people waka come fast-fast.
 
-Na for [Welcoming Communities](http://hood.ie/blog/welcoming-communities.html), @gr2m yarn say e dey for your [best interest](https://peerj.com/preprints/1233/) to find contributors wey sabi and enjoy to do the things wey you no sabi. If you like code but e no dey easy for you to answer issues, try find people for your community wey sabi, make dem handle am.
+Na for [Welcoming Communities](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html), @gr2m yarn say e dey for your [best interest](https://peerj.com/preprints/1233/) to find contributors wey sabi and enjoy to do the things wey you no sabi. If you like code but e no dey easy for you to answer issues, try find people for your community wey sabi, make dem handle am.
 
 ## Settling Wahala
 

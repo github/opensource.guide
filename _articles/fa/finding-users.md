@@ -108,7 +108,7 @@ related:
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   وقتی احساس کردید که آماده‌اید، سخنرانی در کنفرانس‌ها به منظور تبلیغ پروژه‌ی خود را مد نظر قرار دهید. کنفرانس‌ها می‌توانند به شما کمک کنند تا به افراد بیشتری، گاهی اوقات از سراسر جهان، دسترسی پیدا کنید.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

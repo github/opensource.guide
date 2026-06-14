@@ -1,7 +1,7 @@
 name: GitHub Actions CI
 on:
   push:
-    branches: master
+    branches: main
   pull_request:
   merge_group:
 permissions:
@@ -11,13 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Git repository
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
       - name: Set up Ruby
-        uses: ruby/setup-ruby@19a43a6a2428d455dbd1b85344698725179c9d8c # v1
+        uses: ruby/setup-ruby@12fd324f1d0b43274fdc8130f6980590a667c455 # v1
         with:
           bundler-cache: true
       - name: Set up Node
-        uses: actions/setup-node@v6.3.0
+        uses: actions/setup-node@v6.4.0
       - name: Bootstrap
         run: script/bootstrap
         env:

@@ -117,7 +117,7 @@ Bu tür insanlara karşı sıfır tolerans politikası benimsemek için elinizde
   <img class="pquote-avatar" alt="avatar" src="https://avatars.githubusercontent.com/okdistribute?s=180">
   Gerçek şu ki, destekleyici bir topluluğa sahip olmak çok önemlidir. Meslektaşlarımın, arkadaş canlısı yabancıların ve konuşkan IRC kanallarının yardımı olmadan bu işi asla yapamazdım. (...) Daha azına razı olma. Pisliklere razı olma.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ Mülkiyetinizi topluluğunuzla mümkün olduğunca paylaşmanın yollarını bul
 
 * Projenizde, projenize katkıda bulunan herkesi listeleyen **bir CONTRIBUTORS veya AUTHORS dosyası başlatın**,[Sinatra'nın](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) yaptığı gibi.
 
-* Oldukça büyük bir topluluğunuz varsa, **bülten gönderin veya katkıda bulunanlara teşekkür eden bir blog yazısı yazın**. Rust'ın [Rust'ta Bu Hafta](https://this-week-in-rust.org/) ve Hoodie'nin [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) bültenleri iki güzel örnek.
+* Oldukça büyük bir topluluğunuz varsa, **bülten gönderin veya katkıda bulunanlara teşekkür eden bir blog yazısı yazın**. Rust'ın [Rust'ta Bu Hafta](https://this-week-in-rust.org/) ve Hoodie'nin [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) bültenleri iki güzel örnek.
 
 * **Her katkıda bulunana commit izni verin.** @felixge, bunun insanları [yamalarını geliştirme konusunda daha heyecanlı](https://felixge.de/2013/03/11/the-pull-request-hack.html) hale getirdiğini buldu ve bir süredir üzerinde çalışamadığı projeler için yeni geliştiriciler buldu.
 
@@ -177,7 +177,7 @@ Gerçek şu ki çoğu projede işlerin çoğunu yapan [yalnızca](https://peerj.
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Sizin için\] yapamadığınız şeyleri yapma yeteneğine sahip olan ve zevk alan katılımcıları işe almak en iyisidir. Kodlamayı seviyor musunuz, ancak soruları yanıtlamıyor musunuz? Topluluğunuzdaki bireylerin bunu yapmasına izin verin.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Toplulukları Karşılama"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Toplulukları Karşılama"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

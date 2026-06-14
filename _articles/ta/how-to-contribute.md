@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   \[Freenode\] இல் பணிபுரிந்து, பின்னர் நான் பல்கலைக்கழகத்தில் என் படிப்பிற்காகவும், எனது வேலைக்காகவும் பயன்படுத்தப்படும் பல திறன்களை எனக்குப் பெற்றுத்தந்த்து. பணித் திட்டத்தில் வேலை செய்வது எந்த அளவிற்கு உதவியதோ அந்த அளவிற்கு திறந்த மூல திட்டத்தில் பணி செய்வது எனக்கு உதவுகிறது என்று நினைக்கிறேன்!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["நான் ஏன் திறந்த மூலத்திற்கு பங்களிக்க விரும்புகிறேன்?"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["நான் ஏன் திறந்த மூலத்திற்கு பங்களிக்க விரும்புகிறேன்?"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,7 +62,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
 நான் கோகோபாட்களில் எனது பணிக்காக புகழ் பெற்றிருக்கிறேன், ஆனால் கோகோபாட்ஸ் கருவியில் எந்தவொரு உண்மையான வேலையும் செய்யவில்லை என்று பெரும்பாலான மக்களுக்கு தெரியாது. திட்டத்தில் என் நேரம் பெரும்பாலும் ஆவணங்கள் மற்றும் வர்த்தக வேலை போன்ற விஷயங்களை செய்வதாகும்.
   <p markdown="1" class="pquote-credit">
-— @orta, ["இயல்பாகவே OSS க்கு நகரவும்"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["இயல்பாகவே OSS க்கு நகரவும்"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -210,7 +210,7 @@ related:
 * [பங்களிப்பாளர்-நிஞ்ஜா](https://contributor.ninja)
 * [முதல் பங்களிப்புகள்](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### பங்களிக்கும் முன் ஒரு சரிபார்ப்புப் பட்டியல்
 

@@ -100,7 +100,7 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 * **BDFL:** BDFL 是 "终身仁慈独裁者" 的缩写. 在此结构下，有一个人（通常是项目的最初的作者）拥有项目中所有的最后决定权。[Python](https://github.com/python) 就是一个非常经典的例子。较小的项目可能默认就是 BDFL 结构，因为他一般就是一到两位维护者。若是公司组织的项目也极有可能会采用BDFL结构。
 
-* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](http://geekfeminism.wikia.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是"精英"）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](https://www.apache.org/)提出；[所有的Apache 项目](https://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
+* **精英制:** **(注: 术语 "精英制" 对于一些社群可能具有消极的含义，其拥有较[复杂的社会和政治的历史](https://geekfeminism.fandom.com/wiki/Meritocracy).)** 在精英制下，活跃的项目贡献者（他们用行动证明自己是"精英"）给一个正式的决策作用，决定通常会基于纯粹的投票一致性。精英制的概念首次由[Apache Foundation](https://www.apache.org/)提出；[所有的Apache 项目](https://www.apache.org/index.html#projects-list) 都是基于精英制的。贡献者只能代表自己是独立的个体，不可以是公司。
 
 * **自由贡献:** 在自由贡献的模式下，做最多工作的人通常被认为是最具影响力的，但是是基于当前的工作，而不是历史的贡献。项目的重大决策是基于寻求共识的过程（对不同的声音要讨论）而不是纯粹的投票，尽可能的努力的去囊括多的社区观点。较流行的使用自由贡献模式的项目有[Node.js](https://foundation.nodejs.org/) 和 [Rust](https://www.rust-lang.org/)。
 

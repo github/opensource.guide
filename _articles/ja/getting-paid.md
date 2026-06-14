@@ -115,7 +115,7 @@ related:
 あなたが既に協力者や強力な名声を築いていたり、プロジェクトが非常に有名なのであれば、スポンサーを探すのはうまくいくでしょう。スポンサーを得たプロジェクトの例を幾つか挙げます：
 
 * **[webpack](https://github.com/webpack)** は [OpenCollective を通じて](https://opencollective.com/webpack)企業や個人から資金を得ています。
-* **[Ruby Together](https://rubytogether.org/)** という非営利団体は [bundler](https://github.com/bundler/bundler) や [RubyGems](https://github.com/rubygems/rubygems) といった Ruby の基盤プロジェクトに資金を提供しています。
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/)** という非営利団体は [bundler](https://github.com/bundler/bundler) や [RubyGems](https://github.com/rubygems/rubygems) といった Ruby の基盤プロジェクトに資金を提供しています。
 
 ### 収益源を作る
 

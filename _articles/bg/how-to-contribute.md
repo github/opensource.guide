@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Работата върху \[freenode\] ми помогна да спечеля много от уменията, които по-късно използвах за обучението си в университета и действителната си работа. Мисля, че работата по проекти с отворен код ми помага толкова, колкото и на проекта!
   <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Защо обичам да допринасям за софтуер с отворен код"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Защо обичам да допринасям за софтуер с отворен код"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Известен съм с работата си върху CocoaPods, но повечето хора не знаят, че всъщност не правя реална работа върху самия инструмент CocoaPods. Времето ми по проекта минава предимно в правене на неща като документация и работа по брандиране.
   <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Преминаване към OSS по подразбиране"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Преминаване към OSS по подразбиране"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -89,7 +89,7 @@ related:
 
 * Напишете и подобрете документацията на проекта, [както @CBID2 направи за документацията на OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Подгответе папка с примери, показващи как се използва проектът
-* Стартирайте бюлетин за проекта или подредете акценти от пощенския списък, [както направи @opensauced за своя продукт](https://news.opensauced.pizza/about/)
+* Стартирайте бюлетин за проекта или подредете акценти от пощенския списък, [както направи @opensauced за своя продукт](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * Напишете уроци за проекта, [както направиха сътрудниците на PyPA](https://packaging.python.org/)
 * Напишете превод за документацията на проекта, [както @frontendwizard направи за инструкциите за CSS Flexbox предизвикателството на freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
@@ -223,7 +223,7 @@ related:
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Контролен списък, преди да допринесете
 

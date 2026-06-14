@@ -99,7 +99,7 @@ Kişisel durumunuza bağlı olarak, açık kaynaklı işinize para yatırmak iç
 Son olarak, bazen açık kaynaklı projeler, yardım etmeyi düşündüğünüz meselelere güçlükler getirir.
 
 * @ConnorChristie, @MARKETProtocol'un JavaScript paketlerinde [yardımcı olarak](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) gitcoin'deki bir [ödülle{/a2} para kazanabildi.](https://gitcoin.co/)
-* @mamiM, [sorun Bounties Network'te finanse](https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
+* @mamiM, [sorun Bounties Network'te finanse](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134) edildikten sonra @MetaMask için Japonca çeviriler yaptı.
 
 ## Projeniz için finansman bulma
 
@@ -114,7 +114,7 @@ Açık kaynağın popülaritesi arttıkça, projelere fon bulmak için hala dene
 Sponsorluk bulmak, zaten güçlü bir kitleye veya şöhrete sahipseniz veya projeniz çok popülerse işe yarar. Sponsorlu projelere birkaç örnek:
 
 * **[webpack](https://github.com/webpack)** [OpenCollective](https://opencollective.com/webpack) üzerinden şirketler ve bireylerden para topladı
-* **[Ruby Together](https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/) ,** [paketleyici](https://github.com/bundler/bundler) , [RubyGems](https://github.com/rubygems/rubygems) ve diğer Ruby altyapı projelerinde işe yarayan kar amacı gütmeyen bir organizasyon
 
 ### Bir gelir akışı oluşturun
 

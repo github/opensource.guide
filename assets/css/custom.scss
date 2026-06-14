@@ -283,3 +283,8 @@ blockquote {
    font-family: 'Vazirmatn', sans-serif;
   }
 }
+
+/* Restores underlines to links in the content. */
+article a {
+  text-decoration: revert;
+}

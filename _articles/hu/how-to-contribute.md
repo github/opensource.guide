@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Amikor a \[freenode\]-on dolgoztam, akkor sok olyan jártasságot szereztem, amelyet később az egyetemi tanulmányaimban és a munkámban is használtam. Úgy gondolom, hogy a nyílt forráskódon végzett munka legalább annyira segít engem, mint a projektet!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Miért szeretek hozzájárulni a nyílt forráskódú projektekhez?"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Miért szeretek hozzájárulni a nyílt forráskódú projektekhez?"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,7 +62,7 @@ Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programo
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Híres vagyok a CocoaPods-szal végzett munkámról, de a legtöbb ember nem is tudja, hogy nem is dolgozom magán a CocoaPods kódján. Az időm nagy részét a projekten dokumentációval és márkaépítéssel töltöm.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Természetes az OSS-re való átállás"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Természetes az OSS-re való átállás"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -211,7 +211,7 @@ Az alábbiakban találsz néhány oldalt, amelyek segítenek abban, hogy felfede
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Egy ellenőrző lista, mielőtt részt vennél a projektben
 

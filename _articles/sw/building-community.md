@@ -117,7 +117,7 @@ Fanya bidii yako kupitisha sera ya kutovumilia watu hawa. Ikiwa utaacha bila kud
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Ukweli ni kwamba kuwa na jamii inayoungana mkono ni muhimu. Singeweza kufanya kazi hii bila msaada wa wenzangu, wageni wa kirafiki mtandaoni, na chaneli za IRC zenye mazungumzo. (...) Usikubali chini ya kiwango. Usikubali wahusika wabaya.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["Jinsi ya Kuendesha Mradi wa FOSS"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "Jinsi ya Kuendesha Mradi wa FOSS"
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ Angalia ikiwa unaweza kupata njia za kushiriki umiliki na jamii yako kadri iweze
 
 * **Anzisha faili ya CONTRIBUTORS au AUTHORS katika mradi wako** inayoorodhesha kila mtu ambaye amechangia kwenye mradi wako, kama [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) inavyofanya.
 
-* Ikiwa una jamii kubwa, **tuma jarida au andika chapisho la blogu** ukishukuru wachangiaji. [Hii Wiki katika Rust](https://this-week-in-rust.org/) na [Shoutouts za Hoodie](http://hood.ie/blog/shoutouts-week-24.html) ni mifano miwili nzuri.
+* Ikiwa una jamii kubwa, **tuma jarida au andika chapisho la blogu** ukishukuru wachangiaji. [Hii Wiki katika Rust](https://this-week-in-rust.org/) na [Shoutouts za Hoodie](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) ni mifano miwili nzuri.
 
 * **Wape kila mchango ruhusa ya kuingia.** @felixge alipata kuwa hii ilifanya watu [kuwa na shauku zaidi ya kusafisha patches zao](https://felixge.de/2013/03/11/the-pull-request-hack.html), na hata alipata watunzaji wapya kwa miradi ambayo hakuwa amefanya kazi nayo kwa muda.
 
@@ -177,7 +177,7 @@ Ingawa huenda usipate mtu kila wakati wa kujibu wito, kuweka ishara huko nje kun
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Ni katika maslahi yako\] kuajiri wachangiaji wanaofurahia na wana uwezo wa kufanya mambo ambayo huwezi. Je, unafurahia kuandika msimbo, lakini si kujibu masuala? Basi tambua watu hao katika jamii yako ambao wanafanya hivyo na uwaachie.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Jamii za Kukaribisha"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Jamii za Kukaribisha"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

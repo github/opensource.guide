@@ -117,7 +117,7 @@ Lakukan yang terbaik untuk mengamalkan dasar toleransi sifar terhadap jenis oran
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Yang benar adalah bahawa mempunyai komuniti yang menyokong adalah kunci. Saya tidak akan dapat melakukan kerja ini tanpa bantuan rakan sekerja, orang asing yang ramah, dan saluran IRC yang cerewet. (...) Jangan berpuas hati. Jangan berpuas hati dengan orang yang teruk.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ Lihat apakah anda boleh mencari cara untuk berkongsi pemilikan dengan komuniti a
 
 * **Mulakan fail CONTRIBUTORS atau AUTHORS dalam projek anda** yang menyenaraikan semua orang yang menyumbang untuk projek anda, seperti [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md)
 
-* Sekiranya anda mempunyai komuniti yang cukup besar, **menghantar surat berita atau menulis catatan blog** mengucapkan terima kasih kepada penyumbang. Penyumbang Rust [This Week in Rust](https://this-week-in-rust.org/) dan penyumbang Hoodie [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) adalah dua contoh yang baik.
+* Sekiranya anda mempunyai komuniti yang cukup besar, **menghantar surat berita atau menulis catatan blog** mengucapkan terima kasih kepada penyumbang. Penyumbang Rust [This Week in Rust](https://this-week-in-rust.org/) dan penyumbang Hoodie [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) adalah dua contoh yang baik.
 
 * **Berikan akses kepada setiap penyumbang.** @felixge mendapati bahawa ini menjadikan orang [lebih teruja untuk menggilap patch mereka](https://felixge.de/2013/03/11/the-pull-request-hack.html), dan dia malah menjumpai penyelenggara baru untuk projek-projek yang belum pernah dia kerjakan sebentar lagi.
 
@@ -177,7 +177,7 @@ Walaupun anda mungkin tidak selalu menjumpai seseorang untuk menjawab panggilan 
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Ia ada di dalam anda\] minat terbaik untuk merekrut penyumbang yang menikmati dan yang mampu melakukan perkara yang bukan anda lakukan. Adakah anda menikmati pengekodan, tetapi tidak menjawab masalah? Kemudian kenal pasti individu-individu dalam komuniti anda yang melakukannya dan biarkan mereka memilikinya.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

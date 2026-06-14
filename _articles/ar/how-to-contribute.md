@@ -18,7 +18,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
 العمل على <span dir="rtl">Freenode</span> ساعدني على اكتساب الكثير من المهارات التي استخدمتها لاحقًا في دراستي الجامعية وفي عملي الفعلي. أعتقد أن العمل على مشاريع مفتوحة المصدر يساعدني بقدر ما يساعد المشروع! 
 <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Why cd opensourceI love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -70,7 +70,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
 أنا معروف بعملي على<span dir="rtl">CocoaPods</span> لكن في الواقع، معظم الناس لا يعلمون أنني لا أقوم بأيّ عمل حقيقيّ على أداة <span dir="rtl">CocoaPods</span> نفسها. معظم وقتي في المشروع يُقضى في أمور مثل توثيق المشروع والعمل على <span dir="rtl">(branding)</span> بناء هُويّته.
 <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -93,7 +93,7 @@ related:
 
 * اكتُب وطوّر توثيق المشروع, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
 * نظّم مجلدًا يحتوي على أمثلة توضح كيفية استخدام المشروع
-* أطلِق نشرة إخبارية للمشروع، أو نظّم أبرز المحتويات من قائمة البريد الإلكتروني, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
+* أطلِق نشرة إخبارية للمشروع، أو نظّم أبرز المحتويات من قائمة البريد الإلكتروني, [like @opensauced did for their product](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * اكتب شروحات <span dir="rtl">(Tutorials)</span> للمشروع, [like PyPA's contributors did](https://packaging.python.org/)
 * اكتب ترجمة لتوثيق المشروع, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
@@ -231,8 +231,8 @@ related:
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
-* [GitLab Explore](https://gitlab.com/explore/projects/starred)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
+* [GitLab Explore](https://gitlab.com/explore/projects/trending)
 
 ### قائمة تحقّق قبل أن تساهم {#قائمة-تحقّق-قبل-أن-تساهم}
 

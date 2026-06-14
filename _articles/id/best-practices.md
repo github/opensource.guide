@@ -105,7 +105,7 @@ Jika Anda menerima kontribusi yang tidak Anda inginkan, reaksi pertama Anda mung
 
 Jangan biarkan kontribusi yang tidak diinginkan tetap terbuka karena Anda merasa bersalah atau ingin bersikap baik. Pada akhirnya, masalah yang tidak terjawab dan PR akan membuat pekerjaan proyek Anda menjadi lebih berat dan mengintimidasi Anda.
 
-Akan lebih baik untuk langsung menutup kontribusi yang Anda tahu tidak akan diterima. Jika proyek Anda mengalami hambatan yang besar, @steveklabnik memiliki saran untuk [mengatasi laporan masalah secara efisien](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Akan lebih baik untuk langsung menutup kontribusi yang Anda tahu tidak akan diterima. Jika proyek Anda mengalami hambatan yang besar, @steveklabnik memiliki saran untuk [mengatasi laporan masalah secara efisien](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Kedua, mengabaikan kontribusi akan mengirimkan sinyal negatif pada komunitas Anda. Berkontribusi pada sebuah proyek bisa jadi menakutkan, apalagi untuk pertama kalinya bagi orang lain. Meskipun Anda tidak menerima kontribusi mereka, akui hasil pekerjaan mereka dan ucapkan terima kasih atas minat mereka. Itu adalah sebuah pujian yang besar!
 
@@ -221,7 +221,7 @@ Jika Anda menambahkan pengujian, pastikan untuk menjelaskan bagaimana mereka bek
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahwa pengujian otomatis sangat diperlukan untuk semua kode yang dikerjakan orang-orang.  Jika kode tersebut benar, maka tidak diperlukan perubahan - kita hanya menuliskan kode apabila terjadi kesalahan, apakah "crash" atau "kurang fitur". Tanpa memperhatikan perubahan yang Anda lakukan, pengujian otomatis sangatlah penting untuk menangkap regresi kesalahan yang mungkin Anda timbulkan.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

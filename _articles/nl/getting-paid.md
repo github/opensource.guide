@@ -114,7 +114,7 @@ Afhankelijk van uw persoonlijke omstandigheden kunt u proberen om zelfstandig ge
 Ten slotte geven open source-projecten soms premies voor problemen waarmee u zou kunnen helpen.
 
 * @ConnorChristie kon betaald worden voor [helpen](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol werken aan hun JavaScript-bibliotheek [via een premie op gitcoin](https://gitcoin.co/).
-* @mamiM deed Japanse vertalingen voor @MetaMask nadat de [kwestie werd gefinancierd op Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM deed Japanse vertalingen voor @MetaMask nadat de [kwestie werd gefinancierd op Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Financiering vinden voor uw project
 
@@ -130,7 +130,7 @@ Het vinden van sponsoring werkt goed als je al een sterk publiek of een sterke r
 Enkele voorbeelden van gesponsorde projecten zijn:
 
 * **[webpack](https://github.com/webpack)** zamelt geld in bij bedrijven en particulieren [via OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** een non-profitorganisatie die betaalt voor werk aan [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), en andere Ruby-infrastructuurprojecten
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** een non-profitorganisatie die betaalt voor werk aan [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), en andere Ruby-infrastructuurprojecten
 
 ### Creëer een inkomstenstroom
 

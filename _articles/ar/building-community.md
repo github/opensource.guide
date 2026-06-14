@@ -119,7 +119,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   الحقيقة هي أن وجود مجتمع داعم أمر أساسي. لم أكن لأتمكن من القيام بهذا العمل بدون مساعدة زملائي، الغرباء الودودين على الإنترنت، وقنوات IRC الممتعة للتحدث. (...) لا تقبل بأقل من ذلك. ولا تقبل بالأشخاص السلبيين (assholes).
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["كيفية إدارة مشروع FOSS"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "كيفية إدارة مشروع FOSS"
   </p>
 </aside>
 
@@ -165,7 +165,7 @@ related:
 
 * **ابدأ بملف CONTRIBUTORS أو AUTHORS في مشروعك** يسرد جميع من ساهم في مشروعك، كما يفعل [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* إذا كان لديك مجتمع كبير، **أرسل newsletter أو اكتب مدونة** لشكر المساهمين. أمثلة جيدة على ذلك: Rust's [This Week in Rust](https://this-week-in-rust.org/) و Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html).
+* إذا كان لديك مجتمع كبير، **أرسل newsletter أو اكتب مدونة** لشكر المساهمين. أمثلة جيدة على ذلك: Rust's [This Week in Rust](https://this-week-in-rust.org/) و Hoodie's [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html).
 
 * **امنح كل مساهم صلاحية commit.** وجد @felixge أن هذا جعل الناس [أكثر حماسًا لتحسين التعديلات الخاصة بهم](https://felixge.de/2013/03/11/the-pull-request-hack.html)، وحتى وجد مساهمين جدد لمشاريع لم يعمل عليها منذ فترة.
 
@@ -179,7 +179,7 @@ related:
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   من مصلحتك جذب المساهمين الذين يستمتعون ويستطيعون القيام بالأشياء التي لا تستطيع القيام بها. هل تحب البرمجة لكن لا تحب الرد على issues؟ إذن حدد هؤلاء الأشخاص في مجتمعك ودعهم يتولون ذلك.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["المجتمعات الترحيبية"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["المجتمعات الترحيبية"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

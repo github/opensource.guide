@@ -109,7 +109,7 @@ Ketika Anda mulai menuliskan presentasi Anda, fokus pada apa yang akan dianggap 
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Ketika Anda mulai menuliskan isi presentasi Anda, tidak perduli topiknya, hal itu bisa membantu jika Anda melihatnya seperti menceritakan sebuah cerita kepada orang lain.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

@@ -99,7 +99,7 @@ Bergantung pada keadaan peribadi anda, anda boleh mencuba mengumpulkan wang seca
 Akhirnya, kadang-kadang projek sumber terbuka memberi banyak manfaat kepada masalah yang mungkin anda pertimbangkan untuk membantu.
 
 * @ConnorChristie dapat dibayar[helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol berfungsi di perpustakaan JavaScript mereka [through a bounty on gitcoin](https://gitcoin.co/).
-* @mamiM melakukan terjemahan Jepun untuk @MetaMask selepas [issue was funded on Bounties Network](https://explorer.bounties.network/bounty/134).
+* @mamiM melakukan terjemahan Jepun untuk @MetaMask selepas [issue was funded on Bounties Network](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Mencari dana untuk projek anda
 
@@ -115,7 +115,7 @@ Mencari tajaan berfungsi dengan baik jika anda sudah mempunyai khalayak atau rep
 Beberapa contoh projek yang ditaja termasuk:
 
 * **[webpack](https://github.com/webpack)** raises money from companies and individuals [through OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** organisasi bukan untung yang membayar untuk bekerja [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan projek infrastruktur Ruby yang lain
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** organisasi bukan untung yang membayar untuk bekerja [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), dan projek infrastruktur Ruby yang lain
 
 ### Buat aliran pendapatan
 

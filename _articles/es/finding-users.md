@@ -108,7 +108,7 @@ Mientras escribes tu charla, enf&oacute;cate en lo que el p&uacute;blico pueda e
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
  Cuando comienzas a escribir tu charla, sin importar cu&aacute;l sea tu t&oacute;pico, puede ser de ayuda ver a tu charla como una historia que le cuentas a la gente.
   <p markdown="1" class="pquote-credit">
-— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

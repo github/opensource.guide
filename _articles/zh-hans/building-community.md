@@ -120,7 +120,7 @@ redirect_from: /zh-cn/building-community/
   事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要容忍混蛋。
 
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "如何运营一个 FOSS 项目"
   </p>
 </aside>
 
@@ -166,7 +166,7 @@ redirect_from: /zh-cn/building-community/
 
 * **在项目中添加一个贡献者文件(CONTRIBUTORS) 或者作者文件(AUTHORS)** 用于记录每一个参与贡献的人。
 
-* 如果社区有了一定的规模，那么 **发送一封信或者发表一篇博客** 感谢贡献者们。Rust的[Rust周报](https://this-week-in-rust.org/)和Hoodie的[Shoutouts](http://hood.ie/blog/shoutouts-week-24.html)就是两个非常好的范例。
+* 如果社区有了一定的规模，那么 **发送一封信或者发表一篇博客** 感谢贡献者们。Rust的[Rust周报](https://this-week-in-rust.org/)和Hoodie的[Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html)就是两个非常好的范例。
 
 * **给每个贡献者提交的通道。**@felixge发现这样会使大家[越发乐意斟酌他们的补丁](https://felixge.de/2013/03/11/the-pull-request-hack.html)，以及他甚至发现，在他没有工作的一段时间，项目依然有新的维护者进来。
 
@@ -180,7 +180,7 @@ redirect_from: /zh-cn/building-community/
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   你们最大的兴趣是招募喜欢你们项目以及能够做你们不能做的事的贡献者。你喜欢编码，但不喜欢回答issues？那么让社区中能做这件事的人去做。
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["打造受欢迎的社区"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["打造受欢迎的社区"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

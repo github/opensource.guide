@@ -106,7 +106,7 @@ redirect_from: /zh-tw/getting-paid/
 一些獲得組織資助的專案案例：
 
 * **[webpack](https://github.com/webpack),**  [通過 OpenCollective](https://opencollective.com/webpack) 從公司和個人來籌集資金
-* **[Ruby Together](https://rubytogether.org/),** 由 @indirect 創建的非盈利組織 ，爲諸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基礎設施專案提供資金支持
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** 由 @indirect 創建的非盈利組織 ，爲諸如 [bundler](https://github.com/bundler/bundler)、[RubyGems](https://github.com/rubygems/rubygems)、以及其它的一些 Ruby 的基礎設施專案提供資金支持
 
 儘管開源日漸的流行，但是爲專案尋找資金仍然是處於試驗中。目前所收集到的包括：
 

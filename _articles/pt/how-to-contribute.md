@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Trabalhar no \[freenode\] me ajudou a obter várias habilidades que mais tarde usei em meus estudos na universidade e no meu atual trabalho. E penso que trabalhar em projetos open source me ajuda tanto quanto ajuda o projeto!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,7 +62,7 @@ Um equívoco comum sobre contribuir para o open source é que você precisa cont
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Fui elogiado pelo meu trabalho no CocoaPods, mas a maioria das pessoas não sabe que eu realmente não faço nenhum trabalho real na própria ferramenta CocoaPods. Meu tempo no projeto é principalmente gasto fazendo coisas como documentação e trabalhando na marca.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -209,7 +209,7 @@ Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e c
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Um checklist antes de você contribuir
 

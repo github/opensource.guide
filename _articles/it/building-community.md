@@ -117,7 +117,7 @@ Fai del tuo meglio per adottare una politica di tolleranza zero nei confronti di
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La verità è che avere una comunità solidale è fondamentale. Non avrei mai potuto svolgere questo lavoro senza l'aiuto dei miei colleghi, di amichevoli sconosciuti su Internet e di canali IRC chiacchieroni. (...) Non accontentarti di meno. Non accontentarti degli sciocchi.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["Come gestire un progetto FOSS"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "Come gestire un progetto FOSS"
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ Vedi se riesci a trovare modi per condividere il più possibile la proprietà co
 
 * **Avvia un file CONTRIBUTORI o AUTORI nel tuo progetto** che elenca tutti coloro che hanno contribuito al tuo progetto come [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Se hai una community numerosa, **invia una newsletter o scrivi un post sul blog** ringraziando i contributori. [This Week in Rust](https://this-week-in-rust.org/) di Rust e [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) di Hood sono due ottimi esempi.
+* Se hai una community numerosa, **invia una newsletter o scrivi un post sul blog** ringraziando i contributori. [This Week in Rust](https://this-week-in-rust.org/) di Rust e [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) di Hood sono due ottimi esempi.
 
 * **Concedi l'accesso al commit a ogni collaboratore.** @felixge ha scoperto che rendeva le persone [più entusiaste di migliorare le proprie soluzioni](https://felixge.de/2013/03/11/the-pull-request-hack.html) e ha anche trovato nuovi manutentori per progetti su cui non lavorava da un po'.
 
@@ -177,7 +177,7 @@ Anche se potresti non trovare sempre qualcuno che risponda alla chiamata, diffon
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Nel tuo\] miglior interesse è reclutare collaboratori che si divertano e siano capaci di fare cose che tu non sei. Ti piace programmare ma non rispondi alle domande? Quindi identifica le persone nella tua comunità che lo fanno e consenti loro di farlo.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Comunità accoglienti"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Comunità accoglienti"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

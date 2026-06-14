@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   \[Freenode\] पर काम करने से मुझे कई कौशल अर्जित करने में मदद मिली जिनका उपयोग मैंने बाद में विश्वविद्यालय में अपनी पढ़ाई और अपनी वास्तविक नौकरी के लिए किया। मुझे लगता है कि ओपन सोर्स प्रोजेक्ट्स पर काम करने से मुझे उतना ही फायदा होता है जितना प्रोजेक्ट को मदद मिलती है!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["मुझे ओपन सोर्स सॉफ़्टवेयर में योगदान देना क्यों पसंद है?"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["मुझे ओपन सोर्स सॉफ़्टवेयर में योगदान देना क्यों पसंद है?"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   मैं कोकोपोड्स पर अपने काम के लिए प्रसिद्ध रहा हूं, लेकिन ज्यादातर लोग नहीं जानते कि मैं वास्तव में कोकोपोड्स टूल पर कोई वास्तविक काम नहीं करता हूं। प्रोजेक्ट पर मेरा अधिकांश समय दस्तावेज़ीकरण और ब्रांडिंग पर काम करने में व्यतीत होता है।
   <p markdown="1" class="pquote-credit">
-— @orta, ["डिफ़ॉल्ट रूप से OSS पर जा रहा है"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["डिफ़ॉल्ट रूप से OSS पर जा रहा है"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -216,7 +216,7 @@ related:
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### योगदान देने से पहले एक चेकलिस्ट
 

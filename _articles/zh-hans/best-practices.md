@@ -102,7 +102,7 @@ redirect_from: /zh-cn/best-practices/
 
 别因为自己感到内疚或者想做一个好人就把你不想接受的贡献继续保留。随着时间的流逝，这些你没有回答的 issue 和 PR 会让你觉得很不爽。
 
-更好的方式是马上关掉你不想接受的贡献。 如果你的项目已经积压大量的问题，@steveklabnik 可以给你点儿建议，[如何高效的解决 issue](https://words.steveklabnik.com/how-to-be-an-open-source-gardener)。
+更好的方式是马上关掉你不想接受的贡献。 如果你的项目已经积压大量的问题，@steveklabnik 可以给你点儿建议，[如何高效的解决 issue](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener)。
 
 第二点，忽略别人的贡献等于是在社区传递了一个负面的信号。让人感觉提交一个贡献是蛮恐惧的事情，尤其是对于刚加入的新手来说。即使你不接受他们的贡献，告诉他们为什么然后致谢。这会让人觉得更舒服。
 
@@ -217,7 +217,7 @@ fork 一个项目不什么坏事情。能复制并且修改别人的代码是开
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   我相信测试对所有的代码都是需要的。如果代码被完整的覆盖了测试，以后就不需要改了。我们只需要在代码崩溃或者需要某个功能的添加代码。不管你在修改什么，测试对于检查那些你可能不小心制造的问题都是必须的。
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust 社区的自动化"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust 社区的自动化"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

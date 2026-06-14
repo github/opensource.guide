@@ -105,7 +105,7 @@ Ikiwa unapokea mchango usiotaka kukubali, majibu yako ya kwanza yanaweza kuwa ku
 
 Usiache mchango usiotakikana wazi kwa sababu unajisikia hatia au unataka kuwa wa huruma. Kadri muda unavyopita, masuala yako na PRs zisizojibiwa zitafanya kufanya kazi kwenye mradi wako kuwa ngumu zaidi na ya kutisha.
 
-Ni bora kufunga mara moja michango unayojua hutaki kukubali. Ikiwa mradi wako tayari unakabiliwa na msongamano mkubwa, @steveklabnik ana mapendekezo ya [jinsi ya kupangilia masuala kwa ufanisi](https://words.steveklabnik.com/how-to-be-an-open-source-gardener).
+Ni bora kufunga mara moja michango unayojua hutaki kukubali. Ikiwa mradi wako tayari unakabiliwa na msongamano mkubwa, @steveklabnik ana mapendekezo ya [jinsi ya kupangilia masuala kwa ufanisi](https://steveklabnik.com/writing/how-to-be-an-open-source-gardener).
 
 Pili, kupuuza michango kunaonyesha ishara mbaya kwa jamii yako. Kuchangia kwenye mradi kunaweza kutisha, hasa ikiwa ni mara ya kwanza ya mtu. Hata kama hutaki kukubali mchango wao, tambua mtu anayehusika na kuwashukuru kwa nia yao. Ni sifa kubwa!
 
@@ -223,7 +223,7 @@ Ukiongeza majaribio, hakikisha umeeleza jinsi yanavyofanya kazi katika faili yak
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Ninaamini kuwa majaribio ni muhimu kwa msimbo zote ambazo watu hufanya kazi. Ikiwa msimbo ulikuwa sahihi kabisa, hautahitaji mabadiliko - tunaandika tu msimbo wakati kuna kitu kibaya, iwe "Inaacha kufanya kazi" au "Haina kipengele fulani-na-vile". Na bila kujali mabadiliko unayofanya, majaribio ni muhimu ili kupata matatizo zozote ambazo unaweza kuanzisha kimakosa.
   <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+— @edunham, ["Rust's Community Automation"](https://web.archive.org/web/20161020132400/https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
 </aside>
 

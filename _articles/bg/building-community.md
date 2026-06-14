@@ -117,7 +117,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Истината е, че наличието на подкрепяща общност е от ключово значение. Никога не бих могъл да свърша тази работа без помощта на моите колеги, дружелюбни непознати в интернет и разговорливи IRC канали. (...) Не се задоволявайте с по-малко. Не се задоволявайте с глупаци.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["Как да управлявате проект FOSS"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "Как да управлявате проект FOSS"
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ related:
 
 * **Стартирайте файл CONTRIBUTORS или AUTHORS във вашия проект**, който изброява всички, които са допринесли за вашия проект, както прави [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Ако имате значителна общност, **изпратете бюлетин или напишете публикация в блог**, като благодарите на сътрудниците. [Тази седмица в Rust](https://this-week-in-rust.org/) на Rust и [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) на Hoodie са два добри примера.
+* Ако имате значителна общност, **изпратете бюлетин или напишете публикация в блог**, като благодарите на сътрудниците. [Тази седмица в Rust](https://this-week-in-rust.org/) на Rust и [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) на Hoodie са два добри примера.
 
 * **Дайте достъп за ангажиране на всеки сътрудник.** @felixge установи, че това кара хората [да бъдат по-развълнувани да усъвършенстват корекциите си](https://felixge.de/2013/03/11/the-pull-request-hack.html) и дори намери нови поддържащи за проекти, по които не е работил от известно време.
 
@@ -177,7 +177,7 @@ related:
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Във ваш\] най-добър интерес е да набирате сътрудници, които се радват и които са способни да правят нещата, които вие не сте. Обичате ли да кодирате, но не и да отговаряте на въпроси? След това идентифицирайте онези хора във вашата общност, които го правят, и им го позволете.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Приветстващи общности"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Приветстващи общности"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

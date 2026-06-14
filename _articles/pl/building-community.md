@@ -123,7 +123,7 @@ Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśl
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
   </i>
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -171,7 +171,7 @@ Sprawdź, czy możesz w jak największym stopniu znaleźć sposób na dzielenie 
 
 * **Uruchom plik CONTRIBUTORS lub AUTHORS w swoim projekcie** zawiera listę wszystkich, którzy przyczynili się do twojego projektu, takich jak [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Jeśli masz sporą społeczność, **wyślij biuletyn lub napisz post na blogu** dziękując autorom. Rusta [This Week in Rust](https://this-week-in-rust.org/) i Hoodie'ego [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) są dwoma dobrymi przykładami
+* Jeśli masz sporą społeczność, **wyślij biuletyn lub napisz post na blogu** dziękując autorom. Rusta [This Week in Rust](https://this-week-in-rust.org/) i Hoodie'ego [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) są dwoma dobrymi przykładami
 
 * **Daj dostęp każdemu współautorowi.** @felixge stwierdził, że to sprawiło, że ludzie są [bardziej podekscytowani dopracowywaniem swoich łat](https://felixge.de/2013/03/11/the-pull-request-hack.html), a nawet znalazł nowych opiekunów dla projektów, nad którymi on od jakiegoś czasu nie pracował.
 
@@ -187,7 +187,7 @@ Chociaż nie zawsze możesz znaleźć kogoś, kto odbierze połączenie, wysłan
   \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
   </i>
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

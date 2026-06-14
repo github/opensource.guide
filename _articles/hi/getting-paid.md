@@ -100,7 +100,7 @@ OSS प्रौद्योगिकी उद्योग को बड़े 
 अंत में, कभी-कभी ओपन सोर्स प्रोजेक्ट उन मुद्दों पर इनाम देते हैं जिनमें आप मदद करने पर विचार कर सकते हैं।
 
 * @ConnorChristie भुगतान पाने में सक्षम था [helping](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol अपनी JavaScript लाइब्रेरी पर काम करता है [gitcoin पर इनाम के माध्यम से](https://gitcoin.co/).
-* @mamiM ने इसके बाद @MetaMask का जापानी अनुवाद किया [इस मुद्दे को बाउंटीज़ नेटवर्क पर वित्त पोषित किया गया था](https://explorer.bounties.network/bounty/134).
+* @mamiM ने इसके बाद @MetaMask का जापानी अनुवाद किया [इस मुद्दे को बाउंटीज़ नेटवर्क पर वित्त पोषित किया गया था](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## अपने प्रोजेक्ट के लिए फंडिंग ढूँढना
 
@@ -116,7 +116,7 @@ OSS प्रौद्योगिकी उद्योग को बड़े 
 प्रायोजित परियोजनाओं के कुछ उदाहरणों में शामिल हैं:
 
 * **[webpack](https://github.com/webpack)** कंपनियों और व्यक्तियों से धन जुटाता है [through OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** एक गैर-लाभकारी संगठन जो काम के लिए भुगतान करता है [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** एक गैर-लाभकारी संगठन जो काम के लिए भुगतान करता है [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), and other Ruby infrastructure projects
 
 ### एक राजस्व धारा बनाएँ
 

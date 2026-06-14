@@ -116,7 +116,7 @@ Faites de votre mieux pour adopter une politique de tolérance zéro envers ces 
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La vérité est qu'avoir une communauté de soutien est la clé. Je ne serais jamais capable de faire ce travail sans l'aide de mes collègues, des étrangers sympathiques sur Internet, et des canaux IRC bavards. (...) Ne vous contentez pas de moins. Ne vous contentez pas de connards.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -162,7 +162,7 @@ Voyez si vous pouvez trouver le moyen de partager la propriété avec votre comm
 
 * **Démarrez un fichier CONTRIBUTORS ou AUTHORS dans votre projet** qui répertorie tous ceux qui ont contribué à votre projet, comme [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Si vous avez une communauté importante **, envoyez un bulletin d'information ou rédigez un article** remerciant les contributeurs. [La semaine de Rust](https://this-week-in-rust.org/) et celle de Hoodie [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) sont deux bons exemples.
+* Si vous avez une communauté importante **, envoyez un bulletin d'information ou rédigez un article** remerciant les contributeurs. [La semaine de Rust](https://this-week-in-rust.org/) et celle de Hoodie [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) sont deux bons exemples.
 
 * **Donnez à chaque contributeur un droit de commit.** @felixge a trouvé que cela rendait les gens [plus excités de fignoler leurs patches](https://felixge.de/2013/03/11/the-pull-request-hack.html ), et il a même trouvé de nouveaux responsables pour des projets sur lesquels il n'avait pas travaillé depuis longtemps.
 
@@ -176,7 +176,7 @@ Même s'il se peut que vous ne trouviez pas toujours quelqu'un pour répondre à
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Il est dans votre\] intérêt de recruter des collaborateurs qui aiment et qui sont capables de faire les choses dont vous n'êtes pas. Aimez-vous le codage, mais ne répondez pas aux problèmes ? Ensuite, identifiez les personnes de votre communauté qui le font et laissez-les en avoir.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

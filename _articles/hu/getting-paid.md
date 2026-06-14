@@ -99,7 +99,7 @@ A személyes körülményeidtől függően megpróbálhatsz önállóan pénzt g
 Végül, néha a nyílt forráskódú projektek díjakat tűznek ki a hibák megoldására, amelyekkel kapcsolatban akár érdemes lehet segítséget nyújtani.
 
 * @ConnorChristie fizetséget kapott azért, mert [segített](https://web.archive.org/web/20181030123412/https://webcache.googleusercontent.com/search?strip=1&q=cache:https%3A%2F%2Fgithub.com%2FMARKETProtocol%2FMARKET.js%2Fissues%2F14) @MARKETProtocol -nak a JavaScript könyvtár fejlesztésében, mindezt a [gitcoin rendszeren keresztül](https://gitcoin.co/).
-* @mamiM elvégezte a japán nyelvi fordítást @MetaMask részére, melyet [a Bounties Network-ön keresztül finanszíroztak](https://explorer.bounties.network/bounty/134).
+* @mamiM elvégezte a japán nyelvi fordítást @MetaMask részére, melyet [a Bounties Network-ön keresztül finanszíroztak](https://web.archive.org/web/20210902135755/https://explorer.bounties.network/bounty/134).
 
 ## Találd meg a projekt finanszírozását
 
@@ -116,7 +116,7 @@ Könnyű szponzorokat találni, ha már erős közönséged vagy jó hírneved v
 Néhány példa:
 
 * **[webpack](https://github.com/webpack)** magánszemélyektől és cégektől is támogatáshoz jut [az OpenCollective-en keresztül](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** egy non-profit szervezet, amely támogatja a [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), és egyéb Ruby infrastruktúra projekteket
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** egy non-profit szervezet, amely támogatja a [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), és egyéb Ruby infrastruktúra projekteket
 
 ### Hozz létre bevételi forrást
 

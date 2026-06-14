@@ -117,7 +117,7 @@ Tegyél meg mindent, hogy zéró toleranciát tanúsíts az ilyen típusú ember
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Az igazság az, hogy kulcsfontosságú a támogató közösség. Soha nem tudnám ezt a munkát elvégezni kollégáim, barátságos internetes idegenek, és az IRC-csatornáim nélkül. (...) Ne elégedj meg kevesebbel. Ne tűrd meg a seggfejeket.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["Hogyan működik a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "Hogyan működik a FOSS Project"
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ Nézd meg, hogyan találhatod meg a módját, hogy a lehető legnagyobb mérték
 
 * **Állíts össze egy CONTRIBUTORS vagy AUTHORS fájlt a projektben,** amely listáz mindenkit aki hozzájárul a projekthez. Például ahogy a [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) csinálja.
 
-* Ha széles közösséged van, **akkor küldj ki hírlevelet vagy vezess blogot** amelyen megköszönöd a hozzájárulásokat. A Rust-nak a [Heti Rust](https://this-week-in-rust.org/) és a Hoodie-nak a [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) két jó példa erre.
+* Ha széles közösséged van, **akkor küldj ki hírlevelet vagy vezess blogot** amelyen megköszönöd a hozzájárulásokat. A Rust-nak a [Heti Rust](https://this-week-in-rust.org/) és a Hoodie-nak a [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) két jó példa erre.
 
 * **Minden közreműködő kapjon commit jogot.** @felixge szerint az emberek [sokkal aprólékosabban kidolgozzák a hozzájárulásukat](https://felixge.de/2013/03/11/the-pull-request-hack.html), és még több karbantartót lehet bevonni, akik esetleg korábban passzívak voltak.
 
@@ -177,7 +177,7 @@ Bár nem mindig válaszolnak a felhívásodra, de egy jelzés kiküldése növel
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   A te érdeked az, hogy olyan munkatársakat toborozz, akik élvezik és képesek megtenni azokat a dolgokat, amelyeket te nem. Szereted a kódolást, de nem válaszolsz a kérdésekre? Keresd meg azokat a személyeket a közösségben, akik ezt megteszik, és hagyd őket dolgozni.
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Befogadó közösségek"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Befogadó közösségek"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

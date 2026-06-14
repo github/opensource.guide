@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   کار کردن در <span dir="rtl">Freenode</span> به من در یادگیری بسیاری از مهارت‌ها کمک کرد و توانستم از آن‌ها در تحقیقات دانشگاهی و شغلم استفاده کنم. فکر می‌کنم به همان اندازه که کار کردن روی پروژه‌های متن باز به پیشبرد پروژه کمک می‌کند به همان اندازه به من هم کمک می‌کند!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   من شهرتم را از کار در <span dir="rtl">CocoaPods</span> به دست آوردم، اما بیشتر مردم نمی‌دانند که من واقعاً هیچ کار واقعی با ابزار <span dir="rtl">CocoaPods</span> انجام نمی‌دادم. زمانم در آن پروژه بیشتر روی چیزهایی مانند اسناد یا کار روی برندسازی صرف می‌شد.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -216,7 +216,7 @@ related:
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### بررسی چک لیست قبل از مشارکت در پروژه‌ی متن باز
 

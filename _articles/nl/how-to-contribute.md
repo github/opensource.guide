@@ -18,7 +18,7 @@ related:
   
   _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Waarom ik graag bijdraag aan open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Waarom ik graag bijdraag aan open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -71,7 +71,7 @@ Een veel voorkomende misvatting over bijdragen aan open source is dat je code mo
   _I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
   
   <p markdown="1" class="pquote-credit">
-— @orta, ["Standaard naar OSS gaan"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Standaard naar OSS gaan"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -223,7 +223,7 @@ U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekke
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Een checklist voordat u bijdraagt
 

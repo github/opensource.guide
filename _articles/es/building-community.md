@@ -116,7 +116,7 @@ Haz todo lo posible para adoptar una pol&iacute;tica de tolerancia cero hacia es
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La verdad es que tener una comunidad de apoyo es clave. Nunca hubiera sido capaz de realizar este trabajo sin la ayuda de mis colegas, los extra&ntilde;os de internet que fueron amigables y los canales IRC de conversaci&oacute;n. (...) No te conformes con menos. No te conformes con los idiotas.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -163,7 +163,7 @@ Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad ta
 
 * **Inicia un archivo de COLABORADORES o AUTORES en tu proyecto** que liste a todos los que colaboraron con tu proyecto, como lo hace [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
-* Si tienes una comunidad considerable, **env&iacute;a un bolet&iacute;n o escribe un post en un blog** agradeciendo a los colaboradores. Rust's [This Week in Rust](https://this-week-in-rust.org/) y Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) son dos buenos ejemplos.
+* Si tienes una comunidad considerable, **env&iacute;a un bolet&iacute;n o escribe un post en un blog** agradeciendo a los colaboradores. Rust's [This Week in Rust](https://this-week-in-rust.org/) y Hoodie's [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) son dos buenos ejemplos.
 
 * **Da a cada colaborador permiso para hacer commit.** @felixge encontr&oacute; con esto que las personas [se entusiasmaran por pulir sus parches](https://felixge.de/2013/03/11/the-pull-request-hack.html), e incluso encontr&oacute; nuevas personas para mantener proyectos en los que no hab&iacute;a trabajado hace tiempo.
 
@@ -179,7 +179,7 @@ Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al po
   \[Est&aacute; entre\] tus mayores intereses se encuentra reclutar colaboradores que disfruten y que sean capaces de hacer las cosas que tu no puedes. ¿Te gusta escribir c&oacute;digo, pero no responder a los problemas? Entonces identifica aquellos individuos en tu comunidad que lo hacen y permiteles hacer lo suyo.
 
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Kufanya kazi kwa \[freenode]\ kulinisaidia kupata ujuzi mwingi nilioutumia baadaye kwa masomo yangu katika chuo kikuu na kazi yangu halisi. Nadhani kufanya kazi kwenye miradi ya Open Source hunisaidia kadiri inavyosaidia mradi!
   <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Sababu yangu kupenda kuchangia programu za Open Source"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Sababu yangu kupenda kuchangia programu za Open Source"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ Dhana potofu ya kawaida kuhusu kuchangia Open Source ni kwamba unahitaji kuchang
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Nimekuwa maarufu kwa kazi yangu kwenye CocoaPods, lakini watu wengi hawajui kuwa sifanyi kazi yoyote halisi kwenye zana ya CocoaPods yenyewe. Wakati wangu kwenye mradi huo hutumiwa sana kufanya vitu kama nyaraka na kufanya kazi kwenye chapa.
   <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Kujiingiza kwa OSS kwa chaguo-msingi"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Kujiingiza kwa OSS kwa chaguo-msingi"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -89,7 +89,7 @@ Hata kama ungependa kuandika msimbo, aina nyingine za michango ni njia nzuri ya 
 
 * Andika na uboreshe nyaraka za mradi, [kama @CBID2 alivyofanya kwa nyaraka za OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Andaa folda ya mifano inayoonyesha jinsi mradi unavyotumika
-* Anzisha jarida la mradi, au kusanya mambo muhimu kutoka kwenye orodha ya barua, [kama @opensauced alivyofanya kwa bidhaa yao](https://news.opensauced.pizza/about/)
+* Anzisha jarida la mradi, au kusanya mambo muhimu kutoka kwenye orodha ya barua, [kama @opensauced alivyofanya kwa bidhaa yao](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * Andika mafunzo kwa mradi, [kama wachangiaji wa PyPA walivyofanya](https://packaging.python.org/)
 * Andika tafsiri ya nyaraka za mradi, [kama @frontendwizard alivyofanya kwa maelekezo ya changamoto ya CSS Flexbox ya freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
@@ -223,7 +223,7 @@ Unaweza pia kutumia moja ya rasilimali zifuatazo kukusaidia kugundua na kuchangi
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Orodha ya ukaguzi kabla ya kuchangia
 

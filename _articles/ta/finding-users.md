@@ -109,7 +109,7 @@ related:
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   உங்கள் உரையைத் தொடங்கும்போது, உங்கள் தலைப்பு என்னவாக இருந்தாலும் சரி, உங்கள் உரையை ஒரு கதையாக நீங்கள் பார்த்தால், அதை மக்களுக்குக் கூறும்பொழுது உதவும்.
   <p markdown="1" class="pquote-credit">
-— லேனா ரெய்ன்ஹார்ட், ["ஒரு தொழில்நுட்ப மாநாடு பேச்சு தயாரித்தல் மற்றும் எழுதவது எப்படி"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+— லேனா ரெய்ன்ஹார்ட், ["ஒரு தொழில்நுட்ப மாநாடு பேச்சு தயாரித்தல் மற்றும் எழுதவது எப்படி"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
 </aside>
 

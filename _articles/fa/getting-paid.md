@@ -114,7 +114,7 @@ related:
 اگر از قبل مخاطب یا اعتبار بالایی داشته باشید یا پروژه‌ی شما از محبوبیت بالایی برخوردار باشد، یافتن حمایت‌های مالی امکان‌پذیر است. چند نمونه از پروژه‌های حمایت شده:
 
 * پروژه‌ی **[webpack](https://github.com/webpack)** از طریق [OpenCollective](https://opencollective.com/webpack) از شرکت‌ها و اشخاص پول جمع‌آوری می‌کند
-* **[Ruby Together](https://rubytogether.org/)،** یک سازمان غیر‌انتفاعی است که هزینه‌های کار در [bundler](https://github.com/bundler/bundler)،  [RubyGems](https://github.com/rubygems/rubygems) و سایر پروژه‌های بر پایه‌ی زیرساختی «Ruby» را پرداخت می‌کند
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/)،** یک سازمان غیر‌انتفاعی است که هزینه‌های کار در [bundler](https://github.com/bundler/bundler)،  [RubyGems](https://github.com/rubygems/rubygems) و سایر پروژه‌های بر پایه‌ی زیرساختی «Ruby» را پرداخت می‌کند
 
 ### ایجاد یک منبع درآمدی
 

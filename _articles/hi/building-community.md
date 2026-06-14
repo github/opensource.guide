@@ -117,7 +117,7 @@ related:
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   सच तो यह है कि एक सहायक समुदाय का होना महत्वपूर्ण है। मैं अपने सहकर्मियों, मित्रवत इंटरनेट अजनबियों और बातूनी आईआरसी चैनलों की मदद के बिना यह काम कभी नहीं कर पाऊंगा। (...) इससे कम पर समझौता न करें। बेवकूफों के लिए समझौता मत करो.
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["FOSS प्रोजेक्ट कैसे चलाएं"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "FOSS प्रोजेक्ट कैसे चलाएं"
   </p>
 </aside>
 
@@ -164,7 +164,7 @@ related:
 * **अपने प्रोजेक्ट में एक योगदानकर्ता या लेखक फ़ाइल प्रारंभ करें** जिसमें आपके प्रोजेक्ट में योगदान देने वाले सभी लोगों की सूची हो, जैसे [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) 
 करता है.
 
-* यदि आपके पास एक बड़ा समुदाय है, तो **एक समाचार पत्र भेजें या एक ब्लॉग पोस्ट लिखें** योगदानकर्ताओं को धन्यवाद दें। जंग का [This Week in Rust](https://this-week-in-rust.org/) और हुडीज़ [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) दो अच्छे उदाहरण हैं.
+* यदि आपके पास एक बड़ा समुदाय है, तो **एक समाचार पत्र भेजें या एक ब्लॉग पोस्ट लिखें** योगदानकर्ताओं को धन्यवाद दें। जंग का [This Week in Rust](https://this-week-in-rust.org/) और हुडीज़ [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) दो अच्छे उदाहरण हैं.
 
 * **प्रत्येक योगदानकर्ता को पहुंच प्रदान करें** @felixge ने पाया कि इसने लोगों को बनाया है [more excited to polish their patches](https://felixge.de/2013/03/11/the-pull-request-hack.html), और उन्हें उन परियोजनाओं के लिए नए अनुरक्षक भी मिल गए जिन पर उन्होंने कुछ समय से काम नहीं किया था।
 
@@ -178,7 +178,7 @@ related:
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[यह आपके हित में है\] ऐसे योगदानकर्ताओं को भर्ती करना जो आनंद लेते हैं और जो वह काम करने में सक्षम हैं जो आप नहीं कर सकते। क्या आपको कोडिंग में मजा आता है, लेकिन मुद्दों का जवाब देना नहीं? फिर अपने समुदाय में उन व्यक्तियों की पहचान करें जो ऐसा करते हैं और उन्हें ऐसा करने दें।
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Welcoming Communities"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

@@ -110,7 +110,7 @@ Encontrar sponsors funciona si tienes una fuerte audiencia o reputaci&oacute;n y
 Algunos ejemplos comunes de proyectos sponsoreados incluyen:
 
 * **[webpack](https://github.com/webpack)** genera dinero de empresas e individuos [a trav&eacute;s de OpenCollective](https://opencollective.com/webpack)
-* **[Ruby Together](https://rubytogether.org/),** una organizaci&oacute;n sin fines de lucro que paga por el trabajo en [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), y otros proyectos de la infraestructura de Ruby.
+* **[Ruby Together](https://web.archive.org/web/20221213183825/https://rubytogether.org/),** una organizaci&oacute;n sin fines de lucro que paga por el trabajo en [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), y otros proyectos de la infraestructura de Ruby.
 
 ### Crea un flujo de ingresos.
 

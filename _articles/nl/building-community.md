@@ -125,7 +125,7 @@ Doe je best om een nultolerantiebeleid te voeren ten aanzien van dit soort mense
   _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
 
   <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
+— @okdistribute, "How to Run a FOSS Project"
   </p>
 </aside>
 
@@ -174,7 +174,7 @@ Kijk of je manieren kunt vinden om het eigendom zoveel mogelijk met je gemeensch
 
 * **Start een CONTRIBUTORS- of AUTHORS-bestand in uw project** met een lijst van iedereen die aan uw project heeft bijgedragen, zoals [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) doet.
 
-* Als je een omvangrijke community hebt, **stuur dan een nieuwsbrief of schrijf een blogpost** om bijdragers te bedanken. Rust's [Deze week in Rust](https://this-week-in-rust.org/) en Hoodie's [Shoutouts](http://hood.ie/blog/shoutouts-week-24.html) zijn twee goede voorbeelden.
+* Als je een omvangrijke community hebt, **stuur dan een nieuwsbrief of schrijf een blogpost** om bijdragers te bedanken. Rust's [Deze week in Rust](https://this-week-in-rust.org/) en Hoodie's [Shoutouts](https://web.archive.org/web/20160516163538/http://hood.ie/blog/shoutouts-week-24.html) zijn twee goede voorbeelden.
 
 * **Geef elke bijdrager toegang tot commit.** @felixge ontdekte dat dit mensen [meer enthousiast maakte om hun patches op te poetsen](https://felixge.de/2013/03/11/the-pull-request-hack.html), en hij vond zelfs nieuwe beheerders voor projecten waaraan hij al een tijdje niet had gewerkt.
 
@@ -192,7 +192,7 @@ Hoewel je misschien niet altijd iemand vindt om de oproep te beantwoorden, vergr
   _\[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it._
 
   <p markdown="1" class="pquote-credit">
-— @gr2m, ["Gastvrije gemeenschappen"](http://hood.ie/blog/welcoming-communities.html)
+— @gr2m, ["Gastvrije gemeenschappen"](https://web.archive.org/web/20160516130845/http://hood.ie/blog/welcoming-communities.html)
   </p>
 </aside>
 

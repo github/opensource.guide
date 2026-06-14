@@ -15,13 +15,22 @@ permissions:
   pages: write
   id-token: write
 # Allow only one concurrent deployment per PR, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# However, do NOT cancel in-progress runs as we want to allow these preview deployments to complete.
 concurrency:
   group: "pages-preview @ ${{ github.event.pull_request.head.label || github.head_ref || github.ref }}"
   cancel-in-progress: false
 jobs:
   # Build job
   build:
+    # Only build/deploy PRs from trusted authors: this workflow checks out
+    # untrusted PR code and deploys it to a public preview domain.
+    # `author_association` is re-evaluated on every event and cannot be set by the
+    # PR author (unlike a label). To also allow previews for other contributors,
+    # add Required Reviewers to the "Pages Preview" environment rather than
+    # widening this condition.
+    if: >-
+      github.event.pull_request.head.repo.full_name == github.repository ||
+      contains(fromJSON('["OWNER", "MEMBER", "COLLABORATOR"]'), github.event.pull_request.author_association)
     environment:
       name: "Pages Preview"
     # Limit permissions of the GITHUB_TOKEN for untrusted code
@@ -30,13 +39,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6.0.2
+        uses: actions/checkout@v6
         with:
           # For PRs make sure to checkout the PR branch
           ref: ${{ github.event.pull_request.head.sha }}
           repository: ${{ github.event.pull_request.head.repo.full_name }}
       - name: Setup Pages
-        uses: actions/configure-pages@v5.0.0
+        uses: actions/configure-pages@v6.0.0
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1
         with:
@@ -44,7 +53,7 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
-        uses: actions/upload-pages-artifact@v4.0.0
+        uses: actions/upload-pages-artifact@v5.0.0
   # Deployment job
   deploy:
     environment:
@@ -60,6 +69,6 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4.0.5
+        uses: actions/deploy-pages@v5.0.0
         with:
           preview: "true"
