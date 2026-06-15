@@ -488,6 +488,7 @@ If the project is on GitHub, here's how to submit a pull request:
 * **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
 * **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
 * **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. It's important to make sure your changes don't break the existing project.
+* **Review AI-assisted contributions carefully.** If you use AI tools to help draft code, documentation, tests, or other project assets, verify that the output is accurate, follows project conventions, and address the intended issue. Contributors remain responsible for the changes they submit.
 * **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
