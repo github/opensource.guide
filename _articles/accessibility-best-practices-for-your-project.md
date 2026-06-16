@@ -8,7 +8,7 @@ order: -1
 image: /assets/images/cards/accessibility-best-practices.png
 ---
 
-Accessibility (often shortened to _a11y_) means people can use your project regardless of disability, assistive technology, environment, or device. It includes - but isn't limited to - support for screen readers, keyboard-only navigation, captions/transcripts, sufficient color contrast, and clear content structure.
+Accessibility (often shortened to _a11y_) means people can use your project regardless of ddisability, assistive technology, environment, or device. It includes - but isn't limited to - support for screen readers, keyboard-only navigation, captions/transcripts, sufficient color contrast, and clear content structure.
 
 ## Partner with people with disabilities
 
