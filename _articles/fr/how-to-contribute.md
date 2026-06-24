@@ -197,7 +197,7 @@ L'open source n'est pas un club exclusif. C'est fait par des gens comme vous. "O
 
 Vous pouvez scanner un fichier README et trouver un lien cassé ou une faute de frappe. Ou vous êtes un nouvel utilisateur et vous avez remarqué que quelque chose est cassé, ou un problème que vous pensez devrait vraiment être dans la documentation. Au lieu de l'ignorer et de passer à autre chose, ou de demander à quelqu'un d'autre de le réparer, voyez si vous pouvez aider en faisant un descriptif du problème. C'est cela l'open source !
 
-> [28% des contributions occasionnelles](https://www.igor.pro.br/publica/papers/saner2016.pdf) à l'open source sont de la documentation, une correction de faute de frappe, un reformatage ou l'écriture d'une traduction.
+> [28% des contributions occasionnelles](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) à l'open source sont de la documentation, une correction de faute de frappe, un reformatage ou l'écriture d'une traduction.
 
 Vous pouvez également utiliser l'une des ressources suivantes pour vous aider à découvrir et à contribuer à de nouveaux projets :
 
