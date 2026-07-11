@@ -197,7 +197,7 @@ O open source não é um clube exclusivo; é feito por pessoas como você. "Open
 
 Você pode ler um README e encontrar um link quebrado ou um erro de digitação. Ou você é um novo usuário e percebeu que algo está quebrado ou um problema que você acha que deveria estar na documentação. Em vez de ignorá-lo e seguir em frente, ou pedir a alguém para consertá-lo, veja se você pode ajudar. É disso que se trata o open source!
 
-> [28% das contribuições casuais](https://www.igor.pro.br/publica/papers/saner2016.pdf) para o open source são de documentação, como uma correção de erro de digitação, reformatação ou escrita de tradução.
+> [28% das contribuições casuais](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) para o open source são de documentação, como uma correção de erro de digitação, reformatação ou escrita de tradução.
 
 Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e contribuir para novos projetos:
 

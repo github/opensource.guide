@@ -209,7 +209,7 @@ L'open source non è un club esclusivo; è fatto da persone proprio come te. "Op
 
 È possibile eseguire la scansione del README e trovare un collegamento interrotto o un errore di battitura. O sei un nuovo utente e hai notato che qualcosa non funziona, oppure c'è un problema che ritieni dovrebbe essere presente nella documentazione. Invece di ignorarlo e andare avanti o chiedere a qualcun altro di risolverlo, vedi se puoi aiutare partecipando. Ecco cos'è l'open source!
 
-> Secondo uno studio di Igor Steinmacher e altri ricercatori di informatica, [il 28% dei contributi accessori](https://www.igor.pro.br/publica/papers/saner2016.pdf) in open source sono documenti, come come correzioni di errori di battitura, riformattazione o scrittura di traduzioni.
+> Secondo uno studio di Igor Steinmacher e altri ricercatori di informatica, [il 28% dei contributi accessori](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) in open source sono documenti, come come correzioni di errori di battitura, riformattazione o scrittura di traduzioni.
 
 Se stai cercando problemi esistenti che puoi risolvere, ogni progetto open source ha una pagina "/contribute" che evidenzia problemi adatti ai principianti con cui puoi iniziare. Vai alla pagina principale del repository GitHub e aggiungi "/contribute" alla fine dell'URL (ad es.[`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 

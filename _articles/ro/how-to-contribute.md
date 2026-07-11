@@ -225,9 +225,9 @@ Open source nu este un club exclusivist; el este făcut din oameni exact ca tine
 
 Ai putea scana un README sau găsi un link stricat sau o greșeală gramaticală. Sau ești un nou utilizator și ai observat că ceva este stricat, sau o problemă despre care crezi că într-adevăr ar trebui să fie în documentație. În loc de a o ignora sau de a trece mai departe, sau a cere altcuiva să o rezolve, vezi dacă poți ajuta pășind înăuntru. Despre aceasta este tot open source!
 
-> [28% din contribuțiile ocazionale](https://www.igor.pro.br/publica/papers/saner2016.pdf) la open source sunt documentație, cum ar fi o corectare gramaticală, reformatare, sau scrierea unei traduceri.
+> [28% din contribuțiile ocazionale](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) la open source sunt documentație, cum ar fi o corectare gramaticală, reformatare, sau scrierea unei traduceri.
 > 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% of casual contributions](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
 Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să descoperi și să contribui la noi proiecte:
 
