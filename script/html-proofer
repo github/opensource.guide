@@ -23,6 +23,26 @@ require "bundler/setup"
 require "html-proofer"
 
 # ---------------------------------------------------------
+# External (remote) link checking is opt-in.
+#
+# Remote URL checks are slow and frequently fail in CI due to
+# rate limiting and transient network errors on third-party
+# sites. By default we skip them so normal CI runs stay fast
+# and reliable. Set CHECK_EXTERNAL_LINKS=true to enable the
+# full remote link check (used by the scheduled weekly run).
+# ---------------------------------------------------------
+check_external = %w[1 true yes].include?(
+  ENV.fetch("CHECK_EXTERNAL_LINKS", "").strip.downcase
+)
+
+if check_external
+  puts "==> Running HTMLProofer WITH external link checks"
+else
+  puts "==> Running HTMLProofer WITHOUT external link checks " \
+       "(set CHECK_EXTERNAL_LINKS=true to enable)"
+end
+
+# ---------------------------------------------------------
 # URLs & patterns to ignore during link checking.
 # Some websites block automated requests, cause false
 # positives, or frequently return rate-limit errors.
@@ -63,6 +83,7 @@ HTMLProofer::Runner.new(
   ["_site"],                        # Directory containing the generated site
   parallel: { in_threads: 4 },      # Speed up checks using 4 threads
   type: :directory,
+  disable_external: !check_external, # Skip remote URL checks unless opted in
   ignore_urls: url_ignores,         # Skip known-problematic URLs
   check_html: true,                 # Validate HTML structure
   check_opengraph: true,            # Check for OpenGraph tags
