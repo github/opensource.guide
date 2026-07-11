@@ -7,7 +7,11 @@ bundle exec rake
 
 set +e
 
-script/html-proofer
+# Skip remote/external URL checks in normal CI runs. They are slow and
+# frequently fail due to rate limiting on third-party sites. The full
+# external link check runs on a weekly schedule (see
+# .github/workflows/link-check.yml).
+CHECK_EXTERNAL_LINKS=false script/html-proofer
 HTML_PROOFER_EXIT="$?"
 test/prose
 PROSE_EXIT="$?"
