@@ -217,9 +217,9 @@ Open Source ist kein exklusiver Club, sondern besteht auf Leuten wie Ihnen. "Ope
 
 Sie können eine README überfliegen und einen defekten Link oder einen Tippfehler finden. Oder Sie sind ein\*e neue\*r Benutzer\*in und haben bemerkt, dass etwas kaputt ist, oder ein Problem, das Ihrer Meinung nach wirklich dokumentiert sein sollte. Anstatt es zu ignorieren und weiterzuziehen oder jemand zu bitten, es zu reparieren, können Sie vielleicht selbst mitmachen und mithelfen. Das ist des Pudels Kern bei Open Source!
 
-> [28% der Gelegenheitsbeiträge](https://www.igor.pro.br/publica/papers/saner2016.pdf) zu Open Source betreffen die Dokumentation (z.B. eine Korrektur der Rechtschreibung oder Formatierung, oder das Schreiben einer Übersetzung).
+> [28% der Gelegenheitsbeiträge](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) zu Open Source betreffen die Dokumentation (z.B. eine Korrektur der Rechtschreibung oder Formatierung, oder das Schreiben einer Übersetzung).
 >
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% of casual contributions](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
 Wenn Sie Issues suchen, die Sie beheben könnten, hat jedes Open-Source-Projekt eine Seite, die Neuling-freundliche Issues aufzeigt. Navigieren Sie zur Repository-Hauptseite auf GitHub und fügen Sie `/contribute` der URL hinzu (z.B.[`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 

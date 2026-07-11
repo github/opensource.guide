@@ -209,7 +209,7 @@ Open source nie jest ekskluzywnym klubem; zrobili to ludzie tacy jak ty. „Open
 
 Możesz zeskanować plik README i znaleźć uszkodzony link lub literówkę. Lub jesteś nowym użytkownikiem i zauważyłeś, że coś jest zepsute lub problem, który Twoim zdaniem powinien naprawdę znajdować się w dokumentacji. Zamiast ignorować i przejść dalej lub poprosić kogoś o naprawę, sprawdź, czy możesz pomóc, wprowadzając. Właśnie o to chodzi w open source!
 
-> [28% of casualowych kontrybucji](https://www.igor.pro.br/publica/papers/saner2016.pdf) open source to dokumentacja, na przykład poprawka literówki, formatowanie lub pisanie tłumaczenia.
+> [28% of casualowych kontrybucji](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) open source to dokumentacja, na przykład poprawka literówki, formatowanie lub pisanie tłumaczenia.
 
 Jeśli szukasz istniejących problemów, które możesz naprawić, każdy projekt open source ma stronę `/contribute`, która podkreśla problemy przyjazne dla początkujących, z którymi możesz zacząć. Przejdź do strony głównej repozytorium w serwisie GitHub i dodaj `/contribute` na końcu adresu URL (na przykład [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 

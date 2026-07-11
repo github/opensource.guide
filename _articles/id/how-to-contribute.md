@@ -197,7 +197,7 @@ Open source bukanlah klub ekslusif; Open source dibuat oleh orang-orang seperti 
 
 Anda bisa melihat dokumen README dan menemukan tautan yang tidak valid atau kesalahan pengetikkan. Atau Anda sebagai pengguna baru dan melihat bahwa ada yang salah, atau sebuah laporan dimana Anda rasa penting untuk didokumentasikan. Daripada mengabaikannya, atau meminta orang lain untuk memperbaikinya, cari tahu apakah Anda bisa membantu dengan ikut serta didalamnya. Itulah makna sesungguhnya dari open source!
 
-> [28% dari kontribusi umum](https://www.igor.pro.br/publica/papers/saner2016.pdf) pada open source adalah berupa dokumentasi, seperti kesalahan pengetikkan, pemformatan ulang, atau menuliskan terjemahan.
+> [28% dari kontribusi umum](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) pada open source adalah berupa dokumentasi, seperti kesalahan pengetikkan, pemformatan ulang, atau menuliskan terjemahan.
 
 Anda juga bisa menggunakan salah satu dari beberapa sumber daya berikut untuk mencari dan berkontribusi pada proyek baru:
 
