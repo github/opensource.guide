@@ -509,7 +509,7 @@ Se fai un cortese promemoria e continui a non ricevere risposta, è possibile ch
 
 È comune che ti venga chiesto di apportare modifiche al tuo contributo, che si tratti di feedback sulla portata della tua idea o di modifiche al tuo codice.
 
-Quando qualcuno chiede modifiche, sii reattivo. Si sono presi il tempo per rivedere il tuo contributo. Aprire un PR e andarsene è una cattiva forma. Se non sai come apportare modifiche, ricerca il problema e poi chiedi aiuto se ne hai bisogno. Un buon esempio di ciò potrebbe essere [il feedback che un altro collaboratore ha dato a @a-m-lamb sulla sua richiesta di pull ai documenti Codecademy](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
+Quando qualcuno chiede modifiche, sii reattivo. Si sono presi il tempo per rivedere il tuo contributo. Aprire un PR e andarsene è una cattiva forma. Se non sai come apportare modifiche, ricerca il problema e poi chiedi aiuto se ne hai bisogno.
 
 Se non hai più tempo per lavorare sul problema perché la conversazione va avanti da mesi e le tue circostanze sono cambiate o non riesci a trovare una soluzione, informa un manutentore in modo che possa aprire il problema a qualcun altro , come ha fatto [@RitaDee per un problema nelle applicazioni OpenSauced](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 
