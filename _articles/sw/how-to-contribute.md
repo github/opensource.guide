@@ -509,7 +509,7 @@ Ikiwa utatoa ukumbusho wa adabu na bado hujapata jibu, inawezekana kwamba hakuna
 
 Ni kawaida kwamba utaombwa kufanya mabadiliko kwenye mchango wako, iwe ni maoni kuhusu wigo wa wazo lako, au mabadiliko kwenye msimbo wako.
 
-Wakati mtu anapohitaji mabadiliko, kuwa na majibu. Wamechukua muda wao kupitia mchango wako. Kufungua PR na kuondoka ni tabia mbaya. Ikiwa hujui jinsi ya kufanya mabadiliko, tafuta tatizo, kisha uliza msaada ikiwa unahitaji. Mfano mzuri wa hii ni [maoni ambayo mchangiaji mwingine ametoa kwa @a-m-lamb kwenye ombi lao la kuvuta kwenye nyaraka za Codecademy](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
+Wakati mtu anapohitaji mabadiliko, kuwa na majibu. Wamechukua muda wao kupitia mchango wako. Kufungua PR na kuondoka ni tabia mbaya. Ikiwa hujui jinsi ya kufanya mabadiliko, tafuta tatizo, kisha uliza msaada ikiwa unahitaji.
 
 Ikiwa huna muda wa kufanya kazi kwenye suala hilo tena kutokana na sababu kama mazungumzo yamekuwa yakiendelea kwa miezi, na hali zako zimebadilika au huwezi kupata suluhisho, mwambie mtunzaji ili waweze kufungua suala hilo kwa mtu mwingine, kama [@RitaDee alivyofanya kwa suala katika hazina ya programu ya OpenSauced](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 
