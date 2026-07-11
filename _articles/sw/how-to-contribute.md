@@ -209,7 +209,7 @@ Open Source si klabu ya kipekee; inatengenezwa na watu kama wewe. "Open Source" 
 
 Unaweza kuangalia README na kupata kiungo kilichovunjika au makosa ya tahajia. Au wewe ni mtumiaji mpya na umeona kitu kilichovunjika, au suala ambalo unafikiri linapaswa kuwa kwenye nyaraka. Badala ya kupuuza na kuendelea, au kumuuliza mtu mwingine akirekebishe, angalia ikiwa unaweza kusaidia kwa kuchangia. Hiyo ndiyo maana ya Open Source!
 
-> Kulingana na utafiti uliofanywa na Igor Steinmacher na watafiti wengine wa Sayansi ya Kompyuta, [28% ya michango ya kawaida](https://www.igor.pro.br/publica/papers/saner2016.pdf) kwenye Open Source ni nyaraka, kama vile marekebisho ya makosa ya tahajia, urekebishaji, au kuandika tafsiri.
+> Kulingana na utafiti uliofanywa na Igor Steinmacher na watafiti wengine wa Sayansi ya Kompyuta, [28% ya michango ya kawaida](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) kwenye Open Source ni nyaraka, kama vile marekebisho ya makosa ya tahajia, urekebishaji, au kuandika tafsiri.
 
 Ikiwa unatafuta masuala yaliyopo ambayo unaweza kurekebisha, kila mradi wa Open Source una ukurasa wa `/contribute` unaoangazia masuala nyepesi kwa waanziaji ambayo unaweza kuanza nayo. Tembelea ukurasa wa msingi wa hazina kwenye GitHub, na ongeza `/contribute` mwishoni mwa URL (kwa mfano [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
