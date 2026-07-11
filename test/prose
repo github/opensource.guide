@@ -56,7 +56,7 @@ var fs = require('fs');
 var path = require('path');
 var async = require('async');
 var yaml = require('js-yaml');
-var jekyllConfig = yaml.safeLoad(fs.readFileSync('_config.yml'));
+var jekyllConfig = yaml.load(fs.readFileSync('_config.yml'));
 var ignore = require('ignore')().add(jekyllConfig.exclude)
 
 var personal = fs
