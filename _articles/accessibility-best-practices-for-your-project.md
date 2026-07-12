@@ -210,7 +210,7 @@ Accessibility is easier to maintain when it's part of your regular process.
 
 Refer to this [accessibility issue template example](https://github.com/open-source-accessibility/accessibility-toolkit/blob/main/.github/ISSUE_TEMPLATE/accessibility.yml).
 
-### Add an accessibility checklist to pull requests (PRs) 
+### Add an accessibility checklist to pull requests (PRs)
 
 For projects with UI changes, include questions such as:
 
@@ -289,9 +289,9 @@ Refer to this [project for additional examples](https://github.com/mgifford/ACCE
 
 ## Conclusion: A few steps for you, a huge improvement for your users
 
-These steps might seem basic, but they go a long way to make your project more accessible. Every fix you make, whether it's a missing label, a keyboard trap, or a caption on a video, opens the door for someone who couldn't use your project before. 
+These steps might seem basic, but they go a long way to make your project more accessible. Every fix you make, whether it's a missing label, a keyboard trap, or a caption on a video, opens the door for someone who couldn't use your project before.
 
-Accessibility isn't a one-time fix, it's an ongoing practice, and you don't have to do it all at once. Start with keyboard navigation and semantics, keep changes small, and ask for review early. 
+Accessibility isn't a one-time fix, it's an ongoing practice, and you don't have to do it all at once. Start with keyboard navigation and semantics, keep changes small, and ask for review early.
 
 The work you put in today means more people can learn from, contribute to, and rely on what you build. That's a win worth celebrating.
 

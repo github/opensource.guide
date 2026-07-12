@@ -16,7 +16,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-العمل على <span dir="rtl">Freenode</span> ساعدني على اكتساب الكثير من المهارات التي استخدمتها لاحقًا في دراستي الجامعية وفي عملي الفعلي. أعتقد أن العمل على مشاريع مفتوحة المصدر يساعدني بقدر ما يساعد المشروع! 
+العمل على <span dir="rtl">Freenode</span> ساعدني على اكتساب الكثير من المهارات التي استخدمتها لاحقًا في دراستي الجامعية وفي عملي الفعلي. أعتقد أن العمل على مشاريع مفتوحة المصدر يساعدني بقدر ما يساعد المشروع!
 <p markdown="1" class="pquote-credit">
 — [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
@@ -99,7 +99,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
- بجديّة، [التوثيق] مهم جدًّا. حتى الآن، كان التوثيق ممتازًا وكان ميزة قوية في <span dir="rtl">Babel</span>. هناك أقسام بالتأكيد يمكن تحسينها، وحتى إضافة فقرة هنا أو هناك تُقدّر كثيرًا. 
+ بجديّة، [التوثيق] مهم جدًّا. حتى الآن، كان التوثيق ممتازًا وكان ميزة قوية في <span dir="rtl">Babel</span>. هناك أقسام بالتأكيد يمكن تحسينها، وحتى إضافة فقرة هنا أو هناك تُقدّر كثيرًا.
 <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -146,7 +146,7 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-إذا ذهبت إلى متتبع المشكلات<span dir="rtl">(issue tracker)</span> وبدا الأمر محيرًا، فأنت لست وحدك. هذه الأدوات تتطلب الكثير من المعرفة الضمنية، لكن يمكن للناس مساعدتك في التنقل خلالها ويمكنك طرح الأسئلة عليهم.  
+إذا ذهبت إلى متتبع المشكلات<span dir="rtl">(issue tracker)</span> وبدا الأمر محيرًا، فأنت لست وحدك. هذه الأدوات تتطلب الكثير من المعرفة الضمنية، لكن يمكن للناس مساعدتك في التنقل خلالها ويمكنك طرح الأسئلة عليهم.
 <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
