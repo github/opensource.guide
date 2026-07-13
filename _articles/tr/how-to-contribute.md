@@ -201,7 +201,7 @@ Açık kaynak bir seçilmişler kulübü değildir; tıpkı senin gibi insanlar 
 
 Bir README tarayabilir ve bozuk bir link ya da yazım hatası bulabilirsiniz. Ya da yeni bir kullanıcısınız ve bir şeylerin bozuk olduğunu ya da belgelerde gerçekten olması gerektiğini düşündüğünüz bir eksikliğin olduğunu fark ettiniz. Bunu görmezden gelip devam etmek ya da başka birinden düzeltmesini istemek yerine, araya girip düzeltebileceğinizi görün. Bakın açık kaynak budur!
 
-> [Gündelik katkıların %28'i](https://www.igor.pro.br/publica/papers/saner2016.pdf) açık kaynağa yeniden biçimlendirme veya bir çeviri yazarken böyle bir yazım hatası düzeltme gibi belgelerdir.
+> [Gündelik katkıların %28'i](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) açık kaynağa yeniden biçimlendirme veya bir çeviri yazarken böyle bir yazım hatası düzeltme gibi belgelerdir.
 
 Düzeltebileceğiniz açık sorunları arıyorsanız, her açık kaynak projenin başlayabileceğiniz acemi dostu sorunları vurgulayan bir `/contribute` sayfası vardır. GitHub'taki deponun ana sayfasına gidin ve URL'nin sonuna `/contrib` ekleyin (Örneğin [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 

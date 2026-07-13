@@ -66,23 +66,23 @@ Just like security vulnerabilities, license issues are easier to fix when discov
 
 ## Avoid unwanted changes with protected branches
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+### আপনার মূল শাখাগুলোর ওপর অনিয়ন্ত্রিত প্রবেশাধিকার দুর্ঘটনাজনিত বা ক্ষতিকর পরিবর্তন ঘটাতে পারে, যা দুর্বলতা তৈরি করতে পারে বা আপনার প্রকল্পের স্থিতিশীলতা নষ্ট করতে পারে।
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+একজন নতুন অবদানকারী মূল শাখায় লেখার অনুমতি পায় এবং ভুলবশত এমন পরিবর্তন `push` করে যা পরীক্ষা করা হয়নি। এরপর সাম্প্রতিক পরিবর্তনের কারণে একটি গুরুতর নিরাপত্তা ত্রুটি ধরা পড়ে। এ ধরনের সমস্যা ঠেকাতে `branch protection` নিয়ম ব্যবহার করা হয়, যাতে গুরুত্বপূর্ণ শাখায় পরিবর্তন আগে পর্যালোচনা না হয়ে এবং নির্দিষ্ট `status check` পাস না করে `push` বা `merge` করা না যায়। এই অতিরিক্ত সুরক্ষা থাকলে আপনার প্রকল্প আরও নিরাপদ থাকে এবং প্রতিবারই মান বজায় থাকে।
 
-## Make it easy (and safe) to report security issues
+## নিরাপত্তা সংক্রান্ত সমস্যা রিপোর্ট করা সহজ ও নিরাপদ করুন
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+### আপনার ব্যবহারকারীদের জন্য বাগ রিপোর্ট করা সহজ করা ভালো অভ্যাস, কিন্তু বড় প্রশ্ন হলো: যখন এই বাগটির নিরাপত্তাগত প্রভাব থাকে, তখন তারা কীভাবে নিরাপদে আপনাকে রিপোর্ট করবে, যাতে দুর্বৃত্ত হ্যাকারদের জন্য আপনি লক্ষ্যবস্তু না হয়ে যান?
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+ধরুন, একজন নিরাপত্তা গবেষক আপনার প্রকল্পে একটি দুর্বলতা খুঁজে পেলেন, কিন্তু সেটি জানানোর কোনো স্পষ্ট বা নিরাপদ উপায় পেলেন না। নির্দিষ্ট প্রক্রিয়া না থাকলে তারা হয়তো একটি public issue খুলে ফেলতে পারেন বা সামাজিক মাধ্যমে বিষয়টি প্রকাশ্যে আলোচনা করতে পারেন। এমনকি তারা সদিচ্ছায় সমাধানও প্রস্তাব করুক, public pull request-এর মাধ্যমে করলে সেটি merge হওয়ার আগেই অন্যরা তা দেখে ফেলবে। এই প্রকাশ্যতা আপনাকে তা ঠিক করার সুযোগ পাওয়ার আগেই দুর্বলতাটি ক্ষতিকর ব্যক্তিদের সামনে তুলে ধরবে, যা zero-day exploit-এর ঝুঁকি তৈরি করতে পারে এবং আপনার প্রকল্প ও ব্যবহারকারীদের ক্ষতি করতে পারে।
 
 ### Security Policy
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+এটি এড়াতে একটি `security policy` প্রকাশ করুন। `SECURITY.md` ফাইলে সংজ্ঞায়িত একটি `security policy`-তে নিরাপত্তা-সংক্রান্ত উদ্বেগ রিপোর্ট করার ধাপ, `coordinated disclosure`-এর জন্য স্বচ্ছ প্রক্রিয়া, এবং রিপোর্ট করা সমস্যাগুলো সমাধানে প্রকল্প দলের দায়িত্ব স্পষ্টভাবে উল্লেখ থাকে। এই `security policy` খুবই সহজ হতে পারে, যেমন: "দয়া করে `public issue` বা `PR`-এ বিস্তারিত প্রকাশ করবেন না, বরং `security@example.com`-এ আমাদের `private` ইমেইল পাঠান"। তবে এতে আরও তথ্য থাকতে পারে, যেমন তারা কখন আপনার কাছ থেকে উত্তর আশা করতে পারে। `disclosure` প্রক্রিয়ার কার্যকারিতা ও দক্ষতা বাড়াতে যা কিছু সাহায্য করে, তা এতে রাখা যেতে পারে।
 
 ### Private Vulnerability Reporting
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+কিছু প্ল্যাটফর্মে `private issues` ব্যবহার করে আপনি `vulnerability management` প্রক্রিয়া, `intake` থেকে `broadcast` পর্যন্ত, আরও দ্রুত ও শক্তিশালী করতে পারেন। `GitLab`-এ এটি `private issues` দিয়ে করা যায়। `GitHub`-এ একে `private vulnerability reporting (PVR)` বলা হয়। `PVR` `maintainers`-দের `GitHub` প্ল্যাটফর্মের মধ্যেই `vulnerability report` গ্রহণ ও সমাধান করতে দেয়। `GitHub` স্বয়ংক্রিয়ভাবে `fixes` লেখার জন্য একটি `private fork` এবং একটি `draft security advisory` তৈরি করে। আপনি সমস্যা প্রকাশ এবং `fixes` মুক্তি দেওয়ার সিদ্ধান্ত না নেওয়া পর্যন্ত সবকিছু গোপন থাকে। শেষ ধাপে `security advisories` প্রকাশ করা হয়, যা আপনার সব ব্যবহারকারীকে তাদের `SCA tool`-এর মাধ্যমে জানায় এবং সুরক্ষা দেয়।
 
 ### Define your threat model to help users and researchers understand scope
 

@@ -209,7 +209,7 @@ Open Source si klabu ya kipekee; inatengenezwa na watu kama wewe. "Open Source" 
 
 Unaweza kuangalia README na kupata kiungo kilichovunjika au makosa ya tahajia. Au wewe ni mtumiaji mpya na umeona kitu kilichovunjika, au suala ambalo unafikiri linapaswa kuwa kwenye nyaraka. Badala ya kupuuza na kuendelea, au kumuuliza mtu mwingine akirekebishe, angalia ikiwa unaweza kusaidia kwa kuchangia. Hiyo ndiyo maana ya Open Source!
 
-> Kulingana na utafiti uliofanywa na Igor Steinmacher na watafiti wengine wa Sayansi ya Kompyuta, [28% ya michango ya kawaida](https://www.igor.pro.br/publica/papers/saner2016.pdf) kwenye Open Source ni nyaraka, kama vile marekebisho ya makosa ya tahajia, urekebishaji, au kuandika tafsiri.
+> Kulingana na utafiti uliofanywa na Igor Steinmacher na watafiti wengine wa Sayansi ya Kompyuta, [28% ya michango ya kawaida](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) kwenye Open Source ni nyaraka, kama vile marekebisho ya makosa ya tahajia, urekebishaji, au kuandika tafsiri.
 
 Ikiwa unatafuta masuala yaliyopo ambayo unaweza kurekebisha, kila mradi wa Open Source una ukurasa wa `/contribute` unaoangazia masuala nyepesi kwa waanziaji ambayo unaweza kuanza nayo. Tembelea ukurasa wa msingi wa hazina kwenye GitHub, na ongeza `/contribute` mwishoni mwa URL (kwa mfano [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -509,7 +509,7 @@ Ikiwa utatoa ukumbusho wa adabu na bado hujapata jibu, inawezekana kwamba hakuna
 
 Ni kawaida kwamba utaombwa kufanya mabadiliko kwenye mchango wako, iwe ni maoni kuhusu wigo wa wazo lako, au mabadiliko kwenye msimbo wako.
 
-Wakati mtu anapohitaji mabadiliko, kuwa na majibu. Wamechukua muda wao kupitia mchango wako. Kufungua PR na kuondoka ni tabia mbaya. Ikiwa hujui jinsi ya kufanya mabadiliko, tafuta tatizo, kisha uliza msaada ikiwa unahitaji. Mfano mzuri wa hii ni [maoni ambayo mchangiaji mwingine ametoa kwa @a-m-lamb kwenye ombi lao la kuvuta kwenye nyaraka za Codecademy](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
+Wakati mtu anapohitaji mabadiliko, kuwa na majibu. Wamechukua muda wao kupitia mchango wako. Kufungua PR na kuondoka ni tabia mbaya. Ikiwa hujui jinsi ya kufanya mabadiliko, tafuta tatizo, kisha uliza msaada ikiwa unahitaji.
 
 Ikiwa huna muda wa kufanya kazi kwenye suala hilo tena kutokana na sababu kama mazungumzo yamekuwa yakiendelea kwa miezi, na hali zako zimebadilika au huwezi kupata suluhisho, mwambie mtunzaji ili waweze kufungua suala hilo kwa mtu mwingine, kama [@RitaDee alivyofanya kwa suala katika hazina ya programu ya OpenSauced](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 

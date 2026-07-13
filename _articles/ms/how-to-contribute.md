@@ -201,7 +201,7 @@ Sumber terbuka bukan kelab eksklusif; ia dibuat oleh orang seperti anda. "Sumber
 
 Anda mungkin mengimbas README dan mencari pautan yang rosak atau kesalahan ketik. Atau anda pengguna baru dan anda melihat ada sesuatu yang rosak, atau masalah yang anda fikirkan semestinya ada dalam dokumentasi. Daripada mengabaikannya dan terus bergerak, atau meminta orang lain untuk memperbaikinya, lihat sama ada anda dapat membantu dengan memasukkan masuk. Itulah sumber terbuka!
 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) untuk sumber terbuka adalah dokumentasi, seperti kesalahan ketik, memformat semula, atau menulis terjemahan.
+> [28% of casual contributions](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) untuk sumber terbuka adalah dokumentasi, seperti kesalahan ketik, memformat semula, atau menulis terjemahan.
 
 Sekiranya anda mencari masalah yang ada yang dapat anda perbaiki, setiap projek sumber terbuka mempunyai `/contribute`halaman yang menyoroti masalah mesra pemula yang boleh anda mulakan. Navigasi ke halaman utama repositori di GitHub, dan tambahkan `/contribute` di hujung URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 

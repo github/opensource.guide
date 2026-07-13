@@ -1,13 +1,13 @@
-name: GitHub Actions CI
+name: Weekly External Link Check
 on:
-  push:
-    branches: main
-  pull_request:
-  merge_group:
+  schedule:
+    # Every Monday at 08:00 UTC
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
 permissions:
   contents: read
 jobs:
-  tests:
+  link-check:
     runs-on: ubuntu-latest
     steps:
       - name: Set up Git repository
@@ -22,5 +22,9 @@ jobs:
         run: script/bootstrap
         env:
           SKIP_BUNDLER: true
-      - name: Tests
-        run: script/test
+      - name: Build site
+        run: script/build --config _config.yml,test/_config.yml
+      - name: Check links (including external URLs)
+        run: script/html-proofer
+        env:
+          CHECK_EXTERNAL_LINKS: true

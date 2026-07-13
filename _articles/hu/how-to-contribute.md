@@ -197,7 +197,7 @@ A nyílt forráskód nem egy zártkörű klub; ugyanolyan emberek dolgoznak rajt
 
 Talán épp a README-t olvasod és találsz egy rossz hivatkozást, vagy egy elírást. De az is lehet, hogy új felhasználó vagy és észreveszel valami hibát, vagy egy problémát, amit dokumentálni kellene. Ahelyett, hogy nem törődsz vele és továbblépsz vagy megkérsz valakit, hogy javítsa, inkább ajánld fel a segítséged. Ez az amiről a nyílt forráskód szól!
 
-> [a nyílt forráskódú alkalmi hozzájárulások 28%-a](https://www.igor.pro.br/publica/papers/saner2016.pdf) a dokumentációt érinti, mint például egy elírás javítása, formázás, vagy fordítás.
+> [a nyílt forráskódú alkalmi hozzájárulások 28%-a](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) a dokumentációt érinti, mint például egy elírás javítása, formázás, vagy fordítás.
 
 Ha szeretnél egy hibát javítani, akkor minden nyílt forráskódú projekt esetén találsz egy `/contribute` oldalt, amely segít abban, hogy kezdőként kijavítsd az első hibát. A projekt GitHub kezdőoldal URL-jét egészítsd ki a `/contribute` résszel a végén, (például [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
