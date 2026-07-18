@@ -31,7 +31,7 @@ Verifique a cobertura para a(s) linguagem(ns) do projeto.
 
 * Escolha uma que se integre facilmente às ferramentas e processos que você já usa. Por exemplo, é muito mais prático visualizar os alertas diretamente na sua ferramenta de revisão de código do que precisar abrir um painel externo.
 * Cuidado com falsos positivos! A ferramenta deve ajudar, e não atrasar o seu trabalho sem motivo.
-* Avalie os recursos: algumas ferramentas são extremamente poderosas e realizam o rastreamento de contaminação (*taint tracking*, análise de fluxo de dados sensíveis, como o GitHub CodeQL), outras oferecem sugestões de correção geradas por IA, e há as que facilitam a criação de regras personalizadas (como o Semgrep).
+* Avalie os recursos: algumas ferramentas são extremamente poderosas e realizam o rastreamento de contaminação (_taint tracking_ , análise de fluxo de dados sensíveis, como o GitHub CodeQL), outras oferecem sugestões de correção geradas por IA, e há as que facilitam a criação de regras personalizadas (como o Semgrep).
 
 ## Não compartilhe os seus segredos
 
@@ -39,7 +39,7 @@ Verifique a cobertura para a(s) linguagem(ns) do projeto.
 
 Imagine o seguinte cenário: Você mantém um projeto de código aberto (open source) popular, que recebe contribuições do mundo todo. Um belo dia, um desenvolvedor realiza um commit acidental de  chaves de API de um serviço de terceiros. Pouco tempo depois, alguém encontra essas chaves e as utiliza para acessar o serviço sem permissão. O serviço é comprometido, os usuários enfrentam indisponibilidade e a reputação do projeto vai por água abaixo. Como mantenedor, você agora tem a dor de cabeça de revogar as credenciais vazadas, investigar o que o atacante fez com elas, notificar os usuários afetados e lançar correções.
  
- Para evitar situações como essa, existem soluções de "varredura de segredos" (*secret scanning*) para detectar esses dados sensíveis no seu código. Ferramentas como o GitHub Secret Scanning e o TruffleHog (da Truffle Security) conseguem bloquear o *push* desses dados para as *branches* remotas e, em alguns casos, até revogar as chaves automaticamente para você.
+ Para evitar situações como essa, existem soluções de "varredura de segredos" (_secret scanning_) para detectar esses dados sensíveis no seu código. Ferramentas como o GitHub Secret Scanning e o TruffleHog (da Truffle Security) conseguem bloquear o _push_ desses dados para as _branches_ remotas e, em alguns casos, até revogar as chaves automaticamente para você.
 
 ## Monitore e atualize suas dependências
 
@@ -73,15 +73,15 @@ Um novo colaborador obtém permissão de escrita na branch principal e, acidenta
 
 ### É uma boa prática facilitar o relato de bugs pelos usuários, mas a grande questão é: quando esse bug tem impacto na segurança, como eles podem relatá-lo a você com segurança, sem torná-lo um alvo para hackers maliciosos?
 
-Imagine a seguinte situação: um pesquisador de segurança descobre uma vulnerabilidade no seu projeto, mas não encontra uma maneira clara ou segura de relatá-la. Na ausência de um processo definido, ele pode acabar criando uma *issue* pública ou discutindo o assunto abertamente nas redes sociais. Mesmo que ele tenha boas intenções e ofereça uma correção, se o fizer por meio de um *pull request* público, outras pessoas verão a falha antes mesmo de ela ser incorporada ao código! Essa exposição pública deixará a vulnerabilidade visível para agentes maliciosos antes que você tenha a chance de corrigi-la, o que pode resultar em um *exploit* do tipo *zero-day* que ataque o seu projeto e os seus usuários.
+Imagine a seguinte situação: um pesquisador de segurança descobre uma vulnerabilidade no seu projeto, mas não encontra uma maneira clara ou segura de relatá-la. Na ausência de um processo definido, ele pode acabar criando uma _issue_ pública ou discutindo o assunto abertamente nas redes sociais. Mesmo que ele tenha boas intenções e ofereça uma correção, se o fizer por meio de um _pull request_ público, outras pessoas verão a falha antes mesmo de ela ser incorporada ao código! Essa exposição pública deixará a vulnerabilidade visível para agentes maliciosos antes que você tenha a chance de corrigi-la, o que pode resultar em um _exploit_ do tipo _zero-day_ que ataque o seu projeto e os seus usuários.
 
 ### Políticas de Segurança.
 
-Para evitar isso, publique uma política de segurança. Uma política de segurança, definida em um arquivo `SECURITY.md`, detalha os passos para relatar questões de segurança, criando um processo transparente de divulgação coordenada e estabelecendo as responsabilidades da equipe do projeto em relação ao tratamento dos problemas relatados. Essa política de segurança pode ser tão simples quanto "Por favor, não publique detalhes em uma *issue* pública ou *PR*; envie-nos um e-mail privado para security@example.com", mas também pode incluir outras informações, como o prazo esperado para uma resposta da sua parte. Enfim, qualquer coisa que contribua para a eficácia e a eficiência do processo de divulgação.
+Para evitar isso, publique uma política de segurança. Uma política de segurança, definida em um arquivo `SECURITY.md`, detalha os passos para relatar questões de segurança, criando um processo transparente de divulgação coordenada e estabelecendo as responsabilidades da equipe do projeto em relação ao tratamento dos problemas relatados. Essa política de segurança pode ser tão simples quanto "Por favor, não publique detalhes em uma _issue_ pública ou _PR_; envie-nos um e-mail privado para security@example.com", mas também pode incluir outras informações, como o prazo esperado para uma resposta da sua parte. Enfim, qualquer coisa que contribua para a eficácia e a eficiência do processo de divulgação.
 
 ### Relato Privado de Vulnerabilidades.
 
-Em algumas plataformas, você pode otimizar e fortalecer seu processo de gerenciamento de vulnerabilidades, desde o recebimento do relato até a divulgação pública, utilizando *issues* privadas. No GitLab, isso é feito por meio de *issues* privadas. No GitHub, o recurso é chamado de *Private Vulnerability Reporting* (Relato Privado de Vulnerabilidades ou PVR). O PVR permite que os mantenedores recebam e tratem relatos de vulnerabilidades, tudo dentro da própria plataforma GitHub. O GitHub cria automaticamente um *fork* privado para a implementação das correções e um rascunho de comunicado de segurança (*security advisory*). Todo esse processo permanece confidencial até que você decida divulgar as vulnerabilidades e disponibilizar as correções. Por fim, os comunicados de segurança são publicados, informando e protegendo todos os seus usuários por meio de suas ferramentas de Análise de Composição de Software (*Software Composition Analysis* ou SCA).
+Em algumas plataformas, você pode otimizar e fortalecer seu processo de gerenciamento de vulnerabilidades, desde o recebimento do relato até a divulgação pública, utilizando _issues_ privadas. No GitLab, isso é feito por meio de _issues_ privadas. No GitHub, o recurso é chamado de _Private Vulnerability Reporting_ (Relato Privado de Vulnerabilidades ou PVR). O PVR permite que os mantenedores recebam e tratem relatos de vulnerabilidades, tudo dentro da própria plataforma GitHub. O GitHub cria automaticamente um _fork_ privado para a implementação das correções e um rascunho de comunicado de segurança (_security advisory_). Todo esse processo permanece confidencial até que você decida divulgar as vulnerabilidades e disponibilizar as correções. Por fim, os comunicados de segurança são publicados, informando e protegendo todos os seus usuários por meio de suas ferramentas de Análise de Composição de Software (_Software Composition Analysis_ ou SCA).
 
 ### Defina seu modelo de ameaças para ajudar usuários e pesquisadores a entender o escopo.
 
@@ -100,7 +100,6 @@ Publicar um modelo de ameaças básico juntamente com a sua política de seguran
 ### Ter um plano básico de resposta a incidentes ajuda você a manter a calma e agir com eficiência, garantindo a segurança de seus usuários e consumidores.
 
 A maioria das vulnerabilidades é descoberta por pesquisadores e relatada de forma privada. No entanto, às vezes, uma falha já está sendo explorada em ambiente real antes de chegar até você. Quando isso ocorre, são os seus usuários e consumidores downstream que correm riscos, e contar com um plano de resposta a incidentes ágil e bem definido pode fazer uma diferença crucial.
-
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ulisesgascon?s=180" class="pquote-avatar" alt="avatar">
