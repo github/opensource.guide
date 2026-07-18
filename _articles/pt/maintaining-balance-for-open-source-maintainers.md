@@ -126,7 +126,8 @@ Isso será diferente para cada mantenedor e mudará dependendo de sua fase de vi
   Se você encontrar certos aspectos de seu projeto particularmente agradáveis, tente estruturar seu trabalho de forma que você possa experimentá-los ao longo do dia.
 
 <aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/danielroe?s=180" class "pquote-avatar" alt="avatar">
+  <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
+  
  Estou encontrando mais oportunidade para espalhar 'momentos de criatividade' no meio do dia, em vez de tentar desligar à noite.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, mantenedor do Nuxt
