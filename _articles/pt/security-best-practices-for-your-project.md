@@ -1,158 +1,157 @@
 ---
 lang: pt
-untranslated: true
-title: Security Best Practices for your Project
-description: Strengthen your project's future by building trust through essential security practices — from MFA and code scanning to safe dependency management and private vulnerability reporting.
+title: Melhores práticas de segurança para o seu projeto
+description: Fortaleça o futuro do seu projeto construindo confiança por meio de práticas essenciais de segurança — desde a autenticação multifator (MFA) e varredura de código até o gerenciamento seguro de dependências e o relato privado de vulnerabilidades.
 class: security-best-practices
 order: -1
 image: /assets/images/cards/security-best-practices.png
 ---
 
-Bugs and new features aside, a project's longevity hinges not only on its usefulness but also on the trust it earns from its users. Strong security measures are important to keep this trust alive. Here are some important actions you can take to significantly improve your project's security.
+Deixando de lado bugs e novos recursos, a longevidade de um projeto depende não apenas de sua utilidade, mas também da confiança que ele conquista junto aos usuários. Medidas de segurança robustas são fundamentais para manter essa confiança. Aqui estão algumas ações importantes que você pode adotar para melhorar significativamente a segurança do seu projeto.
 
-## Ensure all privileged contributors have enabled Multi-Factor Authentication (MFA)
+## Garanta que todos os contribuidores com privilégios ativem a autenticação multifator (MFA)
 
-### A malicious actor who manages to impersonate a privileged contributor to your project, will cause catastrophic damages.
+### Um agente malicioso que consiga assumir a conta de um contribuidor com privilégios causará danos catastróficos.
 
-Once they obtain the privileged access, this actor can modify your code to make it perform unwanted actions (e.g. mine cryptocurrency), or can distribute malware to your users' infrastructure, or can access private code repositories to exfiltrate intellectual property and sensitive data, including credentials to other services. 
+Ao obter acesso privilegiado, esse atacante pode modificar seu código para executar ações indesejadas (como minerar criptomoedas), distribuir malware para a infraestrutura dos seus usuários ou acessar repositórios privados para roubar propriedade intelectual e dados sensíveis, incluindo credenciais de outros serviços.
 
-MFA provides an additional layer of security against account takeover. Once enabled, you have to log in with your username and password and provide another form of authentication that only you know or have access to.
+O MFA adiciona uma camada extra de proteção contra o roubo de contas. Com ele ativado, além de informar seu usuário e senha, você precisa fornecer uma segunda forma de autenticação que apenas você possui ou tem acesso.
 
-## Secure your code as part of your development workflow
+## Integre a segurança ao seu fluxo de desenvolvimento (Workflow)
 
-### Security vulnerabilities in your code are cheaper to fix when detected early in the process than later, when they are used in production.
+### Vulnerabilidades de código são muito mais baratas e fáceis de corrigir quando detectadas no início do processo, antes de chegarem à produção.
 
-Use a Static Application Security Testing (SAST) tool to detect security vulnerabilities in your code. These tools are operating at code level and don't need an executing environment, and therefore can be executed early in the process, and can be seamlessly integrated in your usual development workflow, during the build or during the code review phases. 
+Utilize uma ferramenta de Teste Estático de Segurança de Aplicações (SAST) para identificar falhas no seu código. Essas ferramentas analisam diretamente o código-fonte, sem precisar de um ambiente de execução. Por isso, podem rodar logo nas primeiras etapas e se integrar perfeitamente ao seu fluxo de trabalho atual, seja durante a compilação (build) ou nas revisões de código (code review).
 
-It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
+É como ter um especialista experiente revisando seu repositório, ajudando a encontrar vulnerabilidades comuns que poderiam passar despercebidas durante o desenvolvimento.
 
-How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
+Como escolher sua ferramenta SAST?
+Verifique a licença: Várias ferramentas são gratuitas para projetos open source, como o GitHub CodeQL e o Semgrep.
+Verifique a cobertura para a(s) linguagem(ns) do projeto.
 
-* Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
-* Beware of False Positives! You don't want the tool to slow you down for no reason!
-* Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
+* Escolha uma que se integre facilmente às ferramentas e processos que você já usa. Por exemplo, é muito mais prático visualizar os alertas diretamente na sua ferramenta de revisão de código do que precisar abrir um painel externo.
+* Cuidado com falsos positivos! A ferramenta deve ajudar, e não atrasar o seu trabalho sem motivo.
+* Avalie os recursos: algumas ferramentas são extremamente poderosas e realizam o rastreamento de contaminação (_taint tracking_ , análise de fluxo de dados sensíveis, como o GitHub CodeQL), outras oferecem sugestões de correção geradas por IA, e há as que facilitam a criação de regras personalizadas (como o Semgrep).
 
-## Don't share your secrets
+## Não compartilhe os seus segredos
 
-### Sensitive data, such as API keys, tokens, and passwords, can sometimes accidentally get committed to your repository.
+### Dados sensíveis, como chaves de API, tokens e senhas, podem acabar indo parar acidentalmente nos seus commits.
 
-Imagine this scenario: You are the maintainer of a popular open-source project with contributions from developers worldwide. One day, a contributor unknowingly commits to the repository some API keys of a third-party service. Days later, someone finds these keys and uses them to get into the service without permission. The service is compromised, users of your project experience downtime, and your project's reputation takes a hit. As the maintainer, you're now faced with the daunting tasks of revoking compromised secrets, investigating what malicious actions the attacker could have performed with this secret, notifying affected users, and implementing fixes. 
+Imagine o seguinte cenário: Você mantém um projeto de código aberto (open source) popular, que recebe contribuições do mundo todo. Um belo dia, um desenvolvedor realiza um commit acidental de  chaves de API de um serviço de terceiros. Pouco tempo depois, alguém encontra essas chaves e as utiliza para acessar o serviço sem permissão. O serviço é comprometido, os usuários enfrentam indisponibilidade e a reputação do projeto vai por água abaixo. Como mantenedor, você agora tem a dor de cabeça de revogar as credenciais vazadas, investigar o que o atacante fez com elas, notificar os usuários afetados e lançar correções.
+ 
+ Para evitar situações como essa, existem soluções de "varredura de segredos" (_secret scanning_) para detectar esses dados sensíveis no seu código. Ferramentas como o GitHub Secret Scanning e o TruffleHog (da Truffle Security) conseguem bloquear o _push_ desses dados para as _branches_ remotas e, em alguns casos, até revogar as chaves automaticamente para você.
 
-To prevent such incidents, "secret scanning" solutions exist to help you detect those secrets in your code. Some tools like GitHub Secret Scanning, and Trufflehog by Truffle Security can prevent you from pushing them to remote branches in the first place, and some tools will automatically revoke some secrets for you. 
+## Monitore e atualize suas dependências
 
-## Check and update your dependencies
+### As dependências do seu projeto podem conter vulnerabilidades que comprometem a segurança da sua aplicação. Atualizá-las manualmente é uma tarefa que pode consumir tempo.
 
-### Dependencies in your project can have vulnerabilities that compromise the security of your project. Manually keeping dependencies up to date can be a time-consuming task.
+Imagine a seguinte situação: um projeto foi construído sobre uma biblioteca super popular. Tempos depois, descobre-se uma falha crítica de segurança nessa biblioteca, mas as equipes que a utilizam na aplicação não ficam sabendo. Dados sensíveis de usuários ficam expostos e um atacante explora a brecha para roubá-los. Isso não é só teoria: foi exatamente o que aconteceu com a Equifax em 2017. Eles falharam em atualizar o Apache Struts após o alerta de uma vulnerabilidade grave. A falha foi explorada e o megavazamento afetou os dados de 144 milhões de usuários.
 
-Picture this: a project built on the sturdy foundation of a widely-used library. The library later finds a big security problem, but the people who built the application using it don't know about it. Sensitive user data is left exposed when an attacker takes advantage of this weakness, swooping in to grab it. This is not a theoretical case. This is exactly what happened to Equifax in 2017: They failed to update their Apache Struts dependency after the notification that a severe vulnerability was detected. It was exploited, and the infamous Equifax breach affected 144 million users' data. 
+Para evitar esse tipo de cenário, ferramentas de Análise de Composição de Software (SCA), como Dependabot e Renovate, verificam automaticamente suas dependências em busca de vulnerabilidades registradas em bancos de dados públicos (como o NVD ou o GitHub Advisory Database) e abrem Pull Requests para atualizá-las para versões seguras. Manter suas bibliotecas em dia é a melhor defesa contra riscos potenciais.
 
-To prevent such scenarios, Software Composition Analysis (SCA) tools such as Dependabot and Renovate automatically check your dependencies for known vulnerabilities published in public databases such as the NVD or the GitHub Advisory Database, and then creates pull requests to update them to safe versions. Staying up-to-date with the latest safe dependency versions safeguards your project from potential risks. 
+## Entenda e gerencie os riscos das licenças Open Source
 
-## Understand and manage open source license risks
+### Licenças de código aberto possuem regras, e ignorá-las pode gerar riscos legais e problemas de reputação.
 
-### Open source licenses come with terms and ignoring them can lead to legal and reputational risks.
+Usar pacotes open source acelera o desenvolvimento, mas cada um deles vem com uma licença que dita como o código pode ser usado, modificado e distribuído. [Algumas licenças são permissivas](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project), enquanto outras (como AGPL ou SSPL) impõem restrições que podem bater de frente com os objetivos do seu projeto ou com as necessidades de seus usuários.
 
-Using open source dependencies can speed up development, but each package includes a license that defines how it can be used, modified, or distributed. [Some licenses are permissive](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project), while others (like AGPL or SSPL) impose restrictions that may not be compatible with your project's goals or your users' needs.
+Imagine a seguinte situação: você adiciona uma biblioteca poderosa ao seu projeto, sem saber que ela utiliza uma licença restritiva. Mais tarde, uma empresa quer adotar o seu projeto, mas levanta preocupações sobre a conformidade da licença. O resultado? Você perde a oportunidade de adoção, precisa refatorar o código e a reputação do seu projeto é prejudicada.
 
-Imagine this: You add a powerful library to your project, unaware that it uses a restrictive license. Later, a company wants to adopt your project but raises concerns about license compliance. The result? You lose adoption, need to refactor code, and your project's reputation takes a hit.
+Para evitar esses problemas, considere incluir verificações automatizadas de licenças como parte do seu fluxo de trabalho de desenvolvimento. Essas verificações podem ajudar a identificar licenças incompatíveis logo no início do processo, evitando que dependências problemáticas sejam introduzidas no seu projeto.
 
-To avoid these pitfalls, consider including automated license checks as part of your development workflow. These checks can help identify incompatible licenses early in the process, preventing problematic dependencies from being introduced into your project.
+Outra abordagem poderosa é a geração de uma Lista de Materiais de Software (Software Bill of Materials ou SBOM). Uma SBOM relaciona todos os componentes e seus metadados (incluindo licenças) em um formato padronizado. Ela proporciona visibilidade clara da sua cadeia de suprimentos de software e ajuda a identificar proativamente riscos relacionados a licenciamento.
 
-Another powerful approach is generating a Software Bill of Materials (SBOM). An SBOM lists all components and their metadata (including licenses) in a standardized format. It offers clear visibility into your software supply chain and helps surface licensing risks proactively.
+Assim como as vulnerabilidades de segurança, problemas de licenciamento são mais fáceis de corrigir quando descobertos precocemente. Automatizar esse processo mantém seu projeto saudável e seguro.
 
-Just like security vulnerabilities, license issues are easier to fix when discovered early. Automating this process keeps your project healthy and safe.
+## Evite alterações indesejadas com branches protegidas
 
-## Avoid unwanted changes with protected branches
+### O acesso irrestrito às branches principais pode resultar em alterações acidentais ou maliciosas, quebrando a estabilidade do projeto ou introduzindo vulnerabilidades.
 
-### Unrestricted access to your main branches can lead to accidental or malicious changes that may introduce vulnerabilities or disrupt the stability of your project.
+Um novo colaborador obtém permissão de escrita na branch principal e, acidentalmente, envia alterações que não foram testadas. Em seguida, descobre-se uma falha de segurança crítica decorrente dessas alterações recentes. Para evitar problemas desse tipo, as regras de proteção de branch garantem que alterações não possam ser enviadas ou mescladas em branches importantes sem antes passar por revisões e cumprir verificações de status específicas. Com essa medida adicional em vigor, você ganha mais segurança e tranquilidade, assegurando sempre uma qualidade de alto nível.
 
-A new contributor gets write access to the main branch and accidentally pushes changes that have not been tested. A dire security flaw is then uncovered, courtesy of the latest changes. To prevent such issues, branch protection rules ensure that changes cannot be pushed or merged into important branches without first undergoing reviews and passing specified status checks. You're safer and better off with this extra measure in place, guaranteeing top-notch quality every time.
+## Facilite (e torne seguro) o relato de problemas de segurança
 
-## Make it easy (and safe) to report security issues
+### É uma boa prática facilitar o relato de bugs pelos usuários, mas a grande questão é: quando esse bug tem impacto na segurança, como eles podem relatá-lo a você com segurança, sem torná-lo um alvo para hackers maliciosos?
 
-### It's a good practice to make it easy for your users to report bugs, but the big question is: when this bug has a security impact, how can they safely report them to you without putting a target on you for malicious hackers?
+Imagine a seguinte situação: um pesquisador de segurança descobre uma vulnerabilidade no seu projeto, mas não encontra uma maneira clara ou segura de relatá-la. Na ausência de um processo definido, ele pode acabar criando uma _issue_ pública ou discutindo o assunto abertamente nas redes sociais. Mesmo que ele tenha boas intenções e ofereça uma correção, se o fizer por meio de um _pull request_ público, outras pessoas verão a falha antes mesmo de ela ser incorporada ao código! Essa exposição pública deixará a vulnerabilidade visível para agentes maliciosos antes que você tenha a chance de corrigi-la, o que pode resultar em um _exploit_ do tipo _zero-day_ que ataque o seu projeto e os seus usuários.
 
-Picture this: A security researcher discovers a vulnerability in your project but finds no clear or secure way to report it. Without a designated process, they might create a public issue or discuss it openly on social media. Even if they are well-intentioned and offer a fix, if they do it with a public pull request, others will see it before it's merged! This public disclosure will expose the vulnerability to malicious actors before you have a chance to address it, potentially leading to a zero-day exploit, attacking your project and its users.
+### Políticas de Segurança.
 
-### Security Policy
+Para evitar isso, publique uma política de segurança. Uma política de segurança, definida em um arquivo `SECURITY.md`, detalha os passos para relatar questões de segurança, criando um processo transparente de divulgação coordenada e estabelecendo as responsabilidades da equipe do projeto em relação ao tratamento dos problemas relatados. Essa política de segurança pode ser tão simples quanto "Por favor, não publique detalhes em uma _issue_ pública ou _PR_; envie-nos um e-mail privado para security@example.com", mas também pode incluir outras informações, como o prazo esperado para uma resposta da sua parte. Enfim, qualquer coisa que contribua para a eficácia e a eficiência do processo de divulgação.
 
-To avoid this, publish a security policy. A security policy, defined in a `SECURITY.md` file, details the steps for reporting security concerns, creating a transparent process for coordinated disclosure, and establishing the project team's responsibilities for addressing reported issues. This security policy can be as simple as "Please don't publish details in a public issue or PR, send us a private email at security@example.com", but can also contain other details such as when they should expect to receive an answer from you. Anything that can help the effectiveness and the efficiency of the disclosure process.
+### Relato Privado de Vulnerabilidades.
 
-### Private Vulnerability Reporting
+Em algumas plataformas, você pode otimizar e fortalecer seu processo de gerenciamento de vulnerabilidades, desde o recebimento do relato até a divulgação pública, utilizando _issues_ privadas. No GitLab, isso é feito por meio de _issues_ privadas. No GitHub, o recurso é chamado de _Private Vulnerability Reporting_ (Relato Privado de Vulnerabilidades ou PVR). O PVR permite que os mantenedores recebam e tratem relatos de vulnerabilidades, tudo dentro da própria plataforma GitHub. O GitHub cria automaticamente um _fork_ privado para a implementação das correções e um rascunho de comunicado de segurança (_security advisory_). Todo esse processo permanece confidencial até que você decida divulgar as vulnerabilidades e disponibilizar as correções. Por fim, os comunicados de segurança são publicados, informando e protegendo todos os seus usuários por meio de suas ferramentas de Análise de Composição de Software (_Software Composition Analysis_ ou SCA).
 
-On some platforms, you can streamline and strengthen your vulnerability management process, from intake to broadcast, with private issues. On GitLab, this can be done with private issues. On GitHub, this is called private vulnerability reporting (PVR). PVR enables maintainers to receive and address vulnerability reports, all within the GitHub platform. GitHub will automatically create a private fork to write the fixes, and a draft security advisory. All of this remains confidential until you decide to disclose the issues and release the fixes. To close the loop, security advisories will be published, and will inform and protect all your users through their SCA tool.
+### Defina seu modelo de ameaças para ajudar usuários e pesquisadores a entender o escopo.
 
-### Define your threat model to help users and researchers understand scope
+Antes que pesquisadores de segurança possam relatar problemas de forma eficaz, eles precisam entender quais riscos estão no escopo. Um modelo de ameaças simplificado pode ajudar a definir os limites, o comportamento esperado e as premissas do seu projeto.
 
-Before security researchers can report issues effectively, they need to understand what risks are in scope. A lightweight threat model can help define your project's boundaries, expected behavior, and assumptions.
+Um modelo de ameaças não precisa ser complexo. Mesmo um documento simples, descrevendo o que seu projeto faz, em que ele confia e como pode ser utilizado indevidamente, já é de grande valia. Além disso, ele ajuda você, como mantenedor, a refletir sobre possíveis problemas e riscos herdados de dependências de terceiros.
 
-A threat model doesn't need to be complex. Even a simple document outlining what your project does, what it trusts, and how it could be misused goes a long way. It also helps you, as a maintainer, think through potential pitfalls and inherited risks from upstream dependencies.
+Um excelente exemplo é o [modelo de ameaças do Node.js](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model), que deixa muito claro o que é e o que não é considerado uma falha de segurança no contexto do projeto deles.
 
-A great example is the [Node.js threat model](https://github.com/nodejs/node/security/policy#the-nodejs-threat-model), which clearly defines what is and isn't considered a vulnerability in the project's context.
+Se você nunca fez isso, o [Processo de Modelagem de Ameaças da OWASP](https://owasp.org/www-community/Threat_Modeling_Process) é um ótimo ponto de partida.
 
-If you're new to this, the [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process) offers a helpful introduction to build your own.
+Publicar um modelo de ameaças básico juntamente com a sua política de segurança aumenta a clareza para todos.
 
-Publishing a basic threat model alongside your security policy improves clarity for everyone.
+## Prepare um plano simples de resposta a incidentes
 
-## Prepare a lightweight incident response process
+### Ter um plano básico de resposta a incidentes ajuda você a manter a calma e agir com eficiência, garantindo a segurança de seus usuários e consumidores.
 
-### Having a basic incident response plan helps you stay calm and act efficiently, ensuring the safety of your users and consumers.
-
-Most vulnerabilities are discovered by researchers and reported privately. But sometimes, an issue is already being exploited in the wild before it reaches you. When this happens, your downstream consumers are the ones at risk, and having a lightweight, well-defined incident response plan can make a critical difference.
+A maioria das vulnerabilidades é descoberta por pesquisadores e relatada de forma privada. No entanto, às vezes, uma falha já está sendo explorada em ambiente real antes de chegar até você. Quando isso ocorre, são os seus usuários e consumidores downstream que correm riscos, e contar com um plano de resposta a incidentes ágil e bem definido pode fazer uma diferença crucial.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ulisesgascon?s=180" class="pquote-avatar" alt="avatar">
-  A vulnerability is basically a flaw, a security misconfiguration or a weak point in our system that can be exploited by third parties to behave in unintended ways.
+  Uma vulnerabilidade é basicamente uma falha, uma má configuração de segurança ou um ponto fraco em nosso sistema que pode ser explorado por terceiros para se comportar de maneiras não intencionais.
   <p markdown="1" class="pquote-credit">
-— [@UlisesGascon](https://github.com/ulisesgascon), ["What is a Vulnerability and What's Not? Making Sense of Node.js and Express Threat Models"](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
+— [@UlisesGascon](https://github.com/ulisesgascon), ["O que é uma Vulnerabilidade e o que não é? Entendendo os Modelos de Ameaças do Node.js e Express"](https://gitnation.com/contents/what-is-a-vulnerability-and-whats-not-making-sense-of-nodejs-and-express-threat-models)
   </p>
 </aside>
 
-Even when a vulnerability is reported privately, the next steps matter. Once you receive a vulnerability report or detect suspicious activity, what happens next?
+Mesmo quando uma vulnerabilidade é relatada de forma privada, os próximos passos são importantes. Depois de receber um relatório de vulnerabilidade ou detectar atividade suspeita, o que acontece em seguida?
 
-Having a basic incident response plan, even a simple checklist, helps you stay calm and act efficiently when time matters. It also shows users and researchers that you take incidents and reports seriously.
+Ter um plano básico de resposta a incidentes, mesmo que seja apenas uma lista de verificação simples, ajuda você a manter a calma e a agir com eficiência quando o tempo é crucial. Isso também demonstra aos usuários e pesquisadores que você trata incidentes e relatos com seriedade.
 
-Your process doesn't have to be complex. At minimum, define:
+Seu processo não precisa ser complexo. No mínimo, defina:
 
-* Who reviews and triages security reports or alerts  
-* How severity is evaluated and how mitigation decisions are made  
-* What steps you take to prepare a fix and coordinate disclosure  
-* How you notify affected users, contributors, or downstream consumers 
+* Quem analisa e faz a triagem de relatórios ou alertas de segurança  
+* Como a gravidade é avaliada e como as decisões de mitigação são tomadas  
+* Quais etapas você segue para preparar uma correção e coordenar a divulgação  
+* Como você notifica usuários, colaboradores ou consumidores downstream afetados
 
-An active incident, if not well managed, can erode trust in your project from your users. Publishing this (or linking to it) in your `SECURITY.md` file can help set expectations and build trust.
+Um incidente mal conduzido pode destruir a confiança da comunidade. Documentar o processo (ou criar um link para ele) no seu `SECURITY.md` ajuda a alinhar expectativas e construir credibilidade.
 
-For inspiration, the [Express.js Security WG](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) provides a simple but effective example of an open source incident response plan.
+Para se inspirar, o [Security WG do Express.js](https://github.com/expressjs/security-wg/blob/main/docs/incident_response_plan.md) tem um exemplo simples, porém extremamente eficaz, de plano de resposta a incidentes para open source.
 
-This plan can evolve as your project grows, but having a basic framework in place now can save time and reduce mistakes during a real incident.
+Este plano pode evoluir à medida que seu projeto cresce, mas contar com uma estrutura básica desde já pode economizar tempo e reduzir erros durante um incidente real.
 
-## Treat security as a team effort
+## Trate a segurança como um esforço em equipe
 
-### Security isn't a solo responsibility. It works best when shared across your project's community.
+### A segurança não é uma responsabilidade individual. Ela funciona melhor quando compartilhada com a comunidade do seu projeto.
 
-While tools and policies are essential, a strong security posture comes from how your team and contributors work together. Building a culture of shared responsibility helps your project identify, triage, and respond to vulnerabilities faster and more effectively.
+Embora ferramentas e políticas sejam essenciais, uma postura de segurança sólida deriva da forma como sua equipe e seus colaboradores trabalham juntos. Construir uma cultura de responsabilidade compartilhada ajuda seu projeto a identificar, triar e responder a vulnerabilidades de maneira mais rápida e eficaz.
 
-Here are a few ways to make security a team sport:
+Aqui estão algumas maneiras de transformar a segurança em um trabalho de equipe:
 
-* **Assign clear roles**: Know who handles vulnerability reports, who reviews dependency updates, and who approves security patches.
-* **Limit access using the principle of least privilege**: Only give write or admin access to those who truly need it and review permissions regularly.
-* **Invest in education**: Encourage contributors to learn about secure coding practices, common vulnerability types, and how to use your tools (like SAST or secret scanning).
-* **Foster diversity and collaboration**: A heterogeneous team brings a wider set of experiences, threat awareness, and creative problem-solving skills. It also helps uncover risks others might overlook.
-* **Engage upstream and downstream**: Your dependencies can affect your security and your project affects others. Participate in coordinated disclosure with upstream maintainers, and keep downstream users informed when vulnerabilities are fixed.
+* **Defina papéis claros**: Saiba quem lida com relatórios de vulnerabilidade, quem analisa atualizações de dependências e quem aprova patches de segurança.
+* **Limite o acesso usando o princípio do privilégio mínimo**: Conceda acesso de gravação ou de administrador apenas a quem realmente precisa e revise as permissões regularmente.
+* **Invista em educação**: Incentive os colaboradores a aprender sobre práticas de codificação segura, tipos comuns de vulnerabilidade e como utilizar suas ferramentas (como SAST ou varredura de segredos).
+* **Promover a diversidade e a colaboração**: Uma equipe heterogênea traz um conjunto mais amplo de experiências, consciência de ameaças e habilidades criativas para a resolução de problemas. Também ajuda a identificar riscos que outros poderiam deixar passar.
+* **Comunique-se com o ecossistema (upstream e downstream)**: A sua segurança depende dos pacotes que você usa, e quem usa o seu pacote depende da sua segurança. Participe de divulgações coordenadas com os mantenedores das suas dependências e não deixe seus usuários no escuro quando lançar uma correção.
 
-Security is an ongoing process, not a one-time setup. By involving your community, encouraging secure practices, and supporting each other, you build a stronger, more resilient project and a safer ecosystem for everyone.
+A segurança é um processo contínuo, não uma configuração realizada uma única vez. Ao envolver sua comunidade, incentivar práticas seguras e apoiar uns aos outros, vocês constroem um projeto mais forte e resiliente, além de um ecossistema mais seguro para todos.
 
-## Conclusion: A few steps for you, a huge improvement for your users
+## Conclusão: Alguns passos para você, uma enorme melhoria para seus usuários.
 
-These few steps might seem easy or basic to you, but they go a long way to make your project more secure for its users, because they will provide protection against the most common issues.
+Estes poucos passos podem parecer simples ou básicos, mas contribuem significativamente para tornar seu projeto mais seguro para os usuários, pois oferecem proteção contra os problemas mais comuns.
 
-Security isn't static. Revisit your processes from time to time as your project grows, so do your responsibilities and your attack surface.
+A segurança não é estática. Revise seus processos periodicamente à medida que o projeto cresce; com o crescimento, também aumentam suas responsabilidades e a superfície de ataque.
 
-## Contributors
+## Contribuidores
 
-### Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
+### Muito obrigado a todos os mantenedores que compartilharam suas experiências e dicas conosco para este guia!
 
-This guide was written by [@nanzggits](https://github.com/nanzggits) & [@xcorail](https://github.com/xcorail) with contributions from: 
+Este guia foi escrito por [@nanzggits](https://github.com/nanzggits) e [@xcorail](https://github.com/xcorail) com contribuições de: 
 
-[@JLLeitschuh](https://github.com/JLLeitschuh), [@intrigus-lgtm](https://github.com/intrigus-lgtm), [@UlisesGascon](https://github.com/ulisesgascon) + many others!
+[@JLLeitschuh](https://github.com/JLLeitschuh), [@intrigus-lgtm](https://github.com/intrigus-lgtm), [@UlisesGascon](https://github.com/ulisesgascon) e muitos outros!
