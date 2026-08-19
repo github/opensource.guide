@@ -26,6 +26,7 @@ Ka qaybqaadashada il-furan waxay noqon kartaa hab aad u wanaagsan oo wax lagu ba
 Haddii aad tahay qof ku cusub ka qaybqaadashada il-furan, nidaamku wuxuu u ekaan karaa mid adag. Ha welwelin! Waxaa jira habab badan oo looga qaybqaadan karo.
 
 ### Qasab ma aha in aad taqaanid sida loo koodheeyo
+
 Khaladka ugu weyn ee laga aaminsan yahay il-furan ayaa ah inaad u baahan tahay inaad koodh qorto. Xaqiiqdii, inta badan qaybaha kale ee mashruuca ayaa ah kuwa loogu baahida badan yahay.
 
 Waxaad caawimaad aad u weyn ka gaysan kartaa adigoo ku darsada:
