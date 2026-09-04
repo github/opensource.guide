@@ -12,6 +12,12 @@
   {% assign locales = site.data.locales | sort %}
   {% for locale in locales %}
   {% assign lang = locale[0] %}
+  {% if page.layout == 'article' and lang != page.lang %}
+  {% assign translated_article = site.articles | where: 'lang', lang | where: 'class', page.class | first %}
+  {% unless translated_article %}
+    {% continue %}
+  {% endunless %}
+  {% endif %}
   {% assign page_lang_slash = page.lang | append: '/' | prepend: '/' %}
   {% assign default_url = page.url | replace: page_lang_slash, '/' %}
   {% if lang == "en" %}

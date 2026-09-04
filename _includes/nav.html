@@ -37,6 +37,12 @@
               {% for locale in locales %}
               {% assign lang = locale[0] %}
               {% assign locale_name = locale[1][lang].locale_name %}
+              {% if page.layout == 'article' and lang != page.lang %}
+              {% assign translated_article = site.articles | where: 'lang', lang | where: 'class', page.class | first %}
+              {% unless translated_article %}
+                {% continue %}
+              {% endunless %}
+              {% endif %}
               {% if page.lang == lang %}
               <option value="{{ lang }}" selected="selected">{{ locale_name }}</option>
               {% else %}
