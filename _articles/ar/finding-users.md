@@ -99,7 +99,7 @@ related:
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   كنت متوترة جدًا بشأن الذهاب إلى PyCon. كنت سألقي محاضرة، ولم أكن أعرف سوى شخصين هناك، وكنت سأبقى لمدة أسبوع كامل. (...) لكن لم يكن عليّ أن أقلق. كان PyCon رائعًا للغاية! (...) كان الجميع ودودين ومتفتحين للغاية، لدرجة أنني نادرًا ما وجدت وقتًا لا أتحدث فيه مع الناس!
   <p markdown="1" class="pquote-credit">
-— @jhamrick, ["كيف تعلمت التوقف عن القلق وحبPyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
+— @jhamrick, ["كيف تعلمت التوقف عن القلق وحبPyCon"](https://web.archive.org/web/20260804121535/https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
 </aside>
 

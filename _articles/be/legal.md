@@ -98,7 +98,7 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Мы выдалілі CLA для Node.js. Гэта зніжае бар'ер для ўваходу ў Node.js, тым самым пашыраючы базу ўдзельнікаў.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Пашырэнне супольнасці Node.js"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Пашырэнне супольнасці Node.js"](https://web.archive.org/web/20220528034138/https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

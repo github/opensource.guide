@@ -105,7 +105,7 @@ related:
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
 لقد ألغينا اتفاقية ترخيص المساهمين(CLA) لمشروع Node.js. إن القيام بذلك يقلل من العوائق أمام المساهمين في Node.js. مما يوسع قاعدة المساهمين.
 <p markdown="1" class="pquote-credit">
-— @bcantrill, [" توسيع نطاق المساهمات فيNode.js "](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
+— @bcantrill, [" توسيع نطاق المساهمات فيNode.js "](https://web.archive.org/web/20220528034138/https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
