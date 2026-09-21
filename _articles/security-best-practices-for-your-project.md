@@ -27,9 +27,9 @@ Use a Static Application Security Testing (SAST) tool to detect security vulnera
 It's like having a skilled expert look over your code repository, helping you find common security vulnerabilities that could be hiding in plain sight as you code. 
 
 How to choose your SAST tool?
-Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
-Check the coverage for your language(s)
 
+* Check the license: Some tools are free for open source projects. For example GitHub CodeQL or SemGrep.
+* Check the coverage for your language(s)
 * Select one that easily integrates with the tools you already use, with your existing process. For example, it's better if the alerts are available as part of your existing code review process and tool, rather than going to another tool to see them.
 * Beware of False Positives! You don't want the tool to slow you down for no reason!
 * Check the features: some tools are very powerful and can do taint tracking (example: GitHub CodeQL), some propose AI-generated fix suggestions, some make it easier to write custom queries (example: SemGrep).  
