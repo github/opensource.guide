@@ -100,7 +100,7 @@ Pia, kwa kuongeza "karatasi" ambayo wengine wanaweza kuamini kuwa si ya lazima, 
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   Tumefuta CLA kwa Node.js. Kufanya hivyo kunapunguza kizuizi cha kuingia kwa wachangiaji wa Node.js hivyo kupanua msingi wa wachangiaji.
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Kupanua Michango ya Node.js"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Kupanua Michango ya Node.js"](https://web.archive.org/web/20220528034138/https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 

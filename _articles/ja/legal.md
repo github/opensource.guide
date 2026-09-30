@@ -98,7 +98,7 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   Node.js では CLA を廃止しました。こうすることによって、 Node.js のコントリビューターになる敷居が下がり、コントリビューターの層を広げる事ができます。
   <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
+— @bcantrill, ["Broadening Node.js Contributions"](https://web.archive.org/web/20220528034138/https://www.joyent.com/blog/broadening-node-js-contributions)
   </p>
 </aside>
 
