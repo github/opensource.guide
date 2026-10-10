@@ -1,6 +1,18 @@
 require_relative "./helper"
 
 describe "lint test" do
+  describe "index.html frontmatter" do
+    before do
+      @data = SafeYAML.load_file("index.html")
+    end
+
+    it "uses the expected frontmatter keys and values" do
+      assert_equal %w[lang layout], @data.keys.sort
+      assert_equal "index", @data["layout"]
+      assert_equal "en", @data["lang"]
+    end
+  end
+
   pages.each do |page|
     next unless page["path"].match?(/\.md$/)
 
