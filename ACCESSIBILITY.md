@@ -4,7 +4,7 @@
 Include a brief statement describing why accessibility matters to your
 project, who should be able to use and contribute to it, and what this
 document covers, such as your accessibility commitments, contributor
-expectations, and issue-reporting proces.
+expectations, and issue-reporting process.
 
 Write for people who may read this after encountering a barrier. Use plain
 language and describe user experiences rather than relying on legal
