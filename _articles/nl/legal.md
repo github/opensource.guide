@@ -40,7 +40,7 @@ Als u wilt dat anderen uw project gebruiken, distribueren, wijzigen of eraan bij
 
 Je hebt geluk, want tegenwoordig zijn open source-licenties gestandaardiseerd en gebruiksvriendelijk. U kunt een bestaande licentie rechtstreeks in uw project kopiëren en plakken.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) en [GPLv3](https://choicealicense.com/licenses/gpl-3.0/) zijn de meest populaire open source-licenties, maar er zijn andere opties om uit te kiezen. U kunt de volledige tekst van deze licenties en instructies voor het gebruik ervan vinden op [choosealicense.com](https://choosealicense.com/).
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) en [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) zijn de meest populaire open source-licenties, maar er zijn andere opties om uit te kiezen. U kunt de volledige tekst van deze licenties en instructies voor het gebruik ervan vinden op [choosealicense.com](https://choosealicense.com/).
 
 Wanneer u een nieuw project op GitHub maakt, wordt u [gevraagd om een licentie toe te voegen](https://help.github.com/articles/open-source-licensing/).
 
