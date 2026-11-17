@@ -130,7 +130,7 @@ Een open source-licentie garandeert dat anderen uw project zonder repercussies k
 
 Juridisch werk is niet leuk. Het goede nieuws is dat u een bestaande licentie kunt kopiëren en in uw repository kunt plakken. Het duurt maar een minuut om uw harde werk te beschermen.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) en [GPLv3](https://choicealicense.com/licenses/gpl-3.0/) zijn de meest populaire open source licenties, maar [er zijn andere opties](https://choosealicense.com) om uit te kiezen.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) en [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) zijn de meest populaire open source licenties, maar [er zijn andere opties](https://choosealicense.com) om uit te kiezen.
 
 Wanneer u een nieuw project op GitHub maakt, krijgt u de mogelijkheid om een ​​licentie te selecteren. Als u een open source-licentie opneemt, wordt uw GitHub-project open source.
 
